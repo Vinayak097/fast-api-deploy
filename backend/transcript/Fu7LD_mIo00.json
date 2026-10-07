@@ -1,0 +1,6659 @@
+{
+  "language": "English (United States) (auto-generated)",
+  "language_code": "en-US",
+  "is_generated": true,
+  "videoId": "Fu7LD_mIo00",
+  "channel": "Padho with Pratyush",
+  "segments": [
+    {
+      "text": "My job is to teach you the patterns",
+      "start": 1.019,
+      "duration": 2.703
+    },
+    {
+      "text": " correctly within the 3 months, or",
+      "start": 2.771,
+      "duration": 2.607
+    },
+    {
+      "text": " rather 2 months, leading up to my",
+      "start": 4.426,
+      "duration": 2.607
+    },
+    {
+      "text": " birthday on January 13th. Your job is",
+      "start": 6.081,
+      "duration": 3.053
+    },
+    {
+      "text": " just to stay consistent. If you feel",
+      "start": 8.184,
+      "duration": 2.719
+    },
+    {
+      "text": " you won't be able to stay consistent,",
+      "start": 9.941,
+      "duration": 2.413
+    },
+    {
+      "text": " then don't even watch. I don't need to",
+      "start": 11.392,
+      "duration": 2.48
+    },
+    {
+      "text": " increase views. I am saying this",
+      "start": 12.907,
+      "duration": 2.23
+    },
+    {
+      "text": " repeatedly. Whatever work you do, be",
+      "start": 14.174,
+      "duration": 2.777
+    },
+    {
+      "text": " the best at it. There was a song in",
+      "start": 16.004,
+      "duration": 2.693
+    },
+    {
+      "text": " Panchayat about being a diamond or a",
+      "start": 17.739,
+      "duration": 2.513
+    },
+    {
+      "text": " topaz, not just metal. So if you want",
+      "start": 19.294,
+      "duration": 3.164
+    },
+    {
+      "text": " to be metal, be a diamond. Iron, silver",
+      "start": 21.535,
+      "duration": 3.954
+    },
+    {
+      "text": ", gold—that doesn't help. Okay? Stay",
+      "start": 24.489,
+      "duration": 3.66
+    },
+    {
+      "text": " consistent. I am repeating the same",
+      "start": 27.203,
+      "duration": 2.302
+    },
+    {
+      "text": " thing over and over. From now on, there",
+      "start": 28.531,
+      "duration": 2.141
+    },
+    {
+      "text": " will be a video every day. The entire",
+      "start": 29.701,
+      "duration": 2.156
+    },
+    {
+      "text": " pattern will be finished in three to",
+      "start": 30.887,
+      "duration": 2.1
+    },
+    {
+      "text": " four days. If you aren't consistent,",
+      "start": 32.017,
+      "duration": 2.514
+    },
+    {
+      "text": " you won't understand it. Okay? Today is",
+      "start": 33.575,
+      "duration": 3.146
+    },
+    {
+      "text": " the introduction video for the",
+      "start": 35.757,
+      "duration": 2.07
+    },
+    {
+      "text": " Two-Pointer pattern. Anyone who doesn't",
+      "start": 36.862,
+      "duration": 2.682
+    },
+    {
+      "text": " have the sheet, it's in the description",
+      "start": 38.592,
+      "duration": 2.881
+    },
+    {
+      "text": ", go download it. Now, first of all,",
+      "start": 40.473,
+      "duration": 3.443
+    },
+    {
+      "text": " patterns vs. DSA topics. All the",
+      "start": 43.001,
+      "duration": 4.608
+    },
+    {
+      "text": " courses on the internet right now, be",
+      "start": 46.645,
+      "duration": 2.325
+    },
+    {
+      "text": " it Striver's, Love Babbar's, or anyone",
+      "start": 48.006,
+      "duration": 2.361
+    },
+    {
+      "text": " else's, they are all teaching you DSA",
+      "start": 49.403,
+      "duration": 2.326
+    },
+    {
+      "text": " topic-wise. They say learn arrays first",
+      "start": 50.764,
+      "duration": 4.295
+    },
+    {
+      "text": ", do 100 questions on arrays, then 100",
+      "start": 54.059,
+      "duration": 2.52
+    },
+    {
+      "text": " on linked lists, then stacks—that's",
+      "start": 55.619,
+      "duration": 2.48
+    },
+    {
+      "text": " not how it works. That's not how DSA is",
+      "start": 57.139,
+      "duration": 3.528
+    },
+    {
+      "text": " taught. There is no point in doing 100",
+      "start": 59.714,
+      "duration": 2.669
+    },
+    {
+      "text": " array questions. If you don't",
+      "start": 61.424,
+      "duration": 2.45
+    },
+    {
+      "text": " understand which algorithm applies to",
+      "start": 62.932,
+      "duration": 3.124
+    },
+    {
+      "text": " them. Because there aren't just 100",
+      "start": 65.113,
+      "duration": 2.498
+    },
+    {
+      "text": " array questions. There are 100,000",
+      "start": 66.649,
+      "duration": 2.306
+    },
+    {
+      "text": " array questions. You won't achieve",
+      "start": 67.989,
+      "duration": 2.305
+    },
+    {
+      "text": " anything by doing 100, so whether you",
+      "start": 69.332,
+      "duration": 2.408
+    },
+    {
+      "text": " do 100, 1,000, or 10,000, nothing will",
+      "start": 70.778,
+      "duration": 2.445
+    },
+    {
+      "text": " happen. That is why learning patterns",
+      "start": 72.261,
+      "duration": 3.06
+    },
+    {
+      "text": " is essential. So, what is a pattern?",
+      "start": 74.37,
+      "duration": 2.767
+    },
+    {
+      "text": " It's about what you need to solve in an",
+      "start": 76.261,
+      "duration": 2.746
+    },
+    {
+      "text": " interview. You have to solve questions",
+      "start": 78.052,
+      "duration": 2.772
+    },
+    {
+      "text": " in an interview, right? Obviously, the",
+      "start": 79.868,
+      "duration": 3.208
+    },
+    {
+      "text": " question will be either about arrays or",
+      "start": 82.15,
+      "duration": 3.891
+    },
+    {
+      "text": " linked lists. Besides these, those are",
+      "start": 85.115,
+      "duration": 3.035
+    },
+    {
+      "text": " the fundamental data structures, right,",
+      "start": 87.186,
+      "duration": 2.389
+    },
+    {
+      "text": " brother? Arrays and linked lists are",
+      "start": 88.611,
+      "duration": 2.533
+    },
+    {
+      "text": " the fundamentals. Okay? Stacks, queues,",
+      "start": 90.186,
+      "duration": 3.249
+    },
+    {
+      "text": " graphs, trees, deques, and so on are",
+      "start": 92.496,
+      "duration": 3.207
+    },
+    {
+      "text": " all built from arrays and linked lists.",
+      "start": 94.765,
+      "duration": 3.391
+    },
+    {
+      "text": " So obviously, every question is an",
+      "start": 97.256,
+      "duration": 2.511
+    },
+    {
+      "text": " array question. Every question is a",
+      "start": 98.812,
+      "duration": 2.496
+    },
+    {
+      "text": " linked list question. How to solve it,",
+      "start": 100.346,
+      "duration": 2.683
+    },
+    {
+      "text": " brother? Which pattern is it? Which",
+      "start": 102.078,
+      "duration": 2.533
+    },
+    {
+      "text": " algorithm will be used? That is what we",
+      "start": 103.652,
+      "duration": 2.877
+    },
+    {
+      "text": " understand in patterns. So, what is",
+      "start": 105.586,
+      "duration": 2.933
+    },
+    {
+      "text": " today's pattern? Two-pointer. To",
+      "start": 107.567,
+      "duration": 3.297
+    },
+    {
+      "text": " understand the two-pointer pattern,",
+      "start": 109.917,
+      "duration": 2.855
+    },
+    {
+      "text": " let's start with a real-world example.",
+      "start": 111.825,
+      "duration": 3.014
+    },
+    {
+      "text": " Let's take an example of a building.",
+      "start": 114.219,
+      "duration": 2.64
+    },
+    {
+      "text": " Right? A building has four floors.",
+      "start": 116.04,
+      "duration": 3.839
+    },
+    {
+      "text": " Right? What do I tell you? There are 1,",
+      "start": 119.519,
+      "duration": 3.492
+    },
+    {
+      "text": " 2, 3, four floors. I ask you to do one",
+      "start": 122.07,
+      "duration": 3.065
+    },
+    {
+      "text": " thing: you are on the ground floor",
+      "start": 124.182,
+      "duration": 2.569
+    },
+    {
+      "text": " right now. Right? You are this person.",
+      "start": 125.797,
+      "duration": 3.082
+    },
+    {
+      "text": " I tell you to go up to the fourth floor",
+      "start": 128.159,
+      "duration": 3.749
+    },
+    {
+      "text": " and get some items. So, what will you",
+      "start": 130.979,
+      "duration": 3.548
+    },
+    {
+      "text": " do? You will go from one to two. Two to",
+      "start": 133.584,
+      "duration": 3.312
+    },
+    {
+      "text": " three. Three to four. You will get the",
+      "start": 135.961,
+      "duration": 3.265
+    },
+    {
+      "text": " items. Then descend from four to three.",
+      "start": 138.268,
+      "duration": 2.371
+    },
+    {
+      "text": " Three to two to one. So, how many times",
+      "start": 139.781,
+      "duration": 3.152
+    },
+    {
+      "text": " did you have to climb? You had to climb",
+      "start": 141.972,
+      "duration": 2.329
+    },
+    {
+      "text": " four flights of stairs. You had to",
+      "start": 143.324,
+      "duration": 1.908
+    },
+    {
+      "text": " descend four flights of stairs. So,",
+      "start": 144.258,
+      "duration": 2.07
+    },
+    {
+      "text": " what was the total work done? Eight.",
+      "start": 145.381,
+      "duration": 3.226
+    },
+    {
+      "text": " Right? Now, for example, let me explain",
+      "start": 148.219,
+      "duration": 3.394
+    },
+    {
+      "text": " it another way. I tell you, \"Don't",
+      "start": 150.667,
+      "duration": 3.131
+    },
+    {
+      "text": " worry.\" I have another person standing",
+      "start": 152.866,
+      "duration": 2.903
+    },
+    {
+      "text": " on the top floor. So, do one thing: you",
+      "start": 154.811,
+      "duration": 2.71
+    },
+    {
+      "text": " start climbing up. Tell the person at",
+      "start": 156.563,
+      "duration": 2.674
+    },
+    {
+      "text": " the top to come down. So, what will you",
+      "start": 158.278,
+      "duration": 3.142
+    },
+    {
+      "text": " do? You will go from one to two. By",
+      "start": 160.484,
+      "duration": 3.14
+    },
+    {
+      "text": " then, the other person will come down",
+      "start": 162.666,
+      "duration": 2.577
+    },
+    {
+      "text": " here. Then you will meet somewhere in",
+      "start": 164.285,
+      "duration": 2.594
+    },
+    {
+      "text": " the middle, right? You will meet",
+      "start": 165.919,
+      "duration": 2.523
+    },
+    {
+      "text": " somewhere in between. So, what happened",
+      "start": 167.495,
+      "duration": 3.12
+    },
+    {
+      "text": " here? You only had to climb two flights",
+      "start": 169.669,
+      "duration": 2.861
+    },
+    {
+      "text": " of stairs. They had to descend two",
+      "start": 171.574,
+      "duration": 2.766
+    },
+    {
+      "text": " flights of stairs. Right? So, the work",
+      "start": 173.39,
+      "duration": 3.411
+    },
+    {
+      "text": " done is the same. Before, you were",
+      "start": 175.85,
+      "duration": 2.612
+    },
+    {
+      "text": " climbing four flights. Here too,",
+      "start": 177.504,
+      "duration": 2.752
+    },
+    {
+      "text": " net-wise, you climbed two and they",
+      "start": 179.316,
+      "duration": 3.031
+    },
+    {
+      "text": " descended two, so it's still four. But",
+      "start": 181.407,
+      "duration": 3.364
+    },
+    {
+      "text": " it took less time. Didn't the time get",
+      "start": 183.818,
+      "duration": 2.631
+    },
+    {
+      "text": " cut in half? Earlier, you climbed four.",
+      "start": 185.485,
+      "duration": 2.915
+    },
+    {
+      "text": " Now, you are climbing two. You got the",
+      "start": 187.5,
+      "duration": 2.646
+    },
+    {
+      "text": " same items. So, the time was halved. We",
+      "start": 189.19,
+      "duration": 2.605
+    },
+    {
+      "text": " reduced the time by half. This is what",
+      "start": 190.839,
+      "duration": 2.668
+    },
+    {
+      "text": " a two-pointer is. A two-pointer is just",
+      "start": 192.537,
+      "duration": 3.588
+    },
+    {
+      "text": " this small concept where, if you have",
+      "start": 195.195,
+      "duration": 3.619
+    },
+    {
+      "text": " an array or a linked list problem and",
+      "start": 197.885,
+      "duration": 3.618
+    },
+    {
+      "text": " someone asks you to perform a task that",
+      "start": 200.574,
+      "duration": 3.76
+    },
+    {
+      "text": " would otherwise require traversing the",
+      "start": 203.405,
+      "duration": 3.689
+    },
+    {
+      "text": " array two, three, or four times, we",
+      "start": 206.165,
+      "duration": 3.477
+    },
+    {
+      "text": " instead use two indices, two positions,",
+      "start": 208.712,
+      "duration": 3.76
+    },
+    {
+      "text": " or two people to reduce the time. The",
+      "start": 211.543,
+      "duration": 3.856
+    },
+    {
+      "text": " amount of work remains the same. Mind",
+      "start": 214.433,
+      "duration": 2.38
+    },
+    {
+      "text": " you, you cannot reduce the work itself.",
+      "start": 215.867,
+      "duration": 3.092
+    },
+    {
+      "text": " For a task, you have to climb exactly",
+      "start": 218.16,
+      "duration": 3.003
+    },
+    {
+      "text": " as many stairs as required. But if two",
+      "start": 220.217,
+      "duration": 3.279
+    },
+    {
+      "text": " people work together, the time taken is",
+      "start": 222.55,
+      "duration": 3.098
+    },
+    {
+      "text": " halved. If three people work together,",
+      "start": 224.702,
+      "duration": 3.186
+    },
+    {
+      "text": " the time becomes one-third. This is the",
+      "start": 226.937,
+      "duration": 3.115
+    },
+    {
+      "text": " two-pointer pattern. By now, you must",
+      "start": 229.114,
+      "duration": 3.211
+    },
+    {
+      "text": " have understood the gist of the pattern",
+      "start": 231.38,
+      "duration": 3.159
+    },
+    {
+      "text": " in simple terms. Now, how do we apply",
+      "start": 233.594,
+      "duration": 2.949
+    },
+    {
+      "text": " this pattern? How will you know if a",
+      "start": 235.591,
+      "duration": 2.698
+    },
+    {
+      "text": " DSA question requires it? You have to",
+      "start": 237.333,
+      "duration": 2.581
+    },
+    {
+      "text": " think about the two-pointer pattern.",
+      "start": 238.949,
+      "duration": 2.23
+    },
+    {
+      "text": " Whether or not to consider two-pointer?",
+      "start": 240.339,
+      "duration": 2.96
+    },
+    {
+      "text": " Whether it applies or not is a later",
+      "start": 242.479,
+      "duration": 2.38
+    },
+    {
+      "text": " discussion. Everything has an 80-90%",
+      "start": 243.897,
+      "duration": 3.28
+    },
+    {
+      "text": "probability, but how to start thinking",
+      "start": 246.177,
+      "duration": 3.721
+    },
+    {
+      "text": " if it could apply? The first thing is,",
+      "start": 248.97,
+      "duration": 3.916
+    },
+    {
+      "text": " the question must be about an array or",
+      "start": 251.961,
+      "duration": 3.852
+    },
+    {
+      "text": " a linked list. Okay? The question must",
+      "start": 254.889,
+      "duration": 4.428
+    },
+    {
+      "text": " be about an array or a linked list. If",
+      "start": 258.359,
+      "duration": 3.082
+    },
+    {
+      "text": " the question is about a tree, graph,",
+      "start": 260.593,
+      "duration": 6.448
+    },
+    {
+      "text": " stack, DP, or queue. In my opinion, in",
+      "start": 266.192,
+      "duration": 5.193
+    },
+    {
+      "text": " 99%of cases, two-pointer doesn't apply.",
+      "start": 270.445,
+      "duration": 3.355
+    },
+    {
+      "text": " For two-pointer to apply, the question",
+      "start": 273.059,
+      "duration": 2.773
+    },
+    {
+      "text": " must involve an array or a linked list.",
+      "start": 274.879,
+      "duration": 2.82
+    },
+    {
+      "text": " So, if it's not an array or linked list",
+      "start": 277.119,
+      "duration": 2.908
+    },
+    {
+      "text": " question, don't even think about",
+      "start": 279.076,
+      "duration": 2.566
+    },
+    {
+      "text": " two-pointer. Now, let's move forward.",
+      "start": 280.691,
+      "duration": 2.793
+    },
+    {
+      "text": " You have an array or linked list",
+      "start": 282.584,
+      "duration": 2.152
+    },
+    {
+      "text": " question. Now, the next part. If you",
+      "start": 283.772,
+      "duration": 3.987
+    },
+    {
+      "text": " are given sorted data, or if sorting it",
+      "start": 286.839,
+      "duration": 4.12
+    },
+    {
+      "text": " would make things easier. If you feel",
+      "start": 290.039,
+      "duration": 4.57
+    },
+    {
+      "text": " that sorted data would make it easier,",
+      "start": 293.659,
+      "duration": 2.903
+    },
+    {
+      "text": " or if the data is already sorted,",
+      "start": 295.612,
+      "duration": 2.653
+    },
+    {
+      "text": " that's the second sign to think about",
+      "start": 297.315,
+      "duration": 2.853
+    },
+    {
+      "text": " two-pointer. Okay? Now, let's move",
+      "start": 299.218,
+      "duration": 4.946
+    },
+    {
+      "text": " forward. If \"merge\" is mentioned in the",
+      "start": 303.232,
+      "duration": 3.62
+    },
+    {
+      "text": " data. You need to merge something. \"",
+      "start": 305.916,
+      "duration": 3.737
+    },
+    {
+      "text": "Remove duplicate\" is mentioned. If \"",
+      "start": 308.653,
+      "duration": 2.992
+    },
+    {
+      "text": "remove duplicate\" is mentioned anywhere",
+      "start": 310.645,
+      "duration": 3.726
+    },
+    {
+      "text": ". Okay? Or if \"rearrange\" is mentioned",
+      "start": 313.371,
+      "duration": 4.951
+    },
+    {
+      "text": " somewhere. For example, you are given",
+      "start": 317.385,
+      "duration": 4.231
+    },
+    {
+      "text": " two arrays and you have to merge them.",
+      "start": 320.662,
+      "duration": 2.778
+    },
+    {
+      "text": " There are some duplicates in an array",
+      "start": 322.653,
+      "duration": 2.177
+    },
+    {
+      "text": " and you have to remove them. There are",
+      "start": 323.862,
+      "duration": 2.263
+    },
+    {
+      "text": " some duplicates in a linked list and",
+      "start": 325.155,
+      "duration": 2.086
+    },
+    {
+      "text": " you have to remove them. You have to",
+      "start": 326.271,
+      "duration": 2.335
+    },
+    {
+      "text": " rearrange things, there are many items",
+      "start": 327.652,
+      "duration": 2.764
+    },
+    {
+      "text": " in an array. There are 0s, 1s, and 2s",
+      "start": 329.463,
+      "duration": 2.399
+    },
+    {
+      "text": " in the array. You need to bring all 0s",
+      "start": 330.893,
+      "duration": 2.266
+    },
+    {
+      "text": " to one place. Bring all 1s to one place",
+      "start": 332.191,
+      "duration": 2.291
+    },
+    {
+      "text": ". Bring all 2s to one place. This is",
+      "start": 333.482,
+      "duration": 2.21
+    },
+    {
+      "text": " called rearrangement, where the values",
+      "start": 334.726,
+      "duration": 2.326
+    },
+    {
+      "text": " remain the same. You have to move them",
+      "start": 336.087,
+      "duration": 2.551
+    },
+    {
+      "text": " around, i.e., rearrange them. Then you",
+      "start": 337.681,
+      "duration": 2.67
+    },
+    {
+      "text": " can definitely think about the",
+      "start": 339.393,
+      "duration": 2.26
+    },
+    {
+      "text": " two-pointer pattern. Next, if it's a",
+      "start": 340.695,
+      "duration": 3.343
+    },
+    {
+      "text": " linked list question. If \"detect cycle\"",
+      "start": 343.095,
+      "duration": 3.601
+    },
+    {
+      "text": " is mentioned anywhere, or you",
+      "start": 345.763,
+      "duration": 2.94
+    },
+    {
+      "text": " intuitively feel that if there were a",
+      "start": 347.77,
+      "duration": 3.474
+    },
+    {
+      "text": " cycle, the question would be solved.",
+      "start": 350.311,
+      "duration": 3.408
+    },
+    {
+      "text": " Then the two-pointer pattern applies",
+      "start": 352.979,
+      "duration": 3.572
+    },
+    {
+      "text": " here. So, remember this flow chart.",
+      "start": 355.622,
+      "duration": 2.738
+    },
+    {
+      "text": " Note this down in your notebook. Next,",
+      "start": 357.46,
+      "duration": 2.639
+    },
+    {
+      "text": " I will tell you how this flow chart is",
+      "start": 359.143,
+      "duration": 2.672
+    },
+    {
+      "text": " used. Did everyone understand the flow",
+      "start": 360.859,
+      "duration": 2.666
+    },
+    {
+      "text": " chart? Array, linked list, sorted, or",
+      "start": 362.567,
+      "duration": 3.864
+    },
+    {
+      "text": " if sorting makes it easier. Merge,",
+      "start": 365.502,
+      "duration": 4.195
+    },
+    {
+      "text": " remove, or rearrange is mentioned.",
+      "start": 368.756,
+      "duration": 3.024
+    },
+    {
+      "text": " Detect cycle in a linked list is",
+      "start": 371.159,
+      "duration": 2.666
+    },
+    {
+      "text": " mentioned. Or, there is one more thing.",
+      "start": 372.878,
+      "duration": 3.701
+    },
+    {
+      "text": " If you don't have to find a single",
+      "start": 375.759,
+      "duration": 2.99
+    },
+    {
+      "text": " thing. Like in most questions, it asks",
+      "start": 377.807,
+      "duration": 3.161
+    },
+    {
+      "text": " you to find one thing. Find an element.",
+      "start": 380.022,
+      "duration": 3.33
+    },
+    {
+      "text": " Find an index. If you have to find",
+      "start": 382.452,
+      "duration": 4.151
+    },
+    {
+      "text": " pairs, or find triplets. Or if you have",
+      "start": 385.695,
+      "duration": 4.544
+    },
+    {
+      "text": " to find quadruplets. Meaning, it",
+      "start": 389.299,
+      "duration": 2.781
+    },
+    {
+      "text": " doesn't have just one answer. Or there",
+      "start": 391.123,
+      "duration": 2.679
+    },
+    {
+      "text": " are two answers, three answers, four",
+      "start": 392.845,
+      "duration": 2.537
+    },
+    {
+      "text": " answers. It tells you to search for a",
+      "start": 394.425,
+      "duration": 2.46
+    },
+    {
+      "text": " pair. Pair means a couple; search for a",
+      "start": 395.922,
+      "duration": 3.895
+    },
+    {
+      "text": " pair or a triplet, meaning find i, j, k",
+      "start": 398.885,
+      "duration": 3.646
+    },
+    {
+      "text": ", three things that work together, or",
+      "start": 401.531,
+      "duration": 3.51
+    },
+    {
+      "text": " four things that work together; then",
+      "start": 404.109,
+      "duration": 3.443
+    },
+    {
+      "text": " you can think about Two Pointers. Make",
+      "start": 406.62,
+      "duration": 3.957
+    },
+    {
+      "text": " sure to note this flow chart in your",
+      "start": 409.627,
+      "duration": 2.778
+    },
+    {
+      "text": " notebook. Memorize it, and as we",
+      "start": 411.455,
+      "duration": 3.426
+    },
+    {
+      "text": " proceed with the questions, it will",
+      "start": 413.932,
+      "duration": 2.787
+    },
+    {
+      "text": " become clear to you how the flow chart",
+      "start": 415.77,
+      "duration": 2.939
+    },
+    {
+      "text": " is used and where. Okay? Good. Another",
+      "start": 417.76,
+      "duration": 5.864
+    },
+    {
+      "text": " confusion arises: are Two Pointers and",
+      "start": 422.685,
+      "duration": 3.312
+    },
+    {
+      "text": " Sliding Window the same? No, they are",
+      "start": 425.058,
+      "duration": 3.664
+    },
+    {
+      "text": " not the same. If you look at the sheet,",
+      "start": 427.755,
+      "duration": 2.9
+    },
+    {
+      "text": " both are different patterns. They are",
+      "start": 429.71,
+      "duration": 3.035
+    },
+    {
+      "text": " not mixed into one. Two Pointers and",
+      "start": 431.793,
+      "duration": 3.148
+    },
+    {
+      "text": " Sliding Window are almost similar. But",
+      "start": 434.005,
+      "duration": 3.397
+    },
+    {
+      "text": " the questions where both are used are",
+      "start": 436.438,
+      "duration": 2.359
+    },
+    {
+      "text": " different. That is why they are",
+      "start": 437.833,
+      "duration": 2.073
+    },
+    {
+      "text": " separate patterns. It is not one single",
+      "start": 438.936,
+      "duration": 2.242
+    },
+    {
+      "text": " pattern. Let's forget about Sliding",
+      "start": 440.208,
+      "duration": 2.215
+    },
+    {
+      "text": " Window for now. When the time comes for",
+      "start": 441.457,
+      "duration": 2.39
+    },
+    {
+      "text": " Sliding Window, we will study it. Let's",
+      "start": 442.881,
+      "duration": 2.606
+    },
+    {
+      "text": " focus on Two Pointers. So, what did you",
+      "start": 444.553,
+      "duration": 3.233
+    },
+    {
+      "text": " understand from Two Pointers? Whenever",
+      "start": 446.828,
+      "duration": 3.054
+    },
+    {
+      "text": " you use more than one person to do any",
+      "start": 448.942,
+      "duration": 3.294
+    },
+    {
+      "text": " task. What does person mean? Person",
+      "start": 451.297,
+      "duration": 2.814
+    },
+    {
+      "text": " doesn't mean a literal human being.",
+      "start": 453.173,
+      "duration": 3.166
+    },
+    {
+      "text": " Imagine there is an array. All right? 0",
+      "start": 455.659,
+      "duration": 4.325
+    },
+    {
+      "text": " 1 2 3 4 5. Now, if your question is to",
+      "start": 459.069,
+      "duration": 4.245
+    },
+    {
+      "text": " find the sum of the array. Then there",
+      "start": 462.399,
+      "duration": 4.691
+    },
+    {
+      "text": " is 10, 20, 30, 40, 50, 60. Now, what is",
+      "start": 466.211,
+      "duration": 4.879
+    },
+    {
+      "text": " your question? Sum of the array. How do",
+      "start": 470.136,
+      "duration": 3.743
+    },
+    {
+      "text": " you find the sum of an array? You",
+      "start": 472.929,
+      "duration": 2.994
+    },
+    {
+      "text": " iterate i from 0 up to n and keep",
+      "start": 475.022,
+      "duration": 4.258
+    },
+    {
+      "text": " adding to the sum. That's how you find",
+      "start": 478.379,
+      "duration": 3.772
+    },
+    {
+      "text": " the sum, right? So, how many people are",
+      "start": 481.198,
+      "duration": 2.588
+    },
+    {
+      "text": " you using in this? You are using one",
+      "start": 482.82,
+      "duration": 2.306
+    },
+    {
+      "text": " person in this. Which person? i. And",
+      "start": 484.161,
+      "duration": 3.147
+    },
+    {
+      "text": " there is no one else. Apart from i, i",
+      "start": 486.347,
+      "duration": 2.722
+    },
+    {
+      "text": " is moving in a line from zero up to n.",
+      "start": 488.123,
+      "duration": 3.038
+    },
+    {
+      "text": " You calculate everyone's sum. Find the",
+      "start": 490.261,
+      "duration": 2.852
+    },
+    {
+      "text": " product of the array. It is the same",
+      "start": 492.152,
+      "duration": 2.359
+    },
+    {
+      "text": " thing. You will iterate from zero to n.",
+      "start": 493.542,
+      "duration": 2.375
+    },
+    {
+      "text": " You will get the product. Find the",
+      "start": 495.017,
+      "duration": 2.611
+    },
+    {
+      "text": " maximum of the array. It's the same",
+      "start": 496.671,
+      "duration": 2.376
+    },
+    {
+      "text": " thing. Go from zero up to n. Store",
+      "start": 498.075,
+      "duration": 2.538
+    },
+    {
+      "text": " whatever is the maximum. So, you are",
+      "start": 499.658,
+      "duration": 2.958
+    },
+    {
+      "text": " using one person. As soon as we start",
+      "start": 501.68,
+      "duration": 3.42
+    },
+    {
+      "text": " using more than one index or more than",
+      "start": 504.161,
+      "duration": 3.324
+    },
+    {
+      "text": " one person. For example, j along with i",
+      "start": 506.546,
+      "duration": 4.164
+    },
+    {
+      "text": ". What this means is, if there is an",
+      "start": 509.71,
+      "duration": 6.246
+    },
+    {
+      "text": " array: 0, 1, 2, 3, 4, with 10, 20, 30,",
+      "start": 515.079,
+      "duration": 5.692
+    },
+    {
+      "text": " 40, 50. As soon as you start using more",
+      "start": 519.894,
+      "duration": 4.388
+    },
+    {
+      "text": " than one element. As soon as you start",
+      "start": 523.332,
+      "duration": 2.99
+    },
+    {
+      "text": " saying, \"Let my i be here.\" And let's",
+      "start": 525.371,
+      "duration": 2.869
+    },
+    {
+      "text": " assume my j will be here. Not",
+      "start": 527.287,
+      "duration": 2.407
+    },
+    {
+      "text": " necessarily here, just for the example.",
+      "start": 528.734,
+      "duration": 2.551
+    },
+    {
+      "text": " So you say my i is here. J is here.",
+      "start": 530.385,
+      "duration": 3.703
+    },
+    {
+      "text": " This is my i. This is my j. Both will",
+      "start": 533.188,
+      "duration": 3.386
+    },
+    {
+      "text": " move together. They will move in",
+      "start": 535.624,
+      "duration": 2.451
+    },
+    {
+      "text": " coordination. What was happening in the",
+      "start": 537.113,
+      "duration": 2.542
+    },
+    {
+      "text": " building? One person was on the ground",
+      "start": 538.693,
+      "duration": 2.41
+    },
+    {
+      "text": " floor. One person was on the top floor.",
+      "start": 540.138,
+      "duration": 2.411
+    },
+    {
+      "text": " Both were moving in coordination. The",
+      "start": 541.649,
+      "duration": 2.781
+    },
+    {
+      "text": " ground floor person said, \"Okay, I am",
+      "start": 543.475,
+      "duration": 2.658
+    },
+    {
+      "text": " moving up now.\" The top person said, \"",
+      "start": 545.177,
+      "duration": 2.586
+    },
+    {
+      "text": "Okay, I am coming down.\" Then the",
+      "start": 546.763,
+      "duration": 2.259
+    },
+    {
+      "text": " ground floor person moved up. Then the",
+      "start": 548.06,
+      "duration": 2.742
+    },
+    {
+      "text": " other came down, so they met at one",
+      "start": 549.854,
+      "duration": 2.847
+    },
+    {
+      "text": " place and swapped items. That is why",
+      "start": 551.753,
+      "duration": 3.384
+    },
+    {
+      "text": " when you use more than one person in",
+      "start": 554.196,
+      "duration": 3.154
+    },
+    {
+      "text": " indexes or linked list pointers, that",
+      "start": 556.41,
+      "duration": 3.214
+    },
+    {
+      "text": " is what we call Two Pointer. Now, some",
+      "start": 558.683,
+      "duration": 3.553
+    },
+    {
+      "text": " people might have a doubt: why Two",
+      "start": 561.303,
+      "duration": 3.258
+    },
+    {
+      "text": " Pointer? Why not three pointers or four",
+      "start": 563.627,
+      "duration": 2.753
+    },
+    {
+      "text": " pointers? Because Two Pointer is easy",
+      "start": 565.414,
+      "duration": 3.191
+    },
+    {
+      "text": " to write and easy to understand.",
+      "start": 567.67,
+      "duration": 3.07
+    },
+    {
+      "text": " Because two people is simple. Now you",
+      "start": 569.913,
+      "duration": 2.771
+    },
+    {
+      "text": " might be saying to use three people.",
+      "start": 571.729,
+      "duration": 2.604
+    },
+    {
+      "text": " Now, put one person at the top of the",
+      "start": 573.433,
+      "duration": 2.779
+    },
+    {
+      "text": " building, one at the bottom, and one in",
+      "start": 575.26,
+      "duration": 2.875
+    },
+    {
+      "text": " the middle. Then the middle one will",
+      "start": 577.184,
+      "duration": 2.557
+    },
+    {
+      "text": " also move, and it will keep happening,",
+      "start": 578.777,
+      "duration": 2.397
+    },
+    {
+      "text": " so it becomes complex. It won't be",
+      "start": 580.211,
+      "duration": 2.962
+    },
+    {
+      "text": " understood, you won't be able to write",
+      "start": 582.247,
+      "duration": 3.811
+    },
+    {
+      "text": " the code well, nor solve the problem",
+      "start": 585.132,
+      "duration": 3.664
+    },
+    {
+      "text": " well. So where we need more than two,",
+      "start": 587.87,
+      "duration": 3.435
+    },
+    {
+      "text": " there are other ways to solve it. There",
+      "start": 590.367,
+      "duration": 3.392
+    },
+    {
+      "text": " are other better ways to solve it. That",
+      "start": 592.807,
+      "duration": 3.091
+    },
+    {
+      "text": " is why we stop at Two Pointer. Because",
+      "start": 594.953,
+      "duration": 3.225
+    },
+    {
+      "text": " if there is binary search, why not",
+      "start": 597.224,
+      "duration": 2.547
+    },
+    {
+      "text": " ternary search? Why not quaternary",
+      "start": 598.817,
+      "duration": 2.502
+    },
+    {
+      "text": " search? Binary doesn't work that way.",
+      "start": 600.359,
+      "duration": 3.058
+    },
+    {
+      "text": " Two Pointer is used because it is a",
+      "start": 603.479,
+      "duration": 2.59
+    },
+    {
+      "text": " balance. The complexity is decent and",
+      "start": 605.115,
+      "duration": 4.055
+    },
+    {
+      "text": " it is very useful. You understand the",
+      "start": 608.229,
+      "duration": 2.882
+    },
+    {
+      "text": " meaning of Two Pointer, which is to",
+      "start": 610.15,
+      "duration": 2.379
+    },
+    {
+      "text": " halve the work. If something is taking",
+      "start": 611.569,
+      "duration": 2.563
+    },
+    {
+      "text": " you 1 hour, it will take you half an",
+      "start": 613.172,
+      "duration": 2.428
+    },
+    {
+      "text": " hour. If it used to take you 2 years",
+      "start": 614.64,
+      "duration": 2.438
+    },
+    {
+      "text": " for something, it will take only one",
+      "start": 616.116,
+      "duration": 2.368
+    },
+    {
+      "text": " year. So, half is a very big, you know.",
+      "start": 617.522,
+      "duration": 3.08
+    },
+    {
+      "text": " Factor. Okay? That is why we say",
+      "start": 619.702,
+      "duration": 3.163
+    },
+    {
+      "text": " two-pointer. Not three-pointer,",
+      "start": 621.933,
+      "duration": 2.815
+    },
+    {
+      "text": " four-pointer, or five-pointer. There",
+      "start": 623.798,
+      "duration": 2.873
+    },
+    {
+      "text": " might be, uh, some questions like Three",
+      "start": 625.717,
+      "duration": 2.81
+    },
+    {
+      "text": " Sum. Three pointers are used in Three",
+      "start": 627.573,
+      "duration": 2.493
+    },
+    {
+      "text": " Sum. So that is just an extended form",
+      "start": 629.1,
+      "duration": 2.586
+    },
+    {
+      "text": " of two-pointer. Three-pointer is an",
+      "start": 630.726,
+      "duration": 2.478
+    },
+    {
+      "text": " evolved form of two-pointer. Okay? So",
+      "start": 632.242,
+      "duration": 3.061
+    },
+    {
+      "text": " you don't have to think like that.",
+      "start": 634.34,
+      "duration": 2.25
+    },
+    {
+      "text": " Everyone understood that two-pointer is",
+      "start": 636.019,
+      "duration": 2.81
+    },
+    {
+      "text": " using more than one person to get work",
+      "start": 637.875,
+      "duration": 2.764
+    },
+    {
+      "text": " done and coordinating both. Okay?",
+      "start": 639.685,
+      "duration": 2.844
+    },
+    {
+      "text": " Coordinating both. Not that one person",
+      "start": 641.629,
+      "duration": 3.237
+    },
+    {
+      "text": " walks the whole way first. And then the",
+      "start": 643.914,
+      "duration": 2.784
+    },
+    {
+      "text": " second person walks the whole way. Then",
+      "start": 645.733,
+      "duration": 2.45
+    },
+    {
+      "text": " that is the same thing. For example, if",
+      "start": 647.224,
+      "duration": 3.512
+    },
+    {
+      "text": " you have an array, are you saying that",
+      "start": 649.8,
+      "duration": 3.427
+    },
+    {
+      "text": " we think of a two-pointer where i walks",
+      "start": 652.291,
+      "duration": 3.491
+    },
+    {
+      "text": " from here to there and then j walks",
+      "start": 654.846,
+      "duration": 3.235
+    },
+    {
+      "text": " from here to there, then why are you",
+      "start": 657.145,
+      "duration": 3.299
+    },
+    {
+      "text": " using j? Then you should just use i. It",
+      "start": 659.508,
+      "duration": 3.145
+    },
+    {
+      "text": " is like one person climbing the whole",
+      "start": 661.701,
+      "duration": 2.773
+    },
+    {
+      "text": " building. Then the second person",
+      "start": 663.522,
+      "duration": 2.113
+    },
+    {
+      "text": " climbing the whole building again. So",
+      "start": 664.662,
+      "duration": 2.066
+    },
+    {
+      "text": " this is not two-pointer. This is",
+      "start": 665.762,
+      "duration": 2.277
+    },
+    {
+      "text": " one-pointer two times. Okay? It is",
+      "start": 667.091,
+      "duration": 3.235
+    },
+    {
+      "text": " one-pointer two times. Two-pointer",
+      "start": 669.387,
+      "duration": 3.156
+    },
+    {
+      "text": " means both will move together. Moving",
+      "start": 671.593,
+      "duration": 2.885
+    },
+    {
+      "text": " together in coordination so that your",
+      "start": 673.524,
+      "duration": 2.723
+    },
+    {
+      "text": " work gets done faster. The work is the",
+      "start": 675.294,
+      "duration": 3.201
+    },
+    {
+      "text": " same, but it will be done faster. If",
+      "start": 677.548,
+      "duration": 3.0
+    },
+    {
+      "text": " one person is doing a task, it takes 1",
+      "start": 679.592,
+      "duration": 2.682
+    },
+    {
+      "text": " hour. If two people coordinate and work",
+      "start": 681.318,
+      "duration": 2.722
+    },
+    {
+      "text": " in an office or school, it takes half",
+      "start": 683.082,
+      "duration": 2.57
+    },
+    {
+      "text": " the time. It is the same thing. It is",
+      "start": 684.695,
+      "duration": 2.417
+    },
+    {
+      "text": " the same concept and there is no rocket",
+      "start": 686.168,
+      "duration": 3.183
+    },
+    {
+      "text": " science in it. Okay? So now we will see",
+      "start": 688.407,
+      "duration": 4.428
+    },
+    {
+      "text": " how questions are solved. So whenever",
+      "start": 691.896,
+      "duration": 3.201
+    },
+    {
+      "text": " you solve questions, I am telling you",
+      "start": 694.139,
+      "duration": 2.533
+    },
+    {
+      "text": " repeatedly to write this flowchart",
+      "start": 695.713,
+      "duration": 2.409
+    },
+    {
+      "text": " somewhere in your notebook. What is the",
+      "start": 697.163,
+      "duration": 2.656
+    },
+    {
+      "text": " flowchart? Is the array or linked list",
+      "start": 698.859,
+      "duration": 2.88
+    },
+    {
+      "text": " sorted, or does sorting help? Do you",
+      "start": 700.79,
+      "duration": 2.821
+    },
+    {
+      "text": " need to merge? Do you need to remove",
+      "start": 702.651,
+      "duration": 2.429
+    },
+    {
+      "text": " duplicates? Do you need to rearrange?",
+      "start": 704.117,
+      "duration": 2.737
+    },
+    {
+      "text": " Do you need to detect a cycle in a",
+      "start": 705.954,
+      "duration": 2.243
+    },
+    {
+      "text": " linked list? Do you need to find a pair",
+      "start": 707.234,
+      "duration": 2.836
+    },
+    {
+      "text": ", or a triplet, or a quadruple, or five",
+      "start": 709.07,
+      "duration": 2.876
+    },
+    {
+      "text": ", or anything else? If you need to find",
+      "start": 710.946,
+      "duration": 2.842
+    },
+    {
+      "text": " more than one thing, then you can do it",
+      "start": 712.826,
+      "duration": 2.456
+    },
+    {
+      "text": ". Yes, this does not mean that if",
+      "start": 714.282,
+      "duration": 2.856
+    },
+    {
+      "text": " someone says find a vector or tell",
+      "start": 716.192,
+      "duration": 2.82
+    },
+    {
+      "text": " about an array, then array could mean",
+      "start": 718.065,
+      "duration": 2.981
+    },
+    {
+      "text": " many things for two-pointer. It is",
+      "start": 720.1,
+      "duration": 3.171
+    },
+    {
+      "text": " specifically given that hey, find two",
+      "start": 722.309,
+      "duration": 2.425
+    },
+    {
+      "text": " things or find three things, then you",
+      "start": 723.772,
+      "duration": 2.424
+    },
+    {
+      "text": " should think about this. Again, this",
+      "start": 725.235,
+      "duration": 3.92
+    },
+    {
+      "text": " isn't a 100%guarantee. You might say, \"",
+      "start": 728.269,
+      "duration": 4.76
+    },
+    {
+      "text": "Look, there was a question about",
+      "start": 732.029,
+      "duration": 2.541
+    },
+    {
+      "text": " removing duplicates, but it didn't use",
+      "start": 733.618,
+      "duration": 2.83
+    },
+    {
+      "text": " two pointers,\" and someone in the",
+      "start": 735.496,
+      "duration": 2.59
+    },
+    {
+      "text": " comments might point that out. So, this",
+      "start": 737.134,
+      "duration": 3.283
+    },
+    {
+      "text": " is not a 100%rule. It just increases",
+      "start": 739.475,
+      "duration": 2.92
+    },
+    {
+      "text": " the probability. Whenever a question",
+      "start": 741.44,
+      "duration": 3.072
+    },
+    {
+      "text": " comes up in an interview, where do you",
+      "start": 743.577,
+      "duration": 3.474
+    },
+    {
+      "text": " start thinking? You have to start",
+      "start": 746.116,
+      "duration": 2.623
+    },
+    {
+      "text": " thinking from somewhere. Maybe your",
+      "start": 747.771,
+      "duration": 2.281
+    },
+    {
+      "text": " first approach is wrong. Perhaps you",
+      "start": 749.093,
+      "duration": 2.699
+    },
+    {
+      "text": " think of two pointers first. Then you",
+      "start": 750.848,
+      "duration": 3.049
+    },
+    {
+      "text": " spend 5 minutes on it. You realize, \"No",
+      "start": 752.945,
+      "duration": 2.693
+    },
+    {
+      "text": ", this isn't working with two pointers.",
+      "start": 754.638,
+      "duration": 2.248
+    },
+    {
+      "text": "\" Then what do you think of? You think",
+      "start": 755.886,
+      "duration": 2.469
+    },
+    {
+      "text": " of binary search. You spend 2 minutes",
+      "start": 757.396,
+      "duration": 2.846
+    },
+    {
+      "text": " on binary search. You realize, \"No,",
+      "start": 759.298,
+      "duration": 2.56
+    },
+    {
+      "text": " this won't work with binary search",
+      "start": 760.888,
+      "duration": 2.036
+    },
+    {
+      "text": " either.\" Then you think of backtracking",
+      "start": 761.954,
+      "duration": 2.524
+    },
+    {
+      "text": ". And you say, \"Yes, this will work",
+      "start": 763.478,
+      "duration": 2.273
+    },
+    {
+      "text": " with backtracking.\" So, how do you",
+      "start": 764.786,
+      "duration": 2.551
+    },
+    {
+      "text": " think? You have to start thinking from",
+      "start": 766.394,
+      "duration": 2.502
+    },
+    {
+      "text": " somewhere, right? When a car or bike",
+      "start": 767.93,
+      "duration": 3.257
+    },
+    {
+      "text": " breaks down, it’s not like the",
+      "start": 770.247,
+      "duration": 2.935
+    },
+    {
+      "text": " mechanic knows exactly what's wrong.",
+      "start": 772.242,
+      "duration": 3.177
+    },
+    {
+      "text": " They start debugging it. They say, \"",
+      "start": 774.736,
+      "duration": 3.086
+    },
+    {
+      "text": "This might be the problem.\" If it's not",
+      "start": 776.822,
+      "duration": 2.341
+    },
+    {
+      "text": " that, then maybe that's the problem. So",
+      "start": 778.197,
+      "duration": 2.408
+    },
+    {
+      "text": ", you proceed based on probability.",
+      "start": 779.605,
+      "duration": 2.715
+    },
+    {
+      "text": " Maybe the probability of it being two",
+      "start": 781.42,
+      "duration": 2.749
+    },
+    {
+      "text": " pointers is 70%. So, you think about",
+      "start": 783.217,
+      "duration": 2.567
+    },
+    {
+      "text": " that first. If that doesn't feel right,",
+      "start": 784.822,
+      "duration": 2.584
+    },
+    {
+      "text": " maybe the probability of it being",
+      "start": 786.445,
+      "duration": 2.256
+    },
+    {
+      "text": " binary search is 20%. Maybe you think",
+      "start": 787.739,
+      "duration": 2.485
+    },
+    {
+      "text": " of that. And if that doesn't feel right",
+      "start": 789.259,
+      "duration": 2.422
+    },
+    {
+      "text": " either...Maybe the probability of it",
+      "start": 790.714,
+      "duration": 2.179
+    },
+    {
+      "text": " being backtracking is only 10%for that",
+      "start": 791.926,
+      "duration": 2.245
+    },
+    {
+      "text": " question. For example, the flow chart",
+      "start": 793.204,
+      "duration": 3.225
+    },
+    {
+      "text": " for backtracking might have a condition",
+      "start": 795.485,
+      "duration": 3.21
+    },
+    {
+      "text": " or two that matches, but not everything",
+      "start": 797.752,
+      "duration": 3.21
+    },
+    {
+      "text": ". That's why patterns are important;",
+      "start": 799.962,
+      "duration": 3.24
+    },
+    {
+      "text": " they help you start thinking about",
+      "start": 802.257,
+      "duration": 2.883
+    },
+    {
+      "text": " where to begin and where to go, and you",
+      "start": 804.195,
+      "duration": 3.16
+    },
+    {
+      "text": " stop when it clicks. Okay? With enough",
+      "start": 806.411,
+      "duration": 3.339
+    },
+    {
+      "text": " practice, you also develop an intuition",
+      "start": 808.797,
+      "duration": 2.825
+    },
+    {
+      "text": " that a question might look like it's",
+      "start": 810.669,
+      "duration": 2.684
+    },
+    {
+      "text": " for two pointers. But in reality, it's",
+      "start": 812.4,
+      "duration": 2.602
+    },
+    {
+      "text": " a binary search question. So, when will",
+      "start": 814.038,
+      "duration": 2.451
+    },
+    {
+      "text": " that intuition come? When will that",
+      "start": 815.525,
+      "duration": 2.277
+    },
+    {
+      "text": " practice come? When you solve a lot of",
+      "start": 816.835,
+      "duration": 2.686
+    },
+    {
+      "text": " questions and when you stay with this",
+      "start": 818.57,
+      "duration": 2.815
+    },
+    {
+      "text": " series. Okay? I think this is enough",
+      "start": 820.434,
+      "duration": 3.782
+    },
+    {
+      "text": " for the two-pointer theory. Now let's",
+      "start": 823.29,
+      "duration": 3.793
+    },
+    {
+      "text": " move on to the questions. What is the",
+      "start": 826.139,
+      "duration": 3.08
+    },
+    {
+      "text": " question? The first question in the",
+      "start": 828.261,
+      "duration": 2.925
+    },
+    {
+      "text": " sheet, okay? What is the first question",
+      "start": 830.244,
+      "duration": 3.161
+    },
+    {
+      "text": " in the sheet? Two Sum. Go and read the",
+      "start": 832.446,
+      "duration": 6.345
+    },
+    {
+      "text": " question. Now, there are two types of",
+      "start": 837.867,
+      "duration": 3.254
+    },
+    {
+      "text": " Two Sum questions. Wait, one more thing",
+      "start": 840.175,
+      "duration": 2.946
+    },
+    {
+      "text": "—I made a mistake in the sheet. That",
+      "start": 842.121,
+      "duration": 2.75
+    },
+    {
+      "text": " link for Two Sum is incorrect. So let",
+      "start": 843.923,
+      "duration": 3.498
+    },
+    {
+      "text": " me tell you what is written in the",
+      "start": 846.461,
+      "duration": 2.372
+    },
+    {
+      "text": " sheet, what the real Two Pointer",
+      "start": 847.874,
+      "duration": 2.291
+    },
+    {
+      "text": " pattern is, and why both won't apply.",
+      "start": 849.205,
+      "duration": 2.494
+    },
+    {
+      "text": " Right? Now, one is Two Sum. Okay? What",
+      "start": 851.419,
+      "duration": 5.507
+    },
+    {
+      "text": " is the Two Sum question? It's that you",
+      "start": 855.994,
+      "duration": 3.729
+    },
+    {
+      "text": " are given an array and a target. You",
+      "start": 858.79,
+      "duration": 4.57
+    },
+    {
+      "text": " have to identify two such numbers in",
+      "start": 862.414,
+      "duration": 2.938
+    },
+    {
+      "text": " this array. Identify two numbers or two",
+      "start": 864.406,
+      "duration": 3.29
+    },
+    {
+      "text": " indices such that, for example, you say",
+      "start": 866.754,
+      "duration": 3.249
+    },
+    {
+      "text": " my two numbers are a and b. Their sum",
+      "start": 869.061,
+      "duration": 3.247
+    },
+    {
+      "text": " must be equal to the target. That is",
+      "start": 871.369,
+      "duration": 3.584
+    },
+    {
+      "text": " the rough idea of the question. Okay?",
+      "start": 873.995,
+      "duration": 2.894
+    },
+    {
+      "text": " What does this mean? Sorry. What does",
+      "start": 875.989,
+      "duration": 4.374
+    },
+    {
+      "text": " this mean? That if the array is, for",
+      "start": 879.409,
+      "duration": 4.11
+    },
+    {
+      "text": " example, the array is 2, 7, 11, and 15,",
+      "start": 882.599,
+      "duration": 4.12
+    },
+    {
+      "text": " and your target is given as nine. So 0,",
+      "start": 885.799,
+      "duration": 4.993
+    },
+    {
+      "text": " 1, 2, 3, and your target is given as",
+      "start": 889.879,
+      "duration": 4.12
+    },
+    {
+      "text": " nine. So which two numbers do you see",
+      "start": 893.085,
+      "duration": 3.244
+    },
+    {
+      "text": " that sum up to nine? The sum of 2 + 7",
+      "start": 895.379,
+      "duration": 3.604
+    },
+    {
+      "text": " is nine. Okay? Okay? So you have to",
+      "start": 898.073,
+      "duration": 3.36
+    },
+    {
+      "text": " return these numbers. Now let's see how",
+      "start": 900.478,
+      "duration": 3.27
+    },
+    {
+      "text": " the flowchart works and how this",
+      "start": 902.812,
+      "duration": 3.051
+    },
+    {
+      "text": " question has a format with two parts.",
+      "start": 904.927,
+      "duration": 3.372
+    },
+    {
+      "text": " Okay? Not two parts, what should we",
+      "start": 907.66,
+      "duration": 3.364
+    },
+    {
+      "text": " call it? Two variations. One variation",
+      "start": 910.074,
+      "duration": 3.27
+    },
+    {
+      "text": " is not on Two Pointer. The second",
+      "start": 912.383,
+      "duration": 2.254
+    },
+    {
+      "text": " variation is on Two Pointer. How do we",
+      "start": 913.667,
+      "duration": 2.314
+    },
+    {
+      "text": " find out? We find out from whether it",
+      "start": 915.023,
+      "duration": 2.3
+    },
+    {
+      "text": " is sorted. It's a very small thing. But",
+      "start": 916.353,
+      "duration": 2.523
+    },
+    {
+      "text": " it is a very important thing. For",
+      "start": 917.917,
+      "duration": 3.228
+    },
+    {
+      "text": " example, now if you were told that this",
+      "start": 920.193,
+      "duration": 2.887
+    },
+    {
+      "text": " array—what was our first flowchart?",
+      "start": 922.128,
+      "duration": 2.791
+    },
+    {
+      "text": " Our first flowchart was, is it an array",
+      "start": 925.051,
+      "duration": 2.664
+    },
+    {
+      "text": " question or a linked list question? It",
+      "start": 926.757,
+      "duration": 2.66
+    },
+    {
+      "text": " is an array question. Yes, it is an",
+      "start": 928.45,
+      "duration": 2.327
+    },
+    {
+      "text": " array question. Is it given to you as",
+      "start": 929.818,
+      "duration": 2.999
+    },
+    {
+      "text": " sorted? It is not given as sorted. Will",
+      "start": 931.878,
+      "duration": 3.048
+    },
+    {
+      "text": " sorting it be beneficial? This is",
+      "start": 933.974,
+      "duration": 2.552
+    },
+    {
+      "text": " exactly that small thing. Watch very",
+      "start": 935.564,
+      "duration": 2.467
+    },
+    {
+      "text": " carefully. Understand very carefully.",
+      "start": 937.074,
+      "duration": 2.976
+    },
+    {
+      "text": " Now the question can ask you for two",
+      "start": 939.182,
+      "duration": 3.618
+    },
+    {
+      "text": " things. What has the question asked you",
+      "start": 941.872,
+      "duration": 2.925
+    },
+    {
+      "text": "? Give us a pair. So the pair flowchart",
+      "start": 943.797,
+      "duration": 2.633
+    },
+    {
+      "text": " has already clicked that, brother, it",
+      "start": 945.462,
+      "duration": 2.188
+    },
+    {
+      "text": " is asking for a pair. It could be Two",
+      "start": 946.682,
+      "duration": 2.56
+    },
+    {
+      "text": " Pointer, we don't know. It is an array",
+      "start": 948.284,
+      "duration": 2.602
+    },
+    {
+      "text": " question. It is asking for a pair. It",
+      "start": 949.925,
+      "duration": 2.413
+    },
+    {
+      "text": " is possible. If your question tells you",
+      "start": 951.394,
+      "duration": 3.391
+    },
+    {
+      "text": " to return the numbers. Two numbers—",
+      "start": 953.829,
+      "duration": 3.66
+    },
+    {
+      "text": "the number meaning if 2 + 7 sum is nine",
+      "start": 956.489,
+      "duration": 3.425
+    },
+    {
+      "text": ", then if the questioner says we want",
+      "start": 958.914,
+      "duration": 3.301
+    },
+    {
+      "text": " two and seven in the answer. This could",
+      "start": 961.277,
+      "duration": 3.351
+    },
+    {
+      "text": " be one variation of the question, that",
+      "start": 963.663,
+      "duration": 2.317
+    },
+    {
+      "text": " you have to return the numbers",
+      "start": 965.015,
+      "duration": 2.04
+    },
+    {
+      "text": " themselves. Otherwise, if they tell you",
+      "start": 966.089,
+      "duration": 2.365
+    },
+    {
+      "text": " that we want you to return the indices.",
+      "start": 967.487,
+      "duration": 2.277
+    },
+    {
+      "text": " Don't return the number, brother.",
+      "start": 968.864,
+      "duration": 1.981
+    },
+    {
+      "text": " Return the index. I mean, return zero",
+      "start": 969.945,
+      "duration": 3.435
+    },
+    {
+      "text": " and one. This question has two forms.",
+      "start": 972.462,
+      "duration": 3.031
+    },
+    {
+      "text": " Does everyone understand? I’ll",
+      "start": 974.593,
+      "duration": 2.165
+    },
+    {
+      "text": " explain it again. You’re asked to",
+      "start": 975.805,
+      "duration": 2.851
+    },
+    {
+      "text": " provide two numbers whose sum is the",
+      "start": 977.712,
+      "duration": 3.002
+    },
+    {
+      "text": " target. Now, two things can happen with",
+      "start": 979.769,
+      "duration": 2.573
+    },
+    {
+      "text": " an array. Either they ask for the",
+      "start": 981.377,
+      "duration": 2.665
+    },
+    {
+      "text": " actual numbers. Give two and seven. Or",
+      "start": 983.096,
+      "duration": 3.46
+    },
+    {
+      "text": " they ask for their indices. Give zero",
+      "start": 985.595,
+      "duration": 2.524
+    },
+    {
+      "text": " and one. So, numbers or indices. These",
+      "start": 987.161,
+      "duration": 4.977
+    },
+    {
+      "text": " are the two forms of this question.",
+      "start": 991.185,
+      "duration": 2.674
+    },
+    {
+      "text": " Right? Now, one can use two pointers.",
+      "start": 993.179,
+      "duration": 4.96
+    },
+    {
+      "text": " And one cannot use two pointers. Why",
+      "start": 997.249,
+      "duration": 2.77
+    },
+    {
+      "text": " can't you use them? Let me explain: if",
+      "start": 999.055,
+      "duration": 4.025
+    },
+    {
+      "text": " you need to provide just the numbers,",
+      "start": 1002.154,
+      "duration": 3.757
+    },
+    {
+      "text": " you can sort the array. Understand the",
+      "start": 1004.985,
+      "duration": 5.161
+    },
+    {
+      "text": " fundamental principle of sorting; for",
+      "start": 1009.252,
+      "duration": 4.895
+    },
+    {
+      "text": " example, if your original array looks",
+      "start": 1013.252,
+      "duration": 4.895
+    },
+    {
+      "text": " like 2, 7, 11, 15 (0, 1, 2, 3), see,",
+      "start": 1017.252,
+      "duration": 4.79
+    },
+    {
+      "text": " this array is already sorted. It’s",
+      "start": 1021.148,
+      "duration": 4.45
+    },
+    {
+      "text": " sorted by chance. The question doesn't",
+      "start": 1024.648,
+      "duration": 2.67
+    },
+    {
+      "text": " state the array is sorted. Okay? You",
+      "start": 1026.354,
+      "duration": 2.566
+    },
+    {
+      "text": " might think 2, 7, 11, 15 is sorted.",
+      "start": 1027.981,
+      "duration": 3.119
+    },
+    {
+      "text": " Let's change this array. Let's change",
+      "start": 1030.2,
+      "duration": 3.862
+    },
+    {
+      "text": " the array to 7, 11, 2, and 15. Okay?",
+      "start": 1033.164,
+      "duration": 4.581
+    },
+    {
+      "text": " Now the array is not sorted. Suppose",
+      "start": 1036.845,
+      "duration": 2.72
+    },
+    {
+      "text": " this array was given. Now, when you",
+      "start": 1038.631,
+      "duration": 3.741
+    },
+    {
+      "text": " sort this array, what happens? When you",
+      "start": 1041.464,
+      "duration": 5.117
+    },
+    {
+      "text": " sort the array, it becomes 2, 7, 11,",
+      "start": 1045.694,
+      "duration": 5.058
+    },
+    {
+      "text": " and 15 (0, 1, 2, 3). Now look,",
+      "start": 1049.865,
+      "duration": 4.146
+    },
+    {
+      "text": " something very interesting has happened",
+      "start": 1053.051,
+      "duration": 2.528
+    },
+    {
+      "text": ". What numbers were in the array before",
+      "start": 1054.579,
+      "duration": 3.965
+    },
+    {
+      "text": "? The array had 2, 7, 11, and 15. What",
+      "start": 1057.544,
+      "duration": 5.103
+    },
+    {
+      "text": " numbers are in this array now? The same",
+      "start": 1061.685,
+      "duration": 2.559
+    },
+    {
+      "text": " numbers. Sorting doesn't change the",
+      "start": 1063.287,
+      "duration": 3.454
+    },
+    {
+      "text": " numbers; does sorting 2, 7, 11, 15",
+      "start": 1065.797,
+      "duration": 2.912
+    },
+    {
+      "text": " change them? It changes the indices.",
+      "start": 1067.765,
+      "duration": 3.621
+    },
+    {
+      "text": " Look, at what index was 2 before? 2 was",
+      "start": 1070.486,
+      "duration": 3.833
+    },
+    {
+      "text": " at the second index before. Now 2 has",
+      "start": 1073.358,
+      "duration": 2.545
+    },
+    {
+      "text": " come to the zero index. 7 was at the",
+      "start": 1074.948,
+      "duration": 2.689
+    },
+    {
+      "text": " zero index before. 7 has now come to",
+      "start": 1076.683,
+      "duration": 2.641
+    },
+    {
+      "text": " the first index. 11 was at one before.",
+      "start": 1078.366,
+      "duration": 2.922
+    },
+    {
+      "text": " 11 has come to two. 15 stayed the same,",
+      "start": 1080.388,
+      "duration": 3.431
+    },
+    {
+      "text": " but three things changed. So your",
+      "start": 1082.877,
+      "duration": 2.973
+    },
+    {
+      "text": " entire number-to-index mapping is",
+      "start": 1084.9,
+      "duration": 2.65
+    },
+    {
+      "text": " messed up. Isn't it? 2 was here before.",
+      "start": 1086.6,
+      "duration": 3.577
+    },
+    {
+      "text": " Now it has come here. If you were asked",
+      "start": 1089.277,
+      "duration": 3.184
+    },
+    {
+      "text": " to just give the numbers. Give the",
+      "start": 1091.505,
+      "duration": 2.48
+    },
+    {
+      "text": " numbers. The index wouldn't matter.",
+      "start": 1093.02,
+      "duration": 2.579
+    },
+    {
+      "text": " Then you could have managed by sorting.",
+      "start": 1094.699,
+      "duration": 2.594
+    },
+    {
+      "text": " Because sorting messes up the indices.",
+      "start": 1096.393,
+      "duration": 2.792
+    },
+    {
+      "text": " The numbers remain the same. So if you",
+      "start": 1098.285,
+      "duration": 2.976
+    },
+    {
+      "text": " were asked to give the numbers, then",
+      "start": 1100.352,
+      "duration": 4.262
+    },
+    {
+      "text": " you could sort. I will also explain why",
+      "start": 1103.705,
+      "duration": 3.594
+    },
+    {
+      "text": " you can sort. But you can sort, for",
+      "start": 1106.348,
+      "duration": 2.858
+    },
+    {
+      "text": " sure. But if you are ever asked to",
+      "start": 1108.26,
+      "duration": 2.831
+    },
+    {
+      "text": " provide the indices. Give the index.",
+      "start": 1110.144,
+      "duration": 2.857
+    },
+    {
+      "text": " You don't need the numbers. If you need",
+      "start": 1112.101,
+      "duration": 2.632
+    },
+    {
+      "text": " the index positions and it's already",
+      "start": 1113.79,
+      "duration": 3.055
+    },
+    {
+      "text": " sorted, that's great. But you cannot",
+      "start": 1115.902,
+      "duration": 3.028
+    },
+    {
+      "text": " sort it yourself. Why? If you sort,",
+      "start": 1117.98,
+      "duration": 3.103
+    },
+    {
+      "text": " your index-to-number mapping will get",
+      "start": 1120.121,
+      "duration": 2.432
+    },
+    {
+      "text": " messed up. You will get the wrong",
+      "start": 1121.592,
+      "duration": 2.249
+    },
+    {
+      "text": " answer. Right? So when does this",
+      "start": 1122.876,
+      "duration": 3.063
+    },
+    {
+      "text": " two-pointer approach apply? When will",
+      "start": 1124.976,
+      "duration": 2.424
+    },
+    {
+      "text": " it apply? When you are asked to provide",
+      "start": 1126.438,
+      "duration": 3.7
+    },
+    {
+      "text": " the numbers. If you need the numbers",
+      "start": 1129.191,
+      "duration": 3.604
+    },
+    {
+      "text": " and the index doesn't matter, then in",
+      "start": 1131.841,
+      "duration": 2.699
+    },
+    {
+      "text": " that case you can sort it. Or if you",
+      "start": 1133.586,
+      "duration": 2.965
+    },
+    {
+      "text": " are asked for the indices and the array",
+      "start": 1135.619,
+      "duration": 3.654
+    },
+    {
+      "text": " provided is already sorted. You don't",
+      "start": 1138.341,
+      "duration": 3.324
+    },
+    {
+      "text": " need to sort it, so you can apply the",
+      "start": 1140.708,
+      "duration": 2.587
+    },
+    {
+      "text": " two-pointer approach. Right? If it asks",
+      "start": 1142.338,
+      "duration": 3.83
+    },
+    {
+      "text": " for indices and it's not sorted, then",
+      "start": 1145.217,
+      "duration": 2.81
+    },
+    {
+      "text": " the two-pointer won't work because you",
+      "start": 1147.076,
+      "duration": 2.86
+    },
+    {
+      "text": " cannot sort it. Sorting would make it",
+      "start": 1148.985,
+      "duration": 2.771
+    },
+    {
+      "text": " easier. I will tell you how that would",
+      "start": 1150.799,
+      "duration": 2.431
+    },
+    {
+      "text": " make it easier. But I hope you",
+      "start": 1152.263,
+      "duration": 2.592
+    },
+    {
+      "text": " understood how small things make a",
+      "start": 1153.914,
+      "duration": 3.029
+    },
+    {
+      "text": " difference. See, just changing the",
+      "start": 1156.002,
+      "duration": 2.842
+    },
+    {
+      "text": " index and number around makes a pattern",
+      "start": 1157.889,
+      "duration": 2.767
+    },
+    {
+      "text": " work. Or makes a pattern not work.",
+      "start": 1159.701,
+      "duration": 2.282
+    },
+    {
+      "text": " These small little things are what you",
+      "start": 1161.083,
+      "duration": 3.128
+    },
+    {
+      "text": " need to understand and keep in mind.",
+      "start": 1163.267,
+      "duration": 3.016
+    },
+    {
+      "text": " Alright? Now let's come to our question",
+      "start": 1165.479,
+      "duration": 4.165
+    },
+    {
+      "text": ". So in any DSA question, if you are a",
+      "start": 1168.644,
+      "duration": 3.337
+    },
+    {
+      "text": " beginner. Right? If we are talking",
+      "start": 1171.038,
+      "duration": 2.853
+    },
+    {
+      "text": " about a beginner. Don't try to think of",
+      "start": 1172.941,
+      "duration": 3.373
+    },
+    {
+      "text": " the best approach first. People have a",
+      "start": 1175.381,
+      "duration": 3.731
+    },
+    {
+      "text": " tendency to start thinking about the",
+      "start": 1178.154,
+      "duration": 2.529
+    },
+    {
+      "text": " perfect approach from day one. First,",
+      "start": 1179.725,
+      "duration": 3.028
+    },
+    {
+      "text": " write the brute force, brother. Brute",
+      "start": 1181.812,
+      "duration": 3.368
+    },
+    {
+      "text": " force means if you don't know anything",
+      "start": 1184.241,
+      "duration": 3.293
+    },
+    {
+      "text": " as of today. If someone asks you to",
+      "start": 1186.594,
+      "duration": 3.426
+    },
+    {
+      "text": " solve this. Solve it in any way",
+      "start": 1189.088,
+      "duration": 2.964
+    },
+    {
+      "text": " possible, the crudest approach that",
+      "start": 1191.093,
+      "duration": 2.46
+    },
+    {
+      "text": " comes to your mind but solves it, is",
+      "start": 1192.594,
+      "duration": 2.501
+    },
+    {
+      "text": " what we call brute force. Brute means",
+      "start": 1194.137,
+      "duration": 2.931
+    },
+    {
+      "text": " someone who doesn't use their brain.",
+      "start": 1196.109,
+      "duration": 2.47
+    },
+    {
+      "text": " Right? So first, you must think of the",
+      "start": 1197.71,
+      "duration": 3.619
+    },
+    {
+      "text": " brute force. You don't need to write",
+      "start": 1200.394,
+      "duration": 2.667
+    },
+    {
+      "text": " the brute force. But you should know",
+      "start": 1202.095,
+      "duration": 2.593
+    },
+    {
+      "text": " how to do it using brute force. Now,",
+      "start": 1203.73,
+      "duration": 3.017
+    },
+    {
+      "text": " how to do this? For example, this is",
+      "start": 1205.809,
+      "duration": 3.315
+    },
+    {
+      "text": " your array. Right? Your target is nine.",
+      "start": 1208.185,
+      "duration": 4.634
+    },
+    {
+      "text": " The most basic brute force approach",
+      "start": 1213.46,
+      "duration": 2.658
+    },
+    {
+      "text": " that even a 10 th-grade student should",
+      "start": 1215.166,
+      "duration": 2.8
+    },
+    {
+      "text": " know, what is it? We will do one thing.",
+      "start": 1217.014,
+      "duration": 3.246
+    },
+    {
+      "text": " We will run 'i' from zero to three. 'i'",
+      "start": 1219.599,
+      "duration": 3.371
+    },
+    {
+      "text": " will increase. As soon as i reaches",
+      "start": 1222.048,
+      "duration": 3.313
+    },
+    {
+      "text": " seven, we will run another pointer j",
+      "start": 1224.417,
+      "duration": 3.027
+    },
+    {
+      "text": " from the bottom. Now it is seven. Is it",
+      "start": 1226.501,
+      "duration": 3.193
+    },
+    {
+      "text": " okay now? Now that you have reached",
+      "start": 1228.744,
+      "duration": 2.521
+    },
+    {
+      "text": " seven, what do you need to find? When",
+      "start": 1230.304,
+      "duration": 2.908
+    },
+    {
+      "text": " you reach seven, you need to find",
+      "start": 1232.28,
+      "duration": 3.257
+    },
+    {
+      "text": " another number such that it equals nine",
+      "start": 1234.606,
+      "duration": 3.667
+    },
+    {
+      "text": ", so 7 + x = 9. x should be two. So,",
+      "start": 1237.273,
+      "duration": 4.016
+    },
+    {
+      "text": " whenever you are at seven, you search",
+      "start": 1240.346,
+      "duration": 3.095
+    },
+    {
+      "text": " the entire array to see if two exists",
+      "start": 1242.498,
+      "duration": 3.095
+    },
+    {
+      "text": " anywhere. If two is there, then the",
+      "start": 1244.65,
+      "duration": 2.75
+    },
+    {
+      "text": " answer is seven and two. If two is not",
+      "start": 1246.444,
+      "duration": 2.649
+    },
+    {
+      "text": " there, then seven is not part of the",
+      "start": 1248.129,
+      "duration": 2.291
+    },
+    {
+      "text": " answer. Move on to the next one. If you",
+      "start": 1249.455,
+      "duration": 3.239
+    },
+    {
+      "text": " come to two, how much more does two",
+      "start": 1251.745,
+      "duration": 2.794
+    },
+    {
+      "text": " need to become nine? It needs seven.",
+      "start": 1253.59,
+      "duration": 2.96
+    },
+    {
+      "text": " Search further to see if seven is there",
+      "start": 1255.65,
+      "duration": 2.349
+    },
+    {
+      "text": " or not? If it is not there, that is",
+      "start": 1257.033,
+      "duration": 2.482
+    },
+    {
+      "text": " great. Move on. Come to 11. How much",
+      "start": 1258.557,
+      "duration": 3.81
+    },
+    {
+      "text": " does 11 need to become nine? 11 needs",
+      "start": 1261.416,
+      "duration": 3.057
+    },
+    {
+      "text": " -2 to become nine. Check if there is a",
+      "start": 1263.544,
+      "duration": 3.365
+    },
+    {
+      "text": " -2 anywhere. How much does 15 need? 15",
+      "start": 1265.96,
+      "duration": 2.889
+    },
+    {
+      "text": " needs -6 to become nine. Search the",
+      "start": 1267.917,
+      "duration": 3.115
+    },
+    {
+      "text": " whole array to see if -6 is there. By",
+      "start": 1270.07,
+      "duration": 2.485
+    },
+    {
+      "text": " searching again and again like this,",
+      "start": 1271.598,
+      "duration": 2.558
+    },
+    {
+      "text": " you will find the answer. It is a very",
+      "start": 1273.2,
+      "duration": 2.68
+    },
+    {
+      "text": " poor solution. Yes, it is a very poor",
+      "start": 1274.922,
+      "duration": 2.511
+    },
+    {
+      "text": " solution. But does it work? Yes, it",
+      "start": 1276.471,
+      "duration": 2.738
+    },
+    {
+      "text": " works. This is called brute force. What",
+      "start": 1278.262,
+      "duration": 3.473
+    },
+    {
+      "text": " will be its time complexity? Well,",
+      "start": 1280.79,
+      "duration": 2.927
+    },
+    {
+      "text": " first of all, you are running i from",
+      "start": 1282.772,
+      "duration": 2.983
+    },
+    {
+      "text": " zero to n. i is going through every",
+      "start": 1284.811,
+      "duration": 3.062
+    },
+    {
+      "text": " element. Now, since i is going through",
+      "start": 1286.92,
+      "duration": 2.747
+    },
+    {
+      "text": " every element, for each i, you are",
+      "start": 1288.71,
+      "duration": 2.463
+    },
+    {
+      "text": " searching the entire array. That is",
+      "start": 1290.216,
+      "duration": 2.61
+    },
+    {
+      "text": " exactly what you are doing, right? If i",
+      "start": 1291.858,
+      "duration": 2.456
+    },
+    {
+      "text": " is seven and you need to find two, how",
+      "start": 1293.359,
+      "duration": 2.704
+    },
+    {
+      "text": " will you find two? You will have to",
+      "start": 1295.107,
+      "duration": 2.367
+    },
+    {
+      "text": " search the entire array again. Right?",
+      "start": 1296.502,
+      "duration": 2.202
+    },
+    {
+      "text": " You will have to do a linear search. So",
+      "start": 1297.839,
+      "duration": 2.468
+    },
+    {
+      "text": ", for every i, you are already running",
+      "start": 1299.307,
+      "duration": 3.432
+    },
+    {
+      "text": " i from 0 to n. And for every i, you are",
+      "start": 1301.803,
+      "duration": 3.177
+    },
+    {
+      "text": " also running j from 0 to n. The time",
+      "start": 1304.029,
+      "duration": 3.025
+    },
+    {
+      "text": " complexity that comes out is n².",
+      "start": 1306.108,
+      "duration": 2.792
+    },
+    {
+      "text": " Meaning if the array size is five, you",
+      "start": 1308.439,
+      "duration": 2.776
+    },
+    {
+      "text": " are doing 5 squared, which is 25",
+      "start": 1310.262,
+      "duration": 2.496
+    },
+    {
+      "text": " operations. If the array size is 10,",
+      "start": 1311.804,
+      "duration": 2.621
+    },
+    {
+      "text": " you are doing 10 squared, which is 100",
+      "start": 1313.467,
+      "duration": 2.594
+    },
+    {
+      "text": " operations. So, do you see how much it",
+      "start": 1315.103,
+      "duration": 2.465
+    },
+    {
+      "text": " is increasing? If the array size",
+      "start": 1316.603,
+      "duration": 2.455
+    },
+    {
+      "text": " becomes 100,000, your computer will",
+      "start": 1318.109,
+      "duration": 2.788
+    },
+    {
+      "text": " shut down. Right? Because if the array",
+      "start": 1319.948,
+      "duration": 2.978
+    },
+    {
+      "text": " size becomes 100,000, you are doing 10",
+      "start": 1321.968,
+      "duration": 2.579
+    },
+    {
+      "text": " to the power of 12 operations. 10 to",
+      "start": 1323.588,
+      "duration": 3.121
+    },
+    {
+      "text": " the power of 12 means 1000 GB, you are",
+      "start": 1325.775,
+      "duration": 3.51
+    },
+    {
+      "text": " doing that much work. Your computer",
+      "start": 1328.351,
+      "duration": 3.657
+    },
+    {
+      "text": " will shut down. Alright then. We have",
+      "start": 1331.055,
+      "duration": 2.865
+    },
+    {
+      "text": " written the brute force. Now let's move",
+      "start": 1332.957,
+      "duration": 2.688
+    },
+    {
+      "text": " on to our two-pointer pattern. Now what",
+      "start": 1334.696,
+      "duration": 3.458
+    },
+    {
+      "text": " is another solution for this, what is",
+      "start": 1337.22,
+      "duration": 3.475
+    },
+    {
+      "text": " another solution? What is one more",
+      "start": 1339.762,
+      "duration": 3.167
+    },
+    {
+      "text": " solution? 7 11 2 15 0 1 2 3, now we",
+      "start": 1341.986,
+      "duration": 5.11
+    },
+    {
+      "text": " always want to go towards a better",
+      "start": 1346.222,
+      "duration": 5.294
+    },
+    {
+      "text": " solution. Something better and more",
+      "start": 1350.642,
+      "duration": 5.746
+    },
+    {
+      "text": " optimized than brute force. Right? We",
+      "start": 1355.528,
+      "duration": 6.837
+    },
+    {
+      "text": " have written the brute force. Now, what",
+      "start": 1361.402,
+      "duration": 2.422
+    },
+    {
+      "text": " was happening in the brute force? In",
+      "start": 1362.85,
+      "duration": 2.27
+    },
+    {
+      "text": " the brute force, we were looking at one",
+      "start": 1364.171,
+      "duration": 2.989
+    },
+    {
+      "text": " element. After that, we were searching",
+      "start": 1366.211,
+      "duration": 2.736
+    },
+    {
+      "text": " the entire array to see if the target",
+      "start": 1367.988,
+      "duration": 2.524
+    },
+    {
+      "text": " minus this element exists or not. That",
+      "start": 1369.553,
+      "duration": 2.566
+    },
+    {
+      "text": " is what we were doing. If it was seven,",
+      "start": 1371.146,
+      "duration": 2.738
+    },
+    {
+      "text": " we were checking the whole array for",
+      "start": 1372.95,
+      "duration": 3.369
+    },
+    {
+      "text": " 9-7 = 2. That is what we were trying to",
+      "start": 1375.385,
+      "duration": 3.121
+    },
+    {
+      "text": " find. Why not make this extra searching",
+      "start": 1377.555,
+      "duration": 4.072
+    },
+    {
+      "text": " process easier each time? What does",
+      "start": 1380.704,
+      "duration": 3.633
+    },
+    {
+      "text": " that mean? There is a thing called a",
+      "start": 1383.399,
+      "duration": 3.424
+    },
+    {
+      "text": " map. You must be aware of it. You",
+      "start": 1385.86,
+      "duration": 4.063
+    },
+    {
+      "text": " should store all elements and their",
+      "start": 1388.971,
+      "duration": 2.675
+    },
+    {
+      "text": " indices in a hashmap. What should we",
+      "start": 1390.694,
+      "duration": 2.807
+    },
+    {
+      "text": " write in the hashmap? We need to write",
+      "start": 1392.546,
+      "duration": 3.597
+    },
+    {
+      "text": " that 7 is at 0, 11 is at 1, 2 is at 2,",
+      "start": 1395.238,
+      "duration": 4.618
+    },
+    {
+      "text": " and 15 is at 3. We have stored this in",
+      "start": 1398.951,
+      "duration": 4.051
+    },
+    {
+      "text": " the hashmap. Now when you come, your i",
+      "start": 1402.065,
+      "duration": 5.07
+    },
+    {
+      "text": " becomes 7. i = 7 arrived. What do you",
+      "start": 1406.257,
+      "duration": 4.15
+    },
+    {
+      "text": " need to search? You need to search for",
+      "start": 1409.441,
+      "duration": 2.971
+    },
+    {
+      "text": " 9-7 = 2. So instead of traversing the",
+      "start": 1411.474,
+      "duration": 3.102
+    },
+    {
+      "text": " array to find two, just ask the hashmap",
+      "start": 1413.629,
+      "duration": 3.058
+    },
+    {
+      "text": ". Do you have two? Every operation of a",
+      "start": 1415.687,
+      "duration": 3.493
+    },
+    {
+      "text": " hashmap is order of one. Meaning it",
+      "start": 1418.224,
+      "duration": 2.845
+    },
+    {
+      "text": " takes one unit of time, 'order of one'",
+      "start": 1420.124,
+      "duration": 3.092
+    },
+    {
+      "text": " means constant time, practically zero",
+      "start": 1422.271,
+      "duration": 3.037
+    },
+    {
+      "text": " time. So as soon as you come to i = 7,",
+      "start": 1424.363,
+      "duration": 3.268
+    },
+    {
+      "text": " just ask the hashmap, \"Do you have two?",
+      "start": 1426.689,
+      "duration": 3.287
+    },
+    {
+      "text": "\" The hashmap will say, \"Yes, yes, I",
+      "start": 1428.976,
+      "duration": 3.151
+    },
+    {
+      "text": " have two, it is at this index, at index",
+      "start": 1431.186,
+      "duration": 3.286
+    },
+    {
+      "text": " two.\" So you go ahead and return it.",
+      "start": 1433.53,
+      "duration": 2.743
+    },
+    {
+      "text": " What will you return? Again, whether to",
+      "start": 1435.373,
+      "duration": 3.283
+    },
+    {
+      "text": " return the number or the index. So if",
+      "start": 1437.715,
+      "duration": 3.203
+    },
+    {
+      "text": " you have to return the index or the",
+      "start": 1439.975,
+      "duration": 2.995
+    },
+    {
+      "text": " number, just return seven and two. Why?",
+      "start": 1442.027,
+      "duration": 3.43
+    },
+    {
+      "text": " Because you are already at seven in the",
+      "start": 1444.557,
+      "duration": 2.465
+    },
+    {
+      "text": " array, seven is there, and two is also",
+      "start": 1446.059,
+      "duration": 2.428
+    },
+    {
+      "text": " in the array, who is telling you? The",
+      "start": 1447.525,
+      "duration": 2.431
+    },
+    {
+      "text": " map is telling you. So you will do it.",
+      "start": 1448.987,
+      "duration": 2.511
+    },
+    {
+      "text": " The time complexity for this will come",
+      "start": 1450.598,
+      "duration": 3.048
+    },
+    {
+      "text": " out to be order of n. Why? Because you",
+      "start": 1452.7,
+      "duration": 4.397
+    },
+    {
+      "text": " are still running i from zero to n.",
+      "start": 1456.166,
+      "duration": 3.413
+    },
+    {
+      "text": " Your i is still going from zero to n.",
+      "start": 1458.851,
+      "duration": 2.598
+    },
+    {
+      "text": " You will still ask for every element.",
+      "start": 1460.549,
+      "duration": 2.6
+    },
+    {
+      "text": " But the task of looking things up is",
+      "start": 1462.279,
+      "duration": 2.645
+    },
+    {
+      "text": " happening in O (n). So, its time",
+      "start": 1463.97,
+      "duration": 2.813
+    },
+    {
+      "text": " complexity is order of n. But, but, but",
+      "start": 1465.848,
+      "duration": 4.44
+    },
+    {
+      "text": " now someone might say that this is not",
+      "start": 1469.324,
+      "duration": 2.359
+    },
+    {
+      "text": " a two-pointer approach, brother. You",
+      "start": 1470.719,
+      "duration": 2.369
+    },
+    {
+      "text": " are still just moving 'i' and asking",
+      "start": 1472.13,
+      "duration": 2.494
+    },
+    {
+      "text": " the hashmap. So it is not two-pointer.",
+      "start": 1473.665,
+      "duration": 2.594
+    },
+    {
+      "text": " Exactly, this is not two-pointer. We",
+      "start": 1475.359,
+      "duration": 2.507
+    },
+    {
+      "text": " still haven't reached the two-pointer",
+      "start": 1476.899,
+      "duration": 2.201
+    },
+    {
+      "text": " approach. I am explaining the nuance of",
+      "start": 1478.132,
+      "duration": 2.65
+    },
+    {
+      "text": " the question to you; there can be 10",
+      "start": 1479.825,
+      "duration": 2.562
+    },
+    {
+      "text": " ways to solve one problem. Right? But",
+      "start": 1481.43,
+      "duration": 3.265
+    },
+    {
+      "text": " you have to find the best way. For that",
+      "start": 1483.752,
+      "duration": 3.193
+    },
+    {
+      "text": ", understand this. Now you will say",
+      "start": 1485.945,
+      "duration": 2.544
+    },
+    {
+      "text": " this is a one-pointer approach. That is",
+      "start": 1487.526,
+      "duration": 2.452
+    },
+    {
+      "text": " absolutely correct. This is one-pointer",
+      "start": 1489.006,
+      "duration": 2.506
+    },
+    {
+      "text": ", not two-pointer. So why use",
+      "start": 1490.512,
+      "duration": 2.483
+    },
+    {
+      "text": " two-pointer? It’s already done. It",
+      "start": 1492.05,
+      "duration": 2.833
+    },
+    {
+      "text": " worked with one-pointer, didn't it,",
+      "start": 1493.915,
+      "duration": 2.122
+    },
+    {
+      "text": " brother? We aren't here to get a PhD in",
+      "start": 1495.069,
+      "duration": 3.019
+    },
+    {
+      "text": " two-pointers by learning useless stuff.",
+      "start": 1497.144,
+      "duration": 3.162
+    },
+    {
+      "text": " Why learn two-pointer? What is",
+      "start": 1499.419,
+      "duration": 2.681
+    },
+    {
+      "text": " happening here now? Now your time is",
+      "start": 1501.146,
+      "duration": 3.375
+    },
+    {
+      "text": " already order of n. What about the",
+      "start": 1503.58,
+      "duration": 3.019
+    },
+    {
+      "text": " space? You won't write this hashmap in",
+      "start": 1505.656,
+      "duration": 3.413
+    },
+    {
+      "text": " your notebook, will you? It will be",
+      "start": 1508.119,
+      "duration": 3.135
+    },
+    {
+      "text": " stored somewhere in the computer. So",
+      "start": 1510.289,
+      "duration": 2.404
+    },
+    {
+      "text": " what are you doing? If there are four",
+      "start": 1511.74,
+      "duration": 2.736
+    },
+    {
+      "text": " elements in the array, you are taking",
+      "start": 1513.517,
+      "duration": 2.54
+    },
+    {
+      "text": " up space for eight. You are, aren't you",
+      "start": 1515.098,
+      "duration": 2.571
+    },
+    {
+      "text": "? Storing every element and its index.",
+      "start": 1516.669,
+      "duration": 2.405
+    },
+    {
+      "text": " If the array has 10 elements, you are",
+      "start": 1518.174,
+      "duration": 2.784
+    },
+    {
+      "text": " creating a hashmap of size 20. Now,",
+      "start": 1520.006,
+      "duration": 2.757
+    },
+    {
+      "text": " what is the problem with this? Always,",
+      "start": 1521.804,
+      "duration": 3.384
+    },
+    {
+      "text": " always try to avoid using extra space.",
+      "start": 1524.264,
+      "duration": 3.875
+    },
+    {
+      "text": " Using space should be your last option",
+      "start": 1527.279,
+      "duration": 3.149
+    },
+    {
+      "text": " in any DSA pattern. Why? Because if",
+      "start": 1529.485,
+      "duration": 3.635
+    },
+    {
+      "text": " there are 10 elements in an array, you",
+      "start": 1532.188,
+      "duration": 3.588
+    },
+    {
+      "text": " are storing 20 integers. You are",
+      "start": 1534.844,
+      "duration": 3.443
+    },
+    {
+      "text": " storing 20 integers, right? 7, 0, 11, 1",
+      "start": 1537.328,
+      "duration": 3.094
+    },
+    {
+      "text": ", 2, 15, 3. If there were 20 in the",
+      "start": 1539.422,
+      "duration": 3.621
+    },
+    {
+      "text": " array, you'd store 40 integers. Imagine",
+      "start": 1542.117,
+      "duration": 3.987
+    },
+    {
+      "text": " you have a company. Your company has 1",
+      "start": 1545.168,
+      "duration": 3.527
+    },
+    {
+      "text": " lakh elements. An array of 1 lakh is a",
+      "start": 1547.759,
+      "duration": 3.051
+    },
+    {
+      "text": " very small number for any company. So,",
+      "start": 1549.854,
+      "duration": 2.816
+    },
+    {
+      "text": " how much is in your element? This much.",
+      "start": 1551.734,
+      "duration": 3.565
+    },
+    {
+      "text": " How much will you store? 2*10 to the",
+      "start": 1554.399,
+      "duration": 3.957
+    },
+    {
+      "text": " power 4 integers. What does that mean?",
+      "start": 1557.46,
+      "duration": 5.179
+    },
+    {
+      "text": " 2 lakh integers. An integer that takes",
+      "start": 1561.88,
+      "duration": 6.461
+    },
+    {
+      "text": " space in the computer, for example, 8",
+      "start": 1567.393,
+      "duration": 2.906
+    },
+    {
+      "text": " bytes. So multiply that by eight, which",
+      "start": 1569.35,
+      "duration": 5.25
+    },
+    {
+      "text": " is 1,600,000 bytes. So that becomes",
+      "start": 1573.68,
+      "duration": 4.789
+    },
+    {
+      "text": " 1600 KB. Convert that as well. So that",
+      "start": 1577.572,
+      "duration": 4.401
+    },
+    {
+      "text": " becomes 1.6 MB. So when your array",
+      "start": 1581.041,
+      "duration": 4.93
+    },
+    {
+      "text": " length is 1 lakh, you are taking 1.6 MB",
+      "start": 1585.042,
+      "duration": 3.8
+    },
+    {
+      "text": " of space. Right? No company uses an",
+      "start": 1587.913,
+      "duration": 3.113
+    },
+    {
+      "text": " array length of 100,000. Now, suppose",
+      "start": 1590.075,
+      "duration": 2.991
+    },
+    {
+      "text": " the array length is 10 to the power of",
+      "start": 1592.117,
+      "duration": 2.924
+    },
+    {
+      "text": " 9, so multiply it by 10 to the power of",
+      "start": 1594.092,
+      "duration": 2.975
+    },
+    {
+      "text": " 4. It gets multiplied, right? Now, what",
+      "start": 1596.117,
+      "duration": 2.852
+    },
+    {
+      "text": " will the answer be? 16 followed by a",
+      "start": 1598.008,
+      "duration": 2.867
+    },
+    {
+      "text": " few zeros in MB, do you know how big",
+      "start": 1599.938,
+      "duration": 3.271
+    },
+    {
+      "text": " that number is? That is 16 GB. 16 GB.",
+      "start": 1602.272,
+      "duration": 5.388
+    },
+    {
+      "text": " So if your program has an array length",
+      "start": 1607.199,
+      "duration": 3.114
+    },
+    {
+      "text": " of 10 to the power of 9, you need 16 GB",
+      "start": 1609.369,
+      "duration": 3.17
+    },
+    {
+      "text": " of memory just to store the hashmap.",
+      "start": 1611.595,
+      "duration": 3.004
+    },
+    {
+      "text": " That's besides your Chrome running.",
+      "start": 1613.732,
+      "duration": 2.161
+    },
+    {
+      "text": " Your program is running. Your variables",
+      "start": 1614.993,
+      "duration": 2.507
+    },
+    {
+      "text": " are running; that is a separate issue.",
+      "start": 1616.538,
+      "duration": 2.434
+    },
+    {
+      "text": " 16 GB of memory is needed just to store",
+      "start": 1618.096,
+      "duration": 3.322
+    },
+    {
+      "text": " that. 16 GB of RAM, and where is that",
+      "start": 1620.478,
+      "duration": 2.954
+    },
+    {
+      "text": " stored? Where does the program run? It",
+      "start": 1622.482,
+      "duration": 2.537
+    },
+    {
+      "text": " runs in the RAM. What is the RAM of a",
+      "start": 1624.071,
+      "duration": 3.481
+    },
+    {
+      "text": " laptop nowadays? 8 GB, or maybe 12 GB",
+      "start": 1626.628,
+      "duration": 4.044
+    },
+    {
+      "text": " for some. If someone has a MacBook or a",
+      "start": 1629.759,
+      "duration": 3.505
+    },
+    {
+      "text": " good laptop, it's 16 GB. Now, you have",
+      "start": 1632.316,
+      "duration": 3.226
+    },
+    {
+      "text": " 16 GB of RAM. If you shove a hashmap",
+      "start": 1634.597,
+      "duration": 2.667
+    },
+    {
+      "text": " into that 16 GB, what will happen to",
+      "start": 1636.303,
+      "duration": 2.406
+    },
+    {
+      "text": " your laptop? It will crash. That is why",
+      "start": 1637.748,
+      "duration": 3.105
+    },
+    {
+      "text": " you should save space. In companies, it",
+      "start": 1639.91,
+      "duration": 3.287
+    },
+    {
+      "text": " is always said, \"Don't use space,",
+      "start": 1642.246,
+      "duration": 2.607
+    },
+    {
+      "text": " brother.\" If possible, take a little",
+      "start": 1643.901,
+      "duration": 2.701
+    },
+    {
+      "text": " more time. Try to use as little space",
+      "start": 1645.64,
+      "duration": 2.795
+    },
+    {
+      "text": " as possible. Space is expensive. Okay?",
+      "start": 1647.485,
+      "duration": 3.555
+    },
+    {
+      "text": " That is why we cannot use space now.",
+      "start": 1650.839,
+      "duration": 3.48
+    },
+    {
+      "text": " Now, the next point is that we cannot",
+      "start": 1653.439,
+      "duration": 2.48
+    },
+    {
+      "text": " use space. Let me explain the pattern",
+      "start": 1654.959,
+      "duration": 3.011
+    },
+    {
+      "text": " format of the question we have reached",
+      "start": 1657.027,
+      "duration": 3.149
+    },
+    {
+      "text": " now. What is your exact question going",
+      "start": 1659.232,
+      "duration": 3.031
+    },
+    {
+      "text": " to be? Why did I build up all this",
+      "start": 1661.314,
+      "duration": 2.695
+    },
+    {
+      "text": " background? I could have come directly",
+      "start": 1663.049,
+      "duration": 2.461
+    },
+    {
+      "text": " to this question. Building up this",
+      "start": 1664.546,
+      "duration": 2.405
+    },
+    {
+      "text": " background is necessary because you",
+      "start": 1665.993,
+      "duration": 2.47
+    },
+    {
+      "text": " also need to understand it. Copying me",
+      "start": 1667.505,
+      "duration": 2.912
+    },
+    {
+      "text": " won't help. If I thought of this and",
+      "start": 1669.479,
+      "duration": 3.295
+    },
+    {
+      "text": " you just read the same thing, then you",
+      "start": 1671.835,
+      "duration": 3.335
+    },
+    {
+      "text": " are just copying me. You should know",
+      "start": 1674.231,
+      "duration": 3.4
+    },
+    {
+      "text": " the whole process of why a person is",
+      "start": 1676.674,
+      "duration": 2.566
+    },
+    {
+      "text": " doing something. Okay? Now I will write",
+      "start": 1678.284,
+      "duration": 3.932
+    },
+    {
+      "text": " the final question, which is the sheet",
+      "start": 1681.266,
+      "duration": 2.894
+    },
+    {
+      "text": " question. You need to find, you are",
+      "start": 1683.21,
+      "duration": 3.154
+    },
+    {
+      "text": " given an array. An unsorted array is",
+      "start": 1685.427,
+      "duration": 4.243
+    },
+    {
+      "text": " given. You need to find two numbers in",
+      "start": 1688.743,
+      "duration": 5.102
+    },
+    {
+      "text": " it. Whose sum is equal to a given",
+      "start": 1692.928,
+      "duration": 4.283
+    },
+    {
+      "text": " target. And it is written, \"Do not use",
+      "start": 1696.292,
+      "duration": 4.183
+    },
+    {
+      "text": " extra space.\" This is the exact",
+      "start": 1699.552,
+      "duration": 3.166
+    },
+    {
+      "text": " LeetCode question named Two Sum II. Its",
+      "start": 1701.782,
+      "duration": 3.481
+    },
+    {
+      "text": " link will appear. Go and check the",
+      "start": 1704.32,
+      "duration": 3.055
+    },
+    {
+      "text": " description. Extra space. This is your",
+      "start": 1706.437,
+      "duration": 4.131
+    },
+    {
+      "text": " question where the two-pointer pattern",
+      "start": 1709.613,
+      "duration": 2.703
+    },
+    {
+      "text": " will be used. Now, why will it be used?",
+      "start": 1711.361,
+      "duration": 2.795
+    },
+    {
+      "text": " Again, I could have come directly to",
+      "start": 1713.256,
+      "duration": 2.874
+    },
+    {
+      "text": " this question, but the whole point of",
+      "start": 1715.182,
+      "duration": 2.927
+    },
+    {
+      "text": " this long story was just this. Now",
+      "start": 1717.161,
+      "duration": 3.071
+    },
+    {
+      "text": " let's put our flowchart to work. Yes.",
+      "start": 1719.283,
+      "duration": 3.456
+    },
+    {
+      "text": " The first point is, an array is",
+      "start": 1721.839,
+      "duration": 2.654
+    },
+    {
+      "text": " mentioned. Yes, an array is mentioned.",
+      "start": 1723.546,
+      "duration": 2.894
+    },
+    {
+      "text": " The array is not sorted. It is unsorted",
+      "start": 1725.55,
+      "duration": 2.728
+    },
+    {
+      "text": ". So, will sorting it be beneficial? We",
+      "start": 1727.278,
+      "duration": 2.976
+    },
+    {
+      "text": " will see that ahead. Need to find two",
+      "start": 1729.313,
+      "duration": 3.031
+    },
+    {
+      "text": " numbers. Need to find a two-number pair",
+      "start": 1731.392,
+      "duration": 2.789
+    },
+    {
+      "text": ". Absolutely correct. And do not use",
+      "start": 1733.181,
+      "duration": 2.931
+    },
+    {
+      "text": " extra space. If you want, add this to",
+      "start": 1735.173,
+      "duration": 3.068
+    },
+    {
+      "text": " your flowchart now: whenever \"do not",
+      "start": 1737.282,
+      "duration": 2.474
+    },
+    {
+      "text": " use extra space\" is mentioned and you",
+      "start": 1738.797,
+      "duration": 2.515
+    },
+    {
+      "text": " need to find two or more things, a",
+      "start": 1740.353,
+      "duration": 2.392
+    },
+    {
+      "text": " two-pointer approach will be used. Okay",
+      "start": 1741.786,
+      "duration": 2.915
+    },
+    {
+      "text": "? What are you saying? Whenever it says",
+      "start": 1743.701,
+      "duration": 2.926
+    },
+    {
+      "text": " \"do not use extra space\" and you need",
+      "start": 1745.672,
+      "duration": 2.684
+    },
+    {
+      "text": " to find two, three, four, or five",
+      "start": 1747.401,
+      "duration": 2.502
+    },
+    {
+      "text": " things, then a two-pointer approach",
+      "start": 1748.949,
+      "duration": 2.592
+    },
+    {
+      "text": " will be used. So, look, this matched.",
+      "start": 1750.587,
+      "duration": 3.153
+    },
+    {
+      "text": " This matched. This matched. I don't",
+      "start": 1752.87,
+      "duration": 3.044
+    },
+    {
+      "text": " understand this part. What is it that",
+      "start": 1754.961,
+      "duration": 2.75
+    },
+    {
+      "text": " you don't understand about whether",
+      "start": 1756.755,
+      "duration": 2.517
+    },
+    {
+      "text": " sorting will make it easier or not? It",
+      "start": 1758.317,
+      "duration": 2.741
+    },
+    {
+      "text": " definitely will. Why will it? I'll",
+      "start": 1760.098,
+      "duration": 2.965
+    },
+    {
+      "text": " explain now. Suppose this is your array",
+      "start": 1762.157,
+      "duration": 4.351
+    },
+    {
+      "text": ". Suppose, oh man, now suppose this is",
+      "start": 1765.508,
+      "duration": 5.341
+    },
+    {
+      "text": " your array. 2 5 1 7 and 3 0 1 2 3 4,",
+      "start": 1769.943,
+      "duration": 7.366
+    },
+    {
+      "text": " this is your array. What do you need to",
+      "start": 1776.505,
+      "duration": 5.724
+    },
+    {
+      "text": " find? It is. You need to find target",
+      "start": 1781.262,
+      "duration": 3.376
+    },
+    {
+      "text": " equals six. Need to find target equals",
+      "start": 1783.704,
+      "duration": 4.55
+    },
+    {
+      "text": " six. Now I will show you something. Now",
+      "start": 1787.308,
+      "duration": 3.17
+    },
+    {
+      "text": " you, yes, and you have to tell the",
+      "start": 1789.544,
+      "duration": 3.242
+    },
+    {
+      "text": " number. Whenever you need to tell the",
+      "start": 1791.852,
+      "duration": 2.781
+    },
+    {
+      "text": " number, you can sort. You absolutely",
+      "start": 1793.675,
+      "duration": 2.527
+    },
+    {
+      "text": " can. The numbers don't change in",
+      "start": 1795.241,
+      "duration": 2.181
+    },
+    {
+      "text": " sorting. If you need to tell the index,",
+      "start": 1796.456,
+      "duration": 2.266
+    },
+    {
+      "text": " you cannot. Whenever you have to tell",
+      "start": 1797.752,
+      "duration": 2.409
+    },
+    {
+      "text": " the index in any array question, don't",
+      "start": 1799.2,
+      "duration": 2.494
+    },
+    {
+      "text": " even think about sorting. Everything",
+      "start": 1800.733,
+      "duration": 2.656
+    },
+    {
+      "text": " will get messed up. Why will sorting it",
+      "start": 1802.446,
+      "duration": 3.21
+    },
+    {
+      "text": " make it easier for us? I am telling you",
+      "start": 1804.707,
+      "duration": 3.381
+    },
+    {
+      "text": ". Now you have to sort it. If you sort",
+      "start": 1807.088,
+      "duration": 4.445
+    },
+    {
+      "text": " it, you get: 1, 2, 3, 5, 7, 1, 2, 3, 5,",
+      "start": 1810.626,
+      "duration": 4.598
+    },
+    {
+      "text": " 7, 0, 1, 2, 3, 4. Now see how the",
+      "start": 1814.316,
+      "duration": 4.045
+    },
+    {
+      "text": " two-pointer will beautifully solve this",
+      "start": 1817.453,
+      "duration": 4.599
+    },
+    {
+      "text": ", beautifully solve this. Okay? Do one",
+      "start": 1821.052,
+      "duration": 5.222
+    },
+    {
+      "text": " thing; earlier we were putting one",
+      "start": 1825.327,
+      "duration": 2.783
+    },
+    {
+      "text": " person to work, one 'i' was going and",
+      "start": 1827.162,
+      "duration": 2.941
+    },
+    {
+      "text": " searching. Now what we will do is put",
+      "start": 1829.155,
+      "duration": 2.665
+    },
+    {
+      "text": " two people to work. In the building,",
+      "start": 1830.86,
+      "duration": 3.128
+    },
+    {
+      "text": " keep one 'i' here, and keep one 'j'",
+      "start": 1833.067,
+      "duration": 3.776
+    },
+    {
+      "text": " here. Why are we keeping them, how are",
+      "start": 1835.922,
+      "duration": 2.573
+    },
+    {
+      "text": " we keeping them, I'll explain. What is",
+      "start": 1837.526,
+      "duration": 3.079
+    },
+    {
+      "text": " your target, brother? Your target is",
+      "start": 1839.658,
+      "duration": 3.803
+    },
+    {
+      "text": " six. Okay? Now let's see how it will",
+      "start": 1842.572,
+      "duration": 4.602
+    },
+    {
+      "text": " increase. Sum these two. Now sum the",
+      "start": 1846.234,
+      "duration": 4.088
+    },
+    {
+      "text": " numbers at i and j. What does the sum",
+      "start": 1849.396,
+      "duration": 3.009
+    },
+    {
+      "text": " come to? 1 + 7 = 8. If eight is equal",
+      "start": 1851.434,
+      "duration": 4.307
+    },
+    {
+      "text": " to the target, that's great. Return the",
+      "start": 1854.791,
+      "duration": 3.068
+    },
+    {
+      "text": " numbers at i and j. But, but, but if it",
+      "start": 1856.911,
+      "duration": 3.671
+    },
+    {
+      "text": " is not equal to the target. Another",
+      "start": 1859.657,
+      "duration": 4.39
+    },
+    {
+      "text": " thing in the two-pointer pattern is",
+      "start": 1863.113,
+      "duration": 3.341
+    },
+    {
+      "text": " that you use two pointers. But every",
+      "start": 1865.521,
+      "duration": 4.689
+    },
+    {
+      "text": " time, after doing anything, after every",
+      "start": 1869.285,
+      "duration": 3.911
+    },
+    {
+      "text": " iteration, you must change one of the",
+      "start": 1872.27,
+      "duration": 3.762
+    },
+    {
+      "text": " pointers. What am I saying? If there is",
+      "start": 1875.107,
+      "duration": 4.112
+    },
+    {
+      "text": " i, j, and two pointers. You did a small",
+      "start": 1878.308,
+      "duration": 4.142
+    },
+    {
+      "text": " task. Now, in the next step, you have",
+      "start": 1881.515,
+      "duration": 4.453
+    },
+    {
+      "text": " to change either i or j. If you don't",
+      "start": 1885.064,
+      "duration": 3.978
+    },
+    {
+      "text": " change either, the program will never",
+      "start": 1888.081,
+      "duration": 2.426
+    },
+    {
+      "text": " end. For example, one person is at the",
+      "start": 1889.545,
+      "duration": 2.606
+    },
+    {
+      "text": " top of the building. One person is at",
+      "start": 1891.189,
+      "duration": 2.406
+    },
+    {
+      "text": " the bottom of the building. Now we say",
+      "start": 1892.622,
+      "duration": 2.284
+    },
+    {
+      "text": " that neither should ever change. Then",
+      "start": 1893.949,
+      "duration": 2.65
+    },
+    {
+      "text": " both will stay in the same house and",
+      "start": 1895.639,
+      "duration": 2.44
+    },
+    {
+      "text": " nothing will happen. Every time, either",
+      "start": 1897.119,
+      "duration": 3.074
+    },
+    {
+      "text": " one will change, or both can change.",
+      "start": 1899.252,
+      "duration": 3.147
+    },
+    {
+      "text": " But it is necessary to change. It is",
+      "start": 1901.559,
+      "duration": 2.553
+    },
+    {
+      "text": " necessary to change. And why will it",
+      "start": 1903.156,
+      "duration": 2.642
+    },
+    {
+      "text": " change? For this, you have to think",
+      "start": 1904.842,
+      "duration": 2.215
+    },
+    {
+      "text": " about the logic. What will change? Why",
+      "start": 1906.087,
+      "duration": 2.54
+    },
+    {
+      "text": " will it change? Where will it change?",
+      "start": 1907.67,
+      "duration": 2.58
+    },
+    {
+      "text": " How much will it change? Will both",
+      "start": 1909.35,
+      "duration": 2.445
+    },
+    {
+      "text": " change or just one? You have to",
+      "start": 1910.835,
+      "duration": 2.325
+    },
+    {
+      "text": " understand this. Now what did I say?",
+      "start": 1912.203,
+      "duration": 3.135
+    },
+    {
+      "text": " Sum these two up. It is eight. Now see,",
+      "start": 1914.438,
+      "duration": 4.202
+    },
+    {
+      "text": " eight is...there could be three cases",
+      "start": 1917.698,
+      "duration": 3.134
+    },
+    {
+      "text": " here. Your sum is eight, you need to",
+      "start": 1919.89,
+      "duration": 4.679
+    },
+    {
+      "text": " find six. Now, there could be three",
+      "start": 1923.654,
+      "duration": 2.868
+    },
+    {
+      "text": " types of possibilities in the world.",
+      "start": 1925.562,
+      "duration": 2.417
+    },
+    {
+      "text": " Either eight would equal six. In that",
+      "start": 1927.08,
+      "duration": 3.261
+    },
+    {
+      "text": " case, we would return the number. Or",
+      "start": 1929.396,
+      "duration": 3.066
+    },
+    {
+      "text": " eight would be smaller than six, or",
+      "start": 1931.524,
+      "duration": 3.149
+    },
+    {
+      "text": " eight would be greater than six. With",
+      "start": 1933.734,
+      "duration": 3.41
+    },
+    {
+      "text": " integers, you will only have three",
+      "start": 1936.2,
+      "duration": 2.918
+    },
+    {
+      "text": " choices in the world. Either equal,",
+      "start": 1938.174,
+      "duration": 3.281
+    },
+    {
+      "text": " less, or greater. Apart from this,",
+      "start": 1940.53,
+      "duration": 2.858
+    },
+    {
+      "text": " there is no other choice. If someone",
+      "start": 1942.418,
+      "duration": 2.242
+    },
+    {
+      "text": " says there is a fourth one, there isn't",
+      "start": 1943.698,
+      "duration": 2.495
+    },
+    {
+      "text": ". Now suppose if eight...now can you",
+      "start": 1945.193,
+      "duration": 3.766
+    },
+    {
+      "text": " see that eight is greater than six? Now",
+      "start": 1948.0,
+      "duration": 3.207
+    },
+    {
+      "text": " see, I said every time you have to",
+      "start": 1950.263,
+      "duration": 2.908
+    },
+    {
+      "text": " change at least one of them. Now see",
+      "start": 1952.227,
+      "duration": 3.195
+    },
+    {
+      "text": " that the sum of one and seven is eight,",
+      "start": 1954.483,
+      "duration": 3.362
+    },
+    {
+      "text": " which is greater than six. Okay? The",
+      "start": 1956.905,
+      "duration": 3.221
+    },
+    {
+      "text": " array is sorted. We sort the array.",
+      "start": 1959.167,
+      "duration": 2.78
+    },
+    {
+      "text": " Remember, please remember. Now you have",
+      "start": 1961.047,
+      "duration": 3.685
+    },
+    {
+      "text": " two ways. Both are moving towards each",
+      "start": 1963.811,
+      "duration": 3.252
+    },
+    {
+      "text": " other. Right? The one at the bottom",
+      "start": 1966.114,
+      "duration": 3.306
+    },
+    {
+      "text": " will go up. The one at the top will",
+      "start": 1968.483,
+      "duration": 2.546
+    },
+    {
+      "text": " come down. Now, if you say that we",
+      "start": 1970.061,
+      "duration": 3.188
+    },
+    {
+      "text": " increment one to two and keep seven as",
+      "start": 1972.313,
+      "duration": 3.445
+    },
+    {
+      "text": " seven. Tell me one thing, one is here,",
+      "start": 1974.822,
+      "duration": 3.413
+    },
+    {
+      "text": " two is here, the array is sorted. So,",
+      "start": 1977.297,
+      "duration": 3.344
+    },
+    {
+      "text": " every element after one is greater than",
+      "start": 1979.702,
+      "duration": 3.372
+    },
+    {
+      "text": " one. That is true because there are",
+      "start": 1982.135,
+      "duration": 2.493
+    },
+    {
+      "text": " only larger elements on the right. You",
+      "start": 1983.664,
+      "duration": 2.526
+    },
+    {
+      "text": " have already sorted it. So if you are",
+      "start": 1985.24,
+      "duration": 3.199
+    },
+    {
+      "text": " saying that the sum of one and seven is",
+      "start": 1987.483,
+      "duration": 2.741
+    },
+    {
+      "text": " greater, then you are saying that if we",
+      "start": 1989.268,
+      "duration": 2.741
+    },
+    {
+      "text": " look at the sum of two and seven, it",
+      "start": 1991.053,
+      "duration": 2.607
+    },
+    {
+      "text": " will obviously be greater than six,",
+      "start": 1992.704,
+      "duration": 2.562
+    },
+    {
+      "text": " right? Why? Understand this again, it",
+      "start": 1994.311,
+      "duration": 3.055
+    },
+    {
+      "text": " is a very important point. Many people",
+      "start": 1996.399,
+      "duration": 2.33
+    },
+    {
+      "text": " do not understand this. It is a very",
+      "start": 1997.764,
+      "duration": 2.548
+    },
+    {
+      "text": " fundamental and basic point. You are",
+      "start": 1999.36,
+      "duration": 2.85
+    },
+    {
+      "text": " saying the sum of one and seven is",
+      "start": 2001.253,
+      "duration": 2.474
+    },
+    {
+      "text": " greater than six. That is very good.",
+      "start": 2002.77,
+      "duration": 2.589
+    },
+    {
+      "text": " Now, you are asking if we should try",
+      "start": 2004.459,
+      "duration": 2.268
+    },
+    {
+      "text": " incrementing one? What, brother? So, if",
+      "start": 2005.762,
+      "duration": 2.756
+    },
+    {
+      "text": " you increment one to the right, what is",
+      "start": 2007.567,
+      "duration": 2.907
+    },
+    {
+      "text": " on the right? An element larger than",
+      "start": 2009.523,
+      "duration": 2.654
+    },
+    {
+      "text": " one. Any element will be larger than",
+      "start": 2011.219,
+      "duration": 2.482
+    },
+    {
+      "text": " one. It is a sorted array. It could be",
+      "start": 2012.74,
+      "duration": 3.412
+    },
+    {
+      "text": " 1000, 2000, 1 lakh, or 500. But it is",
+      "start": 2015.231,
+      "duration": 3.608
+    },
+    {
+      "text": " larger than one. So, if the sum of one",
+      "start": 2017.879,
+      "duration": 2.919
+    },
+    {
+      "text": " and seven is greater than six, then the",
+      "start": 2019.841,
+      "duration": 2.67
+    },
+    {
+      "text": " sum of two and seven will also be",
+      "start": 2021.554,
+      "duration": 2.414
+    },
+    {
+      "text": " greater than six. The sum of one and",
+      "start": 2023.01,
+      "duration": 3.109
+    },
+    {
+      "text": " seven is eight. The sum of two and",
+      "start": 2025.159,
+      "duration": 2.41
+    },
+    {
+      "text": " seven will obviously be something",
+      "start": 2026.601,
+      "duration": 2.082
+    },
+    {
+      "text": " greater than eight. It could be nine,",
+      "start": 2027.716,
+      "duration": 3.38
+    },
+    {
+      "text": " 10, 11, or 12. It is still greater than",
+      "start": 2030.194,
+      "duration": 3.5
+    },
+    {
+      "text": " six, brother. Isn't it? So, there is no",
+      "start": 2032.737,
+      "duration": 3.284
+    },
+    {
+      "text": " point in incrementing one. If your sum,",
+      "start": 2035.071,
+      "duration": 3.413
+    },
+    {
+      "text": " eight, is greater than six, can we",
+      "start": 2037.55,
+      "duration": 3.267
+    },
+    {
+      "text": " decrease seven? Yes, we can decrease it",
+      "start": 2039.884,
+      "duration": 3.198
+    },
+    {
+      "text": ". Why can we decrease it? Because the",
+      "start": 2042.082,
+      "duration": 2.812
+    },
+    {
+      "text": " sum of one and seven is eight. It is",
+      "start": 2043.954,
+      "duration": 3.122
+    },
+    {
+      "text": " greater than six. Where would seven go?",
+      "start": 2046.119,
+      "duration": 2.985
+    },
+    {
+      "text": " Seven is moving this way. It is moving",
+      "start": 2048.204,
+      "duration": 2.987
+    },
+    {
+      "text": " backwards. Seven is sitting at the top",
+      "start": 2050.225,
+      "duration": 2.291
+    },
+    {
+      "text": " of that building. It is coming down.",
+      "start": 2051.548,
+      "duration": 2.557
+    },
+    {
+      "text": " Seven can go here or here. It will only",
+      "start": 2053.219,
+      "duration": 3.273
+    },
+    {
+      "text": " move in this direction. The elements in",
+      "start": 2055.53,
+      "duration": 2.608
+    },
+    {
+      "text": " this direction of seven are smaller",
+      "start": 2057.179,
+      "duration": 2.444
+    },
+    {
+      "text": " than seven. You know that already. They",
+      "start": 2058.665,
+      "duration": 2.724
+    },
+    {
+      "text": " are smaller than seven. Anything",
+      "start": 2060.429,
+      "duration": 2.286
+    },
+    {
+      "text": " smaller than seven is possible. It",
+      "start": 2061.749,
+      "duration": 2.287
+    },
+    {
+      "text": " could be six, five, four, three, minus",
+      "start": 2063.09,
+      "duration": 3.065
+    },
+    {
+      "text": " two, minus 100, anything. But it is",
+      "start": 2065.209,
+      "duration": 3.064
+    },
+    {
+      "text": " guaranteed to be smaller than seven,",
+      "start": 2067.317,
+      "duration": 2.576
+    },
+    {
+      "text": " right? So, if you say the sum of one",
+      "start": 2068.937,
+      "duration": 3.287
+    },
+    {
+      "text": " and seven is large, then take the sum",
+      "start": 2071.271,
+      "duration": 2.74
+    },
+    {
+      "text": " with a smaller element instead of seven",
+      "start": 2073.058,
+      "duration": 2.834
+    },
+    {
+      "text": ". Maybe you don't know that. Maybe. The",
+      "start": 2074.892,
+      "duration": 4.17
+    },
+    {
+      "text": " whole change depends on the 'maybe'. If",
+      "start": 2078.103,
+      "duration": 2.692
+    },
+    {
+      "text": " you increase seven, what is the sum of",
+      "start": 2079.849,
+      "duration": 3.045
+    },
+    {
+      "text": " one and five? Six. You get the answer",
+      "start": 2081.948,
+      "duration": 3.409
+    },
+    {
+      "text": " immediately. Right? What did we",
+      "start": 2084.419,
+      "duration": 3.089
+    },
+    {
+      "text": " understand from this? Now, take an",
+      "start": 2086.549,
+      "duration": 2.62
+    },
+    {
+      "text": " example. If the sum of one and seven is",
+      "start": 2088.223,
+      "duration": 3.072
+    },
+    {
+      "text": " eight. If your target was not six,",
+      "start": 2090.346,
+      "duration": 3.127
+    },
+    {
+      "text": " let's take another example. It was 12.",
+      "start": 2092.536,
+      "duration": 3.573
+    },
+    {
+      "text": " What is your target? 12. The sum of one",
+      "start": 2095.209,
+      "duration": 3.696
+    },
+    {
+      "text": " and seven is eight, which is less than",
+      "start": 2097.961,
+      "duration": 3.134
+    },
+    {
+      "text": " 12. So, is it wise to decrease seven in",
+      "start": 2100.151,
+      "duration": 3.573
+    },
+    {
+      "text": " this case? No. Because seven would make",
+      "start": 2102.789,
+      "duration": 3.139
+    },
+    {
+      "text": " the sum even smaller. If one and seven",
+      "start": 2104.977,
+      "duration": 3.021
+    },
+    {
+      "text": " is eight, then one and five is six. So",
+      "start": 2107.053,
+      "duration": 3.112
+    },
+    {
+      "text": " when one and seven is already less,",
+      "start": 2109.207,
+      "duration": 2.47
+    },
+    {
+      "text": " adding one to anything else will also",
+      "start": 2110.719,
+      "duration": 2.554
+    },
+    {
+      "text": " be less. In this case, we will increase",
+      "start": 2112.315,
+      "duration": 2.87
+    },
+    {
+      "text": " it. The sum of two and seven is nine,",
+      "start": 2114.233,
+      "duration": 2.588
+    },
+    {
+      "text": " which is one more than eight. Right? It",
+      "start": 2115.862,
+      "duration": 2.967
+    },
+    {
+      "text": " is still less than 12. So, suppose you",
+      "start": 2117.883,
+      "duration": 2.872
+    },
+    {
+      "text": " are at two and seven, which one would",
+      "start": 2119.793,
+      "duration": 2.436
+    },
+    {
+      "text": " you increase? You would increase two,",
+      "start": 2121.268,
+      "duration": 2.605
+    },
+    {
+      "text": " not decrease seven. Why? Because if the",
+      "start": 2122.915,
+      "duration": 3.026
+    },
+    {
+      "text": " sum of two and seven is less than this,",
+      "start": 2124.983,
+      "duration": 2.622
+    },
+    {
+      "text": " the sum of two and five is obviously",
+      "start": 2126.647,
+      "duration": 2.497
+    },
+    {
+      "text": " smaller. So you try to check three and",
+      "start": 2128.186,
+      "duration": 3.464
+    },
+    {
+      "text": " seven. What is the sum of three and",
+      "start": 2130.705,
+      "duration": 2.762
+    },
+    {
+      "text": " seven? 10, still less than 12, so keep",
+      "start": 2132.5,
+      "duration": 3.407
+    },
+    {
+      "text": " increasing. What is the sum of five and",
+      "start": 2134.973,
+      "duration": 2.907
+    },
+    {
+      "text": " seven? 12, 12 = 12, you quickly got the",
+      "start": 2136.92,
+      "duration": 3.381
+    },
+    {
+      "text": " answer 5 and 7, understood? Look at the",
+      "start": 2139.353,
+      "duration": 3.918
+    },
+    {
+      "text": " pseudocode. First of all, what are we",
+      "start": 2142.366,
+      "duration": 3.569
+    },
+    {
+      "text": " doing? We are sorting the array. After",
+      "start": 2144.978,
+      "duration": 3.456
+    },
+    {
+      "text": " that, we are revising. Now let's write",
+      "start": 2147.488,
+      "duration": 2.882
+    },
+    {
+      "text": " the pseudocode. We are keeping one",
+      "start": 2149.409,
+      "duration": 2.68
+    },
+    {
+      "text": " element here. We are keeping one",
+      "start": 2151.144,
+      "duration": 2.841
+    },
+    {
+      "text": " element here. What is this? This is at",
+      "start": 2153.042,
+      "duration": 3.532
+    },
+    {
+      "text": " the start. This is at the end of the",
+      "start": 2155.658,
+      "duration": 3.692
+    },
+    {
+      "text": " array. We are summing them every time.",
+      "start": 2158.411,
+      "duration": 3.739
+    },
+    {
+      "text": " What are we doing? ai, aj; there are",
+      "start": 2161.25,
+      "duration": 3.838
+    },
+    {
+      "text": " only three possibilities in the entire",
+      "start": 2164.168,
+      "duration": 4.017
+    },
+    {
+      "text": " universe. ai + aj might be equal to",
+      "start": 2167.265,
+      "duration": 5.077
+    },
+    {
+      "text": " your sum or target, which is great.",
+      "start": 2171.445,
+      "duration": 4.604
+    },
+    {
+      "text": " Return it in this case. Your ai + aj",
+      "start": 2175.149,
+      "duration": 4.358
+    },
+    {
+      "text": " might be smaller than your sum. If it",
+      "start": 2178.584,
+      "duration": 4.102
+    },
+    {
+      "text": " is smaller, what will we do? What did",
+      "start": 2181.729,
+      "duration": 2.605
+    },
+    {
+      "text": " we understand? What did we understand?",
+      "start": 2183.373,
+      "duration": 2.419
+    },
+    {
+      "text": " Look here. Look, the sum of one and",
+      "start": 2184.892,
+      "duration": 3.237
+    },
+    {
+      "text": " seven is smaller than 12, so what did",
+      "start": 2187.19,
+      "duration": 3.267
+    },
+    {
+      "text": " we do? We increased one. We didn't",
+      "start": 2189.518,
+      "duration": 3.251
+    },
+    {
+      "text": " decrease seven, because we need to",
+      "start": 2191.814,
+      "duration": 2.546
+    },
+    {
+      "text": " increase and move forward, not go",
+      "start": 2193.405,
+      "duration": 2.5
+    },
+    {
+      "text": " backward. You are already sitting with",
+      "start": 2194.95,
+      "duration": 3.137
+    },
+    {
+      "text": " a smaller person, so if you try to sit",
+      "start": 2197.132,
+      "duration": 2.695
+    },
+    {
+      "text": " with an even smaller person, that won't",
+      "start": 2198.871,
+      "duration": 2.74
+    },
+    {
+      "text": " work. So if this is small, in this case",
+      "start": 2200.655,
+      "duration": 4.488
+    },
+    {
+      "text": ", we have to do i ++, we are moving i",
+      "start": 2204.143,
+      "duration": 4.278
+    },
+    {
+      "text": " forward. What could be the third choice",
+      "start": 2207.51,
+      "duration": 3.536
+    },
+    {
+      "text": "? Ai + Aj is greater than the sum. What",
+      "start": 2210.046,
+      "duration": 6.778
+    },
+    {
+      "text": " did we do when it was greater, brother?",
+      "start": 2215.853,
+      "duration": 2.131
+    },
+    {
+      "text": " What did we do? What did we do? Why",
+      "start": 2217.084,
+      "duration": 2.82
+    },
+    {
+      "text": " don't you speak up? It is greater; if",
+      "start": 2218.954,
+      "duration": 3.37
+    },
+    {
+      "text": " the sum of one and seven is greater",
+      "start": 2221.364,
+      "duration": 2.409
+    },
+    {
+      "text": " than six, then increasing one won't",
+      "start": 2222.813,
+      "duration": 2.408
+    },
+    {
+      "text": " help; you will get even bigger, and the",
+      "start": 2224.262,
+      "duration": 2.569
+    },
+    {
+      "text": " difference will increase further.",
+      "start": 2225.871,
+      "duration": 2.329
+    },
+    {
+      "text": " Reduce the seven, bring the seven back,",
+      "start": 2227.806,
+      "duration": 3.813
+    },
+    {
+      "text": " reduce it a bit. You see, all of this",
+      "start": 2230.691,
+      "duration": 3.276
+    },
+    {
+      "text": " is like a game. You took a number, it's",
+      "start": 2233.018,
+      "duration": 3.06
+    },
+    {
+      "text": " a bit low, you increase it a little,",
+      "start": 2235.13,
+      "duration": 2.867
+    },
+    {
+      "text": " you increase it too much, then you",
+      "start": 2237.049,
+      "duration": 2.764
+    },
+    {
+      "text": " decrease it a little, so you see, we",
+      "start": 2238.865,
+      "duration": 2.868
+    },
+    {
+      "text": " are trying to bring it into balance,",
+      "start": 2240.785,
+      "duration": 2.867
+    },
+    {
+      "text": " right? So if the sum of Ai and Aj is",
+      "start": 2242.704,
+      "duration": 2.698
+    },
+    {
+      "text": " greater, what will we do? We will do j",
+      "start": 2244.446,
+      "duration": 3.321
+    },
+    {
+      "text": "--. Brother, speak, speak, speak, it",
+      "start": 2246.767,
+      "duration": 2.946
+    },
+    {
+      "text": " will happen by speaking. This is the",
+      "start": 2248.757,
+      "duration": 3.944
+    },
+    {
+      "text": " pseudo-code, and where you find that",
+      "start": 2251.763,
+      "duration": 3.23
+    },
+    {
+      "text": " this is i and j, you return that. We",
+      "start": 2254.055,
+      "duration": 3.845
+    },
+    {
+      "text": " have to return the numbers here. If the",
+      "start": 2256.94,
+      "duration": 2.717
+    },
+    {
+      "text": " array was already sorted and we had to",
+      "start": 2258.706,
+      "duration": 2.872
+    },
+    {
+      "text": " return indices, would it still work? In",
+      "start": 2260.627,
+      "duration": 3.153
+    },
+    {
+      "text": " which question would it work, brother?",
+      "start": 2262.827,
+      "duration": 2.781
+    },
+    {
+      "text": " It will work for numbers. If the array",
+      "start": 2265.256,
+      "duration": 2.945
+    },
+    {
+      "text": " is already sorted, it will work for",
+      "start": 2267.252,
+      "duration": 2.774
+    },
+    {
+      "text": " indices too. Open your mouth and speak.",
+      "start": 2269.077,
+      "duration": 2.619
+    },
+    {
+      "text": " Open your mind and listen. Open your",
+      "start": 2270.796,
+      "duration": 2.389
+    },
+    {
+      "text": " ears and listen. Open your mind and",
+      "start": 2272.227,
+      "duration": 2.835
+    },
+    {
+      "text": " understand. Did you understand the",
+      "start": 2274.121,
+      "duration": 2.439
+    },
+    {
+      "text": " two-pointer approach? Why was it used",
+      "start": 2275.591,
+      "duration": 2.414
+    },
+    {
+      "text": " here? After listening to the whole epic",
+      "start": 2277.048,
+      "duration": 3.159
+    },
+    {
+      "text": ". So now, how will you think of this?",
+      "start": 2279.207,
+      "duration": 3.512
+    },
+    {
+      "text": " Someone could say, you thought of it,",
+      "start": 2282.279,
+      "duration": 2.46
+    },
+    {
+      "text": " but how will we think of it, brother?",
+      "start": 2283.778,
+      "duration": 2.461
+    },
+    {
+      "text": " So, it comes with practice. Believe me,",
+      "start": 2285.439,
+      "duration": 4.035
+    },
+    {
+      "text": " I didn't know anything earlier either.",
+      "start": 2288.516,
+      "duration": 2.612
+    },
+    {
+      "text": " Whatever I have explained in these 40",
+      "start": 2290.228,
+      "duration": 2.59
+    },
+    {
+      "text": " minutes today. I didn't even have 4",
+      "start": 2291.861,
+      "duration": 2.627
+    },
+    {
+      "text": " seconds 'worth of knowledge about it 2",
+      "start": 2293.535,
+      "duration": 2.758
+    },
+    {
+      "text": " years ago. Slowly, slowly, it builds up",
+      "start": 2295.34,
+      "duration": 3.578
+    },
+    {
+      "text": ". And it's not like I am teaching by",
+      "start": 2297.918,
+      "duration": 2.46
+    },
+    {
+      "text": " writing a script. I am no hero that a",
+      "start": 2299.416,
+      "duration": 2.57
+    },
+    {
+      "text": " teleprompter is running in front of me.",
+      "start": 2301.029,
+      "duration": 2.686
+    },
+    {
+      "text": " I am reading. Everything is in my mind.",
+      "start": 2302.815,
+      "duration": 3.049
+    },
+    {
+      "text": " I am telling you everything. Everything",
+      "start": 2304.964,
+      "duration": 2.442
+    },
+    {
+      "text": " that is in my mind, that is why I say",
+      "start": 2306.454,
+      "duration": 2.763
+    },
+    {
+      "text": " watch the video till the end. Something",
+      "start": 2308.265,
+      "duration": 2.862
+    },
+    {
+      "text": " might come up in between that you don't",
+      "start": 2310.169,
+      "duration": 2.649
+    },
+    {
+      "text": " know and that you could learn. When I",
+      "start": 2311.86,
+      "duration": 2.669
+    },
+    {
+      "text": " was in college too, I used to watch",
+      "start": 2313.579,
+      "duration": 2.75
+    },
+    {
+      "text": " Striver's videos. So, their videos used",
+      "start": 2315.379,
+      "duration": 2.861
+    },
+    {
+      "text": " to be 40 minutes, an hour, or half an",
+      "start": 2317.282,
+      "duration": 2.586
+    },
+    {
+      "text": " hour long. And I would understand it. I",
+      "start": 2318.911,
+      "duration": 2.816
+    },
+    {
+      "text": " used to understand it within the first",
+      "start": 2320.759,
+      "duration": 2.222
+    },
+    {
+      "text": " 10 minutes. But I would still watch the",
+      "start": 2322.014,
+      "duration": 2.129
+    },
+    {
+      "text": " whole thing. Because in between, they",
+      "start": 2323.168,
+      "duration": 2.903
+    },
+    {
+      "text": " would share something or write such",
+      "start": 2325.132,
+      "duration": 3.118
+    },
+    {
+      "text": " beautiful code. They wrote code with",
+      "start": 2327.311,
+      "duration": 2.796
+    },
+    {
+      "text": " such elegance that I would think, \"Yes,",
+      "start": 2329.145,
+      "duration": 2.499
+    },
+    {
+      "text": " this is great.\" So, whatever I am doing",
+      "start": 2330.682,
+      "duration": 2.809
+    },
+    {
+      "text": " today is because of that. I have",
+      "start": 2332.539,
+      "duration": 2.535
+    },
+    {
+      "text": " learned from many people. Learning the",
+      "start": 2334.113,
+      "duration": 2.64
+    },
+    {
+      "text": " good things from many people is why I",
+      "start": 2335.802,
+      "duration": 2.788
+    },
+    {
+      "text": " am teaching you today. You should also",
+      "start": 2337.638,
+      "duration": 2.674
+    },
+    {
+      "text": " learn from me. You should also teach.",
+      "start": 2339.346,
+      "duration": 2.479
+    },
+    {
+      "text": " You should also learn from five",
+      "start": 2340.925,
+      "duration": 1.944
+    },
+    {
+      "text": " different people. Learn the good things",
+      "start": 2341.9,
+      "duration": 2.432
+    },
+    {
+      "text": " from all five and move forward. Alright",
+      "start": 2343.371,
+      "duration": 2.895
+    },
+    {
+      "text": "? Let's write the pseudocode. What will",
+      "start": 2345.266,
+      "duration": 3.112
+    },
+    {
+      "text": " be your input in the pseudocode,",
+      "start": 2347.416,
+      "duration": 2.204
+    },
+    {
+      "text": " brother? Yes, there's one more thing. I",
+      "start": 2348.657,
+      "duration": 2.659
+    },
+    {
+      "text": " won't write the full code. You write",
+      "start": 2350.353,
+      "duration": 2.598
+    },
+    {
+      "text": " the full code yourself. You have to",
+      "start": 2352.007,
+      "duration": 2.699
+    },
+    {
+      "text": " write the full code, after all. Right?",
+      "start": 2353.735,
+      "duration": 2.473
+    },
+    {
+      "text": " What did we say in the pseudocode? What",
+      "start": 2355.308,
+      "duration": 3.037
+    },
+    {
+      "text": " will be your input? Your input is an",
+      "start": 2357.427,
+      "duration": 4.128
+    },
+    {
+      "text": " array and a target sum. So, what is the",
+      "start": 2360.636,
+      "duration": 4.512
+    },
+    {
+      "text": " very first task? Sort it. Sort the",
+      "start": 2364.199,
+      "duration": 4.07
+    },
+    {
+      "text": " array. Now, this is written differently",
+      "start": 2367.349,
+      "duration": 3.22
+    },
+    {
+      "text": " in C ++. Differently in Java. And",
+      "start": 2369.62,
+      "duration": 2.66
+    },
+    {
+      "text": " differently in Python. Look up the",
+      "start": 2371.327,
+      "duration": 2.633
+    },
+    {
+      "text": " syntax. There is no point in teaching",
+      "start": 2373.006,
+      "duration": 3.193
+    },
+    {
+      "text": " syntax. Now, learn how to think. Learn",
+      "start": 2375.26,
+      "duration": 3.022
+    },
+    {
+      "text": " how to think. Anyone can learn syntax.",
+      "start": 2377.317,
+      "duration": 2.701
+    },
+    {
+      "text": " A person can learn syntax in just one",
+      "start": 2379.118,
+      "duration": 2.54
+    },
+    {
+      "text": " day. Now, take two variables. j = n-1,",
+      "start": 2380.7,
+      "duration": 5.431
+    },
+    {
+      "text": " what is n? It is the length of the",
+      "start": 2385.228,
+      "duration": 2.73
+    },
+    {
+      "text": " array. If it's not provided, calculate",
+      "start": 2386.987,
+      "duration": 2.675
+    },
+    {
+      "text": " it. Now, now there is one more thing.",
+      "start": 2388.707,
+      "duration": 3.075
+    },
+    {
+      "text": " One more thing, oh my God, I almost",
+      "start": 2390.9,
+      "duration": 2.452
+    },
+    {
+      "text": " forgot to tell you the most important",
+      "start": 2392.394,
+      "duration": 2.535
+    },
+    {
+      "text": " thing. Where is it? Yes, suppose a sum",
+      "start": 2393.971,
+      "duration": 4.261
+    },
+    {
+      "text": " is given that isn't even in the array.",
+      "start": 2397.303,
+      "duration": 3.694
+    },
+    {
+      "text": " Such a sum is also possible, right?",
+      "start": 2400.097,
+      "duration": 2.195
+    },
+    {
+      "text": " It's not necessary that they are your",
+      "start": 2401.392,
+      "duration": 2.339
+    },
+    {
+      "text": " friend and are giving you a sum that",
+      "start": 2402.768,
+      "duration": 2.303
+    },
+    {
+      "text": " exists in the array. They tell you to",
+      "start": 2404.107,
+      "duration": 2.728
+    },
+    {
+      "text": " find 20, brother. If you sum any",
+      "start": 2405.892,
+      "duration": 2.839
+    },
+    {
+      "text": " elements, 20 won't come up. It won't",
+      "start": 2407.786,
+      "duration": 3.024
+    },
+    {
+      "text": " come. So, how will it end in this case?",
+      "start": 2409.864,
+      "duration": 3.313
+    },
+    {
+      "text": " One person is at the bottom of the",
+      "start": 2412.277,
+      "duration": 2.174
+    },
+    {
+      "text": " building, one is at the top. So, both",
+      "start": 2413.485,
+      "duration": 2.534
+    },
+    {
+      "text": " keep coming closer. But when they meet,",
+      "start": 2415.077,
+      "duration": 3.03
+    },
+    {
+      "text": " they will realize the item isn't there.",
+      "start": 2417.15,
+      "duration": 2.691
+    },
+    {
+      "text": " So, when will it end? When will it end?",
+      "start": 2418.941,
+      "duration": 3.175
+    },
+    {
+      "text": " Whenever your two-pointer question has",
+      "start": 2421.619,
+      "duration": 3.074
+    },
+    {
+      "text": " both pointers at the same position.",
+      "start": 2423.748,
+      "duration": 2.911
+    },
+    {
+      "text": " Listen carefully, with your mind wide",
+      "start": 2426.279,
+      "duration": 2.583
+    },
+    {
+      "text": " open. When you start, both pointers are",
+      "start": 2427.905,
+      "duration": 3.165
+    },
+    {
+      "text": " at different positions. Someone might",
+      "start": 2430.121,
+      "duration": 2.807
+    },
+    {
+      "text": " be ahead, someone behind, someone above",
+      "start": 2431.964,
+      "duration": 2.408
+    },
+    {
+      "text": ", or someone below. If ever in the",
+      "start": 2433.372,
+      "duration": 3.134
+    },
+    {
+      "text": " world both elements meet at the same",
+      "start": 2435.586,
+      "duration": 3.898
+    },
+    {
+      "text": " array position, or, or, or...If they",
+      "start": 2438.565,
+      "duration": 6.114
+    },
+    {
+      "text": " cross each other, either crossed or met",
+      "start": 2443.741,
+      "duration": 3.452
+    },
+    {
+      "text": ", your program is done. Beyond that,",
+      "start": 2446.193,
+      "duration": 3.926
+    },
+    {
+      "text": " there's nothing left for you; nothing",
+      "start": 2449.167,
+      "duration": 2.789
+    },
+    {
+      "text": " will work, okay? After that, definitely",
+      "start": 2451.005,
+      "duration": 2.949
+    },
+    {
+      "text": " stop. Meaning, I'm saying it again, I'm",
+      "start": 2452.998,
+      "duration": 2.707
+    },
+    {
+      "text": " saying it again, write this down",
+      "start": 2454.744,
+      "duration": 2.246
+    },
+    {
+      "text": " somewhere. One is here, one is here.",
+      "start": 2456.029,
+      "duration": 3.758
+    },
+    {
+      "text": " This right is moving, where did it go?",
+      "start": 2458.887,
+      "duration": 3.4
+    },
+    {
+      "text": " This left is moving, this right is",
+      "start": 2461.387,
+      "duration": 2.394
+    },
+    {
+      "text": " moving, at some point...At some point,",
+      "start": 2462.822,
+      "duration": 2.558
+    },
+    {
+      "text": " they will both meet or even cross each",
+      "start": 2464.421,
+      "duration": 2.558
+    },
+    {
+      "text": " other. It's not necessary that they",
+      "start": 2466.02,
+      "duration": 2.544
+    },
+    {
+      "text": " meet on one; they will cross. As soon",
+      "start": 2467.607,
+      "duration": 2.827
+    },
+    {
+      "text": " as they meet or cross, you must stop",
+      "start": 2469.504,
+      "duration": 3.507
+    },
+    {
+      "text": " your program. Understand how to write",
+      "start": 2472.081,
+      "duration": 3.633
+    },
+    {
+      "text": " this in code as well. Where is it? Now",
+      "start": 2474.783,
+      "duration": 3.981
+    },
+    {
+      "text": " look, i is 0. i is j and n-1. It is",
+      "start": 2477.872,
+      "duration": 4.444
+    },
+    {
+      "text": " possible that your array length is five",
+      "start": 2481.367,
+      "duration": 3.0
+    },
+    {
+      "text": ". So what will be the value of j? Four.",
+      "start": 2483.367,
+      "duration": 4.172
+    },
+    {
+      "text": " Right? That's good. So i is 0. j = 4. i",
+      "start": 2486.879,
+      "duration": 7.766
+    },
+    {
+      "text": " will always increase. i is always",
+      "start": 2493.69,
+      "duration": 2.545
+    },
+    {
+      "text": " increasing, right? So i can be one. It",
+      "start": 2495.274,
+      "duration": 3.343
+    },
+    {
+      "text": " can be two. It can be three. It can be",
+      "start": 2497.671,
+      "duration": 3.07
+    },
+    {
+      "text": " four. j will always be decreasing. So j",
+      "start": 2499.801,
+      "duration": 3.132
+    },
+    {
+      "text": " will either become three. Sometimes it",
+      "start": 2501.983,
+      "duration": 2.9
+    },
+    {
+      "text": " will become two, sometimes one. Now see",
+      "start": 2503.928,
+      "duration": 3.067
+    },
+    {
+      "text": ", is this condition valid? One and",
+      "start": 2505.995,
+      "duration": 3.531
+    },
+    {
+      "text": " three, they still haven't crossed. One",
+      "start": 2508.564,
+      "duration": 2.545
+    },
+    {
+      "text": " is here, one is here. Very good. Two",
+      "start": 2510.156,
+      "duration": 3.056
+    },
+    {
+      "text": " and two, see here, they met. They",
+      "start": 2512.263,
+      "duration": 2.69
+    },
+    {
+      "text": " arrived at one position. Stop the",
+      "start": 2513.988,
+      "duration": 2.385
+    },
+    {
+      "text": " program. Suppose this didn't happen, if",
+      "start": 2515.427,
+      "duration": 3.454
+    },
+    {
+      "text": " someone said, \"It's four and one,\" then",
+      "start": 2517.928,
+      "duration": 2.824
+    },
+    {
+      "text": " look at i, i has gone to four, j has",
+      "start": 2519.799,
+      "duration": 2.683
+    },
+    {
+      "text": " come to one, so they crossed, man! Then",
+      "start": 2521.529,
+      "duration": 3.248
+    },
+    {
+      "text": " there is no two-pointer left. Now one",
+      "start": 2523.813,
+      "duration": 2.421
+    },
+    {
+      "text": " person is going ahead, one person is",
+      "start": 2525.272,
+      "duration": 2.381
+    },
+    {
+      "text": " going behind, so what will they do?",
+      "start": 2526.692,
+      "duration": 2.343
+    },
+    {
+      "text": " They won't be able to do anything. Your",
+      "start": 2528.135,
+      "duration": 2.129
+    },
+    {
+      "text": " coordination is gone. So how do we",
+      "start": 2529.324,
+      "duration": 3.28
+    },
+    {
+      "text": " write it in code? We run a' while 'loop",
+      "start": 2531.681,
+      "duration": 4.222
+    },
+    {
+      "text": ".' While 'means as long as this",
+      "start": 2534.903,
+      "duration": 3.58
+    },
+    {
+      "text": " condition is true. That's what we are",
+      "start": 2537.539,
+      "duration": 3.994
+    },
+    {
+      "text": " saying, that until you cross each other",
+      "start": 2540.58,
+      "duration": 2.852
+    },
+    {
+      "text": " or meet, only then keep doing i. Less",
+      "start": 2542.479,
+      "duration": 3.995
+    },
+    {
+      "text": " than j, why are we not writing equals?",
+      "start": 2545.526,
+      "duration": 2.98
+    },
+    {
+      "text": " Because they shouldn't even meet. They",
+      "start": 2547.606,
+      "duration": 2.276
+    },
+    {
+      "text": " shouldn't even land on one box. i must",
+      "start": 2548.927,
+      "duration": 3.004
+    },
+    {
+      "text": " be smaller than j. i will be here, j",
+      "start": 2551.003,
+      "duration": 3.219
+    },
+    {
+      "text": " will be there. That's very good. As",
+      "start": 2553.266,
+      "duration": 2.623
+    },
+    {
+      "text": " soon as they meet or cross, the game is",
+      "start": 2554.934,
+      "duration": 2.755
+    },
+    {
+      "text": " over. So, what does \"while i less than",
+      "start": 2556.734,
+      "duration": 3.162
+    },
+    {
+      "text": " j\" mean? As long as, brother, i is less",
+      "start": 2558.95,
+      "duration": 3.545
+    },
+    {
+      "text": " than j. Keep doing all these tasks. As",
+      "start": 2561.562,
+      "duration": 2.948
+    },
+    {
+      "text": " soon as it goes out, come out. Not",
+      "start": 2563.556,
+      "duration": 2.769
+    },
+    {
+      "text": " after that. After that, it's simple.",
+      "start": 2565.415,
+      "duration": 3.281
+    },
+    {
+      "text": " Take a sum variable. Calculate the sum",
+      "start": 2567.796,
+      "duration": 5.016
+    },
+    {
+      "text": " of ai and aj. Now, what did I say?",
+      "start": 2571.934,
+      "duration": 5.055
+    },
+    {
+      "text": " There can only be three conditions in",
+      "start": 2576.089,
+      "duration": 2.131
+    },
+    {
+      "text": " the entire universe. Check all three",
+      "start": 2577.251,
+      "duration": 2.46
+    },
+    {
+      "text": " one by one, brother. If sum is equal to",
+      "start": 2578.761,
+      "duration": 3.401
+    },
+    {
+      "text": " the target. That's very good. Many",
+      "start": 2581.234,
+      "duration": 2.909
+    },
+    {
+      "text": " congratulations to everyone. Return it.",
+      "start": 2583.185,
+      "duration": 3.624
+    },
+    {
+      "text": " Return i, j, or whatever number ai, aj",
+      "start": 2586.56,
+      "duration": 3.261
+    },
+    {
+      "text": " you need to return, return ai or else",
+      "start": 2588.881,
+      "duration": 3.202
+    },
+    {
+      "text": " return i. You must have understood. Now",
+      "start": 2591.143,
+      "duration": 3.127
+    },
+    {
+      "text": ", it's not like that. Yes, one more",
+      "start": 2593.27,
+      "duration": 2.897
+    },
+    {
+      "text": " thing, as soon as you return, your",
+      "start": 2595.214,
+      "duration": 2.59
+    },
+    {
+      "text": " function ends. Okay? If this returns,",
+      "start": 2596.851,
+      "duration": 3.093
+    },
+    {
+      "text": " nothing else will run further. The",
+      "start": 2598.989,
+      "duration": 2.559
+    },
+    {
+      "text": " whole function ends. If this didn't run",
+      "start": 2600.585,
+      "duration": 2.666
+    },
+    {
+      "text": ", it means this condition isn't true. I",
+      "start": 2602.251,
+      "duration": 3.389
+    },
+    {
+      "text": " am saying, if this didn't return, it",
+      "start": 2604.681,
+      "duration": 2.461
+    },
+    {
+      "text": " means this condition is false. Now if",
+      "start": 2606.182,
+      "duration": 3.212
+    },
+    {
+      "text": " this condition is false, two more",
+      "start": 2608.434,
+      "duration": 2.297
+    },
+    {
+      "text": " things can happen. If sum is less than",
+      "start": 2609.771,
+      "duration": 4.81
+    },
+    {
+      "text": " target. What does that mean? The sum of",
+      "start": 2613.731,
+      "duration": 3.663
+    },
+    {
+      "text": " one and seven is eight. It is less than",
+      "start": 2616.436,
+      "duration": 2.785
+    },
+    {
+      "text": " 12. So will you increase one or",
+      "start": 2618.269,
+      "duration": 2.437
+    },
+    {
+      "text": " decrease seven? You will increase one.",
+      "start": 2619.75,
+      "duration": 2.763
+    },
+    {
+      "text": " i ++ yes. Else, let's write if. There",
+      "start": 2621.759,
+      "duration": 6.112
+    },
+    {
+      "text": " is no need to write. Sum is greater",
+      "start": 2626.906,
+      "duration": 2.726
+    },
+    {
+      "text": " than target, meaning the sum of one and",
+      "start": 2628.698,
+      "duration": 3.562
+    },
+    {
+      "text": " seven is eight. It's greater than six,",
+      "start": 2631.325,
+      "duration": 2.966
+    },
+    {
+      "text": " so will you increase one more or",
+      "start": 2633.331,
+      "duration": 2.28
+    },
+    {
+      "text": " decrease seven? We will decrease,",
+      "start": 2634.651,
+      "duration": 2.539
+    },
+    {
+      "text": " brother. j--close this while loop. And",
+      "start": 2636.237,
+      "duration": 5.862
+    },
+    {
+      "text": " if you ever come out of this loop. What",
+      "start": 2641.16,
+      "duration": 3.377
+    },
+    {
+      "text": " did I say? When will this while loop",
+      "start": 2643.588,
+      "duration": 2.688
+    },
+    {
+      "text": " close? When i and j cross each other.",
+      "start": 2645.319,
+      "duration": 3.659
+    },
+    {
+      "text": " If they crossed and the answer wasn't",
+      "start": 2648.078,
+      "duration": 2.606
+    },
+    {
+      "text": " found, you'll never find the answer in",
+      "start": 2649.728,
+      "duration": 2.65
+    },
+    {
+      "text": " the world. Return something empty.",
+      "start": 2651.421,
+      "duration": 2.93
+    },
+    {
+      "text": " Whatever is written in the question,",
+      "start": 2653.451,
+      "duration": 2.586
+    },
+    {
+      "text": " return -1 or anything. Anything empty",
+      "start": 2655.081,
+      "duration": 3.014
+    },
+    {
+      "text": " or error, whatever, that will be",
+      "start": 2657.151,
+      "duration": 2.776
+    },
+    {
+      "text": " written in the question, like return -1",
+      "start": 2658.982,
+      "duration": 3.165
+    },
+    {
+      "text": " or something like that. In many",
+      "start": 2661.202,
+      "duration": 2.791
+    },
+    {
+      "text": " questions, it is written that there",
+      "start": 2663.032,
+      "duration": 2.365
+    },
+    {
+      "text": " will be an answer, still you have to",
+      "start": 2664.436,
+      "duration": 2.404
+    },
+    {
+      "text": " write the program like this because in",
+      "start": 2665.879,
+      "duration": 2.482
+    },
+    {
+      "text": " an interview it might not be guaranteed",
+      "start": 2667.4,
+      "duration": 2.521
+    },
+    {
+      "text": ". Say it isn't there, brother, and if",
+      "start": 2668.921,
+      "duration": 2.529
+    },
+    {
+      "text": " it isn't, then if we have to return -1,",
+      "start": 2670.489,
+      "duration": 2.527
+    },
+    {
+      "text": " we will return -1. So it depends on",
+      "start": 2672.055,
+      "duration": 2.633
+    },
+    {
+      "text": " question to question. So, we hope that",
+      "start": 2673.738,
+      "duration": 3.157
+    },
+    {
+      "text": " this was understood. A lot of effort",
+      "start": 2675.953,
+      "duration": 3.02
+    },
+    {
+      "text": " went into this. Explaining all this to",
+      "start": 2678.024,
+      "duration": 3.04
+    },
+    {
+      "text": " you, and more videos will come from",
+      "start": 2680.111,
+      "duration": 2.647
+    },
+    {
+      "text": " tomorrow. It might even come today, or",
+      "start": 2681.805,
+      "duration": 2.585
+    },
+    {
+      "text": " tomorrow. So, all these videos will be",
+      "start": 2683.427,
+      "duration": 2.655
+    },
+    {
+      "text": " available in a Two Pointers playlist.",
+      "start": 2685.121,
+      "duration": 2.458
+    },
+    {
+      "text": " You can watch them. My goal is for",
+      "start": 2686.739,
+      "duration": 2.701
+    },
+    {
+      "text": " thousands of college students to watch,",
+      "start": 2688.484,
+      "duration": 2.732
+    },
+    {
+      "text": " understand, and learn this later on. So",
+      "start": 2690.26,
+      "duration": 2.971
+    },
+    {
+      "text": " go ahead, it has been updated in the",
+      "start": 2692.277,
+      "duration": 2.656
+    },
+    {
+      "text": " sheet with the link. Go and practice it",
+      "start": 2693.979,
+      "duration": 3.366
+    },
+    {
+      "text": ". If you feel like it, practice both",
+      "start": 2696.345,
+      "duration": 2.949
+    },
+    {
+      "text": " Two Sum and Two Sum II. Okay? What I",
+      "start": 2698.345,
+      "duration": 3.41
+    },
+    {
+      "text": " mean by practicing both is to try both",
+      "start": 2700.83,
+      "duration": 3.852
+    },
+    {
+      "text": " of them out. How many approaches did we",
+      "start": 2703.757,
+      "duration": 2.844
+    },
+    {
+      "text": " learn? We learned the brute force one,",
+      "start": 2705.634,
+      "duration": 2.27
+    },
+    {
+      "text": " it's not of much use. We learned a",
+      "start": 2706.935,
+      "duration": 2.246
+    },
+    {
+      "text": " better approach using a hash map, you",
+      "start": 2708.221,
+      "duration": 2.497
+    },
+    {
+      "text": " should learn that too. There is no harm",
+      "start": 2709.759,
+      "duration": 2.535
+    },
+    {
+      "text": " in it if you feel like it. And the even",
+      "start": 2711.328,
+      "duration": 2.435
+    },
+    {
+      "text": " better approach, the Two Pointer",
+      "start": 2712.8,
+      "duration": 2.185
+    },
+    {
+      "text": " pattern. What is its time complexity? I",
+      "start": 2714.022,
+      "duration": 3.181
+    },
+    {
+      "text": " forgot to mention that. See, that’s",
+      "start": 2716.233,
+      "duration": 2.134
+    },
+    {
+      "text": " why I tell you to watch the video until",
+      "start": 2717.393,
+      "duration": 2.006
+    },
+    {
+      "text": " the end. Sometimes I suddenly remember",
+      "start": 2718.425,
+      "duration": 2.872
+    },
+    {
+      "text": " things and mention them. What is the",
+      "start": 2720.346,
+      "duration": 3.181
+    },
+    {
+      "text": " time complexity? What was the time",
+      "start": 2722.574,
+      "duration": 2.535
+    },
+    {
+      "text": " complexity of the hash map one? It was",
+      "start": 2724.149,
+      "duration": 2.745
+    },
+    {
+      "text": " Order of N. Yes. Always keep this in",
+      "start": 2725.957,
+      "duration": 3.634
+    },
+    {
+      "text": " mind: whenever you sort something, it",
+      "start": 2728.653,
+      "duration": 3.284
+    },
+    {
+      "text": " takes at least n log n. It will take",
+      "start": 2730.999,
+      "duration": 3.046
+    },
+    {
+      "text": " more than that. It won't take less than",
+      "start": 2733.082,
+      "duration": 2.576
+    },
+    {
+      "text": " that. So, first of all, our sorting",
+      "start": 2734.698,
+      "duration": 3.074
+    },
+    {
+      "text": " took n log n. That much is done. Now,",
+      "start": 2736.833,
+      "duration": 3.28
+    },
+    {
+      "text": " what are you doing? I is moving from",
+      "start": 2739.151,
+      "duration": 2.468
+    },
+    {
+      "text": " one end, J is moving from the other. So",
+      "start": 2740.659,
+      "duration": 2.68
+    },
+    {
+      "text": " it is only running once. It is not",
+      "start": 2742.39,
+      "duration": 2.791
+    },
+    {
+      "text": " running separately. I is covering half,",
+      "start": 2744.227,
+      "duration": 3.163
+    },
+    {
+      "text": " and J is covering the rest. Order of N",
+      "start": 2746.445,
+      "duration": 3.263
+    },
+    {
+      "text": " is taken by our traversal. So,",
+      "start": 2748.761,
+      "duration": 2.744
+    },
+    {
+      "text": " whichever of the two is larger, since",
+      "start": 2750.547,
+      "duration": 2.561
+    },
+    {
+      "text": " you feel like two independent tasks are",
+      "start": 2752.15,
+      "duration": 2.645
+    },
+    {
+      "text": " happening. I will explain time",
+      "start": 2753.837,
+      "duration": 2.534
+    },
+    {
+      "text": " complexity in detail very comfortably",
+      "start": 2755.416,
+      "duration": 2.659
+    },
+    {
+      "text": " one day. But whichever is larger, n log",
+      "start": 2757.12,
+      "duration": 3.01
+    },
+    {
+      "text": " n is larger. So, n log n is its time.",
+      "start": 2759.178,
+      "duration": 3.564
+    },
+    {
+      "text": " How much space did it take? Nothing. No",
+      "start": 2761.842,
+      "duration": 2.48
+    },
+    {
+      "text": " extra space. Order of one space. Zero",
+      "start": 2763.383,
+      "duration": 3.197
+    },
+    {
+      "text": " space, yes, yes. No matter how large",
+      "start": 2765.676,
+      "duration": 3.422
+    },
+    {
+      "text": " the array is, we won't take any space.",
+      "start": 2768.132,
+      "duration": 2.31
+    },
+    {
+      "text": " So, even if it's a 1 billion element",
+      "start": 2769.542,
+      "duration": 2.509
+    },
+    {
+      "text": " array, 2 billion, or a trillion, no",
+      "start": 2771.093,
+      "duration": 2.467
+    },
+    {
+      "text": " space is needed. No RAM needed in the",
+      "start": 2772.602,
+      "duration": 2.649
+    },
+    {
+      "text": " laptop. It will run in Order of one",
+      "start": 2774.295,
+      "duration": 3.074
+    },
+    {
+      "text": " space. Right? You now know all three",
+      "start": 2776.431,
+      "duration": 2.929
+    },
+    {
+      "text": " approaches. What was it in brute force?",
+      "start": 2778.404,
+      "duration": 2.6
+    },
+    {
+      "text": " n² time, one space. In hash map, n",
+      "start": 2780.104,
+      "duration": 3.794
+    },
+    {
+      "text": " space, n time. It's n log n time and",
+      "start": 2782.97,
+      "duration": 3.621
+    },
+    {
+      "text": " one space. All three might be asked in",
+      "start": 2785.662,
+      "duration": 2.887
+    },
+    {
+      "text": " interviews too. So make sure you",
+      "start": 2787.588,
+      "duration": 2.161
+    },
+    {
+      "text": " understand these as well. Go ahead and",
+      "start": 2788.778,
+      "duration": 3.402
+    },
+    {
+      "text": " submit it, run it. If it doesn't run,",
+      "start": 2791.311,
+      "duration": 4.176
+    },
+    {
+      "text": " read the hints. But understand that my",
+      "start": 2794.527,
+      "duration": 2.901
+    },
+    {
+      "text": " goal is to explain all this to you",
+      "start": 2796.475,
+      "duration": 2.62
+    },
+    {
+      "text": " gradually. My goal isn't to be a school",
+      "start": 2798.143,
+      "duration": 3.204
+    },
+    {
+      "text": " teacher who makes you memorize 400",
+      "start": 2800.402,
+      "duration": 2.856
+    },
+    {
+      "text": " questions. There's no benefit in that.",
+      "start": 2802.313,
+      "duration": 2.922
+    },
+    {
+      "text": " I want to teach you so that even if you",
+      "start": 2804.335,
+      "duration": 2.694
+    },
+    {
+      "text": " do 100 questions, the 101st question",
+      "start": 2806.073,
+      "duration": 2.564
+    },
+    {
+      "text": " should come to your mind on its own,",
+      "start": 2807.681,
+      "duration": 2.565
+    },
+    {
+      "text": " and it will. It will come with time. It",
+      "start": 2809.289,
+      "duration": 2.509
+    },
+    {
+      "text": " happens for everyone. I'm not some",
+      "start": 2810.836,
+      "duration": 2.661
+    },
+    {
+      "text": " highly intelligent genius. I don't even",
+      "start": 2812.562,
+      "duration": 3.278
+    },
+    {
+      "text": " have four hands. I give this example",
+      "start": 2814.882,
+      "duration": 2.51
+    },
+    {
+      "text": " quite often. I mean, I was born in",
+      "start": 2816.431,
+      "duration": 3.588
+    },
+    {
+      "text": " Patna. I went to a private college.",
+      "start": 2819.079,
+      "duration": 3.478
+    },
+    {
+      "text": " Then from there, I went to IIT. From",
+      "start": 2821.657,
+      "duration": 2.384
+    },
+    {
+      "text": " there, I went to a startup. From the",
+      "start": 2823.069,
+      "duration": 2.269
+    },
+    {
+      "text": " startup, I came to Akamai, and now I'm",
+      "start": 2824.389,
+      "duration": 2.918
+    },
+    {
+      "text": " on YouTube, so everyone eventually",
+      "start": 2826.357,
+      "duration": 2.716
+    },
+    {
+      "text": " figures it out. It might take a little",
+      "start": 2828.123,
+      "duration": 3.081
+    },
+    {
+      "text": " more or less time for some, but",
+      "start": 2830.257,
+      "duration": 2.67
+    },
+    {
+      "text": " everyone gets there. So, this was Day 1",
+      "start": 2831.981,
+      "duration": 3.452
+    },
+    {
+      "text": ". Enjoy it, watch it again, make notes,",
+      "start": 2834.433,
+      "duration": 3.491
+    },
+    {
+      "text": " solve the questions, and see you",
+      "start": 2836.961,
+      "duration": 2.197
+    },
+    {
+      "text": " tomorrow, see you tomorrow, tomorrow.",
+      "start": 2838.195,
+      "duration": 2.385
+    }
+  ]
+}

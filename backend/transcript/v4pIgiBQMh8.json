@@ -1,0 +1,7899 @@
+{
+  "language": "English (United States) (auto-generated)",
+  "language_code": "en-US",
+  "is_generated": true,
+  "videoId": "v4pIgiBQMh8",
+  "channel": "Padho with Pratyush",
+  "segments": [
+    {
+      "text": "Yes, brother, welcome. For those who",
+      "start": 0.124,
+      "duration": 2.721
+    },
+    {
+      "text": " are new here, we don't make you",
+      "start": 1.889,
+      "duration": 2.391
+    },
+    {
+      "text": " memorize questions. We teach you DSA",
+      "start": 3.324,
+      "duration": 3.082
+    },
+    {
+      "text": " patterns. Pattern doesn't mean those",
+      "start": 5.477,
+      "duration": 3.192
+    },
+    {
+      "text": " star patterns, but a problem-solving",
+      "start": 7.712,
+      "duration": 2.537
+    },
+    {
+      "text": " pattern or template so you can solve",
+      "start": 9.292,
+      "duration": 2.538
+    },
+    {
+      "text": " any new question. And for those who are",
+      "start": 10.872,
+      "duration": 3.323
+    },
+    {
+      "text": " old students, come on in. Today is day",
+      "start": 13.244,
+      "duration": 3.102
+    },
+    {
+      "text": " three of sliding window. You all know",
+      "start": 15.403,
+      "duration": 3.667
+    },
+    {
+      "text": " that you will find notes, question",
+      "start": 18.121,
+      "duration": 2.732
+    },
+    {
+      "text": " codes, and links in the description. So",
+      "start": 19.904,
+      "duration": 3.839
+    },
+    {
+      "text": ", okay. The sliding window session we",
+      "start": 22.743,
+      "duration": 4.338
+    },
+    {
+      "text": " are doing today is very important",
+      "start": 26.136,
+      "duration": 2.822
+    },
+    {
+      "text": " because we will completely finish all",
+      "start": 28.013,
+      "duration": 3.043
+    },
+    {
+      "text": " possible variable-size window questions",
+      "start": 30.111,
+      "duration": 3.153
+    },
+    {
+      "text": ". Okay? Meaning, you will start feeling",
+      "start": 32.264,
+      "duration": 3.546
+    },
+    {
+      "text": " that the same thing is happening in",
+      "start": 34.845,
+      "duration": 2.235
+    },
+    {
+      "text": " every question. You just have to apply",
+      "start": 36.115,
+      "duration": 2.179
+    },
+    {
+      "text": " the same thing. Changing a line or two",
+      "start": 37.319,
+      "duration": 2.395
+    },
+    {
+      "text": " here and there will solve the question.",
+      "start": 38.755,
+      "duration": 2.632
+    },
+    {
+      "text": " Understand? Okay? Sliding window is",
+      "start": 40.487,
+      "duration": 3.668
+    },
+    {
+      "text": " also very important because there is a",
+      "start": 43.2,
+      "duration": 2.691
+    },
+    {
+      "text": " 50%probability in any interview that",
+      "start": 44.936,
+      "duration": 2.602
+    },
+    {
+      "text": " you will be asked about sliding window.",
+      "start": 46.583,
+      "duration": 2.736
+    },
+    {
+      "text": " The probability of being asked DP or",
+      "start": 48.593,
+      "duration": 2.128
+    },
+    {
+      "text": " graphs is not that high. Very few",
+      "start": 49.753,
+      "duration": 2.195
+    },
+    {
+      "text": " companies ask that. But almost every",
+      "start": 50.99,
+      "duration": 2.762
+    },
+    {
+      "text": " company will ask for a sliding window.",
+      "start": 52.805,
+      "duration": 3.018
+    },
+    {
+      "text": " If they want to ask a medium-level",
+      "start": 54.939,
+      "duration": 2.297
+    },
+    {
+      "text": " question, they will definitely ask a",
+      "start": 56.274,
+      "duration": 2.374
+    },
+    {
+      "text": " sliding window. Right? The three",
+      "start": 57.686,
+      "duration": 3.102
+    },
+    {
+      "text": " questions we are going to do today.",
+      "start": 59.831,
+      "duration": 2.509
+    },
+    {
+      "text": " Three. Just three. You guys were saying",
+      "start": 61.44,
+      "duration": 2.552
+    },
+    {
+      "text": " the speed isn't increasing. So let's",
+      "start": 63.023,
+      "duration": 2.344
+    },
+    {
+      "text": " increase the speed. The first is",
+      "start": 64.419,
+      "duration": 2.745
+    },
+    {
+      "text": " Longest Substring with k Distinct. What",
+      "start": 66.218,
+      "duration": 3.144
+    },
+    {
+      "text": " is the first one? Longest Substring",
+      "start": 68.411,
+      "duration": 4.749
+    },
+    {
+      "text": " with k Distinct. Okay? You will find",
+      "start": 72.32,
+      "duration": 4.844
+    },
+    {
+      "text": " everything in the pattern sheet. Right?",
+      "start": 76.202,
+      "duration": 3.137
+    },
+    {
+      "text": " The second is Fruits into Baskets.",
+      "start": 79.119,
+      "duration": 3.32
+    },
+    {
+      "text": " Fruits into Baskets and the third is No",
+      "start": 81.659,
+      "duration": 4.804
+    },
+    {
+      "text": " Repeat Substring. The third is No",
+      "start": 85.56,
+      "duration": 4.266
+    },
+    {
+      "text": " Repeat Substring. Don't get scared",
+      "start": 88.914,
+      "duration": 3.321
+    },
+    {
+      "text": " seeing three questions. I will explain",
+      "start": 91.276,
+      "duration": 2.729
+    },
+    {
+      "text": " the first question so well that you",
+      "start": 93.043,
+      "duration": 2.316
+    },
+    {
+      "text": " will be able to solve the other two by",
+      "start": 94.397,
+      "duration": 2.429
+    },
+    {
+      "text": " yourself, or at least you should be",
+      "start": 95.864,
+      "duration": 2.316
+    },
+    {
+      "text": " able to. I have that much faith. Okay?",
+      "start": 97.218,
+      "duration": 4.681
+    },
+    {
+      "text": " What we discussed yesterday, those who",
+      "start": 101.12,
+      "duration": 2.655
+    },
+    {
+      "text": " haven't seen yesterday's lecture, watch",
+      "start": 102.819,
+      "duration": 2.699
+    },
+    {
+      "text": " it or at least watch a bit of it. What",
+      "start": 104.562,
+      "duration": 2.721
+    },
+    {
+      "text": " all did we discuss yesterday? Yesterday",
+      "start": 106.321,
+      "duration": 2.625
+    },
+    {
+      "text": " we solved two questions. One was for a",
+      "start": 107.994,
+      "duration": 3.151
+    },
+    {
+      "text": " fixed-size window and one was for a",
+      "start": 110.214,
+      "duration": 3.405
+    },
+    {
+      "text": " variable-size window. Okay? I told you",
+      "start": 112.688,
+      "duration": 3.886
+    },
+    {
+      "text": " the four steps of sliding window.",
+      "start": 115.62,
+      "duration": 2.5
+    },
+    {
+      "text": " Everyone must remember those four steps",
+      "start": 117.3,
+      "duration": 2.56
+    },
+    {
+      "text": " on what needs to be done. The most",
+      "start": 118.9,
+      "duration": 2.478
+    },
+    {
+      "text": " important step among those was this one",
+      "start": 120.421,
+      "duration": 2.655
+    },
+    {
+      "text": ". Is it fixed or variable? Understood?",
+      "start": 122.076,
+      "duration": 3.975
+    },
+    {
+      "text": " Alright. For fixed, there is a set",
+      "start": 125.151,
+      "duration": 3.016
+    },
+    {
+      "text": " pattern and a set template. What is it?",
+      "start": 127.217,
+      "duration": 2.996
+    },
+    {
+      "text": " Let me revise it for you quickly. What",
+      "start": 129.313,
+      "duration": 3.104
+    },
+    {
+      "text": " do we do in fixed? We keep low at 0.",
+      "start": 131.475,
+      "duration": 4.38
+    },
+    {
+      "text": " High equals whatever window size you",
+      "start": 134.955,
+      "duration": 3.043
+    },
+    {
+      "text": " are given. If k is given, then keep it",
+      "start": 137.055,
+      "duration": 3.663
+    },
+    {
+      "text": " at k-1. If two is given, keep it at one",
+      "start": 139.792,
+      "duration": 2.951
+    },
+    {
+      "text": ". If three is given. Keep it at two.",
+      "start": 141.743,
+      "duration": 2.755
+    },
+    {
+      "text": " What did we do after that? After that,",
+      "start": 143.598,
+      "duration": 3.05
+    },
+    {
+      "text": " we kept moving high. Where did high",
+      "start": 145.702,
+      "duration": 2.892
+    },
+    {
+      "text": " move from and to? From wherever it is",
+      "start": 147.645,
+      "duration": 3.962
+    },
+    {
+      "text": " up to n. After this, we did some work",
+      "start": 150.673,
+      "duration": 3.703
+    },
+    {
+      "text": " with the result. That work could be",
+      "start": 153.444,
+      "duration": 3.212
+    },
+    {
+      "text": " anything. What did we do after that? We",
+      "start": 155.71,
+      "duration": 3.771
+    },
+    {
+      "text": " incremented low and removed low from",
+      "start": 158.591,
+      "duration": 4.981
+    },
+    {
+      "text": " the result. We removed low from the",
+      "start": 162.683,
+      "duration": 4.057
+    },
+    {
+      "text": " result. What did we do after this? We",
+      "start": 165.813,
+      "duration": 3.786
+    },
+    {
+      "text": " incremented high. We used to check if",
+      "start": 168.689,
+      "duration": 4.417
+    },
+    {
+      "text": " high hasn't gone out of n. If it hasn't",
+      "start": 172.169,
+      "duration": 3.526
+    },
+    {
+      "text": " gone out, what did we do? In the result",
+      "start": 174.75,
+      "duration": 3.766
+    },
+    {
+      "text": ", which could be your sum, frequency,",
+      "start": 177.516,
+      "duration": 3.554
+    },
+    {
+      "text": " or average. We added high to it. We",
+      "start": 180.139,
+      "duration": 5.774
+    },
+    {
+      "text": " used to do exactly this. By doing this,",
+      "start": 184.944,
+      "duration": 2.506
+    },
+    {
+      "text": " we used to get the answer. So it is",
+      "start": 186.497,
+      "duration": 2.77
+    },
+    {
+      "text": " very simple. For any fixed question,",
+      "start": 188.322,
+      "duration": 2.987
+    },
+    {
+      "text": " you have to do the same. Variable gets",
+      "start": 190.363,
+      "duration": 3.465
+    },
+    {
+      "text": " a bit difficult. Why does variable get",
+      "start": 192.889,
+      "duration": 2.865
+    },
+    {
+      "text": " difficult? Firstly, it becomes hard to",
+      "start": 194.791,
+      "duration": 2.924
+    },
+    {
+      "text": " understand how to do it and its time",
+      "start": 196.764,
+      "duration": 2.782
+    },
+    {
+      "text": " complexity; many comments came asking",
+      "start": 198.595,
+      "duration": 2.831
+    },
+    {
+      "text": " to explain the time complexity, so I",
+      "start": 200.476,
+      "duration": 2.781
+    },
+    {
+      "text": " will explain it. What to do in variable",
+      "start": 202.307,
+      "duration": 3.32
+    },
+    {
+      "text": "? First of all, how to understand if it",
+      "start": 204.627,
+      "duration": 2.672
+    },
+    {
+      "text": " is a variable window. Whenever no k",
+      "start": 206.339,
+      "duration": 3.084
+    },
+    {
+      "text": " size is given to you. Whenever no k",
+      "start": 208.507,
+      "duration": 3.714
+    },
+    {
+      "text": " size is given, or it is not said that",
+      "start": 211.269,
+      "duration": 2.771
+    },
+    {
+      "text": " the subarray size should be this or the",
+      "start": 213.088,
+      "duration": 2.867
+    },
+    {
+      "text": " substring size should be this. It is",
+      "start": 215.002,
+      "duration": 2.929
+    },
+    {
+      "text": " just said to find any subarray, find",
+      "start": 216.989,
+      "duration": 3.106
+    },
+    {
+      "text": " the longest, find the shortest, or find",
+      "start": 219.153,
+      "duration": 3.281
+    },
+    {
+      "text": " something else, then it is variable.",
+      "start": 221.493,
+      "duration": 3.106
+    },
+    {
+      "text": " This is a very simple thing. Okay? Now",
+      "start": 223.699,
+      "duration": 4.063
+    },
+    {
+      "text": " if it is variable, we cannot keep low",
+      "start": 226.824,
+      "duration": 3.266
+    },
+    {
+      "text": " at zero and high at k-1 because k is",
+      "start": 229.151,
+      "duration": 3.205
+    },
+    {
+      "text": " not given at all. So what do we do in",
+      "start": 231.417,
+      "duration": 3.215
+    },
+    {
+      "text": " this? We keep low at zero as well. We",
+      "start": 233.687,
+      "duration": 4.239
+    },
+    {
+      "text": " keep high at zero as well. This was",
+      "start": 236.999,
+      "duration": 3.471
+    },
+    {
+      "text": " already discussed yesterday, you must",
+      "start": 239.516,
+      "duration": 2.718
+    },
+    {
+      "text": " remember. After that, we keep",
+      "start": 241.281,
+      "duration": 3.693
+    },
+    {
+      "text": " increasing high. What do we do after",
+      "start": 244.076,
+      "duration": 3.534
+    },
+    {
+      "text": " that? We keep increasing high and then",
+      "start": 246.653,
+      "duration": 4.246
+    },
+    {
+      "text": " we also keep shrinking low. I will",
+      "start": 249.991,
+      "duration": 3.792
+    },
+    {
+      "text": " explain all this. If it is going over",
+      "start": 252.819,
+      "duration": 2.566
+    },
+    {
+      "text": " your head, don't worry. We keep",
+      "start": 254.43,
+      "duration": 2.543
+    },
+    {
+      "text": " shrinking it. I made a mistake",
+      "start": 256.031,
+      "duration": 2.755
+    },
+    {
+      "text": " yesterday when I used a while loop to",
+      "start": 257.842,
+      "duration": 3.069
+    },
+    {
+      "text": " increment high. I shouldn't have used a",
+      "start": 259.967,
+      "duration": 2.567
+    },
+    {
+      "text": " while loop. The while loop might not",
+      "start": 261.561,
+      "duration": 2.288
+    },
+    {
+      "text": " strike you as intuitive yet. Today, I",
+      "start": 262.886,
+      "duration": 2.44
+    },
+    {
+      "text": " will explain it using a for loop. The",
+      "start": 264.364,
+      "duration": 2.523
+    },
+    {
+      "text": " pattern I share today will serve as a",
+      "start": 265.936,
+      "duration": 2.826
+    },
+    {
+      "text": " template for all similar questions.",
+      "start": 267.812,
+      "duration": 2.728
+    },
+    {
+      "text": " Whether it’s the longest substring or",
+      "start": 269.86,
+      "duration": 2.832
+    },
+    {
+      "text": " longest subarray, the same pattern will",
+      "start": 271.739,
+      "duration": 2.832
+    },
+    {
+      "text": " apply. Alright? Let’s see what we do",
+      "start": 273.618,
+      "duration": 3.723
+    },
+    {
+      "text": " here. First, let’s understand the",
+      "start": 276.384,
+      "duration": 2.855
+    },
+    {
+      "text": " template from the beginning. What do we",
+      "start": 278.292,
+      "duration": 3.218
+    },
+    {
+      "text": " actually do? Where is your high? Your",
+      "start": 280.569,
+      "duration": 3.824
+    },
+    {
+      "text": " high is at zero. Alright? What do we do",
+      "start": 283.461,
+      "duration": 3.801
+    },
+    {
+      "text": "? For high equals...I am talking about",
+      "start": 286.262,
+      "duration": 3.597
+    },
+    {
+      "text": " any question. Not a specific question,",
+      "start": 288.924,
+      "duration": 2.677
+    },
+    {
+      "text": " the question hasn't even started yet. I",
+      "start": 290.631,
+      "duration": 2.256
+    },
+    {
+      "text": " haven't even read the question. I am",
+      "start": 291.917,
+      "duration": 2.175
+    },
+    {
+      "text": " just explaining. i = 0, high < n, the",
+      "start": 293.128,
+      "duration": 3.949
+    },
+    {
+      "text": " size of your string or array, and high",
+      "start": 296.176,
+      "duration": 4.756
+    },
+    {
+      "text": " plus plus. Alright? Now the need for a",
+      "start": 300.031,
+      "duration": 3.528
+    },
+    {
+      "text": " while loop is gone. The for loop is",
+      "start": 302.599,
+      "duration": 2.704
+    },
+    {
+      "text": " running. What is the very first thing",
+      "start": 304.359,
+      "duration": 2.652
+    },
+    {
+      "text": " to do? In any similar question where",
+      "start": 306.046,
+      "duration": 3.563
+    },
+    {
+      "text": " you need to find the longest substring",
+      "start": 308.685,
+      "duration": 3.922
+    },
+    {
+      "text": " or array with K distinct or exactly K",
+      "start": 311.684,
+      "duration": 3.846
+    },
+    {
+      "text": " elements. First of all, wherever your",
+      "start": 314.606,
+      "duration": 3.509
+    },
+    {
+      "text": " high is currently—it is at zero right",
+      "start": 317.168,
+      "duration": 3.102
+    },
+    {
+      "text": " now. You need to add it to your result;",
+      "start": 319.324,
+      "duration": 4.224
+    },
+    {
+      "text": " the result is the information the",
+      "start": 322.601,
+      "duration": 2.735
+    },
+    {
+      "text": " window gives you—it could be the sum,",
+      "start": 324.389,
+      "duration": 3.052
+    },
+    {
+      "text": " frequency, average, or anything else.",
+      "start": 326.493,
+      "duration": 2.947
+    },
+    {
+      "text": " Whatever information your window holds,",
+      "start": 330.26,
+      "duration": 6.299
+    },
+    {
+      "text": " you must include high in it. What does",
+      "start": 335.695,
+      "duration": 6.089
+    },
+    {
+      "text": " \"include\" mean? If it’s sum, add",
+      "start": 340.847,
+      "duration": 3.255
+    },
+    {
+      "text": " array [high]; if average, add array [",
+      "start": 343.168,
+      "duration": 3.438
+    },
+    {
+      "text": "high] and divide accordingly. If it is",
+      "start": 345.606,
+      "duration": 3.579
+    },
+    {
+      "text": " frequency, take a hash map and",
+      "start": 348.246,
+      "duration": 2.826
+    },
+    {
+      "text": " increment the count for high. Do you",
+      "start": 350.133,
+      "duration": 3.14
+    },
+    {
+      "text": " understand? You have to include high in",
+      "start": 352.315,
+      "duration": 2.864
+    },
+    {
+      "text": " the information. That's good. Now, this",
+      "start": 354.228,
+      "duration": 4.055
+    },
+    {
+      "text": " is a very important step. Once high is",
+      "start": 357.382,
+      "duration": 4.358
+    },
+    {
+      "text": " included. Alright? Now you will be",
+      "start": 360.802,
+      "duration": 3.226
+    },
+    {
+      "text": " given conditions: if the information is",
+      "start": 363.083,
+      "duration": 3.155
+    },
+    {
+      "text": " like this, then I need this. If the",
+      "start": 365.293,
+      "duration": 2.931
+    },
+    {
+      "text": " information is not like this, then I",
+      "start": 367.268,
+      "duration": 2.589
+    },
+    {
+      "text": " don't need it. There must be some",
+      "start": 368.902,
+      "duration": 3.083
+    },
+    {
+      "text": " condition given, like your current",
+      "start": 371.049,
+      "duration": 3.163
+    },
+    {
+      "text": " substring should have only K distinct",
+      "start": 373.276,
+      "duration": 3.354
+    },
+    {
+      "text": " elements, or fewer than K, or more than",
+      "start": 375.694,
+      "duration": 3.481
+    },
+    {
+      "text": " K; some condition will definitely be",
+      "start": 378.239,
+      "duration": 3.291
+    },
+    {
+      "text": " there to determine if you need that in",
+      "start": 380.593,
+      "duration": 3.418
+    },
+    {
+      "text": " your answer. Alright? So two things can",
+      "start": 383.075,
+      "duration": 4.279
+    },
+    {
+      "text": " happen: either your information is",
+      "start": 386.411,
+      "duration": 2.949
+    },
+    {
+      "text": " exactly the way it should be, meaning",
+      "start": 388.418,
+      "duration": 3.121
+    },
+    {
+      "text": " you should take this window, or your",
+      "start": 390.596,
+      "duration": 3.064
+    },
+    {
+      "text": " information is not like that. There are",
+      "start": 392.717,
+      "duration": 3.865
+    },
+    {
+      "text": " only two cases, so here comes the most",
+      "start": 395.656,
+      "duration": 3.803
+    },
+    {
+      "text": " important step. Right now we are",
+      "start": 398.532,
+      "duration": 3.044
+    },
+    {
+      "text": " drawing a box; I will tell you what to",
+      "start": 400.626,
+      "duration": 2.894
+    },
+    {
+      "text": " do in it. As soon as you include the",
+      "start": 402.57,
+      "duration": 3.613
+    },
+    {
+      "text": " high, it is possible that some",
+      "start": 405.237,
+      "duration": 2.619
+    },
+    {
+      "text": " information has entered that you do not",
+      "start": 406.91,
+      "duration": 3.106
+    },
+    {
+      "text": " need. So here, as long as the",
+      "start": 409.07,
+      "duration": 7.223
+    },
+    {
+      "text": " information is wrong. It is wrong. What",
+      "start": 415.481,
+      "duration": 7.843
+    },
+    {
+      "text": " is the sense of wrong? That it has",
+      "start": 422.37,
+      "duration": 2.684
+    },
+    {
+      "text": " either increased beyond that or",
+      "start": 424.107,
+      "duration": 2.623
+    },
+    {
+      "text": " decreased. It is wrong. Basically, for",
+      "start": 425.782,
+      "duration": 3.363
+    },
+    {
+      "text": " example, you are asked to find a window",
+      "start": 428.206,
+      "duration": 3.356
+    },
+    {
+      "text": " whose sum, find a window whose sum is",
+      "start": 430.622,
+      "duration": 3.236
+    },
+    {
+      "text": " 10. Right? It is possible that as soon",
+      "start": 432.918,
+      "duration": 4.202
+    },
+    {
+      "text": " as you included this high, your sum",
+      "start": 436.183,
+      "duration": 3.204
+    },
+    {
+      "text": " became 11 or your sum became 9.",
+      "start": 438.449,
+      "duration": 2.953
+    },
+    {
+      "text": " Anything can happen. So it is wrong,",
+      "start": 440.502,
+      "duration": 2.794
+    },
+    {
+      "text": " right. So as long as it is wrong, why",
+      "start": 442.349,
+      "duration": 2.667
+    },
+    {
+      "text": " did this happen? It happened once you",
+      "start": 444.057,
+      "duration": 2.684
+    },
+    {
+      "text": " increased the high. Now, we will fix",
+      "start": 445.787,
+      "duration": 3.106
+    },
+    {
+      "text": " this. We have to fix it here. We will",
+      "start": 447.964,
+      "duration": 4.283
+    },
+    {
+      "text": " fix it. How will we fix it? Look, in",
+      "start": 451.311,
+      "duration": 3.962
+    },
+    {
+      "text": " any variable window problem like this,",
+      "start": 454.34,
+      "duration": 3.548
+    },
+    {
+      "text": " high is done once. High will only",
+      "start": 456.955,
+      "duration": 2.914
+    },
+    {
+      "text": " increase via this for loop. High will",
+      "start": 458.913,
+      "duration": 2.599
+    },
+    {
+      "text": " only increase via this for loop. You",
+      "start": 460.548,
+      "duration": 2.501
+    },
+    {
+      "text": " should not tamper with high in 90%of",
+      "start": 462.125,
+      "duration": 3.751
+    },
+    {
+      "text": " cases. Where can you tamper? Why do we",
+      "start": 464.952,
+      "duration": 3.534
+    },
+    {
+      "text": " call this a variable size window?",
+      "start": 467.525,
+      "duration": 2.286
+    },
+    {
+      "text": " Because it is variable. It keeps",
+      "start": 468.911,
+      "duration": 2.686
+    },
+    {
+      "text": " shrinking and expanding. When high",
+      "start": 470.634,
+      "duration": 2.412
+    },
+    {
+      "text": " increases, this variable increases. The",
+      "start": 472.092,
+      "duration": 2.908
+    },
+    {
+      "text": " window expands, and to shrink the",
+      "start": 474.057,
+      "duration": 2.878
+    },
+    {
+      "text": " window, we bring low from behind. That",
+      "start": 475.992,
+      "duration": 3.218
+    },
+    {
+      "text": " is what happens, right? This is your",
+      "start": 478.241,
+      "duration": 2.487
+    },
+    {
+      "text": " window. Your high keeps moving this way",
+      "start": 479.784,
+      "duration": 3.249
+    },
+    {
+      "text": ". And as soon as we need to shrink the",
+      "start": 482.033,
+      "duration": 2.896
+    },
+    {
+      "text": " window, we start decreasing the low",
+      "start": 483.977,
+      "duration": 2.691
+    },
+    {
+      "text": " from here. We have to do the same thing",
+      "start": 485.716,
+      "duration": 2.74
+    },
+    {
+      "text": ". You have to fix this. How will we fix",
+      "start": 487.456,
+      "duration": 3.197
+    },
+    {
+      "text": " it? By shrinking the low, by shrinking",
+      "start": 489.7,
+      "duration": 4.619
+    },
+    {
+      "text": " the low; shrink means to reduce. Along",
+      "start": 493.398,
+      "duration": 4.489
+    },
+    {
+      "text": " with reducing, what will we do?",
+      "start": 496.937,
+      "duration": 2.542
+    },
+    {
+      "text": " Whenever low, first of all, remove the",
+      "start": 498.6,
+      "duration": 3.384
+    },
+    {
+      "text": " low from your information. The same",
+      "start": 501.047,
+      "duration": 3.151
+    },
+    {
+      "text": " thing happened in fixed size too, 100,",
+      "start": 503.248,
+      "duration": 2.891
+    },
+    {
+      "text": " 200, 300 was there, so 100, 200 was",
+      "start": 505.189,
+      "duration": 2.742
+    },
+    {
+      "text": " there. After that, when we moved",
+      "start": 506.981,
+      "duration": 4.661
+    },
+    {
+      "text": " forward, we told 100 that you go, so",
+      "start": 510.728,
+      "duration": 4.087
+    },
+    {
+      "text": " whatever your result or information is,",
+      "start": 513.901,
+      "duration": 4.344
+    },
+    {
+      "text": " remove low from it, remove, remove,",
+      "start": 517.331,
+      "duration": 4.001
+    },
+    {
+      "text": " remove. Right? So if you have a sum,",
+      "start": 520.418,
+      "duration": 4.492
+    },
+    {
+      "text": " subtract the array of low from that sum",
+      "start": 523.968,
+      "duration": 3.265
+    },
+    {
+      "text": ", increase low, and how many times do",
+      "start": 526.233,
+      "duration": 3.149
+    },
+    {
+      "text": " you have to do this? Not once or twice.",
+      "start": 528.44,
+      "duration": 3.159
+    },
+    {
+      "text": " You have to keep doing this, keep doing",
+      "start": 530.799,
+      "duration": 2.824
+    },
+    {
+      "text": " it in a loop. Until when? Until your",
+      "start": 532.67,
+      "duration": 3.764
+    },
+    {
+      "text": " information becomes correct, truly",
+      "start": 535.51,
+      "duration": 3.569
+    },
+    {
+      "text": " correct. Now, \"correct\" can mean many",
+      "start": 538.154,
+      "duration": 2.995
+    },
+    {
+      "text": " things, we will see as we go question",
+      "start": 540.195,
+      "duration": 2.705
+    },
+    {
+      "text": " by question. But the general rule is,",
+      "start": 541.946,
+      "duration": 4.123
+    },
+    {
+      "text": " you keep doing this until your",
+      "start": 545.142,
+      "duration": 3.188
+    },
+    {
+      "text": " information is correct. What do you",
+      "start": 547.403,
+      "duration": 3.68
+    },
+    {
+      "text": " have to keep doing? Keep increasing low",
+      "start": 550.111,
+      "duration": 2.744
+    },
+    {
+      "text": " and keep removing low as well. Meaning,",
+      "start": 551.913,
+      "duration": 3.22
+    },
+    {
+      "text": " you are shrinking the window. Your high",
+      "start": 554.18,
+      "duration": 2.92
+    },
+    {
+      "text": " is increasing. High stopped at one",
+      "start": 556.151,
+      "duration": 2.597
+    },
+    {
+      "text": " point. Then you are slowly bringing the",
+      "start": 557.789,
+      "duration": 2.841
+    },
+    {
+      "text": " low closer bit by bit. Until the",
+      "start": 559.676,
+      "duration": 2.697
+    },
+    {
+      "text": " information becomes correct. Okay? Good",
+      "start": 561.436,
+      "duration": 4.2
+    },
+    {
+      "text": ". Now, you have done it once. Here,",
+      "start": 564.636,
+      "duration": 4.646
+    },
+    {
+      "text": " what this means is that your",
+      "start": 568.335,
+      "duration": 2.478
+    },
+    {
+      "text": " information should be correct now.",
+      "start": 569.865,
+      "duration": 2.795
+    },
+    {
+      "text": " Right? Look, it is not that simple. It",
+      "start": 572.104,
+      "duration": 2.977
+    },
+    {
+      "text": " is not as simple as I am telling you.",
+      "start": 574.133,
+      "duration": 2.948
+    },
+    {
+      "text": " It changes by a line or two from",
+      "start": 576.181,
+      "duration": 2.495
+    },
+    {
+      "text": " question to question. But the thinking",
+      "start": 577.723,
+      "duration": 2.818
+    },
+    {
+      "text": " is the same. The logic is the same. Now",
+      "start": 579.587,
+      "duration": 2.83
+    },
+    {
+      "text": " your information must be correct. Now",
+      "start": 581.475,
+      "duration": 3.338
+    },
+    {
+      "text": " you have to calculate the length here.",
+      "start": 583.919,
+      "duration": 5.035
+    },
+    {
+      "text": " How to calculate length? High minus low",
+      "start": 588.054,
+      "duration": 3.473
+    },
+    {
+      "text": " + 1, and store this length in your",
+      "start": 590.614,
+      "duration": 3.983
+    },
+    {
+      "text": " result. Min or max, whatever is asked",
+      "start": 593.684,
+      "duration": 3.466
+    },
+    {
+      "text": "—if the longest is asked, or shortest",
+      "start": 596.15,
+      "duration": 2.978
+    },
+    {
+      "text": ", or anything. So, if the longest is",
+      "start": 598.128,
+      "duration": 3.12
+    },
+    {
+      "text": " asked, what will we do? Max result and",
+      "start": 600.31,
+      "duration": 4.107
+    },
+    {
+      "text": " length, and close the for loop here.",
+      "start": 603.53,
+      "duration": 5.061
+    },
+    {
+      "text": " Which for loop? The high one. We will",
+      "start": 607.691,
+      "duration": 2.864
+    },
+    {
+      "text": " close the high for loop here. So, this",
+      "start": 609.599,
+      "duration": 3.016
+    },
+    {
+      "text": " is a general pattern for variable-size",
+      "start": 611.664,
+      "duration": 2.876
+    },
+    {
+      "text": " sliding windows. Whenever there is a",
+      "start": 613.59,
+      "duration": 3.662
+    },
+    {
+      "text": " question like finding the longest",
+      "start": 616.302,
+      "duration": 2.655
+    },
+    {
+      "text": " substring with k. It should have at",
+      "start": 618.007,
+      "duration": 3.431
+    },
+    {
+      "text": " most k. It should have at least k. It",
+      "start": 620.498,
+      "duration": 2.913
+    },
+    {
+      "text": " should have exactly k. Anything. Okay?",
+      "start": 622.46,
+      "duration": 3.601
+    },
+    {
+      "text": " Take a look at this once. Take a look",
+      "start": 625.359,
+      "duration": 3.117
+    },
+    {
+      "text": " at this once. You must be able to see",
+      "start": 627.532,
+      "duration": 3.707
+    },
+    {
+      "text": " it from here to there. This is the",
+      "start": 630.299,
+      "duration": 2.971
+    },
+    {
+      "text": " general format. What is the format? Let",
+      "start": 632.315,
+      "duration": 2.871
+    },
+    {
+      "text": " me teach it to you once more. Keep",
+      "start": 634.23,
+      "duration": 2.577
+    },
+    {
+      "text": " increasing high. Keep increasing high",
+      "start": 635.861,
+      "duration": 2.854
+    },
+    {
+      "text": " from zero to n. It is very rare that",
+      "start": 637.76,
+      "duration": 3.086
+    },
+    {
+      "text": " you will need to touch the high inside.",
+      "start": 639.912,
+      "duration": 3.571
+    },
+    {
+      "text": " High will keep increasing through the",
+      "start": 642.583,
+      "duration": 2.818
+    },
+    {
+      "text": " for loop. First of all, include high in",
+      "start": 644.45,
+      "duration": 3.113
+    },
+    {
+      "text": " the information. Keep moving that low",
+      "start": 646.617,
+      "duration": 3.055
+    },
+    {
+      "text": " pointer forward as long as your",
+      "start": 648.719,
+      "duration": 2.446
+    },
+    {
+      "text": " information is incorrect. Once your",
+      "start": 650.212,
+      "duration": 3.318
+    },
+    {
+      "text": " information becomes correct, record it",
+      "start": 652.584,
+      "duration": 3.074
+    },
+    {
+      "text": " in your result, close the for-loop, and",
+      "start": 654.713,
+      "duration": 3.128
+    },
+    {
+      "text": " return the result. Remember this, write",
+      "start": 656.896,
+      "duration": 3.258
+    },
+    {
+      "text": " it down in your notebook. Write it down",
+      "start": 659.196,
+      "duration": 2.622
+    },
+    {
+      "text": " in your notebook right now. Good that",
+      "start": 660.854,
+      "duration": 2.392
+    },
+    {
+      "text": " you have written it down in your",
+      "start": 662.281,
+      "duration": 2.129
+    },
+    {
+      "text": " notebook. Now, let's move on. Okay? Now",
+      "start": 663.445,
+      "duration": 4.566
+    },
+    {
+      "text": ", let's come to the question. I will",
+      "start": 667.011,
+      "duration": 3.101
+    },
+    {
+      "text": " explain the time complexity once we do",
+      "start": 669.152,
+      "duration": 2.494
+    },
+    {
+      "text": " the question. Okay? What is the very",
+      "start": 670.685,
+      "duration": 2.821
+    },
+    {
+      "text": " first question? Longest substring with",
+      "start": 672.543,
+      "duration": 2.914
+    },
+    {
+      "text": " k distinct characters. Meaning, what is",
+      "start": 674.514,
+      "duration": 3.364
+    },
+    {
+      "text": " given in the question? You are given a",
+      "start": 676.941,
+      "duration": 3.337
+    },
+    {
+      "text": " string. What is given? A string. I see.",
+      "start": 679.334,
+      "duration": 3.554
+    },
+    {
+      "text": " There are some characters in the string",
+      "start": 681.988,
+      "duration": 2.698
+    },
+    {
+      "text": ". All of them are lowercase characters.",
+      "start": 683.686,
+      "duration": 2.646
+    },
+    {
+      "text": " Meaning, small letters. That's good,",
+      "start": 685.432,
+      "duration": 3.638
+    },
+    {
+      "text": " great. And you are given a k. k is an",
+      "start": 688.141,
+      "duration": 4.053
+    },
+    {
+      "text": " integer. Okay? What do we need to find?",
+      "start": 691.279,
+      "duration": 3.87
+    },
+    {
+      "text": " Longest, longest substring, substring.",
+      "start": 694.96,
+      "duration": 5.88
+    },
+    {
+      "text": " What should the longest substring have",
+      "start": 700.4,
+      "duration": 2.756
+    },
+    {
+      "text": " in it? It should have exactly, exactly",
+      "start": 702.202,
+      "duration": 5.191
+    },
+    {
+      "text": " k, this k, distinct, meaning unique",
+      "start": 706.495,
+      "duration": 4.561
+    },
+    {
+      "text": " alphabets, that is the meaning of this",
+      "start": 710.158,
+      "duration": 4.867
+    },
+    {
+      "text": " question in Hindi. What is the full",
+      "start": 714.127,
+      "duration": 4.055
+    },
+    {
+      "text": " question? A string is given. Find the",
+      "start": 717.227,
+      "duration": 3.747
+    },
+    {
+      "text": " longest substring in the string that",
+      "start": 720.034,
+      "duration": 3.14
+    },
+    {
+      "text": " has k distinct characters. Meaning, it",
+      "start": 722.233,
+      "duration": 3.643
+    },
+    {
+      "text": " should have k unique characters. Did",
+      "start": 724.911,
+      "duration": 2.336
+    },
+    {
+      "text": " you understand? This is the question.",
+      "start": 726.283,
+      "duration": 2.629
+    },
+    {
+      "text": " Let's follow the sliding window steps",
+      "start": 728.206,
+      "duration": 2.534
+    },
+    {
+      "text": " one by one. Flowchart. What was the",
+      "start": 729.781,
+      "duration": 2.591
+    },
+    {
+      "text": " flowchart, man? What was the flowchart?",
+      "start": 731.41,
+      "duration": 2.855
+    },
+    {
+      "text": " Step one, will the sliding window",
+      "start": 733.365,
+      "duration": 2.737
+    },
+    {
+      "text": " pattern apply or not? Is this an array",
+      "start": 735.154,
+      "duration": 3.148
+    },
+    {
+      "text": " or string question? Yes, it is a string",
+      "start": 737.361,
+      "duration": 3.233
+    },
+    {
+      "text": " question. Does it say longest substring",
+      "start": 739.647,
+      "duration": 3.787
+    },
+    {
+      "text": " or subarray anywhere in it? Is longest",
+      "start": 742.506,
+      "duration": 3.66
+    },
+    {
+      "text": " substring or subarray written? Are we",
+      "start": 745.215,
+      "duration": 2.88
+    },
+    {
+      "text": " to find that? Yes. Does it mention",
+      "start": 747.141,
+      "duration": 4.91
+    },
+    {
+      "text": " exactly k, less than k, or at most k",
+      "start": 751.12,
+      "duration": 3.477
+    },
+    {
+      "text": " anywhere in it? Yes, it is written.",
+      "start": 753.666,
+      "duration": 3.771
+    },
+    {
+      "text": " What is written? Exactly k; for anyone",
+      "start": 756.537,
+      "duration": 3.407
+    },
+    {
+      "text": " wondering where this came from, it was",
+      "start": 759.02,
+      "duration": 3.885
+    },
+    {
+      "text": " in the day one flowchart. Before",
+      "start": 761.981,
+      "duration": 3.319
+    },
+    {
+      "text": " starting any pattern, keep its",
+      "start": 764.353,
+      "duration": 2.606
+    },
+    {
+      "text": " flowchart handy; this is the flowchart.",
+      "start": 766.013,
+      "duration": 3.088
+    },
+    {
+      "text": " Only then do you know that this is a",
+      "start": 768.201,
+      "duration": 2.17
+    },
+    {
+      "text": " sliding window problem. So look, all",
+      "start": 769.403,
+      "duration": 2.433
+    },
+    {
+      "text": " three matched here. All three are",
+      "start": 770.884,
+      "duration": 2.864
+    },
+    {
+      "text": " positive here. This is definitely, well",
+      "start": 772.8,
+      "duration": 3.363
+    },
+    {
+      "text": " not definitely. But it is 90%a sliding",
+      "start": 775.194,
+      "duration": 4.357
+    },
+    {
+      "text": " window question. Okay, why do we say 90",
+      "start": 778.628,
+      "duration": 4.689
+    },
+    {
+      "text": "%for this? Why not 100%? It is possible",
+      "start": 782.317,
+      "duration": 4.499
+    },
+    {
+      "text": " that some questions might seem like",
+      "start": 785.854,
+      "duration": 2.343
+    },
+    {
+      "text": " they are sliding window, but there is a",
+      "start": 787.236,
+      "duration": 2.496
+    },
+    {
+      "text": " slight chance they might not be. It",
+      "start": 788.771,
+      "duration": 2.696
+    },
+    {
+      "text": " could be a greedy problem. It could be",
+      "start": 790.506,
+      "duration": 2.722
+    },
+    {
+      "text": " a DP problem. So how should you",
+      "start": 792.281,
+      "duration": 2.507
+    },
+    {
+      "text": " approach it in an interview? How and",
+      "start": 793.83,
+      "duration": 2.59
+    },
+    {
+      "text": " where should you start in an interview?",
+      "start": 795.466,
+      "duration": 2.788
+    },
+    {
+      "text": " You should start with the sliding",
+      "start": 797.354,
+      "duration": 2.444
+    },
+    {
+      "text": " window. Okay? Because that is the",
+      "start": 798.842,
+      "duration": 2.971
+    },
+    {
+      "text": " problem, right? You study 20 to 30",
+      "start": 800.87,
+      "duration": 3.028
+    },
+    {
+      "text": " types of algorithms. You don't know",
+      "start": 802.958,
+      "duration": 3.22
+    },
+    {
+      "text": " where to start. It is possible you",
+      "start": 805.244,
+      "duration": 2.924
+    },
+    {
+      "text": " started with binary search. Then you",
+      "start": 807.215,
+      "duration": 2.744
+    },
+    {
+      "text": " wasted 15 minutes on it. Then you",
+      "start": 809.007,
+      "duration": 2.512
+    },
+    {
+      "text": " realized, oh, this wasn't a binary",
+      "start": 810.555,
+      "duration": 2.198
+    },
+    {
+      "text": " search problem. So, this increases your",
+      "start": 811.788,
+      "duration": 2.894
+    },
+    {
+      "text": " probability of choosing the right",
+      "start": 813.733,
+      "duration": 2.669
+    },
+    {
+      "text": " algorithm. Do you understand this? Okay",
+      "start": 815.453,
+      "duration": 3.221
+    },
+    {
+      "text": "? The first step is identifying that",
+      "start": 817.674,
+      "duration": 3.281
+    },
+    {
+      "text": " this is a sliding window question. Do",
+      "start": 820.0,
+      "duration": 2.739
+    },
+    {
+      "text": " you understand? What was the second",
+      "start": 821.79,
+      "duration": 2.799
+    },
+    {
+      "text": " step? Is it fixed or variable? Is it",
+      "start": 823.638,
+      "duration": 3.274
+    },
+    {
+      "text": " fixed or variable? Is it mentioned",
+      "start": 826.008,
+      "duration": 3.532
+    },
+    {
+      "text": " anywhere in the question that to find",
+      "start": 828.588,
+      "duration": 2.743
+    },
+    {
+      "text": " the substring, its length must be a",
+      "start": 830.378,
+      "duration": 2.65
+    },
+    {
+      "text": " certain size? No. The question asked",
+      "start": 832.075,
+      "duration": 2.693
+    },
+    {
+      "text": " for the longest substring, its length",
+      "start": 833.812,
+      "duration": 2.649
+    },
+    {
+      "text": " could be anything. Whenever you see",
+      "start": 835.505,
+      "duration": 2.776
+    },
+    {
+      "text": " that the length could be anything, just",
+      "start": 837.334,
+      "duration": 3.052
+    },
+    {
+      "text": " close your eyes and assume it’s a",
+      "start": 839.438,
+      "duration": 2.842
+    },
+    {
+      "text": " variable question. In fixed ones, it",
+      "start": 841.332,
+      "duration": 3.2
+    },
+    {
+      "text": " will always tell you to find a subarray",
+      "start": 843.593,
+      "duration": 3.372
+    },
+    {
+      "text": " of size k or a sub-window of size three",
+      "start": 846.026,
+      "duration": 3.372
+    },
+    {
+      "text": ". Okay? So, it's understood that this",
+      "start": 848.398,
+      "duration": 3.945
+    },
+    {
+      "text": " is variable. Okay? What was the next",
+      "start": 851.417,
+      "duration": 3.741
+    },
+    {
+      "text": " step? See, for those who don't even",
+      "start": 854.21,
+      "duration": 2.651
+    },
+    {
+      "text": " understand this step, that is why we",
+      "start": 855.905,
+      "duration": 2.602
+    },
+    {
+      "text": " say to watch it daily. For new students",
+      "start": 857.552,
+      "duration": 3.323
+    },
+    {
+      "text": ", yesterday's lecture explained that",
+      "start": 859.875,
+      "duration": 2.701
+    },
+    {
+      "text": " there are four steps in any sliding",
+      "start": 861.623,
+      "duration": 2.653
+    },
+    {
+      "text": " window question. Okay? It is important",
+      "start": 863.324,
+      "duration": 3.035
+    },
+    {
+      "text": " for you to understand that. That is why",
+      "start": 865.396,
+      "duration": 2.555
+    },
+    {
+      "text": " you should watch consistently,",
+      "start": 866.993,
+      "duration": 2.25
+    },
+    {
+      "text": " otherwise don't watch at all. This is",
+      "start": 868.284,
+      "duration": 2.669
+    },
+    {
+      "text": " like a web series; you watch a web",
+      "start": 870.004,
+      "duration": 2.718
+    },
+    {
+      "text": " series from the beginning, right? If",
+      "start": 871.772,
+      "duration": 2.895
+    },
+    {
+      "text": " you go directly to the fifth episode,",
+      "start": 873.708,
+      "duration": 2.498
+    },
+    {
+      "text": " you won't understand who Munna Bhaiya",
+      "start": 875.247,
+      "duration": 2.498
+    },
+    {
+      "text": " is. Who Guddu Bhaiya is. Right? Okay.",
+      "start": 876.785,
+      "duration": 3.621
+    },
+    {
+      "text": " What was next? Information. Information",
+      "start": 879.506,
+      "duration": 4.763
+    },
+    {
+      "text": ". Information. What is its information?",
+      "start": 883.269,
+      "duration": 4.62
+    },
+    {
+      "text": " What do you need to find in the longest",
+      "start": 887.279,
+      "duration": 3.059
+    },
+    {
+      "text": " substring? Meaning, what do you",
+      "start": 889.391,
+      "duration": 2.562
+    },
+    {
+      "text": " understand by looking at that substring",
+      "start": 890.992,
+      "duration": 2.509
+    },
+    {
+      "text": "? In this, you were given 'k distinct",
+      "start": 892.501,
+      "duration": 3.689
+    },
+    {
+      "text": " characters' in the question. K, what",
+      "start": 895.254,
+      "duration": 4.33
+    },
+    {
+      "text": " does that mean? Any window you have",
+      "start": 898.676,
+      "duration": 4.297
+    },
+    {
+      "text": " will contain some characters. Assume",
+      "start": 902.036,
+      "duration": 3.402
+    },
+    {
+      "text": " this is your substring or window, where",
+      "start": 904.511,
+      "duration": 3.85
+    },
+    {
+      "text": " your low is here and high is here. So",
+      "start": 907.435,
+      "duration": 3.762
+    },
+    {
+      "text": " this is your window. What were you",
+      "start": 910.256,
+      "duration": 3.007
+    },
+    {
+      "text": " asked to find in this? You were told",
+      "start": 912.314,
+      "duration": 3.392
+    },
+    {
+      "text": " that if it has k distinct characters,",
+      "start": 914.758,
+      "duration": 2.9
+    },
+    {
+      "text": " then it is correct; otherwise, it is",
+      "start": 916.71,
+      "duration": 2.849
+    },
+    {
+      "text": " wrong. Meaning, it could be that there",
+      "start": 918.61,
+      "duration": 4.082
+    },
+    {
+      "text": " is A, A, B, C, D here. It could be, it",
+      "start": 921.765,
+      "duration": 4.154
+    },
+    {
+      "text": " could be that there is A, A, B, B and C",
+      "start": 924.999,
+      "duration": 4.12
+    },
+    {
+      "text": " here. Looking at this, what do you",
+      "start": 928.199,
+      "duration": 3.66
+    },
+    {
+      "text": " think? How many distinct characters are",
+      "start": 930.91,
+      "duration": 3.588
+    },
+    {
+      "text": " in this? There is an A, there is a B,",
+      "start": 933.542,
+      "duration": 3.271
+    },
+    {
+      "text": " there is a C. There are three. So, what",
+      "start": 935.878,
+      "duration": 3.379
+    },
+    {
+      "text": " is the information of this window? How",
+      "start": 938.299,
+      "duration": 2.697
+    },
+    {
+      "text": " many unique characters are in it? Its",
+      "start": 940.049,
+      "duration": 2.959
+    },
+    {
+      "text": " information is the same as that",
+      "start": 942.049,
+      "duration": 2.263
+    },
+    {
+      "text": " information. Okay, do you understand?",
+      "start": 943.353,
+      "duration": 2.846
+    },
+    {
+      "text": " So, how will we calculate this? We will",
+      "start": 945.445,
+      "duration": 3.648
+    },
+    {
+      "text": " calculate this using a hash map. If you",
+      "start": 948.139,
+      "duration": 3.097
+    },
+    {
+      "text": " keep a hash map. Keep a hash map, and",
+      "start": 950.321,
+      "duration": 4.292
+    },
+    {
+      "text": " whenever you go to any character, just",
+      "start": 953.674,
+      "duration": 3.307
+    },
+    {
+      "text": " increase its frequency. So, what will",
+      "start": 956.042,
+      "duration": 3.68
+    },
+    {
+      "text": " happen is if you cover this entire",
+      "start": 958.76,
+      "duration": 2.316
+    },
+    {
+      "text": " window, your hash map would look like",
+      "start": 960.115,
+      "duration": 2.431
+    },
+    {
+      "text": " this. The frequency of A would be two.",
+      "start": 961.585,
+      "duration": 3.314
+    },
+    {
+      "text": " The frequency of B would be two. The",
+      "start": 964.02,
+      "duration": 2.852
+    },
+    {
+      "text": " frequency of C would be one. Look,",
+      "start": 965.909,
+      "duration": 2.436
+    },
+    {
+      "text": " there are five total characters here.",
+      "start": 967.394,
+      "duration": 2.825
+    },
+    {
+      "text": " Total characters are five. But what is",
+      "start": 969.399,
+      "duration": 3.307
+    },
+    {
+      "text": " the size of the hash map? The size is",
+      "start": 971.755,
+      "duration": 3.101
+    },
+    {
+      "text": " three. Are you understanding? What is a",
+      "start": 973.925,
+      "duration": 3.206
+    },
+    {
+      "text": " hash map? Characters and their",
+      "start": 976.17,
+      "duration": 2.403
+    },
+    {
+      "text": " frequencies. So you are writing that",
+      "start": 977.621,
+      "duration": 2.395
+    },
+    {
+      "text": " the frequency of A, A has appeared",
+      "start": 979.047,
+      "duration": 2.072
+    },
+    {
+      "text": " twice. B has appeared twice. C has",
+      "start": 980.15,
+      "duration": 2.445
+    },
+    {
+      "text": " appeared once. So the total characters",
+      "start": 981.64,
+      "duration": 2.585
+    },
+    {
+      "text": " are five. That is the length of the",
+      "start": 983.263,
+      "duration": 2.286
+    },
+    {
+      "text": " window. But what is the size? How many",
+      "start": 984.583,
+      "duration": 3.248
+    },
+    {
+      "text": " unique elements are in the hash map?",
+      "start": 986.865,
+      "duration": 2.234
+    },
+    {
+      "text": " There will be only three unique",
+      "start": 988.199,
+      "duration": 1.986
+    },
+    {
+      "text": " elements in the hash map. This is how",
+      "start": 989.216,
+      "duration": 2.398
+    },
+    {
+      "text": " you can find the information. Very good",
+      "start": 990.66,
+      "duration": 3.338
+    },
+    {
+      "text": ". What was the next step? What was the",
+      "start": 992.998,
+      "duration": 2.842
+    },
+    {
+      "text": " next step? When you move the window,",
+      "start": 994.883,
+      "duration": 3.186
+    },
+    {
+      "text": " either you move high or you move low,",
+      "start": 997.122,
+      "duration": 2.969
+    },
+    {
+      "text": " then how will you change that",
+      "start": 999.144,
+      "duration": 2.543
+    },
+    {
+      "text": " information? Will you iterate from low",
+      "start": 1000.74,
+      "duration": 2.853
+    },
+    {
+      "text": " to high every time to figure it out? No",
+      "start": 1002.633,
+      "duration": 2.642
+    },
+    {
+      "text": ", this has already been covered in",
+      "start": 1004.275,
+      "duration": 2.76
+    },
+    {
+      "text": " fixed. What do we do? If, if as per now",
+      "start": 1006.087,
+      "duration": 4.729
+    },
+    {
+      "text": ", as per now, your low is here. High is",
+      "start": 1009.816,
+      "duration": 4.71
+    },
+    {
+      "text": " here. If high moves, then what do you",
+      "start": 1013.622,
+      "duration": 3.246
+    },
+    {
+      "text": " do? We do nothing. We just do array of",
+      "start": 1015.921,
+      "duration": 4.373
+    },
+    {
+      "text": " high, or string of high, increment it.",
+      "start": 1019.348,
+      "duration": 3.071
+    },
+    {
+      "text": " Meaning wherever high moves, we will",
+      "start": 1022.2,
+      "duration": 3.303
+    },
+    {
+      "text": " add its frequency. What will we do to",
+      "start": 1024.567,
+      "duration": 4.021
+    },
+    {
+      "text": " move low? Meaning, what will we do to",
+      "start": 1027.685,
+      "duration": 3.363
+    },
+    {
+      "text": " shrink low? We will decrease the low.",
+      "start": 1030.098,
+      "duration": 3.302
+    },
+    {
+      "text": " That is what we will do, right? We were",
+      "start": 1032.5,
+      "duration": 2.133
+    },
+    {
+      "text": " doing the same thing yesterday too. We",
+      "start": 1033.661,
+      "duration": 2.292
+    },
+    {
+      "text": " will decrement it and increment low. It",
+      "start": 1035.05,
+      "duration": 4.708
+    },
+    {
+      "text": " is a simple matter. There is one thing,",
+      "start": 1038.812,
+      "duration": 3.653
+    },
+    {
+      "text": " a confusion. Suppose your array was",
+      "start": 1041.545,
+      "duration": 3.261
+    },
+    {
+      "text": " like this. This is your current hash",
+      "start": 1043.86,
+      "duration": 2.964
+    },
+    {
+      "text": " map. Okay? It is a hash map. A is one,",
+      "start": 1045.876,
+      "duration": 3.264
+    },
+    {
+      "text": " B is two, C is two. Your 'low', right",
+      "start": 1048.217,
+      "duration": 3.579
+    },
+    {
+      "text": " now, your 'low' is pointing to A. For",
+      "start": 1050.84,
+      "duration": 2.603
+    },
+    {
+      "text": " example, it looks like this. Hey, now",
+      "start": 1052.486,
+      "duration": 3.629
+    },
+    {
+      "text": " you need to remove A. Meaning, you need",
+      "start": 1055.174,
+      "duration": 3.318
+    },
+    {
+      "text": " to remove this 'low'. So, what did we",
+      "start": 1057.552,
+      "duration": 3.215
+    },
+    {
+      "text": " say to do to remove it? What did we do",
+      "start": 1059.802,
+      "duration": 2.477
+    },
+    {
+      "text": " yesterday? If it were a sum, what would",
+      "start": 1061.321,
+      "duration": 2.398
+    },
+    {
+      "text": " you do with the sum? You would subtract",
+      "start": 1062.75,
+      "duration": 2.318
+    },
+    {
+      "text": " it from the sum, so it would be removed",
+      "start": 1064.101,
+      "duration": 2.269
+    },
+    {
+      "text": ". How will you do that in a hash map?",
+      "start": 1065.37,
+      "duration": 2.373
+    },
+    {
+      "text": " In the hash map, we are saying that",
+      "start": 1067.219,
+      "duration": 2.467
+    },
+    {
+      "text": " since its frequency is in the hash map,",
+      "start": 1068.728,
+      "duration": 2.635
+    },
+    {
+      "text": " just decrease its frequency. So, you",
+      "start": 1070.405,
+      "duration": 2.779
+    },
+    {
+      "text": " will decrease its frequency in the hash",
+      "start": 1072.225,
+      "duration": 2.59
+    },
+    {
+      "text": " map. If you decrease its frequency, it",
+      "start": 1073.855,
+      "duration": 2.714
+    },
+    {
+      "text": " will become zero. It will become zero",
+      "start": 1075.613,
+      "duration": 2.679
+    },
+    {
+      "text": " if you subtract one, right? Now, in a",
+      "start": 1077.334,
+      "duration": 3.645
+    },
+    {
+      "text": " hash map, in any language, if you set",
+      "start": 1080.026,
+      "duration": 2.729
+    },
+    {
+      "text": " it to zero, it doesn't get removed from",
+      "start": 1081.802,
+      "duration": 2.822
+    },
+    {
+      "text": " the hash map. Pay attention to this.",
+      "start": 1083.671,
+      "duration": 3.631
+    },
+    {
+      "text": " This A is still in the hash map. It has",
+      "start": 1086.402,
+      "duration": 2.711
+    },
+    {
+      "text": " not been removed from the hash map.",
+      "start": 1088.146,
+      "duration": 2.142
+    },
+    {
+      "text": " Only its frequency has become zero. If",
+      "start": 1089.388,
+      "duration": 3.092
+    },
+    {
+      "text": " someone asks how many characters are",
+      "start": 1091.53,
+      "duration": 2.808
+    },
+    {
+      "text": " unique? Then you were saying that the",
+      "start": 1093.388,
+      "duration": 3.169
+    },
+    {
+      "text": " size of my hash map is the number of",
+      "start": 1095.604,
+      "duration": 2.711
+    },
+    {
+      "text": " unique characters. But the frequency of",
+      "start": 1097.363,
+      "duration": 3.349
+    },
+    {
+      "text": " A is zero. This hash map is telling us",
+      "start": 1099.773,
+      "duration": 3.556
+    },
+    {
+      "text": " that we have a window where A is not",
+      "start": 1102.395,
+      "duration": 3.359
+    },
+    {
+      "text": " present even once. B is there twice, C",
+      "start": 1104.82,
+      "duration": 3.29
+    },
+    {
+      "text": " is there twice. So should its size be",
+      "start": 1107.157,
+      "duration": 3.372
+    },
+    {
+      "text": " three? Its size should be two. It",
+      "start": 1109.599,
+      "duration": 2.958
+    },
+    {
+      "text": " should be two, right? Because A is zero",
+      "start": 1111.592,
+      "duration": 3.119
+    },
+    {
+      "text": ". For this, for this thing, see, there",
+      "start": 1113.711,
+      "duration": 3.4
+    },
+    {
+      "text": " is no problem with the sum. If you",
+      "start": 1116.173,
+      "duration": 2.965
+    },
+    {
+      "text": " subtracted it from the sum, it's gone.",
+      "start": 1118.171,
+      "duration": 2.246
+    },
+    {
+      "text": " But this A hasn't gone yet. Only its",
+      "start": 1119.644,
+      "duration": 3.309
+    },
+    {
+      "text": " frequency has become zero. For this,",
+      "start": 1121.999,
+      "duration": 4.086
+    },
+    {
+      "text": " for this thing, after this, you have to",
+      "start": 1125.181,
+      "duration": 4.753
+    },
+    {
+      "text": " check if f [low] is equal to 0, then",
+      "start": 1129.03,
+      "duration": 4.465
+    },
+    {
+      "text": " erase f.erase. This is C ++ syntax.",
+      "start": 1132.591,
+      "duration": 4.828
+    },
+    {
+      "text": " Check how to remove from a hash map in",
+      "start": 1136.653,
+      "duration": 2.547
+    },
+    {
+      "text": " Java and Python. Take a look at that. '",
+      "start": 1138.241,
+      "duration": 2.947
+    },
+    {
+      "text": "low' What does this mean? That if the",
+      "start": 1140.188,
+      "duration": 4.831
+    },
+    {
+      "text": " frequency of any character becomes zero",
+      "start": 1144.068,
+      "duration": 2.92
+    },
+    {
+      "text": ", there is no benefit in keeping it in",
+      "start": 1145.988,
+      "duration": 2.871
+    },
+    {
+      "text": " the hash map. It will be wrong. Remove",
+      "start": 1147.908,
+      "duration": 3.197
+    },
+    {
+      "text": " it. Erase it. Right? I mean, you have",
+      "start": 1150.179,
+      "duration": 3.964
+    },
+    {
+      "text": " many people. You took all the money",
+      "start": 1153.195,
+      "duration": 2.551
+    },
+    {
+      "text": " from one person. That person became",
+      "start": 1154.783,
+      "duration": 2.358
+    },
+    {
+      "text": " completely broke. So there is no point",
+      "start": 1156.177,
+      "duration": 2.332
+    },
+    {
+      "text": " in keeping them. Tell that person to",
+      "start": 1157.54,
+      "duration": 2.43
+    },
+    {
+      "text": " leave, you have to erase them. So this",
+      "start": 1159.014,
+      "duration": 2.824
+    },
+    {
+      "text": " is a small step. Okay? It is not that",
+      "start": 1160.895,
+      "duration": 3.439
+    },
+    {
+      "text": " hard, I mean I told you just to explain",
+      "start": 1163.374,
+      "duration": 2.556
+    },
+    {
+      "text": ". Otherwise, if I had written this",
+      "start": 1164.93,
+      "duration": 2.304
+    },
+    {
+      "text": " directly in the code, you wouldn't have",
+      "start": 1166.27,
+      "duration": 2.42
+    },
+    {
+      "text": " understood. Right? So people do this,",
+      "start": 1167.726,
+      "duration": 2.806
+    },
+    {
+      "text": " they don't explain it now, they go into",
+      "start": 1169.575,
+      "duration": 2.666
+    },
+    {
+      "text": " the code and see, oh, f dot erase is",
+      "start": 1171.284,
+      "duration": 2.538
+    },
+    {
+      "text": " written here, so why is it written? It",
+      "start": 1172.864,
+      "duration": 2.697
+    },
+    {
+      "text": " is written because it became zero, so",
+      "start": 1174.612,
+      "duration": 2.881
+    },
+    {
+      "text": " remove it. Okay, did you understand",
+      "start": 1176.544,
+      "duration": 3.121
+    },
+    {
+      "text": " this much? Are all four steps clear?",
+      "start": 1178.724,
+      "duration": 3.145
+    },
+    {
+      "text": " Okay. Now, now, now watch carefully;",
+      "start": 1180.969,
+      "duration": 4.124
+    },
+    {
+      "text": " the template we learned above, the one",
+      "start": 1184.148,
+      "duration": 3.095
+    },
+    {
+      "text": " with the for-loop, that big block, how",
+      "start": 1186.298,
+      "duration": 3.095
+    },
+    {
+      "text": " to use it? Right. Now what to do? What",
+      "start": 1188.448,
+      "duration": 4.953
+    },
+    {
+      "text": " needs to be done? First of all, what",
+      "start": 1192.439,
+      "duration": 3.534
+    },
+    {
+      "text": " did I say? Keep low at zero, and keep",
+      "start": 1195.063,
+      "duration": 4.304
+    },
+    {
+      "text": " high at zero too. Okay? Now let's",
+      "start": 1198.452,
+      "duration": 5.076
+    },
+    {
+      "text": " create an array. Let's create an input",
+      "start": 1202.655,
+      "duration": 4.854
+    },
+    {
+      "text": " array. a A And let's make it b. 0 1 2 3",
+      "start": 1206.579,
+      "duration": 11.656
+    },
+    {
+      "text": " 4 5, this is your string. Your K is",
+      "start": 1217.358,
+      "duration": 5.403
+    },
+    {
+      "text": " three. This is given in the question.",
+      "start": 1221.884,
+      "duration": 3.216
+    },
+    {
+      "text": " Let's not keep K as 3. Three would",
+      "start": 1224.2,
+      "duration": 2.892
+    },
+    {
+      "text": " include everything, right? Your K is 2.",
+      "start": 1226.141,
+      "duration": 4.759
+    },
+    {
+      "text": " Did you get the point? Okay? Now this",
+      "start": 1230.639,
+      "duration": 3.755
+    },
+    {
+      "text": " is your question. Now what will you do?",
+      "start": 1233.451,
+      "duration": 3.213
+    },
+    {
+      "text": " The first thing, what did I say? Low",
+      "start": 1235.764,
+      "duration": 2.416
+    },
+    {
+      "text": " must be kept at zero. High must be kept",
+      "start": 1237.215,
+      "duration": 2.684
+    },
+    {
+      "text": " at zero. What is the first thing to do?",
+      "start": 1238.95,
+      "duration": 2.709
+    },
+    {
+      "text": " Run a for-loop. Only if we run a",
+      "start": 1240.759,
+      "duration": 2.706
+    },
+    {
+      "text": " for-loop will high increase. We are",
+      "start": 1242.503,
+      "duration": 2.406
+    },
+    {
+      "text": " increasing high one by one. Run it. For",
+      "start": 1243.951,
+      "duration": 3.958
+    },
+    {
+      "text": " i = 0 i < n, meaning whatever the size",
+      "start": 1247.153,
+      "duration": 6.678
+    },
+    {
+      "text": " is, it's six. It's six. Yes, it's six.",
+      "start": 1252.91,
+      "duration": 4.287
+    },
+    {
+      "text": " Okay. What was the first thing I said",
+      "start": 1256.299,
+      "duration": 4.253
+    },
+    {
+      "text": " that must happen? Include high in your",
+      "start": 1259.6,
+      "duration": 3.57
+    },
+    {
+      "text": " information. Include it. So where is",
+      "start": 1262.241,
+      "duration": 3.682
+    },
+    {
+      "text": " our information stored? It is stored in",
+      "start": 1264.975,
+      "duration": 2.87
+    },
+    {
+      "text": " the hash map. So let's create a hash",
+      "start": 1266.883,
+      "duration": 2.573
+    },
+    {
+      "text": " map. Let's create our nice little hash",
+      "start": 1268.5,
+      "duration": 4.173
+    },
+    {
+      "text": " map right here. What is this? It is the",
+      "start": 1271.757,
+      "duration": 3.997
+    },
+    {
+      "text": " frequency hash map. Okay? Now in the",
+      "start": 1274.821,
+      "duration": 4.469
+    },
+    {
+      "text": " hash map, it will be empty in the",
+      "start": 1278.345,
+      "duration": 2.816
+    },
+    {
+      "text": " beginning. Initially, it is empty and",
+      "start": 1280.216,
+      "duration": 2.547
+    },
+    {
+      "text": " its size will be zero. The size will be",
+      "start": 1281.797,
+      "duration": 2.498
+    },
+    {
+      "text": " zero, right? Okay? Now look. The first",
+      "start": 1283.335,
+      "duration": 4.948
+    },
+    {
+      "text": " task was to include high in your",
+      "start": 1287.339,
+      "duration": 2.792
+    },
+    {
+      "text": " information. Include it. How do we",
+      "start": 1289.187,
+      "duration": 3.453
+    },
+    {
+      "text": " include it? Include f s high, s is your",
+      "start": 1291.72,
+      "duration": 4.479
+    },
+    {
+      "text": " string, and s plus plus, this does what",
+      "start": 1295.287,
+      "duration": 4.418
+    },
+    {
+      "text": "? Right now there is nothing in your",
+      "start": 1298.705,
+      "duration": 4.046
+    },
+    {
+      "text": " hash map, right? Yes. Where is your",
+      "start": 1301.818,
+      "duration": 3.458
+    },
+    {
+      "text": " high right now? Let's mark your high",
+      "start": 1304.312,
+      "duration": 2.498
+    },
+    {
+      "text": " right here. Your low is here and your",
+      "start": 1305.852,
+      "duration": 3.828
+    },
+    {
+      "text": " high is also right here. It is at zero,",
+      "start": 1308.769,
+      "duration": 5.01
+    },
+    {
+      "text": " right? So look, your character is A",
+      "start": 1312.819,
+      "duration": 2.661
+    },
+    {
+      "text": " right now. A is not in the hash map yet",
+      "start": 1314.527,
+      "duration": 3.274
+    },
+    {
+      "text": ". A is not in the hash map, right? It's",
+      "start": 1316.801,
+      "duration": 2.71
+    },
+    {
+      "text": " not there. But when you do this, when",
+      "start": 1318.559,
+      "duration": 3.658
+    },
+    {
+      "text": " you perform this task, if it's not",
+      "start": 1321.265,
+      "duration": 2.646
+    },
+    {
+      "text": " there, it adds it and starts it from",
+      "start": 1322.96,
+      "duration": 2.742
+    },
+    {
+      "text": " zero, making it one. You can do that.",
+      "start": 1324.75,
+      "duration": 3.869
+    },
+    {
+      "text": " Okay? If you don't understand that,",
+      "start": 1327.719,
+      "duration": 3.265
+    },
+    {
+      "text": " then first insert it with zero and then",
+      "start": 1330.044,
+      "duration": 3.321
+    },
+    {
+      "text": " make it one. Basically, the outcome is",
+      "start": 1332.424,
+      "duration": 2.955
+    },
+    {
+      "text": " the same, its frequency increases. If",
+      "start": 1334.422,
+      "duration": 2.679
+    },
+    {
+      "text": " it's not there, it's inserted with a",
+      "start": 1336.153,
+      "duration": 2.891
+    },
+    {
+      "text": " frequency of one. Not zero. Not zero,",
+      "start": 1338.097,
+      "duration": 3.755
+    },
+    {
+      "text": " with one. Okay? Now your hash map has A",
+      "start": 1340.949,
+      "duration": 4.525
+    },
+    {
+      "text": " with one, which is correct. Now, let's",
+      "start": 1344.556,
+      "duration": 4.016
+    },
+    {
+      "text": " look at the next step. That's done,",
+      "start": 1347.635,
+      "duration": 3.189
+    },
+    {
+      "text": " very good. We've reached here. Now what",
+      "start": 1349.882,
+      "duration": 3.121
+    },
+    {
+      "text": " was the next step? In the next step,",
+      "start": 1352.071,
+      "duration": 3.229
+    },
+    {
+      "text": " you have to think, is my information",
+      "start": 1354.348,
+      "duration": 2.736
+    },
+    {
+      "text": " correct? What does it mean for the",
+      "start": 1356.133,
+      "duration": 2.629
+    },
+    {
+      "text": " information to be correct? Information",
+      "start": 1357.8,
+      "duration": 3.015
+    },
+    {
+      "text": " being correct means, on what condition",
+      "start": 1359.871,
+      "duration": 3.128
+    },
+    {
+      "text": " was your requested substring asked for?",
+      "start": 1362.055,
+      "duration": 3.184
+    },
+    {
+      "text": " On what condition was it asked? What is",
+      "start": 1364.436,
+      "duration": 2.585
+    },
+    {
+      "text": " written in your question? That it",
+      "start": 1366.062,
+      "duration": 2.525
+    },
+    {
+      "text": " should have exactly K characters. K",
+      "start": 1367.643,
+      "duration": 3.064
+    },
+    {
+      "text": " unique characters. What does that mean?",
+      "start": 1369.775,
+      "duration": 3.724
+    },
+    {
+      "text": " That your window can have any number of",
+      "start": 1373.238,
+      "duration": 2.988
+    },
+    {
+      "text": " characters. The length of your window",
+      "start": 1375.277,
+      "duration": 2.512
+    },
+    {
+      "text": " can be anything. It could be 100. But,",
+      "start": 1376.823,
+      "duration": 2.81
+    },
+    {
+      "text": " but, but, the unique characters in it",
+      "start": 1378.692,
+      "duration": 3.161
+    },
+    {
+      "text": " must be K. Meaning, if A is repeating",
+      "start": 1380.911,
+      "duration": 3.162
+    },
+    {
+      "text": " 100 times, that's fine, it will count",
+      "start": 1383.131,
+      "duration": 3.161
+    },
+    {
+      "text": " as one. If B is repeating 50 times, it",
+      "start": 1385.351,
+      "duration": 3.091
+    },
+    {
+      "text": " will count as two. If C is repeating 10",
+      "start": 1387.492,
+      "duration": 2.87
+    },
+    {
+      "text": " times, it will count as three.",
+      "start": 1389.405,
+      "duration": 2.283
+    },
+    {
+      "text": " Regardless of the length. How did we",
+      "start": 1390.788,
+      "duration": 2.632
+    },
+    {
+      "text": " learn this? What did we say about the",
+      "start": 1392.471,
+      "duration": 2.534
+    },
+    {
+      "text": " information? The size of the hash map.",
+      "start": 1394.04,
+      "duration": 2.671
+    },
+    {
+      "text": " The size of the hash map. What is the",
+      "start": 1395.811,
+      "duration": 2.513
+    },
+    {
+      "text": " size of your hash map right now? One.",
+      "start": 1397.361,
+      "duration": 2.868
+    },
+    {
+      "text": " It's one, right? Okay? How to undo this",
+      "start": 1399.701,
+      "duration": 4.783
+    },
+    {
+      "text": "? The size of your hash map is one. So,",
+      "start": 1403.484,
+      "duration": 4.605
+    },
+    {
+      "text": " it means, what does it mean for the",
+      "start": 1407.152,
+      "duration": 3.206
+    },
+    {
+      "text": " information to be correct? That if the",
+      "start": 1409.421,
+      "duration": 3.61
+    },
+    {
+      "text": " hash map size becomes exactly K, then",
+      "start": 1412.094,
+      "duration": 3.345
+    },
+    {
+      "text": " the information is correct. That's it,",
+      "start": 1414.502,
+      "duration": 3.68
+    },
+    {
+      "text": " right? If, if the hash map size becomes",
+      "start": 1417.224,
+      "duration": 3.847
+    },
+    {
+      "text": " exactly K, then it will be correct,",
+      "start": 1420.127,
+      "duration": 2.96
+    },
+    {
+      "text": " that's what it means. If 'A B C' is",
+      "start": 1422.143,
+      "duration": 3.563
+    },
+    {
+      "text": " your window, what will be the size of",
+      "start": 1424.763,
+      "duration": 3.141
+    },
+    {
+      "text": " the hash map? Three. How many distinct",
+      "start": 1426.962,
+      "duration": 2.791
+    },
+    {
+      "text": " characters are in it? Three. This is",
+      "start": 1428.788,
+      "duration": 2.785
+    },
+    {
+      "text": " simple. Right now, what is the size of",
+      "start": 1430.654,
+      "duration": 2.566
+    },
+    {
+      "text": " the hash map? One. What does this tell",
+      "start": 1432.25,
+      "duration": 2.811
+    },
+    {
+      "text": " us? That my window has only one",
+      "start": 1434.1,
+      "duration": 2.332
+    },
+    {
+      "text": " distinct character. There is only one",
+      "start": 1435.474,
+      "duration": 2.449
+    },
+    {
+      "text": " distinct character. Okay? Now, what did",
+      "start": 1436.956,
+      "duration": 2.919
+    },
+    {
+      "text": " we say? The information can either be",
+      "start": 1438.919,
+      "duration": 2.739
+    },
+    {
+      "text": " correct or it can be wrong. That's a",
+      "start": 1440.702,
+      "duration": 2.61
+    },
+    {
+      "text": " good point. Come, information has only",
+      "start": 1442.354,
+      "duration": 2.925
+    },
+    {
+      "text": " two cases, right? There are only two",
+      "start": 1444.331,
+      "duration": 2.614
+    },
+    {
+      "text": " cases in the world. Correct or",
+      "start": 1445.98,
+      "duration": 2.233
+    },
+    {
+      "text": " incorrect. But, but now there is only",
+      "start": 1447.26,
+      "duration": 2.865
+    },
+    {
+      "text": " one case for correct. Look, I am",
+      "start": 1449.169,
+      "duration": 2.45
+    },
+    {
+      "text": " writing it small here to build it.",
+      "start": 1450.659,
+      "duration": 2.36
+    },
+    {
+      "text": " There is only one case for correct. f",
+      "start": 1452.139,
+      "duration": 3.095
+    },
+    {
+      "text": " dot size becomes equal to k. This is",
+      "start": 1454.369,
+      "duration": 5.791
+    },
+    {
+      "text": " the criteria for correct. What is",
+      "start": 1459.22,
+      "duration": 3.047
+    },
+    {
+      "text": " incorrect? Incorrect is when either f",
+      "start": 1461.333,
+      "duration": 4.241
+    },
+    {
+      "text": " dot size becomes greater than k or f",
+      "start": 1464.67,
+      "duration": 4.435
+    },
+    {
+      "text": " dot size becomes smaller than k. These",
+      "start": 1468.2,
+      "duration": 4.359
+    },
+    {
+      "text": " are the only three types of cases",
+      "start": 1471.599,
+      "duration": 2.32
+    },
+    {
+      "text": " possible in the world. This is all that",
+      "start": 1472.959,
+      "duration": 2.451
+    },
+    {
+      "text": " can happen. So it is a normal thing.",
+      "start": 1474.436,
+      "duration": 2.623
+    },
+    {
+      "text": " This is your correct case. Now, as I",
+      "start": 1476.159,
+      "duration": 4.123
+    },
+    {
+      "text": " said, keep shrinking the window as long",
+      "start": 1479.337,
+      "duration": 3.18
+    },
+    {
+      "text": " as the information is wrong. That",
+      "start": 1481.573,
+      "duration": 3.158
+    },
+    {
+      "text": " doesn't happen in every case. I told",
+      "start": 1483.78,
+      "duration": 2.764
+    },
+    {
+      "text": " you there is a slight change, but that",
+      "start": 1485.588,
+      "duration": 2.679
+    },
+    {
+      "text": " is the general logic. Now see, come to",
+      "start": 1487.311,
+      "duration": 3.125
+    },
+    {
+      "text": " this case, you will understand it",
+      "start": 1489.501,
+      "duration": 3.139
+    },
+    {
+      "text": " better. What did I say, as long as our",
+      "start": 1491.705,
+      "duration": 3.511
+    },
+    {
+      "text": " information is wrong, we have to keep",
+      "start": 1494.28,
+      "duration": 3.364
+    },
+    {
+      "text": " shrinking the low. Now come to this",
+      "start": 1496.708,
+      "duration": 3.278
+    },
+    {
+      "text": " case. For example, right now your F",
+      "start": 1499.041,
+      "duration": 2.935
+    },
+    {
+      "text": " size is less than K. Just like it is",
+      "start": 1501.03,
+      "duration": 2.94
+    },
+    {
+      "text": " here. Your hashmap size is one. The",
+      "start": 1503.024,
+      "duration": 3.239
+    },
+    {
+      "text": " length of K is two. So yours is less.",
+      "start": 1505.338,
+      "duration": 3.281
+    },
+    {
+      "text": " So this is wrong information. So should",
+      "start": 1507.719,
+      "duration": 3.178
+    },
+    {
+      "text": " we shrink in this case as well? No. Why",
+      "start": 1509.954,
+      "duration": 3.776
+    },
+    {
+      "text": "? What does it mean when you shrink the",
+      "start": 1512.73,
+      "duration": 3.529
+    },
+    {
+      "text": " window? Shrinking the window means you",
+      "start": 1515.299,
+      "duration": 4.587
+    },
+    {
+      "text": " bring the low towards the high. That is",
+      "start": 1518.959,
+      "duration": 4.917
+    },
+    {
+      "text": " what it means, meaning if your window",
+      "start": 1522.915,
+      "duration": 2.465
+    },
+    {
+      "text": " is like this, you will come shrinking",
+      "start": 1524.419,
+      "duration": 2.465
+    },
+    {
+      "text": " the window. And when you come shrinking",
+      "start": 1525.923,
+      "duration": 2.806
+    },
+    {
+      "text": " the window, you will keep removing them",
+      "start": 1527.772,
+      "duration": 2.69
+    },
+    {
+      "text": " one by one from the hashmap. This is",
+      "start": 1529.505,
+      "duration": 2.805
+    },
+    {
+      "text": " exactly what was said, that first",
+      "start": 1531.361,
+      "duration": 2.654
+    },
+    {
+      "text": " reduce the frequency of that low. If",
+      "start": 1533.065,
+      "duration": 2.87
+    },
+    {
+      "text": " the frequency of low ever becomes zero,",
+      "start": 1534.983,
+      "duration": 2.883
+    },
+    {
+      "text": " then remove it. So, if F size is less",
+      "start": 1536.914,
+      "duration": 4.451
+    },
+    {
+      "text": " than K, then one thing we understand is",
+      "start": 1540.44,
+      "duration": 3.944
+    },
+    {
+      "text": " that if we shrink the low, then F size",
+      "start": 1543.459,
+      "duration": 3.868
+    },
+    {
+      "text": " will decrease. Will it decrease or stay",
+      "start": 1546.403,
+      "duration": 3.892
+    },
+    {
+      "text": " the same? It definitely won't increase.",
+      "start": 1549.335,
+      "duration": 2.512
+    },
+    {
+      "text": " It definitely won't increase. Listen",
+      "start": 1550.947,
+      "duration": 2.128
+    },
+    {
+      "text": " very carefully. This is what is not",
+      "start": 1552.116,
+      "duration": 2.597
+    },
+    {
+      "text": " understood and this is what teachers",
+      "start": 1553.759,
+      "duration": 2.67
+    },
+    {
+      "text": " don't explain. If we are shrinking the",
+      "start": 1555.475,
+      "duration": 4.215
+    },
+    {
+      "text": " low, the hashmap size will either",
+      "start": 1558.784,
+      "duration": 4.086
+    },
+    {
+      "text": " remain the same. Meaning the size will",
+      "start": 1561.963,
+      "duration": 3.364
+    },
+    {
+      "text": " remain the same. It's possible its",
+      "start": 1564.36,
+      "duration": 2.43
+    },
+    {
+      "text": " frequency decreases but the size",
+      "start": 1565.838,
+      "duration": 2.526
+    },
+    {
+      "text": " remains 'a' in it or its size itself",
+      "start": 1567.412,
+      "duration": 2.716
+    },
+    {
+      "text": " will decrease. Meaning if 'a' becomes",
+      "start": 1569.176,
+      "duration": 2.566
+    },
+    {
+      "text": " zero, then 'a' will be removed. These",
+      "start": 1570.778,
+      "duration": 2.375
+    },
+    {
+      "text": " are the only two things that can happen",
+      "start": 1572.176,
+      "duration": 1.881
+    },
+    {
+      "text": ", right? So look, when the size of f is",
+      "start": 1573.057,
+      "duration": 3.184
+    },
+    {
+      "text": " already less than k, why would you",
+      "start": 1575.305,
+      "duration": 3.157
+    },
+    {
+      "text": " increase the low to make it even",
+      "start": 1577.526,
+      "duration": 3.03
+    },
+    {
+      "text": " smaller? We don't want it smaller. We",
+      "start": 1579.62,
+      "duration": 2.571
+    },
+    {
+      "text": " need exactly that. We need it exactly.",
+      "start": 1581.247,
+      "duration": 2.94
+    },
+    {
+      "text": " That is why, if the size of f is",
+      "start": 1583.287,
+      "duration": 3.368
+    },
+    {
+      "text": " already less than k, there is no",
+      "start": 1585.729,
+      "duration": 3.368
+    },
+    {
+      "text": " benefit in shrinking it. Now, look at",
+      "start": 1588.171,
+      "duration": 3.872
+    },
+    {
+      "text": " what happens when you increase high.",
+      "start": 1591.104,
+      "duration": 3.175
+    },
+    {
+      "text": " Increasing high increases the size of f",
+      "start": 1593.399,
+      "duration": 4.51
+    },
+    {
+      "text": ". That is what happens. Just now we",
+      "start": 1596.909,
+      "duration": 2.474
+    },
+    {
+      "text": " increased high, so one element entered",
+      "start": 1598.42,
+      "duration": 2.4
+    },
+    {
+      "text": " the map and it increased. And shrinking",
+      "start": 1599.856,
+      "duration": 2.894
+    },
+    {
+      "text": " low decreases its size. Meaning,",
+      "start": 1601.817,
+      "duration": 3.164
+    },
+    {
+      "text": " whenever you move low, the size will",
+      "start": 1604.042,
+      "duration": 3.173
+    },
+    {
+      "text": " decrease. And whenever you move high,",
+      "start": 1606.275,
+      "duration": 4.125
+    },
+    {
+      "text": " the size increases. That is why we move",
+      "start": 1609.469,
+      "duration": 3.728
+    },
+    {
+      "text": " high, so the size increases a bit. Okay",
+      "start": 1612.242,
+      "duration": 3.113
+    },
+    {
+      "text": "? So, whenever the size of f is less",
+      "start": 1614.355,
+      "duration": 3.665
+    },
+    {
+      "text": " than k, I don't think there is any",
+      "start": 1617.077,
+      "duration": 2.962
+    },
+    {
+      "text": " benefit in shrinking low. Right now,",
+      "start": 1619.096,
+      "duration": 3.65
+    },
+    {
+      "text": " you need to increase high. Right?",
+      "start": 1621.809,
+      "duration": 3.044
+    },
+    {
+      "text": " Because it is already less. Something",
+      "start": 1623.953,
+      "duration": 3.132
+    },
+    {
+      "text": " you need to, you need to reach two. You",
+      "start": 1626.133,
+      "duration": 2.917
+    },
+    {
+      "text": " are currently sitting at one. So since",
+      "start": 1628.093,
+      "duration": 2.717
+    },
+    {
+      "text": " you are at one, will you increase it,",
+      "start": 1629.856,
+      "duration": 2.726
+    },
+    {
+      "text": " or reduce it further to zero? You will",
+      "start": 1631.628,
+      "duration": 2.655
+    },
+    {
+      "text": " increase it, right? Your goal is that",
+      "start": 1633.309,
+      "duration": 2.506
+    },
+    {
+      "text": " you need to touch two. Understood? That",
+      "start": 1634.869,
+      "duration": 3.45
+    },
+    {
+      "text": " is why, in this case, there is no need",
+      "start": 1637.394,
+      "duration": 3.849
+    },
+    {
+      "text": " to handle the low part. It has two",
+      "start": 1640.318,
+      "duration": 3.291
+    },
+    {
+      "text": " parts, right? One part is where the",
+      "start": 1642.656,
+      "duration": 2.971
+    },
+    {
+      "text": " high for-loop runs. And inside high, a",
+      "start": 1644.683,
+      "duration": 4.409
+    },
+    {
+      "text": " while loop runs for low. That was the",
+      "start": 1648.18,
+      "duration": 4.87
+    },
+    {
+      "text": " template. So if the size of f is less",
+      "start": 1652.102,
+      "duration": 3.234
+    },
+    {
+      "text": " than k, you need to increase high, so",
+      "start": 1654.397,
+      "duration": 3.275
+    },
+    {
+      "text": " it will increase eventually. Shrinking",
+      "start": 1656.734,
+      "duration": 3.169
+    },
+    {
+      "text": " low doesn't help; that would just make",
+      "start": 1658.941,
+      "duration": 2.466
+    },
+    {
+      "text": " it worse. You are already at one. You",
+      "start": 1660.445,
+      "duration": 3.088
+    },
+    {
+      "text": " need to get to two, so if you increase",
+      "start": 1662.585,
+      "duration": 2.994
+    },
+    {
+      "text": " low, you will go to -1 or -2, moving",
+      "start": 1664.632,
+      "duration": 2.889
+    },
+    {
+      "text": " further back. You don't want that. That",
+      "start": 1666.573,
+      "duration": 2.91
+    },
+    {
+      "text": " is why, oh man, this gets very",
+      "start": 1668.57,
+      "duration": 3.618
+    },
+    {
+      "text": " confusing. Yes. So when the size of f",
+      "start": 1671.275,
+      "duration": 4.302
+    },
+    {
+      "text": " is less than k, there is no need,",
+      "start": 1674.64,
+      "duration": 3.073
+    },
+    {
+      "text": " absolutely no need, to go into the low",
+      "start": 1676.775,
+      "duration": 3.387
+    },
+    {
+      "text": " part. But now look, what if the size of",
+      "start": 1679.225,
+      "duration": 3.716
+    },
+    {
+      "text": " f is greater than k? That can also",
+      "start": 1682.006,
+      "duration": 3.238
+    },
+    {
+      "text": " happen. Now, you needed to reach two.",
+      "start": 1684.302,
+      "duration": 3.817
+    },
+    {
+      "text": " Now you are sitting at three. Will you",
+      "start": 1687.259,
+      "duration": 3.488
+    },
+    {
+      "text": " increase high? No. Then you would go to",
+      "start": 1689.844,
+      "duration": 3.901
+    },
+    {
+      "text": " four. In this case, you need to",
+      "start": 1692.805,
+      "duration": 2.328
+    },
+    {
+      "text": " decrease low. Why? You need to increase",
+      "start": 1694.17,
+      "duration": 2.825
+    },
+    {
+      "text": " low. Why? Because when 'low' increases,",
+      "start": 1696.027,
+      "duration": 3.255
+    },
+    {
+      "text": " the size of the hash map gradually",
+      "start": 1698.333,
+      "duration": 2.717
+    },
+    {
+      "text": " decreases. So, you have this. So that '",
+      "start": 1700.1,
+      "duration": 3.109
+    },
+    {
+      "text": "low' part will definitely be there.",
+      "start": 1702.209,
+      "duration": 2.951
+    },
+    {
+      "text": " Look, it will definitely be there. But",
+      "start": 1704.26,
+      "duration": 2.162
+    },
+    {
+      "text": " under what condition it will happen,",
+      "start": 1705.458,
+      "duration": 2.308
+    },
+    {
+      "text": " you have to decide. You have to decide",
+      "start": 1706.802,
+      "duration": 2.688
+    },
+    {
+      "text": " that. So, when we have exceeded K, we",
+      "start": 1708.539,
+      "duration": 2.976
+    },
+    {
+      "text": " need to reduce a bit to come back to K.",
+      "start": 1710.567,
+      "duration": 3.046
+    },
+    {
+      "text": " There is only one way to reduce it, and",
+      "start": 1712.666,
+      "duration": 3.046
+    },
+    {
+      "text": " that is to increase 'low'. If you",
+      "start": 1714.764,
+      "duration": 2.782
+    },
+    {
+      "text": " increase 'low', the size will decrease,",
+      "start": 1716.587,
+      "duration": 2.608
+    },
+    {
+      "text": " and if you increase 'high', the size",
+      "start": 1718.236,
+      "duration": 2.484
+    },
+    {
+      "text": " will increase. You only need to",
+      "start": 1719.761,
+      "duration": 2.162
+    },
+    {
+      "text": " remember these two things. Based on",
+      "start": 1720.951,
+      "duration": 2.308
+    },
+    {
+      "text": " that, you have to decide this. Come,",
+      "start": 1722.316,
+      "duration": 3.288
+    },
+    {
+      "text": " let's decide this now. Did you",
+      "start": 1724.697,
+      "duration": 3.542
+    },
+    {
+      "text": " understand this much? If you didn't",
+      "start": 1727.282,
+      "duration": 2.724
+    },
+    {
+      "text": " understand, comment and I will explain.",
+      "start": 1729.056,
+      "duration": 2.943
+    },
+    {
+      "text": " Let's erase this. Now you will",
+      "start": 1731.199,
+      "duration": 3.627
+    },
+    {
+      "text": " understand it gradually. Come on, what",
+      "start": 1733.883,
+      "duration": 3.639
+    },
+    {
+      "text": " did I say? Now, the information could",
+      "start": 1736.605,
+      "duration": 3.746
+    },
+    {
+      "text": " be wrong. Meaning, if it is greater",
+      "start": 1739.416,
+      "duration": 2.584
+    },
+    {
+      "text": " than K, then you need to shrink it. And",
+      "start": 1741.036,
+      "duration": 2.465
+    },
+    {
+      "text": " what did I say above? As long as the",
+      "start": 1742.537,
+      "duration": 2.739
+    },
+    {
+      "text": " information is wrong, reduce 'low'. As",
+      "start": 1744.335,
+      "duration": 3.396
+    },
+    {
+      "text": " long as the information is wrong,",
+      "start": 1746.778,
+      "duration": 2.531
+    },
+    {
+      "text": " reduce 'low'. Meaning, while f.size > k",
+      "start": 1748.355,
+      "duration": 6.444
+    },
+    {
+      "text": ", what does this mean? As long as the",
+      "start": 1753.799,
+      "duration": 6.266
+    },
+    {
+      "text": " size of f is greater than K, keep",
+      "start": 1759.117,
+      "duration": 2.712
+    },
+    {
+      "text": " reducing 'low'. What is the way to",
+      "start": 1760.881,
+      "duration": 2.994
+    },
+    {
+      "text": " reduce 'low'? First of all, s [low]--is",
+      "start": 1762.932,
+      "duration": 6.22
+    },
+    {
+      "text": " removed. After that, what did I say?",
+      "start": 1768.306,
+      "duration": 4.313
+    },
+    {
+      "text": " After that, I said if its frequency",
+      "start": 1771.839,
+      "duration": 2.686
+    },
+    {
+      "text": " becomes zero, erase it because it won't",
+      "start": 1773.573,
+      "duration": 2.878
+    },
+    {
+      "text": " happen by itself. So, if F [s [low]] is",
+      "start": 1775.5,
+      "duration": 9.552
+    },
+    {
+      "text": " equal to 0, it's possible that while",
+      "start": 1784.108,
+      "duration": 3.039
+    },
+    {
+      "text": " reducing, its frequency becomes zero.",
+      "start": 1786.203,
+      "duration": 3.096
+    },
+    {
+      "text": " If that happens, blow it away, erase it",
+      "start": 1788.43,
+      "duration": 3.366
+    },
+    {
+      "text": " from the hash map. Only then will the",
+      "start": 1790.857,
+      "duration": 3.24
+    },
+    {
+      "text": " size decrease. If you don't do this,",
+      "start": 1793.155,
+      "duration": 2.897
+    },
+    {
+      "text": " your size will never decrease. It will",
+      "start": 1795.097,
+      "duration": 2.742
+    },
+    {
+      "text": " keep making everyone's frequency zero.",
+      "start": 1796.879,
+      "duration": 2.52
+    },
+    {
+      "text": " But that character will still remain.",
+      "start": 1798.499,
+      "duration": 2.32
+    },
+    {
+      "text": " It is necessary to decrease the size.",
+      "start": 1799.979,
+      "duration": 2.8
+    },
+    {
+      "text": " The work is done, low is removed, now",
+      "start": 1801.919,
+      "duration": 2.583
+    },
+    {
+      "text": " what? Increase low. Increased low. And",
+      "start": 1803.545,
+      "duration": 4.707
+    },
+    {
+      "text": " close this while loop. Look at this.",
+      "start": 1807.343,
+      "duration": 4.497
+    },
+    {
+      "text": " What is happening in this part? As long",
+      "start": 1810.955,
+      "duration": 2.86
+    },
+    {
+      "text": " as my information is wrong, as long as",
+      "start": 1812.873,
+      "duration": 3.176
+    },
+    {
+      "text": " my information is wrong, and which one",
+      "start": 1815.106,
+      "duration": 3.176
+    },
+    {
+      "text": " is wrong? Not the smaller one, the",
+      "start": 1817.339,
+      "duration": 2.932
+    },
+    {
+      "text": " larger one is wrong. Meaning, if it's",
+      "start": 1819.326,
+      "duration": 2.797
+    },
+    {
+      "text": " more, then it's wrong. In the case of",
+      "start": 1821.16,
+      "duration": 2.369
+    },
+    {
+      "text": " less, you saw that there is no need to",
+      "start": 1822.56,
+      "duration": 2.206
+    },
+    {
+      "text": " do this, brother. And you will keep",
+      "start": 1823.797,
+      "duration": 2.208
+    },
+    {
+      "text": " getting more wrong. So, this is fixing",
+      "start": 1825.038,
+      "duration": 3.424
+    },
+    {
+      "text": " it. This will fix it. This will fix it.",
+      "start": 1827.551,
+      "duration": 5.448
+    },
+    {
+      "text": " As long as the information is wrong,",
+      "start": 1832.161,
+      "duration": 3.415
+    },
+    {
+      "text": " keep increasing 'low'. The job is done.",
+      "start": 1834.643,
+      "duration": 3.335
+    },
+    {
+      "text": " Now, now let’s move on, this is very",
+      "start": 1837.078,
+      "duration": 2.52
+    },
+    {
+      "text": " important. Right? You all might think",
+      "start": 1838.638,
+      "duration": 2.706
+    },
+    {
+      "text": " that I say everything is very important",
+      "start": 1840.383,
+      "duration": 2.508
+    },
+    {
+      "text": ". But it actually is, at the beginning.",
+      "start": 1841.891,
+      "duration": 3.108
+    },
+    {
+      "text": " Now look, what did we do? You did",
+      "start": 1844.159,
+      "duration": 3.946
+    },
+    {
+      "text": " something here regarding the size.",
+      "start": 1847.149,
+      "duration": 2.49
+    },
+    {
+      "text": " There was an increase in size. Here you",
+      "start": 1848.799,
+      "duration": 4.357
+    },
+    {
+      "text": " decreased the size. Now there could be",
+      "start": 1852.263,
+      "duration": 4.675
+    },
+    {
+      "text": " two types of cases. Right? What did we",
+      "start": 1856.005,
+      "duration": 3.475
+    },
+    {
+      "text": " see? Initially, there were three types",
+      "start": 1858.532,
+      "duration": 2.403
+    },
+    {
+      "text": " of cases. f's size is exactly K, f's",
+      "start": 1859.968,
+      "duration": 3.154
+    },
+    {
+      "text": " size is smaller, f's size is larger. So",
+      "start": 1862.187,
+      "duration": 3.909
+    },
+    {
+      "text": ", this handled the case where f's size",
+      "start": 1865.096,
+      "duration": 2.848
+    },
+    {
+      "text": " is larger. If this while loop breaks,",
+      "start": 1866.992,
+      "duration": 2.942
+    },
+    {
+      "text": " when will it break? It will break",
+      "start": 1868.979,
+      "duration": 2.82
+    },
+    {
+      "text": " either when f's size becomes equal to k",
+      "start": 1870.859,
+      "duration": 3.34
+    },
+    {
+      "text": ". What am I saying? For example, what",
+      "start": 1873.199,
+      "duration": 4.751
+    },
+    {
+      "text": " if f's size was three and k = 2? Right?",
+      "start": 1877.061,
+      "duration": 5.118
+    },
+    {
+      "text": " So now you are decreasing f's size one",
+      "start": 1881.699,
+      "duration": 3.412
+    },
+    {
+      "text": " by one. At some point, it will decrease",
+      "start": 1884.174,
+      "duration": 2.526
+    },
+    {
+      "text": ", right? The frequency will keep",
+      "start": 1885.7,
+      "duration": 2.219
+    },
+    {
+      "text": " decreasing. Then it becomes zero, and",
+      "start": 1886.958,
+      "duration": 2.442
+    },
+    {
+      "text": " the size will decrease too. So, either",
+      "start": 1888.437,
+      "duration": 2.608
+    },
+    {
+      "text": " it reduces from three to two, and then",
+      "start": 1890.096,
+      "duration": 2.957
+    },
+    {
+      "text": " this while loop breaks. Because it only",
+      "start": 1892.105,
+      "duration": 2.948
+    },
+    {
+      "text": " breaks when f's size becomes equal to k",
+      "start": 1894.097,
+      "duration": 2.724
+    },
+    {
+      "text": ". It won't break otherwise. If it is",
+      "start": 1895.821,
+      "duration": 2.688
+    },
+    {
+      "text": " four, then four will first become three",
+      "start": 1897.56,
+      "duration": 2.974
+    },
+    {
+      "text": ". Three will eventually become two.",
+      "start": 1899.534,
+      "duration": 2.485
+    },
+    {
+      "text": " When it becomes equal, this while loop",
+      "start": 1901.119,
+      "duration": 2.763
+    },
+    {
+      "text": " will break. So that is one condition,",
+      "start": 1902.928,
+      "duration": 2.964
+    },
+    {
+      "text": " it could be equal now. Or suppose f's",
+      "start": 1904.945,
+      "duration": 3.103
+    },
+    {
+      "text": " size was never k to begin with. f's",
+      "start": 1907.104,
+      "duration": 3.029
+    },
+    {
+      "text": " size was smaller than k, which was a",
+      "start": 1909.192,
+      "duration": 3.123
+    },
+    {
+      "text": " case we haven't handled. f's size was",
+      "start": 1911.374,
+      "duration": 3.329
+    },
+    {
+      "text": " one. So, will this while loop ever run?",
+      "start": 1913.771,
+      "duration": 2.713
+    },
+    {
+      "text": " It won't run because one is not greater",
+      "start": 1915.584,
+      "duration": 2.443
+    },
+    {
+      "text": " than two. So this while loop won't run,",
+      "start": 1917.064,
+      "duration": 2.59
+    },
+    {
+      "text": " and you will come here. This means, it",
+      "start": 1918.694,
+      "duration": 2.921
+    },
+    {
+      "text": " means that when you broke the while",
+      "start": 1920.679,
+      "duration": 3.24
+    },
+    {
+      "text": " loop and came here. When you broke the",
+      "start": 1922.983,
+      "duration": 3.43
+    },
+    {
+      "text": " while loop and came here, two types of",
+      "start": 1925.459,
+      "duration": 2.72
+    },
+    {
+      "text": " cases could exist. f's size could be",
+      "start": 1927.224,
+      "duration": 3.107
+    },
+    {
+      "text": " equal to K. It could be that it was",
+      "start": 1929.39,
+      "duration": 3.084
+    },
+    {
+      "text": " larger. It decreased and became equal,",
+      "start": 1931.534,
+      "duration": 2.747
+    },
+    {
+      "text": " so you arrived here. Or f's size was",
+      "start": 1933.322,
+      "duration": 2.836
+    },
+    {
+      "text": " never greater than k. It was smaller",
+      "start": 1935.219,
+      "duration": 2.808
+    },
+    {
+      "text": " from the start. So you never ran this.",
+      "start": 1937.058,
+      "duration": 3.106
+    },
+    {
+      "text": " Right? So there could be two conditions",
+      "start": 1939.264,
+      "duration": 3.024
+    },
+    {
+      "text": ". What was the step after this? What",
+      "start": 1941.288,
+      "duration": 2.611
+    },
+    {
+      "text": " was in the template? That if the",
+      "start": 1942.954,
+      "duration": 3.054
+    },
+    {
+      "text": " information is correct, then add it to",
+      "start": 1945.061,
+      "duration": 3.035
+    },
+    {
+      "text": " the result. But there could be two",
+      "start": 1947.149,
+      "duration": 2.857
+    },
+    {
+      "text": " types of information. It can be equal",
+      "start": 1949.049,
+      "duration": 3.04
+    },
+    {
+      "text": " to k or less than k. Which one do you",
+      "start": 1951.157,
+      "duration": 3.122
+    },
+    {
+      "text": " need? You need it to be equal to k. It",
+      "start": 1953.32,
+      "duration": 2.953
+    },
+    {
+      "text": " is written exactly k. It is written",
+      "start": 1955.328,
+      "duration": 2.988
+    },
+    {
+      "text": " exactly k. What if it were written \"at",
+      "start": 1957.372,
+      "duration": 3.133
+    },
+    {
+      "text": " least k\"? We would add that too. So, it",
+      "start": 1959.559,
+      "duration": 3.314
+    },
+    {
+      "text": " is written exactly. It is written",
+      "start": 1961.947,
+      "duration": 3.318
+    },
+    {
+      "text": " exactly. So, put an \"if\" condition. If",
+      "start": 1964.326,
+      "duration": 3.385
+    },
+    {
+      "text": " f dot size equals k, then you need to",
+      "start": 1966.822,
+      "duration": 5.117
+    },
+    {
+      "text": " include this in your final answer. How",
+      "start": 1971.05,
+      "duration": 4.993
+    },
+    {
+      "text": " do we do that? It is very simple. You",
+      "start": 1975.08,
+      "duration": 2.645
+    },
+    {
+      "text": " must have memorized this by now. High",
+      "start": 1976.788,
+      "duration": 3.527
+    },
+    {
+      "text": " minus low plus one and result is equal",
+      "start": 1979.422,
+      "duration": 5.052
+    },
+    {
+      "text": " to what? Max longest. So, max length",
+      "start": 1983.58,
+      "duration": 4.991
+    },
+    {
+      "text": " and result. Close this if statement.",
+      "start": 1987.663,
+      "duration": 4.038
+    },
+    {
+      "text": " The for loop has ended. The for loop",
+      "start": 1990.801,
+      "duration": 3.398
+    },
+    {
+      "text": " for what? The high pointer. And come",
+      "start": 1993.241,
+      "duration": 5.115
+    },
+    {
+      "text": " down and return the result. It is",
+      "start": 1997.469,
+      "duration": 4.979
+    },
+    {
+      "text": " simple. Are you comfortable? Look, what",
+      "start": 2001.51,
+      "duration": 3.648
+    },
+    {
+      "text": " happened? Three parts. Two types of",
+      "start": 2004.268,
+      "duration": 5.008
+    },
+    {
+      "text": " cases were possible here. Size of f is",
+      "start": 2008.32,
+      "duration": 2.775
+    },
+    {
+      "text": " less than or equal to k. Here you",
+      "start": 2010.145,
+      "duration": 2.816
+    },
+    {
+      "text": " checked according to what was asked in",
+      "start": 2012.009,
+      "duration": 2.819
+    },
+    {
+      "text": " the question. We checked this because",
+      "start": 2013.876,
+      "duration": 2.481
+    },
+    {
+      "text": " the question asked for it. The next",
+      "start": 2015.39,
+      "duration": 2.45
+    },
+    {
+      "text": " question I'll show, Fruit Basket, the",
+      "start": 2016.902,
+      "duration": 3.302
+    },
+    {
+      "text": " code for Fruit into Basket is the same.",
+      "start": 2019.266,
+      "duration": 3.427
+    },
+    {
+      "text": " Change one thing, and the whole code is",
+      "start": 2021.793,
+      "duration": 2.589
+    },
+    {
+      "text": " done. Okay? So, based on the question,",
+      "start": 2023.423,
+      "duration": 3.367
+    },
+    {
+      "text": " what did the question ask? It wanted",
+      "start": 2025.847,
+      "duration": 3.198
+    },
+    {
+      "text": " equal, so we checked if it could be",
+      "start": 2028.102,
+      "duration": 3.007
+    },
+    {
+      "text": " less or equal. When we reached here, we",
+      "start": 2030.167,
+      "duration": 2.935
+    },
+    {
+      "text": " had to take the equal one. So, we took",
+      "start": 2032.14,
+      "duration": 2.701
+    },
+    {
+      "text": " the equal one using an if. Right? See",
+      "start": 2033.895,
+      "duration": 3.619
+    },
+    {
+      "text": " for yourself. Three steps, I told you",
+      "start": 2036.566,
+      "duration": 2.882
+    },
+    {
+      "text": " three things. We only did three things.",
+      "start": 2038.494,
+      "duration": 2.745
+    },
+    {
+      "text": " I do not lie. See, I told you three",
+      "start": 2040.379,
+      "duration": 3.306
+    },
+    {
+      "text": " things, right? First, what did I say",
+      "start": 2042.741,
+      "duration": 4.099
+    },
+    {
+      "text": " about high? Include high in the",
+      "start": 2045.912,
+      "duration": 4.025
+    },
+    {
+      "text": " information. While it is incorrect,",
+      "start": 2049.009,
+      "duration": 3.537
+    },
+    {
+      "text": " decrease low. While it is incorrect,",
+      "start": 2051.613,
+      "duration": 3.394
+    },
+    {
+      "text": " decrease low. And include the correct",
+      "start": 2054.07,
+      "duration": 3.365
+    },
+    {
+      "text": " information in the result. It is a",
+      "start": 2056.497,
+      "duration": 3.3
+    },
+    {
+      "text": " three-step process for any sliding",
+      "start": 2058.848,
+      "duration": 2.741
+    },
+    {
+      "text": " window. Do you understand? Right. Now",
+      "start": 2060.64,
+      "duration": 4.157
+    },
+    {
+      "text": " it is done. This is the code. That was",
+      "start": 2063.896,
+      "duration": 3.31
+    },
+    {
+      "text": " all the code. Okay? You will get the",
+      "start": 2066.238,
+      "duration": 2.6
+    },
+    {
+      "text": " code in the link. But that was it, sir.",
+      "start": 2067.873,
+      "duration": 2.513
+    },
+    {
+      "text": " That's it. What is its time complexity?",
+      "start": 2069.486,
+      "duration": 3.514
+    },
+    {
+      "text": " Many people are saying its time",
+      "start": 2072.1,
+      "duration": 2.245
+    },
+    {
+      "text": " complexity is order of n squared. Why?",
+      "start": 2073.385,
+      "duration": 2.879
+    },
+    {
+      "text": " Because a for loop is running. Meaning",
+      "start": 2075.364,
+      "duration": 2.824
+    },
+    {
+      "text": " a while loop is also running. The loop",
+      "start": 2077.213,
+      "duration": 2.124
+    },
+    {
+      "text": " is running. High is running. You are",
+      "start": 2078.374,
+      "duration": 2.681
+    },
+    {
+      "text": " running one loop for low. So, it's not",
+      "start": 2080.093,
+      "duration": 2.812
+    },
+    {
+      "text": " n times n squared. Look, how far is the",
+      "start": 2081.968,
+      "duration": 3.721
+    },
+    {
+      "text": " high loop running? High is running from",
+      "start": 2084.763,
+      "duration": 3.557
+    },
+    {
+      "text": " zero to n. So it is simple. It is",
+      "start": 2087.368,
+      "duration": 2.912
+    },
+    {
+      "text": " running n times. Every time high runs,",
+      "start": 2089.351,
+      "duration": 3.337
+    },
+    {
+      "text": " what is happening? Every time high runs",
+      "start": 2091.737,
+      "duration": 3.662
+    },
+    {
+      "text": ", what is happening? You can either",
+      "start": 2094.399,
+      "duration": 3.901
+    },
+    {
+      "text": " increment low. You are either",
+      "start": 2097.417,
+      "duration": 3.995
+    },
+    {
+      "text": " incrementing low. Or you are doing",
+      "start": 2100.486,
+      "duration": 4.154
+    },
+    {
+      "text": " nothing at all. You are doing nothing.",
+      "start": 2103.701,
+      "duration": 4.478
+    },
+    {
+      "text": " This is what is happening, right? Yes.",
+      "start": 2107.452,
+      "duration": 2.295
+    },
+    {
+      "text": " Only if the size of f is greater than k",
+      "start": 2108.856,
+      "duration": 2.63
+    },
+    {
+      "text": ", you are manipulating low. Otherwise,",
+      "start": 2110.486,
+      "duration": 2.537
+    },
+    {
+      "text": " you are not touching low, right? Not",
+      "start": 2112.054,
+      "duration": 2.227
+    },
+    {
+      "text": " touching it. Okay? When does n² happen",
+      "start": 2113.328,
+      "duration": 3.837
+    },
+    {
+      "text": "? n² happens when i runs from 0 to n",
+      "start": 2116.165,
+      "duration": 3.78
+    },
+    {
+      "text": " and for every i, j also runs from 0 to",
+      "start": 2119.02,
+      "duration": 3.863
+    },
+    {
+      "text": " n. So this is called n*n² but look at",
+      "start": 2121.958,
+      "duration": 3.832
+    },
+    {
+      "text": " what is happening here. Suppose high",
+      "start": 2124.861,
+      "duration": 4.312
+    },
+    {
+      "text": " was zero. Let me explain with an",
+      "start": 2128.277,
+      "duration": 3.594
+    },
+    {
+      "text": " example. Suppose low did not run here.",
+      "start": 2130.942,
+      "duration": 3.348
+    },
+    {
+      "text": " So nothing happened here, okay? High =",
+      "start": 2133.389,
+      "duration": 4.118
+    },
+    {
+      "text": " 1 ran. Suppose low did not run here",
+      "start": 2136.612,
+      "duration": 3.19
+    },
+    {
+      "text": " either, nothing happened. Okay. High",
+      "start": 2138.844,
+      "duration": 3.615
+    },
+    {
+      "text": " became two. Suppose here you had to",
+      "start": 2141.574,
+      "duration": 3.933
+    },
+    {
+      "text": " shrink low. Now where are you shrinking",
+      "start": 2144.563,
+      "duration": 2.979
+    },
+    {
+      "text": " low from and to? Low was at zero. Will",
+      "start": 2146.586,
+      "duration": 3.504
+    },
+    {
+      "text": " low ever cross high? No. It will not.",
+      "start": 2149.169,
+      "duration": 3.544
+    },
+    {
+      "text": " Why? Because the value of K, the value",
+      "start": 2151.813,
+      "duration": 3.304
+    },
+    {
+      "text": " of K given in the question is one. It",
+      "start": 2154.171,
+      "duration": 2.993
+    },
+    {
+      "text": " will generally be given. K distinct",
+      "start": 2156.201,
+      "duration": 2.449
+    },
+    {
+      "text": " means there is no question of exactly",
+      "start": 2157.696,
+      "duration": 2.706
+    },
+    {
+      "text": " -1 distinct characters. Exactly zero",
+      "start": 2159.448,
+      "duration": 2.784
+    },
+    {
+      "text": " distinct characters, that is not a",
+      "start": 2161.277,
+      "duration": 2.527
+    },
+    {
+      "text": " question. There should be at least one.",
+      "start": 2162.849,
+      "duration": 2.622
+    },
+    {
+      "text": " There should be at least one. So where",
+      "start": 2164.571,
+      "duration": 3.369
+    },
+    {
+      "text": " will low stop? Low will stop at high or",
+      "start": 2167.025,
+      "duration": 3.749
+    },
+    {
+      "text": " it will stop before high. It won't be",
+      "start": 2169.833,
+      "duration": 3.187
+    },
+    {
+      "text": " that low crosses high. Why? Because",
+      "start": 2172.077,
+      "duration": 2.91
+    },
+    {
+      "text": " until when is that while loop running?",
+      "start": 2174.018,
+      "duration": 2.186
+    },
+    {
+      "text": " When is the while loop running? When",
+      "start": 2175.304,
+      "duration": 2.425
+    },
+    {
+      "text": " the size of your f is greater than k.",
+      "start": 2176.778,
+      "duration": 2.794
+    },
+    {
+      "text": " For the size of f to be greater than k,",
+      "start": 2178.672,
+      "duration": 3.093
+    },
+    {
+      "text": " there must be some window. Only if",
+      "start": 2180.819,
+      "duration": 2.819
+    },
+    {
+      "text": " there is some window size, it will be",
+      "start": 2182.684,
+      "duration": 2.71
+    },
+    {
+      "text": " in the hashmap. At least one should be",
+      "start": 2184.44,
+      "duration": 2.73
+    },
+    {
+      "text": " there. Only then will the hashmap size",
+      "start": 2186.213,
+      "duration": 2.964
+    },
+    {
+      "text": " be one. So your low is going up to high",
+      "start": 2188.228,
+      "duration": 3.467
+    },
+    {
+      "text": " or stopping before high. So what will",
+      "start": 2190.753,
+      "duration": 3.288
+    },
+    {
+      "text": " your low run? Low will be 0. Low = 1",
+      "start": 2193.101,
+      "duration": 4.009
+    },
+    {
+      "text": " and suppose low = 2, in the worst case",
+      "start": 2196.183,
+      "duration": 3.776
+    },
+    {
+      "text": " low = 2 will also run. Okay? Then you",
+      "start": 2199.032,
+      "duration": 4.094
+    },
+    {
+      "text": " did high = Three. Suppose nothing ran",
+      "start": 2202.174,
+      "duration": 5.197
+    },
+    {
+      "text": " here either. Then you set high equal to",
+      "start": 2206.429,
+      "duration": 4.047
+    },
+    {
+      "text": " four. Suppose here low was currently",
+      "start": 2209.56,
+      "duration": 3.533
+    },
+    {
+      "text": " two. From here it was two. Here it",
+      "start": 2212.158,
+      "duration": 2.615
+    },
+    {
+      "text": " became three and stopped. Then you came",
+      "start": 2213.823,
+      "duration": 3.18
+    },
+    {
+      "text": " to high equal to five. Here suppose low",
+      "start": 2216.068,
+      "duration": 4.527
+    },
+    {
+      "text": " went from three to four. Suppose. Now",
+      "start": 2219.694,
+      "duration": 4.975
+    },
+    {
+      "text": " you came to i equals six. Your program",
+      "start": 2223.732,
+      "duration": 3.339
+    },
+    {
+      "text": " finished because you reached n. Now",
+      "start": 2226.119,
+      "duration": 2.727
+    },
+    {
+      "text": " look what is happening. What is",
+      "start": 2227.89,
+      "duration": 2.424
+    },
+    {
+      "text": " happening here? Look, is it happening",
+      "start": 2229.358,
+      "duration": 3.555
+    },
+    {
+      "text": " that for every high, for every high,",
+      "start": 2231.999,
+      "duration": 4.098
+    },
+    {
+      "text": " low is running from zero to n? It is",
+      "start": 2235.183,
+      "duration": 3.978
+    },
+    {
+      "text": " not running. Why? Because low will go",
+      "start": 2238.22,
+      "duration": 4.093
+    },
+    {
+      "text": " up to high. It will go less than high.",
+      "start": 2241.401,
+      "duration": 2.854
+    },
+    {
+      "text": " It is not like for every high, it is",
+      "start": 2243.355,
+      "duration": 2.625
+    },
+    {
+      "text": " not even running for every high. It is",
+      "start": 2245.025,
+      "duration": 2.756
+    },
+    {
+      "text": " not even running every high. Even if it",
+      "start": 2246.823,
+      "duration": 2.886
+    },
+    {
+      "text": " runs, it only goes up to high.",
+      "start": 2248.77,
+      "duration": 2.815
+    },
+    {
+      "text": " Understand? It never happens that for",
+      "start": 2250.685,
+      "duration": 3.819
+    },
+    {
+      "text": " every high we are doing n operations",
+      "start": 2253.563,
+      "duration": 3.108
+    },
+    {
+      "text": " for low. Understand? At most, how many",
+      "start": 2255.73,
+      "duration": 3.67
+    },
+    {
+      "text": " operations are we doing? Whatever the",
+      "start": 2258.439,
+      "duration": 2.441
+    },
+    {
+      "text": " value of high is. At most, how many",
+      "start": 2259.915,
+      "duration": 2.33
+    },
+    {
+      "text": " operations are we doing? Whatever the",
+      "start": 2261.283,
+      "duration": 2.667
+    },
+    {
+      "text": " value of high is. That is why for every",
+      "start": 2263.004,
+      "duration": 3.463
+    },
+    {
+      "text": " high, we are not running n times.",
+      "start": 2265.531,
+      "duration": 3.088
+    },
+    {
+      "text": " Generally speaking, generally speaking,",
+      "start": 2268.24,
+      "duration": 5.1
+    },
+    {
+      "text": " your high goes from zero to n. In the",
+      "start": 2272.445,
+      "duration": 4.835
+    },
+    {
+      "text": " worst case, your low will also reach",
+      "start": 2276.36,
+      "duration": 3.88
+    },
+    {
+      "text": " from zero to n. In the worst case, it",
+      "start": 2279.32,
+      "duration": 3.505
+    },
+    {
+      "text": " will reach from zero to n eventually.",
+      "start": 2281.869,
+      "duration": 2.631
+    },
+    {
+      "text": " So its time complexity is not n*n. It",
+      "start": 2283.699,
+      "duration": 4.421
+    },
+    {
+      "text": " is n + n. High is going from zero to n,",
+      "start": 2287.25,
+      "duration": 3.944
+    },
+    {
+      "text": " this is definitely happening every time",
+      "start": 2290.232,
+      "duration": 2.486
+    },
+    {
+      "text": ". For sure. It is possible that in",
+      "start": 2291.718,
+      "duration": 3.217
+    },
+    {
+      "text": " every loop low moves a little bit. It",
+      "start": 2293.991,
+      "duration": 3.08
+    },
+    {
+      "text": " will not move all at once. Not very",
+      "start": 2296.112,
+      "duration": 2.55
+    },
+    {
+      "text": " often. Low is moving bit by bit. This",
+      "start": 2297.712,
+      "duration": 2.936
+    },
+    {
+      "text": " is how it is happening. See, it is",
+      "start": 2299.675,
+      "duration": 2.355
+    },
+    {
+      "text": " possible that high, high is going from",
+      "start": 2301.095,
+      "duration": 3.435
+    },
+    {
+      "text": " zero to one, one to two, two to three,",
+      "start": 2303.594,
+      "duration": 3.436
+    },
+    {
+      "text": " three to four, four to five every time.",
+      "start": 2306.094,
+      "duration": 3.5
+    },
+    {
+      "text": " What is happening every time is that",
+      "start": 2308.694,
+      "duration": 3.012
+    },
+    {
+      "text": " low is moving a little bit. It is",
+      "start": 2310.762,
+      "duration": 2.829
+    },
+    {
+      "text": " possible that here it goes from zero to",
+      "start": 2312.635,
+      "duration": 2.709
+    },
+    {
+      "text": " one. Then it goes from one to two. Then",
+      "start": 2314.388,
+      "duration": 3.129
+    },
+    {
+      "text": " it goes from two to three. It goes on",
+      "start": 2316.568,
+      "duration": 2.995
+    },
+    {
+      "text": " like this. So in total, high is going",
+      "start": 2318.621,
+      "duration": 3.105
+    },
+    {
+      "text": " from zero to n and low gradually goes",
+      "start": 2320.781,
+      "duration": 3.014
+    },
+    {
+      "text": " from zero to n in the meantime. Once,",
+      "start": 2322.85,
+      "duration": 3.062
+    },
+    {
+      "text": " not many times. That is why its",
+      "start": 2324.966,
+      "duration": 2.742
+    },
+    {
+      "text": " complexity is order of n. It is not n²",
+      "start": 2326.762,
+      "duration": 3.543
+    },
+    {
+      "text": ". Okay? Did you understand? If you",
+      "start": 2329.305,
+      "duration": 3.347
+    },
+    {
+      "text": " didn't understand, then tell me. Then I",
+      "start": 2331.684,
+      "duration": 2.374
+    },
+    {
+      "text": " will explain again. So, that ends your",
+      "start": 2333.097,
+      "duration": 3.344
+    },
+    {
+      "text": " first question. Finished? Okay? Did you",
+      "start": 2335.524,
+      "duration": 4.422
+    },
+    {
+      "text": " understand the code? Did you understand",
+      "start": 2338.981,
+      "duration": 2.507
+    },
+    {
+      "text": " the time complexity? Did you understand",
+      "start": 2340.526,
+      "duration": 2.388
+    },
+    {
+      "text": " the template? Please remember the",
+      "start": 2341.942,
+      "duration": 2.284
+    },
+    {
+      "text": " template. Write it down in your",
+      "start": 2343.269,
+      "duration": 2.27
+    },
+    {
+      "text": " notebook. Let's move to the next",
+      "start": 2344.577,
+      "duration": 2.829
+    },
+    {
+      "text": " question. Fruits into Baskets. Watch",
+      "start": 2346.467,
+      "duration": 8.181
+    },
+    {
+      "text": " how simply I will explain it to you.",
+      "start": 2353.694,
+      "duration": 2.664
+    },
+    {
+      "text": " Fruits into Baskets. The question will",
+      "start": 2355.458,
+      "duration": 2.826
+    },
+    {
+      "text": " be finished in 10 minutes. It will be",
+      "start": 2357.317,
+      "duration": 2.241
+    },
+    {
+      "text": " finished in 10 minutes. It won't even",
+      "start": 2358.588,
+      "duration": 2.283
+    },
+    {
+      "text": " take 10 minutes. Okay? Come on. What is",
+      "start": 2359.908,
+      "duration": 3.832
+    },
+    {
+      "text": " it asking you? Now look, this is what",
+      "start": 2362.781,
+      "duration": 2.843
+    },
+    {
+      "text": " you need to understand. In this",
+      "start": 2364.677,
+      "duration": 2.665
+    },
+    {
+      "text": " question, it doesn't say substring or",
+      "start": 2366.393,
+      "duration": 2.874
+    },
+    {
+      "text": " subarray. It is a real-world question.",
+      "start": 2368.318,
+      "duration": 2.995
+    },
+    {
+      "text": " Real-world means you are told a story.",
+      "start": 2370.419,
+      "duration": 3.12
+    },
+    {
+      "text": " I will tell you what the story is. And",
+      "start": 2372.639,
+      "duration": 3.119
+    },
+    {
+      "text": " this was asked in front of me at Amazon",
+      "start": 2374.81,
+      "duration": 3.056
+    },
+    {
+      "text": ". This question was asked in an Amazon",
+      "start": 2376.866,
+      "duration": 2.901
+    },
+    {
+      "text": " interview I attended with a student",
+      "start": 2378.815,
+      "duration": 2.673
+    },
+    {
+      "text": " recently. Okay? So, it is very",
+      "start": 2380.536,
+      "duration": 2.923
+    },
+    {
+      "text": " important. It is stated that you have a",
+      "start": 2382.523,
+      "duration": 3.863
+    },
+    {
+      "text": " farm where fruit trees are arranged",
+      "start": 2385.444,
+      "duration": 3.034
+    },
+    {
+      "text": " from left to right. It says that the",
+      "start": 2387.536,
+      "duration": 3.62
+    },
+    {
+      "text": " fruits are of type 'i'. I'll explain in",
+      "start": 2390.237,
+      "duration": 3.824
+    },
+    {
+      "text": " Hindi, why give you so much English?",
+      "start": 2393.117,
+      "duration": 3.022
+    },
+    {
+      "text": " What are you told? This is your farm.",
+      "start": 2395.279,
+      "duration": 4.267
+    },
+    {
+      "text": " What is this? 0 1 2 3 4, this is your",
+      "start": 2398.646,
+      "duration": 4.065
+    },
+    {
+      "text": " farm. It's an array. Fruits are kept in",
+      "start": 2401.797,
+      "duration": 3.881
+    },
+    {
+      "text": " it. Okay? There is a type of fruit.",
+      "start": 2404.762,
+      "duration": 4.378
+    },
+    {
+      "text": " Like mango, orange, pomegranate,",
+      "start": 2408.251,
+      "duration": 2.775
+    },
+    {
+      "text": " whatever, so we represent them with",
+      "start": 2410.081,
+      "duration": 2.942
+    },
+    {
+      "text": " numbers. So your fruits are 0 1 2 and",
+      "start": 2412.079,
+      "duration": 4.134
+    },
+    {
+      "text": " let's say zero. This is your fruit type",
+      "start": 2415.306,
+      "duration": 3.646
+    },
+    {
+      "text": ". Zero is a fruit type. One is a fruit",
+      "start": 2417.952,
+      "duration": 2.719
+    },
+    {
+      "text": " type. Two is a fruit type. They are",
+      "start": 2419.71,
+      "duration": 2.448
+    },
+    {
+      "text": " arranged like this. You have a basket.",
+      "start": 2421.197,
+      "duration": 3.632
+    },
+    {
+      "text": " You have a basket. You have to collect",
+      "start": 2424.08,
+      "duration": 4.038
+    },
+    {
+      "text": " fruits from left to right. Okay. There",
+      "start": 2427.161,
+      "duration": 3.857
+    },
+    {
+      "text": " is a limitation to this basket that you",
+      "start": 2430.11,
+      "duration": 4.576
+    },
+    {
+      "text": " can hold at most two distinct types.",
+      "start": 2433.778,
+      "duration": 4.302
+    },
+    {
+      "text": " Types of what? Fruit, this basket has",
+      "start": 2439.405,
+      "duration": 4.151
+    },
+    {
+      "text": " this limitation. It is written in the",
+      "start": 2442.66,
+      "duration": 3.376
+    },
+    {
+      "text": " question. You will understand after",
+      "start": 2445.067,
+      "duration": 2.263
+    },
+    {
+      "text": " reading the question. Now you have to",
+      "start": 2446.366,
+      "duration": 3.664
+    },
+    {
+      "text": " tell, what is the maximum number of",
+      "start": 2449.151,
+      "duration": 5.237
+    },
+    {
+      "text": " fruits you can collect? How much can",
+      "start": 2453.509,
+      "duration": 7.028
+    },
+    {
+      "text": " you collect? Maximum number of fruits.",
+      "start": 2459.661,
+      "duration": 4.998
+    },
+    {
+      "text": " Maximum number, not distinct fruits,",
+      "start": 2463.759,
+      "duration": 2.588
+    },
+    {
+      "text": " distinct is just two. But maybe you",
+      "start": 2465.392,
+      "duration": 3.0
+    },
+    {
+      "text": " took three apples or four pomegranates,",
+      "start": 2467.433,
+      "duration": 2.599
+    },
+    {
+      "text": " so you took seven fruits. This is what",
+      "start": 2469.073,
+      "duration": 3.175
+    },
+    {
+      "text": " the question means, tell me. The",
+      "start": 2471.303,
+      "duration": 2.818
+    },
+    {
+      "text": " question is the same as the previous",
+      "start": 2473.184,
+      "duration": 3.262
+    },
+    {
+      "text": " one. It's the same question. It's",
+      "start": 2475.509,
+      "duration": 2.62
+    },
+    {
+      "text": " exactly the same question. What is the",
+      "start": 2477.193,
+      "duration": 3.586
+    },
+    {
+      "text": " question saying? What does the question",
+      "start": 2479.844,
+      "duration": 3.008
+    },
+    {
+      "text": " say? Yes? 0 1 2, right? It says 0 1 2 0",
+      "start": 2481.891,
+      "duration": 5.531
+    },
+    {
+      "text": " 1 2 3 is the basket. In the basket, at",
+      "start": 2486.534,
+      "duration": 4.934
+    },
+    {
+      "text": " most two types of distinct items—does",
+      "start": 2490.51,
+      "duration": 2.623
+    },
+    {
+      "text": " that remind you of the previous",
+      "start": 2492.174,
+      "duration": 2.29
+    },
+    {
+      "text": " question? What did the previous",
+      "start": 2493.506,
+      "duration": 2.392
+    },
+    {
+      "text": " question say? Find a substring that has",
+      "start": 2494.937,
+      "duration": 3.132
+    },
+    {
+      "text": " exactly K distinct elements. What does",
+      "start": 2497.129,
+      "duration": 3.265
+    },
+    {
+      "text": " this one say? Now, look, you have to",
+      "start": 2499.448,
+      "duration": 3.283
+    },
+    {
+      "text": " pick fruits from left to right. So, it",
+      "start": 2501.779,
+      "duration": 2.867
+    },
+    {
+      "text": " means you have to pick from left to",
+      "start": 2503.696,
+      "duration": 2.736
+    },
+    {
+      "text": " right, right? Meaning, you can't just",
+      "start": 2505.482,
+      "duration": 3.019
+    },
+    {
+      "text": " pick one fruit and then skip to the",
+      "start": 2507.556,
+      "duration": 2.939
+    },
+    {
+      "text": " fourth one. No, you have to go in a",
+      "start": 2509.55,
+      "duration": 2.937
+    },
+    {
+      "text": " line. How many fruits can you pick in a",
+      "start": 2511.541,
+      "duration": 2.972
+    },
+    {
+      "text": " line such that there are exactly two",
+      "start": 2513.562,
+      "duration": 2.751
+    },
+    {
+      "text": " types of distinct fruits? That's what",
+      "start": 2515.362,
+      "duration": 2.68
+    },
+    {
+      "text": " the question is asking. How many fruits",
+      "start": 2517.075,
+      "duration": 2.815
+    },
+    {
+      "text": " can you pick in a line such that there",
+      "start": 2518.937,
+      "duration": 2.802
+    },
+    {
+      "text": " are two or fewer distinct types of",
+      "start": 2520.787,
+      "duration": 2.612
+    },
+    {
+      "text": " fruits? Fewer than two is also fine.",
+      "start": 2522.447,
+      "duration": 2.295
+    },
+    {
+      "text": " Right? Fewer than two is also",
+      "start": 2523.842,
+      "duration": 2.234
+    },
+    {
+      "text": " acceptable. It should not be more than",
+      "start": 2525.109,
+      "duration": 2.409
+    },
+    {
+      "text": " two. It can be either one or two. Only",
+      "start": 2526.555,
+      "duration": 3.096
+    },
+    {
+      "text": " two cases are possible, right? So, if",
+      "start": 2528.688,
+      "duration": 2.827
+    },
+    {
+      "text": " you take this one. If you take this",
+      "start": 2530.618,
+      "duration": 3.964
+    },
+    {
+      "text": " window—zero and one. What is the",
+      "start": 2533.642,
+      "duration": 2.822
+    },
+    {
+      "text": " number of distinct fruits in this? Two.",
+      "start": 2535.5,
+      "duration": 2.783
+    },
+    {
+      "text": " What is the number of fruits? Two. If",
+      "start": 2537.383,
+      "duration": 2.926
+    },
+    {
+      "text": " you take this one, what is the number",
+      "start": 2539.355,
+      "duration": 2.682
+    },
+    {
+      "text": " of distinct fruits in it? One and two.",
+      "start": 2541.082,
+      "duration": 3.217
+    },
+    {
+      "text": " But here you get three fruits. You get",
+      "start": 2543.459,
+      "duration": 3.687
+    },
+    {
+      "text": " three. So the answer to this will be",
+      "start": 2546.197,
+      "duration": 2.436
+    },
+    {
+      "text": " three. It's the same question. Look,",
+      "start": 2547.669,
+      "duration": 2.635
+    },
+    {
+      "text": " let me write the question in terms of",
+      "start": 2549.366,
+      "duration": 3.263
+    },
+    {
+      "text": " sliding window. Find the longest, find",
+      "start": 2551.69,
+      "duration": 5.617
+    },
+    {
+      "text": " the longest subarray which has at most,",
+      "start": 2556.47,
+      "duration": 7.381
+    },
+    {
+      "text": " at most two distinct numbers. There you",
+      "start": 2563.015,
+      "duration": 7.549
+    },
+    {
+      "text": " go, your question is ready. A sliding",
+      "start": 2569.607,
+      "duration": 2.844
+    },
+    {
+      "text": " window question. Look at this. This is",
+      "start": 2571.519,
+      "duration": 3.673
+    },
+    {
+      "text": " it. It's the same question, isn't it?",
+      "start": 2574.261,
+      "duration": 2.301
+    },
+    {
+      "text": " Find the longest subarray that has at",
+      "start": 2576.08,
+      "duration": 3.12
+    },
+    {
+      "text": " most two types of distinct elements.",
+      "start": 2578.257,
+      "duration": 3.063
+    },
+    {
+      "text": " That's all it is—the talk about a",
+      "start": 2580.899,
+      "duration": 2.914
+    },
+    {
+      "text": " basket or a bag is all nonsense. The",
+      "start": 2582.868,
+      "duration": 3.221
+    },
+    {
+      "text": " question is telling you this. So, when",
+      "start": 2585.133,
+      "duration": 2.754
+    },
+    {
+      "text": " we understand the question in Hindi,",
+      "start": 2586.93,
+      "duration": 2.58
+    },
+    {
+      "text": " this is what it is, and return the",
+      "start": 2588.554,
+      "duration": 2.492
+    },
+    {
+      "text": " maximum number of fruits you can pick",
+      "start": 2590.09,
+      "duration": 2.623
+    },
+    {
+      "text": "—meaning the maximum array, meaning",
+      "start": 2591.713,
+      "duration": 2.624
+    },
+    {
+      "text": " how much? How many can you pick at one",
+      "start": 2593.381,
+      "duration": 3.003
+    },
+    {
+      "text": " time? How many can you pick at one time",
+      "start": 2595.438,
+      "duration": 2.889
+    },
+    {
+      "text": " in a line? It's not like you picked",
+      "start": 2597.373,
+      "duration": 2.659
+    },
+    {
+      "text": " index zero, then two, then two. No, if",
+      "start": 2599.077,
+      "duration": 2.788
+    },
+    {
+      "text": " you want to pick, you pick them like",
+      "start": 2600.91,
+      "duration": 2.62
+    },
+    {
+      "text": " this. That would be wrong. This one has",
+      "start": 2602.575,
+      "duration": 2.804
+    },
+    {
+      "text": " three. So this is the answer. It is the",
+      "start": 2604.419,
+      "duration": 3.228
+    },
+    {
+      "text": " answer. Come on. Now, this has become",
+      "start": 2606.696,
+      "duration": 3.024
+    },
+    {
+      "text": " the same question as the previous one.",
+      "start": 2608.756,
+      "duration": 2.378
+    },
+    {
+      "text": " It's the same question as before, right",
+      "start": 2610.234,
+      "duration": 2.438
+    },
+    {
+      "text": "? There is a twist. There is a twist.",
+      "start": 2611.672,
+      "duration": 2.939
+    },
+    {
+      "text": " Now, I won't explain the steps here.",
+      "start": 2613.711,
+      "duration": 2.54
+    },
+    {
+      "text": " The steps are the same. Identify the",
+      "start": 2615.351,
+      "duration": 2.31
+    },
+    {
+      "text": " sliding window; it's variable. Is the",
+      "start": 2616.698,
+      "duration": 2.482
+    },
+    {
+      "text": " window variable or fixed? It is",
+      "start": 2618.225,
+      "duration": 2.518
+    },
+    {
+      "text": " variable because no specific window",
+      "start": 2619.804,
+      "duration": 3.12
+    },
+    {
+      "text": " length is given. It just said, pick as",
+      "start": 2621.984,
+      "duration": 2.784
+    },
+    {
+      "text": " many as you can. It should have at most",
+      "start": 2623.802,
+      "duration": 2.725
+    },
+    {
+      "text": " two distinct elements. So, there is one",
+      "start": 2625.576,
+      "duration": 3.274
+    },
+    {
+      "text": " difference here, \"at most two\" is",
+      "start": 2627.919,
+      "duration": 3.256
+    },
+    {
+      "text": " written. What was it in the previous",
+      "start": 2630.244,
+      "duration": 2.623
+    },
+    {
+      "text": " one? Exactly, the K that was here, that",
+      "start": 2631.903,
+      "duration": 4.825
+    },
+    {
+      "text": " K is two here. That is all. Nothing has",
+      "start": 2635.833,
+      "duration": 3.919
+    },
+    {
+      "text": " changed now. Exactly, \"at most\" is",
+      "start": 2638.802,
+      "duration": 3.27
+    },
+    {
+      "text": " written in place of K. Right? Just",
+      "start": 2641.147,
+      "duration": 4.138
+    },
+    {
+      "text": " remember the previous code. Just",
+      "start": 2644.341,
+      "duration": 2.953
+    },
+    {
+      "text": " remember the previous code. Everything",
+      "start": 2646.362,
+      "duration": 3.466
+    },
+    {
+      "text": " will run the same. Everything will run",
+      "start": 2648.875,
+      "duration": 2.967
+    },
+    {
+      "text": " the same. When you reduced \"low\" to",
+      "start": 2650.895,
+      "duration": 3.108
+    },
+    {
+      "text": " come here. You reduced \"low\" here. When",
+      "start": 2653.061,
+      "duration": 4.678
+    },
+    {
+      "text": " did you reduce it? f.size > k, that's",
+      "start": 2656.779,
+      "duration": 3.946
+    },
+    {
+      "text": " what you did, because you have to go up",
+      "start": 2659.83,
+      "duration": 5.121
+    },
+    {
+      "text": " to at most k. So, when will your",
+      "start": 2664.057,
+      "duration": 3.302
+    },
+    {
+      "text": " condition be correct? Either it is less",
+      "start": 2666.405,
+      "duration": 3.192
+    },
+    {
+      "text": " than k or equal to k. If it is greater",
+      "start": 2668.662,
+      "duration": 3.23
+    },
+    {
+      "text": " than k, increasing \"high\" means you",
+      "start": 2670.934,
+      "duration": 2.473
+    },
+    {
+      "text": " have to reduce \"low\", so you reduced \"",
+      "start": 2672.449,
+      "duration": 2.599
+    },
+    {
+      "text": "low\". Now, what did we say last time?",
+      "start": 2674.048,
+      "duration": 2.991
+    },
+    {
+      "text": " That was the twist last time, that when",
+      "start": 2676.239,
+      "duration": 6.422
+    },
+    {
+      "text": " you come here, your f.size is either",
+      "start": 2681.8,
+      "duration": 6.005
+    },
+    {
+      "text": " equal to k or less than k. Only two",
+      "start": 2686.944,
+      "duration": 5.399
+    },
+    {
+      "text": " cases can happen because we handled the",
+      "start": 2691.388,
+      "duration": 2.775
+    },
+    {
+      "text": " greater ones by reducing \"low\". Now,",
+      "start": 2693.208,
+      "duration": 2.806
+    },
+    {
+      "text": " which condition was correct last time?",
+      "start": 2695.068,
+      "duration": 3.051
+    },
+    {
+      "text": " Last time, this condition was correct.",
+      "start": 2697.359,
+      "duration": 3.32
+    },
+    {
+      "text": " That's why we used \"if\" to calculate",
+      "start": 2699.928,
+      "duration": 3.228
+    },
+    {
+      "text": " this. This time, both conditions are",
+      "start": 2702.218,
+      "duration": 2.636
+    },
+    {
+      "text": " correct. This question is even simpler.",
+      "start": 2703.895,
+      "duration": 2.814
+    },
+    {
+      "text": " This question should have been done",
+      "start": 2705.809,
+      "duration": 2.112
+    },
+    {
+      "text": " first. That question should have been",
+      "start": 2706.953,
+      "duration": 2.545
+    },
+    {
+      "text": " done later. Both of these are valid.",
+      "start": 2708.54,
+      "duration": 2.894
+    },
+    {
+      "text": " This one is also correct. What does \"at",
+      "start": 2710.534,
+      "duration": 3.126
+    },
+    {
+      "text": " most k\" mean? Less than k or equal to k",
+      "start": 2712.726,
+      "duration": 3.687
+    },
+    {
+      "text": ". Not more. So this one is also correct",
+      "start": 2715.413,
+      "duration": 4.28
+    },
+    {
+      "text": ". This one is also correct. This one is",
+      "start": 2718.693,
+      "duration": 3.057
+    },
+    {
+      "text": " also correct. So, there is no need for",
+      "start": 2720.8,
+      "duration": 3.361
+    },
+    {
+      "text": " an \"if\" here. Keep it simple. Keep it",
+      "start": 2723.228,
+      "duration": 4.149
+    },
+    {
+      "text": " simple. Keep it simple. Do i-low + 1.",
+      "start": 2726.508,
+      "duration": 5.732
+    },
+    {
+      "text": " Do res = max (res, len). Close the for",
+      "start": 2731.999,
+      "duration": 7.094
+    },
+    {
+      "text": " loop. Return res. The program is",
+      "start": 2738.177,
+      "duration": 4.868
+    },
+    {
+      "text": " finished. The same program! The same",
+      "start": 2742.089,
+      "duration": 3.113
+    },
+    {
+      "text": " frequency map you will create, the hash",
+      "start": 2744.257,
+      "duration": 3.16
+    },
+    {
+      "text": " map, we were writing character",
+      "start": 2746.472,
+      "duration": 2.662
+    },
+    {
+      "text": " frequency last time, this time it is",
+      "start": 2748.189,
+      "duration": 2.994
+    },
+    {
+      "text": " integers, not characters, so use",
+      "start": 2750.239,
+      "duration": 2.772
+    },
+    {
+      "text": " integer to integer. Everything else",
+      "start": 2752.066,
+      "duration": 3.106
+    },
+    {
+      "text": " will run the same, line by line the",
+      "start": 2754.23,
+      "duration": 3.039
+    },
+    {
+      "text": " same. Here, instead of a string, an",
+      "start": 2756.327,
+      "duration": 3.132
+    },
+    {
+      "text": " array is given, and instead of",
+      "start": 2758.51,
+      "duration": 2.532
+    },
+    {
+      "text": " characters, numbers are given, and",
+      "start": 2760.093,
+      "duration": 2.736
+    },
+    {
+      "text": " instead of exactly K, at most K is",
+      "start": 2761.88,
+      "duration": 2.736
+    },
+    {
+      "text": " given, so it's even better, our code",
+      "start": 2763.667,
+      "duration": 2.839
+    },
+    {
+      "text": " got shorter, and we didn't need to add",
+      "start": 2765.557,
+      "duration": 2.94
+    },
+    {
+      "text": " that 'if'. The rest of the code is",
+      "start": 2767.548,
+      "duration": 2.812
+    },
+    {
+      "text": " identical, the entire code is the same,",
+      "start": 2769.408,
+      "duration": 2.869
+    },
+    {
+      "text": " you can try it out and see. Write both",
+      "start": 2771.325,
+      "duration": 3.021
+    },
+    {
+      "text": " codes side by side once, or you can",
+      "start": 2773.399,
+      "duration": 2.847
+    },
+    {
+      "text": " look at my submission. Both codes are",
+      "start": 2775.299,
+      "duration": 3.284
+    },
+    {
+      "text": " exactly, exactly similar codes. Is that",
+      "start": 2777.656,
+      "duration": 3.823
+    },
+    {
+      "text": " right? Okay? Everything for this is",
+      "start": 2780.544,
+      "duration": 4.52
+    },
+    {
+      "text": " also the same, time complexity and",
+      "start": 2784.115,
+      "duration": 2.738
+    },
+    {
+      "text": " space complexity one. This is time.",
+      "start": 2785.905,
+      "duration": 3.734
+    },
+    {
+      "text": " This is space. Look at how easily this",
+      "start": 2788.819,
+      "duration": 5.107
+    },
+    {
+      "text": " question was solved. How much time",
+      "start": 2792.977,
+      "duration": 2.549
+    },
+    {
+      "text": " would it have taken? It would have",
+      "start": 2794.559,
+      "duration": 2.105
+    },
+    {
+      "text": " taken 5 to 10 minutes. That too, only",
+      "start": 2795.69,
+      "duration": 2.161
+    },
+    {
+      "text": " because I gave such a long speech. So,",
+      "start": 2796.886,
+      "duration": 2.393
+    },
+    {
+      "text": " it's that kind of question. I mean,",
+      "start": 2798.311,
+      "duration": 2.216
+    },
+    {
+      "text": " it's a question that can be solved",
+      "start": 2799.56,
+      "duration": 2.133
+    },
+    {
+      "text": " instantly. Okay? Now let's come to the",
+      "start": 2800.726,
+      "duration": 3.486
+    },
+    {
+      "text": " third question. Now let's come to the",
+      "start": 2803.265,
+      "duration": 3.364
+    },
+    {
+      "text": " third question. Consider the third",
+      "start": 2805.674,
+      "duration": 3.051
+    },
+    {
+      "text": " question to be 70%the same as well.",
+      "start": 2807.791,
+      "duration": 3.308
+    },
+    {
+      "text": " What is the third question? Longest",
+      "start": 2810.359,
+      "duration": 3.767
+    },
+    {
+      "text": " substring without duplicate characters.",
+      "start": 2813.23,
+      "duration": 5.05
+    },
+    {
+      "text": " This is what is stated in the question.",
+      "start": 2817.8,
+      "duration": 2.36
+    },
+    {
+      "text": " Without...watch how easy I make this.",
+      "start": 2819.34,
+      "duration": 5.039
+    },
+    {
+      "text": " You guys will be able to do this one",
+      "start": 2823.679,
+      "duration": 3.318
+    },
+    {
+      "text": " too. This is your question number three",
+      "start": 2826.061,
+      "duration": 5.093
+    },
+    {
+      "text": ". Right. What is it? Let's read the",
+      "start": 2830.154,
+      "duration": 5.178
+    },
+    {
+      "text": " question. A string is given. Okay, you",
+      "start": 2834.384,
+      "duration": 3.821
+    },
+    {
+      "text": " have to find the longest substring in",
+      "start": 2837.277,
+      "duration": 3.673
+    },
+    {
+      "text": " the string. Okay, you have to find the",
+      "start": 2840.023,
+      "duration": 3.503
+    },
+    {
+      "text": " longest substring. Very good. What is",
+      "start": 2842.588,
+      "duration": 3.475
+    },
+    {
+      "text": " the condition? The condition for the",
+      "start": 2845.11,
+      "duration": 2.958
+    },
+    {
+      "text": " last two times was related to something",
+      "start": 2847.125,
+      "duration": 3.23
+    },
+    {
+      "text": " K. Exactly K distinct or exactly at",
+      "start": 2849.412,
+      "duration": 3.001
+    },
+    {
+      "text": " most K distinct. That was it. Its",
+      "start": 2851.47,
+      "duration": 3.032
+    },
+    {
+      "text": " condition doesn't have K. What is",
+      "start": 2853.536,
+      "duration": 2.124
+    },
+    {
+      "text": " written in this? Without duplicate",
+      "start": 2854.694,
+      "duration": 3.545
+    },
+    {
+      "text": " characters. Meaning that whatever",
+      "start": 2857.319,
+      "duration": 4.372
+    },
+    {
+      "text": " substring you take, whatever substring",
+      "start": 2860.753,
+      "duration": 3.372
+    },
+    {
+      "text": " you take, all characters in it must be",
+      "start": 2863.188,
+      "duration": 3.372
+    },
+    {
+      "text": " unique. All these characters must be",
+      "start": 2865.622,
+      "duration": 4.384
+    },
+    {
+      "text": " unique. This is its condition. So this",
+      "start": 2869.107,
+      "duration": 3.365
+    },
+    {
+      "text": " is a trap. I am repeatedly saying that",
+      "start": 2871.521,
+      "duration": 2.682
+    },
+    {
+      "text": " this question is in the same category.",
+      "start": 2873.242,
+      "duration": 2.497
+    },
+    {
+      "text": " In the same format, but there is no K",
+      "start": 2874.979,
+      "duration": 2.898
+    },
+    {
+      "text": " in this. So if there is no K, the whole",
+      "start": 2876.928,
+      "duration": 2.581
+    },
+    {
+      "text": " logic will get messed up. We have been",
+      "start": 2878.544,
+      "duration": 2.526
+    },
+    {
+      "text": " moving along with K from the start.",
+      "start": 2880.114,
+      "duration": 2.546
+    },
+    {
+      "text": " Okay. Now try to think a little. Open",
+      "start": 2881.86,
+      "duration": 3.277
+    },
+    {
+      "text": " your mind a little for this. Come.",
+      "start": 2884.175,
+      "duration": 2.866
+    },
+    {
+      "text": " Let's open our minds. Let's see, we",
+      "start": 2886.141,
+      "duration": 3.15
+    },
+    {
+      "text": " will definitely find something. A",
+      "start": 2888.332,
+      "duration": 2.458
+    },
+    {
+      "text": " little bit of thinking leads to a lot.",
+      "start": 2889.841,
+      "duration": 2.938
+    },
+    {
+      "text": " Come, let's assume A B C A B is your",
+      "start": 2892.259,
+      "duration": 5.09
+    },
+    {
+      "text": " string. Okay, in this window, let's say",
+      "start": 2896.463,
+      "duration": 6.427
+    },
+    {
+      "text": " you create a window. How many distinct",
+      "start": 2901.962,
+      "duration": 3.178
+    },
+    {
+      "text": " characters are in this window? In this",
+      "start": 2904.178,
+      "duration": 2.636
+    },
+    {
+      "text": " window, three. 1, 2, 3, there are three",
+      "start": 2905.871,
+      "duration": 3.984
+    },
+    {
+      "text": ". Okay. How many distinct characters",
+      "start": 2908.855,
+      "duration": 3.714
+    },
+    {
+      "text": " are there in this window? 1, 2, 3. Okay",
+      "start": 2911.617,
+      "duration": 3.498
+    },
+    {
+      "text": ", let's create one more. Create this",
+      "start": 2914.115,
+      "duration": 5.251
+    },
+    {
+      "text": " one. How many distinct characters are",
+      "start": 2918.489,
+      "duration": 3.284
+    },
+    {
+      "text": " in this window? There are only two in",
+      "start": 2920.825,
+      "duration": 3.228
+    },
+    {
+      "text": " this. Do you see? There is A and B.",
+      "start": 2923.099,
+      "duration": 3.653
+    },
+    {
+      "text": " There is no A. But how do we know this?",
+      "start": 2925.819,
+      "duration": 3.6
+    },
+    {
+      "text": " How would we know? We can tell just by",
+      "start": 2929.089,
+      "duration": 3.5
+    },
+    {
+      "text": " looking that there are only two here.",
+      "start": 2931.677,
+      "duration": 4.272
+    },
+    {
+      "text": " There are not three. Okay, how do we",
+      "start": 2935.06,
+      "duration": 2.554
+    },
+    {
+      "text": " know if these are distinct characters?",
+      "start": 2936.671,
+      "duration": 3.168
+    },
+    {
+      "text": " Are they all distinct or are there some",
+      "start": 2938.939,
+      "duration": 2.896
+    },
+    {
+      "text": " duplicates? Come. Suppose you are given",
+      "start": 2940.884,
+      "duration": 6.263
+    },
+    {
+      "text": " a subarray. Suppose this is your only",
+      "start": 2946.26,
+      "duration": 4.124
+    },
+    {
+      "text": " question. Your question is a very",
+      "start": 2949.436,
+      "duration": 2.951
+    },
+    {
+      "text": " simple one. This is your array. In this",
+      "start": 2951.443,
+      "duration": 4.365
+    },
+    {
+      "text": ", you have a, b, c, and you are asked",
+      "start": 2954.808,
+      "duration": 5.065
+    },
+    {
+      "text": " if they are all unique or not. Are they",
+      "start": 2958.983,
+      "duration": 5.476
+    },
+    {
+      "text": " all unique or not? Are they or are they",
+      "start": 2963.594,
+      "duration": 5.576
+    },
+    {
+      "text": " not? Are they all unique or not? Okay.",
+      "start": 2968.262,
+      "duration": 3.332
+    },
+    {
+      "text": " How will you tell? One way is to tell",
+      "start": 2970.694,
+      "duration": 3.983
+    },
+    {
+      "text": " immediately. One way is to go from",
+      "start": 2973.74,
+      "duration": 3.564
+    },
+    {
+      "text": " start to end and keep making a hash map",
+      "start": 2976.383,
+      "duration": 4.07
+    },
+    {
+      "text": ". Keep making a hash map. Meaning, make",
+      "start": 2979.453,
+      "duration": 3.23
+    },
+    {
+      "text": " A two. Make B one. Make C one. Then",
+      "start": 2981.744,
+      "duration": 4.182
+    },
+    {
+      "text": " check if any frequency is more than one",
+      "start": 2984.998,
+      "duration": 3.801
+    },
+    {
+      "text": ", if it is a duplicate, you return",
+      "start": 2987.799,
+      "duration": 3.443
+    },
+    {
+      "text": " false. Okay. Is there any other way?",
+      "start": 2990.313,
+      "duration": 4.272
+    },
+    {
+      "text": " Look, suppose you have a hash map. You",
+      "start": 2994.519,
+      "duration": 3.821
+    },
+    {
+      "text": " have a hash map of this array like this",
+      "start": 2997.394,
+      "duration": 3.092
+    },
+    {
+      "text": ". I don't feel like traversing the",
+      "start": 2999.486,
+      "duration": 4.62
+    },
+    {
+      "text": " entire hash map. So is there any other",
+      "start": 3003.153,
+      "duration": 2.95
+    },
+    {
+      "text": " way to tell? Yes, look here. What is",
+      "start": 3005.156,
+      "duration": 3.422
+    },
+    {
+      "text": " the size of the array? Listen very",
+      "start": 3007.623,
+      "duration": 2.597
+    },
+    {
+      "text": " carefully. The size of the array is",
+      "start": 3009.265,
+      "duration": 2.641
+    },
+    {
+      "text": " four. A, A, B, C is four. What is the",
+      "start": 3010.951,
+      "duration": 3.822
+    },
+    {
+      "text": " size of the map? The size of the map is",
+      "start": 3013.821,
+      "duration": 3.894
+    },
+    {
+      "text": " three. Okay. Why is the hash map size",
+      "start": 3016.779,
+      "duration": 4.718
+    },
+    {
+      "text": " three? Why is the map size not four?",
+      "start": 3020.56,
+      "duration": 3.359
+    },
+    {
+      "text": " Because an element has been repeated.",
+      "start": 3023.419,
+      "duration": 3.6
+    },
+    {
+      "text": " When we find the size of this hash map,",
+      "start": 3026.879,
+      "duration": 2.886
+    },
+    {
+      "text": " it represents the number of unique",
+      "start": 3028.813,
+      "duration": 2.645
+    },
+    {
+      "text": " characters. That is exactly what we",
+      "start": 3030.506,
+      "duration": 2.688
+    },
+    {
+      "text": " have been doing all along. The hash map",
+      "start": 3032.236,
+      "duration": 3.099
+    },
+    {
+      "text": " size always gives us the number of",
+      "start": 3034.391,
+      "duration": 2.917
+    },
+    {
+      "text": " unique characters. So if someone asks",
+      "start": 3036.364,
+      "duration": 3.284
+    },
+    {
+      "text": " if every character in the array is",
+      "start": 3038.697,
+      "duration": 2.68
+    },
+    {
+      "text": " unique or not? Then there is only one",
+      "start": 3040.427,
+      "duration": 2.974
+    },
+    {
+      "text": " test for this, which is: if the number",
+      "start": 3042.452,
+      "duration": 2.938
+    },
+    {
+      "text": " of unique characters, meaning hash map",
+      "start": 3044.441,
+      "duration": 2.938
+    },
+    {
+      "text": " size, is equal to array size, then it",
+      "start": 3046.43,
+      "duration": 2.887
+    },
+    {
+      "text": " is unique. If it is less, then it is",
+      "start": 3048.368,
+      "duration": 3.015
+    },
+    {
+      "text": " not unique. Did you understand or not?",
+      "start": 3050.436,
+      "duration": 2.623
+    },
+    {
+      "text": " You must have understood. If the hash",
+      "start": 3052.239,
+      "duration": 3.066
+    },
+    {
+      "text": " map size equals the array size, then it",
+      "start": 3054.359,
+      "duration": 3.113
+    },
+    {
+      "text": " is unique. Meaning every character's",
+      "start": 3056.527,
+      "duration": 2.618
+    },
+    {
+      "text": " frequency is one. If an element is",
+      "start": 3058.184,
+      "duration": 2.436
+    },
+    {
+      "text": " repeated, it is natural that the size",
+      "start": 3059.661,
+      "duration": 2.502
+    },
+    {
+      "text": " of the HashMap will be less than the",
+      "start": 3061.204,
+      "duration": 2.462
+    },
+    {
+      "text": " size of the array, so it is not unique.",
+      "start": 3062.707,
+      "duration": 2.584
+    },
+    {
+      "text": " So, there you go, you found it out. You",
+      "start": 3064.391,
+      "duration": 2.404
+    },
+    {
+      "text": " figured it out, right? K was not needed",
+      "start": 3065.83,
+      "duration": 2.7
+    },
+    {
+      "text": ", right? Now let me show you how and",
+      "start": 3067.53,
+      "duration": 3.088
+    },
+    {
+      "text": " why K won't be needed. Okay. Come back",
+      "start": 3069.677,
+      "duration": 4.484
+    },
+    {
+      "text": " to the same template. Come back to the",
+      "start": 3073.209,
+      "duration": 2.67
+    },
+    {
+      "text": " same template. Now, did you understand",
+      "start": 3074.915,
+      "duration": 2.516
+    },
+    {
+      "text": " this? Come to the same one. Write low =",
+      "start": 3076.471,
+      "duration": 4.293
+    },
+    {
+      "text": " 0. Write i = 0. The rest is to find the",
+      "start": 3079.896,
+      "duration": 5.211
+    },
+    {
+      "text": " longest. Write int max. Come, let's run",
+      "start": 3084.169,
+      "duration": 6.245
+    },
+    {
+      "text": " it. i = 0, high, let's try running this",
+      "start": 3089.555,
+      "duration": 7.271
+    },
+    {
+      "text": ". i, uh, what is it? Less < n, i ++.",
+      "start": 3095.826,
+      "duration": 6.474
+    },
+    {
+      "text": " What was the first task? First of all,",
+      "start": 3101.86,
+      "duration": 3.346
+    },
+    {
+      "text": " this is your HashMap. What was the",
+      "start": 3104.267,
+      "duration": 3.173
+    },
+    {
+      "text": " first task? Add the information. So add",
+      "start": 3106.505,
+      "duration": 3.44
+    },
+    {
+      "text": " the high's information, add it, m [s [i",
+      "start": 3109.015,
+      "duration": 3.704
+    },
+    {
+      "text": "]]. Plus plus, it's added, that's it.",
+      "start": 3111.719,
+      "duration": 6.8
+    },
+    {
+      "text": " Okay, now, what was the next step? It's",
+      "start": 3118.019,
+      "duration": 3.79
+    },
+    {
+      "text": " added here, suppose a = 1 is added.",
+      "start": 3120.874,
+      "duration": 3.275
+    },
+    {
+      "text": " Next step, is the information correct",
+      "start": 3123.249,
+      "duration": 2.612
+    },
+    {
+      "text": " or incorrect? Is the information",
+      "start": 3124.904,
+      "duration": 2.328
+    },
+    {
+      "text": " correct or incorrect? If it is",
+      "start": 3126.269,
+      "duration": 2.185
+    },
+    {
+      "text": " incorrect, then shrink the low. But now",
+      "start": 3127.493,
+      "duration": 2.868
+    },
+    {
+      "text": " see, how will you know if it is correct",
+      "start": 3129.441,
+      "duration": 4.119
+    },
+    {
+      "text": " or incorrect? There is no K, there is",
+      "start": 3132.64,
+      "duration": 3.322
+    },
+    {
+      "text": " no K. But what did we just see? That if",
+      "start": 3135.01,
+      "duration": 3.356
+    },
+    {
+      "text": " the HashMap size is less than the",
+      "start": 3137.429,
+      "duration": 3.068
+    },
+    {
+      "text": " window size or the array size up to",
+      "start": 3139.559,
+      "duration": 3.194
+    },
+    {
+      "text": " which this HashMap exists, then it is",
+      "start": 3141.815,
+      "duration": 3.319
+    },
+    {
+      "text": " not unique, so it is wrong. It is wrong",
+      "start": 3144.197,
+      "duration": 3.428
+    },
+    {
+      "text": ", right? Okay? It is wrong. Okay? Which",
+      "start": 3146.625,
+      "duration": 4.629
+    },
+    {
+      "text": " window size is in the HashMap? I mean,",
+      "start": 3150.305,
+      "duration": 3.917
+    },
+    {
+      "text": " the thing currently in the HashMap, a =",
+      "start": 3153.265,
+      "duration": 2.682
+    },
+    {
+      "text": " 1 or whatever, from where to where is",
+      "start": 3154.991,
+      "duration": 2.596
+    },
+    {
+      "text": " it? It is from low to high. That is",
+      "start": 3156.63,
+      "duration": 4.104
+    },
+    {
+      "text": " what we are doing, right? Low was at",
+      "start": 3159.763,
+      "duration": 2.415
+    },
+    {
+      "text": " one place. We are running high from 0",
+      "start": 3161.237,
+      "duration": 3.185
+    },
+    {
+      "text": " to n. We are adding the high's",
+      "start": 3163.479,
+      "duration": 2.368
+    },
+    {
+      "text": " information. So the data currently in",
+      "start": 3164.884,
+      "duration": 3.067
+    },
+    {
+      "text": " the HashMap is the data from low to",
+      "start": 3167.014,
+      "duration": 3.206
+    },
+    {
+      "text": " high. That is the information, right?",
+      "start": 3169.283,
+      "duration": 2.383
+    },
+    {
+      "text": " This is what it means that the window's",
+      "start": 3170.766,
+      "duration": 2.203
+    },
+    {
+      "text": " information is in the HashMap. So where",
+      "start": 3172.0,
+      "duration": 2.492
+    },
+    {
+      "text": " is the window from and to? It is from",
+      "start": 3173.55,
+      "duration": 3.233
+    },
+    {
+      "text": " low to high. So what is the size of the",
+      "start": 3175.842,
+      "duration": 3.248
+    },
+    {
+      "text": " window whose information is in the",
+      "start": 3178.145,
+      "duration": 2.882
+    },
+    {
+      "text": " HashMap? You guys know how to calculate",
+      "start": 3180.082,
+      "duration": 2.579
+    },
+    {
+      "text": " its size, right? Yes, let's do it.",
+      "start": 3181.696,
+      "duration": 3.585
+    },
+    {
+      "text": " Let's call it k. Come on. Int high",
+      "start": 3184.381,
+      "duration": 4.376
+    },
+    {
+      "text": " minus low + 1, that is the size, right?",
+      "start": 3187.906,
+      "duration": 6.818
+    },
+    {
+      "text": " See, suppose you have an array like",
+      "start": 3194.46,
+      "duration": 3.219
+    },
+    {
+      "text": " this. What is the array, a = [1, 2],",
+      "start": 3196.742,
+      "duration": 4.965
+    },
+    {
+      "text": " your low is here, your high is here.",
+      "start": 3200.802,
+      "duration": 4.418
+    },
+    {
+      "text": " You have something in your HashMap, so",
+      "start": 3204.5,
+      "duration": 2.494
+    },
+    {
+      "text": " it has a size, right? It has a size,",
+      "start": 3206.034,
+      "duration": 2.622
+    },
+    {
+      "text": " and that’s how we’ll know if this",
+      "start": 3207.695,
+      "duration": 2.446
+    },
+    {
+      "text": " window contains duplicates or not. What",
+      "start": 3209.18,
+      "duration": 2.644
+    },
+    {
+      "text": " is its size? High minus low + 1, that",
+      "start": 3210.878,
+      "duration": 2.916
+    },
+    {
+      "text": " is what it is. Okay, got it? All right.",
+      "start": 3212.843,
+      "duration": 4.396
+    },
+    {
+      "text": " Now see, the condition could be wrong,",
+      "start": 3216.379,
+      "duration": 3.034
+    },
+    {
+      "text": " it could also be right. Let’s write",
+      "start": 3218.467,
+      "duration": 2.819
+    },
+    {
+      "text": " down the cases: how can it be wrong?",
+      "start": 3220.319,
+      "duration": 2.181
+    },
+    {
+      "text": " How can it be right? It can be right if",
+      "start": 3221.6,
+      "duration": 5.229
+    },
+    {
+      "text": " f.size equals k. So that is correct.",
+      "start": 3225.969,
+      "duration": 4.281
+    },
+    {
+      "text": " This is a good condition. That is",
+      "start": 3229.35,
+      "duration": 2.628
+    },
+    {
+      "text": " exactly what we were doing, that it",
+      "start": 3231.014,
+      "duration": 2.262
+    },
+    {
+      "text": " equals k. If the array size equals k,",
+      "start": 3232.312,
+      "duration": 2.55
+    },
+    {
+      "text": " then it is correct. Okay, f.size...Less",
+      "start": 3233.904,
+      "duration": 6.645
+    },
+    {
+      "text": " than k, f.size less than k, then this",
+      "start": 3239.631,
+      "duration": 4.045
+    },
+    {
+      "text": " is wrong. This is wrong. Okay? Can it",
+      "start": 3242.759,
+      "duration": 6.562
+    },
+    {
+      "text": " ever happen that f.size becomes greater",
+      "start": 3248.398,
+      "duration": 4.004
+    },
+    {
+      "text": " than k? Think about it. What is k? k is",
+      "start": 3251.479,
+      "duration": 4.333
+    },
+    {
+      "text": " the size of this window. Are you asking",
+      "start": 3254.86,
+      "duration": 3.049
+    },
+    {
+      "text": " if this is ever possible? This is never",
+      "start": 3256.965,
+      "duration": 3.22
+    },
+    {
+      "text": " possible. Why? What is in the hash map?",
+      "start": 3259.24,
+      "duration": 3.61
+    },
+    {
+      "text": " It holds the frequency of every",
+      "start": 3261.96,
+      "duration": 2.522
+    },
+    {
+      "text": " character in that window. So, let's",
+      "start": 3263.531,
+      "duration": 3.488
+    },
+    {
+      "text": " assume there are only five characters",
+      "start": 3266.054,
+      "duration": 2.313
+    },
+    {
+      "text": " in the window. Suppose it's something",
+      "start": 3267.403,
+      "duration": 4.092
+    },
+    {
+      "text": " like A B C A B. This is your window. So",
+      "start": 3270.568,
+      "duration": 3.889
+    },
+    {
+      "text": " you are saying, can the hash map size",
+      "start": 3273.505,
+      "duration": 2.795
+    },
+    {
+      "text": " be larger than this? Could there be six",
+      "start": 3275.349,
+      "duration": 2.714
+    },
+    {
+      "text": " characters? That can never happen. Why?",
+      "start": 3277.098,
+      "duration": 3.801
+    },
+    {
+      "text": " It’s already less here. This is",
+      "start": 3280.048,
+      "duration": 2.447
+    },
+    {
+      "text": " already the duplicate one. So here, the",
+      "start": 3281.539,
+      "duration": 2.927
+    },
+    {
+      "text": " hash map size would be three. If",
+      "start": 3283.522,
+      "duration": 2.87
+    },
+    {
+      "text": " everything were unique, like this, or",
+      "start": 3285.459,
+      "duration": 3.466
+    },
+    {
+      "text": " like that. Even in that case, the hash",
+      "start": 3287.992,
+      "duration": 3.217
+    },
+    {
+      "text": " map size would be six and the window",
+      "start": 3290.253,
+      "duration": 2.587
+    },
+    {
+      "text": " size would also be six. So it will",
+      "start": 3291.884,
+      "duration": 3.553
+    },
+    {
+      "text": " never happen that the hash map size",
+      "start": 3294.481,
+      "duration": 2.535
+    },
+    {
+      "text": " becomes seven when your window has five",
+      "start": 3296.06,
+      "duration": 2.71
+    },
+    {
+      "text": " characters; where would the sixth one",
+      "start": 3297.814,
+      "duration": 2.622
+    },
+    {
+      "text": " come from? So this is useless. There is",
+      "start": 3299.48,
+      "duration": 4.84
+    },
+    {
+      "text": " no need to think about it, so the",
+      "start": 3303.358,
+      "duration": 2.243
+    },
+    {
+      "text": " question became very easy. All right.",
+      "start": 3304.639,
+      "duration": 3.02
+    },
+    {
+      "text": " Now, this is correct. This is wrong.",
+      "start": 3307.059,
+      "duration": 4.84
+    },
+    {
+      "text": " Now, we had seen that we shrink the '",
+      "start": 3311.42,
+      "duration": 3.59
+    },
+    {
+      "text": "low' in the wrong case. Okay. Now, in",
+      "start": 3314.01,
+      "duration": 5.208
+    },
+    {
+      "text": " the previous question, what were we",
+      "start": 3318.263,
+      "duration": 2.596
+    },
+    {
+      "text": " doing? That in the greater case, the '",
+      "start": 3319.905,
+      "duration": 2.872
+    },
+    {
+      "text": "greater' case, we were shrinking the '",
+      "start": 3321.777,
+      "duration": 2.808
+    },
+    {
+      "text": "low'. We used to say that when 'low'",
+      "start": 3323.585,
+      "duration": 3.532
+    },
+    {
+      "text": " comes, meaning when it moves, when 'low",
+      "start": 3326.173,
+      "duration": 3.206
+    },
+    {
+      "text": "' increases, the hash map size",
+      "start": 3328.379,
+      "duration": 2.697
+    },
+    {
+      "text": " decreases. So here it is already less,",
+      "start": 3330.133,
+      "duration": 4.004
+    },
+    {
+      "text": " it is already less. So should we shrink",
+      "start": 3333.176,
+      "duration": 3.533
+    },
+    {
+      "text": " 'low'? Because it will become even less",
+      "start": 3335.761,
+      "duration": 2.612
+    },
+    {
+      "text": ". Yes, it should be shrunk, and that is",
+      "start": 3337.373,
+      "duration": 2.592
+    },
+    {
+      "text": " the little twist in this question. You",
+      "start": 3339.005,
+      "duration": 2.557
+    },
+    {
+      "text": " have to think about whether to do it or",
+      "start": 3340.602,
+      "duration": 2.56
+    },
+    {
+      "text": " not. Don't just remember doing it for",
+      "start": 3342.202,
+      "duration": 3.03
+    },
+    {
+      "text": " more, not less. It can happen in each,",
+      "start": 3344.286,
+      "duration": 4.222
+    },
+    {
+      "text": " but look, what is K? In the previous",
+      "start": 3347.566,
+      "duration": 4.545
+    },
+    {
+      "text": " question, K was given. K was a fixed",
+      "start": 3351.162,
+      "duration": 3.079
+    },
+    {
+      "text": " value. Meaning K was three here. So,",
+      "start": 3353.306,
+      "duration": 4.806
+    },
+    {
+      "text": " when the hash map size was one, we",
+      "start": 3357.163,
+      "duration": 2.739
+    },
+    {
+      "text": " didn't increment 'low' because one",
+      "start": 3358.953,
+      "duration": 2.738
+    },
+    {
+      "text": " would decrease to zero. We need to go",
+      "start": 3360.742,
+      "duration": 3.499
+    },
+    {
+      "text": " from one to three, so one will decrease",
+      "start": 3363.277,
+      "duration": 2.406
+    },
+    {
+      "text": " to zero. So, we didn't do it. But here,",
+      "start": 3364.719,
+      "duration": 2.811
+    },
+    {
+      "text": " K is not given. What is K? The size of",
+      "start": 3366.593,
+      "duration": 3.512
+    },
+    {
+      "text": " your window. How is your window size",
+      "start": 3369.159,
+      "duration": 3.002
+    },
+    {
+      "text": " calculated? High minus low + 1, that is",
+      "start": 3371.213,
+      "duration": 5.163
+    },
+    {
+      "text": " K, right? So, what does that mean? Your",
+      "start": 3375.5,
+      "duration": 5.84
+    },
+    {
+      "text": " 'f' size is currently small. Suppose it",
+      "start": 3380.45,
+      "duration": 5.817
+    },
+    {
+      "text": " is two. And your high minus low + 1 is",
+      "start": 3385.376,
+      "duration": 6.947
+    },
+    {
+      "text": " three. This is your window size. This",
+      "start": 3391.486,
+      "duration": 3.585
+    },
+    {
+      "text": " is exactly K. This is K. So, when we",
+      "start": 3394.133,
+      "duration": 3.26
+    },
+    {
+      "text": " increment 'low'. When we increment 'low",
+      "start": 3396.455,
+      "duration": 3.351
+    },
+    {
+      "text": "'. When we increment 'low', your 'f'",
+      "start": 3398.806,
+      "duration": 4.987
+    },
+    {
+      "text": " size will either stay the same or",
+      "start": 3402.888,
+      "duration": 4.155
+    },
+    {
+      "text": " decrease. That is what we were",
+      "start": 3406.138,
+      "duration": 3.68
+    },
+    {
+      "text": " observing. But, but, but when you",
+      "start": 3408.849,
+      "duration": 3.515
+    },
+    {
+      "text": " increment 'low', the K size will also",
+      "start": 3411.45,
+      "duration": 4.171
+    },
+    {
+      "text": " decrease. Why? High minus low + 1 is",
+      "start": 3414.707,
+      "duration": 4.71
+    },
+    {
+      "text": " the K size. Suppose when it was two,",
+      "start": 3418.492,
+      "duration": 3.696
+    },
+    {
+      "text": " the K size increased. When you are",
+      "start": 3421.258,
+      "duration": 3.429
+    },
+    {
+      "text": " increasing the 'low' index. When you",
+      "start": 3423.746,
+      "duration": 3.115
+    },
+    {
+      "text": " are increasing the 'low' index, the",
+      "start": 3425.903,
+      "duration": 2.454
+    },
+    {
+      "text": " window size is also decreasing. Look,",
+      "start": 3427.399,
+      "duration": 2.596
+    },
+    {
+      "text": " the window size is only this much now.",
+      "start": 3429.036,
+      "duration": 2.577
+    },
+    {
+      "text": " And if we increase 'low', it will",
+      "start": 3430.713,
+      "duration": 2.235
+    },
+    {
+      "text": " remain this much. And if we increase '",
+      "start": 3431.985,
+      "duration": 2.457
+    },
+    {
+      "text": "low', it will remain this much. So,",
+      "start": 3433.442,
+      "duration": 3.341
+    },
+    {
+      "text": " when you are increasing 'low', K is",
+      "start": 3435.87,
+      "duration": 4.071
+    },
+    {
+      "text": " definitely decreasing. It will never",
+      "start": 3439.029,
+      "duration": 4.243
+    },
+    {
+      "text": " stay the same. It will keep decreasing.",
+      "start": 3442.31,
+      "duration": 2.66
+    },
+    {
+      "text": " It will keep decreasing. That is why it",
+      "start": 3444.16,
+      "duration": 3.67
+    },
+    {
+      "text": " is possible that, say, 'f' size is",
+      "start": 3446.902,
+      "duration": 3.453
+    },
+    {
+      "text": " three. And the window size is four. Now",
+      "start": 3449.427,
+      "duration": 3.94
+    },
+    {
+      "text": ", if we decrease one, suppose 'f' size",
+      "start": 3452.367,
+      "duration": 3.393
+    },
+    {
+      "text": " becomes two. And its size becomes three",
+      "start": 3454.823,
+      "duration": 3.707
+    },
+    {
+      "text": ". If we decrease another, it might stay",
+      "start": 3457.53,
+      "duration": 2.953
+    },
+    {
+      "text": " the same. 'f' size can stay the same",
+      "start": 3459.531,
+      "duration": 2.596
+    },
+    {
+      "text": " because it is not happening. Its size",
+      "start": 3461.168,
+      "duration": 2.721
+    },
+    {
+      "text": " became two. But this will definitely",
+      "start": 3462.949,
+      "duration": 3.097
+    },
+    {
+      "text": " decrease. This will definitely decrease",
+      "start": 3465.094,
+      "duration": 3.043
+    },
+    {
+      "text": ". Now look, both matched. This is your",
+      "start": 3467.137,
+      "duration": 4.549
+    },
+    {
+      "text": " correct one. That is why here, the 'f'",
+      "start": 3470.751,
+      "duration": 3.435
+    },
+    {
+      "text": " size cannot be greater than K. We have",
+      "start": 3473.243,
+      "duration": 3.2
+    },
+    {
+      "text": " already proven this. When the size of f",
+      "start": 3475.501,
+      "duration": 3.438
+    },
+    {
+      "text": " is less than k, low should shrink",
+      "start": 3477.998,
+      "duration": 2.943
+    },
+    {
+      "text": " because they might meet at some point.",
+      "start": 3480.0,
+      "duration": 3.239
+    },
+    {
+      "text": " Now, how to figure this out by thinking",
+      "start": 3482.399,
+      "duration": 2.794
+    },
+    {
+      "text": "? In every case, think if increasing",
+      "start": 3484.193,
+      "duration": 3.627
+    },
+    {
+      "text": " low could be beneficial or not. If it",
+      "start": 3486.881,
+      "duration": 3.461
+    },
+    {
+      "text": " could be, then increase it. If it feels",
+      "start": 3489.375,
+      "duration": 2.608
+    },
+    {
+      "text": " like there is no possible benefit. If k",
+      "start": 3491.034,
+      "duration": 3.094
+    },
+    {
+      "text": " is fixed, then there is no benefit, so",
+      "start": 3493.176,
+      "duration": 2.803
+    },
+    {
+      "text": " the size of f will keep decreasing",
+      "start": 3495.026,
+      "duration": 2.614
+    },
+    {
+      "text": " while k stays the same. Here, what is",
+      "start": 3496.687,
+      "duration": 3.007
+    },
+    {
+      "text": " changing is that the size of f either",
+      "start": 3498.741,
+      "duration": 2.72
+    },
+    {
+      "text": " stays the same or decreases. The size",
+      "start": 3500.508,
+      "duration": 2.696
+    },
+    {
+      "text": " of k will constantly increase. It will",
+      "start": 3502.241,
+      "duration": 2.403
+    },
+    {
+      "text": " constantly decrease when you bring low",
+      "start": 3503.672,
+      "duration": 2.071
+    },
+    {
+      "text": " forward. So, they might meet at some",
+      "start": 3504.771,
+      "duration": 2.485
+    },
+    {
+      "text": " point, and that is exactly what we need",
+      "start": 3506.299,
+      "duration": 2.675
+    },
+    {
+      "text": ". Right? That is exactly what we need.",
+      "start": 3507.974,
+      "duration": 3.016
+    },
+    {
+      "text": " So, let's proceed. Where had we written",
+      "start": 3510.09,
+      "duration": 2.679
+    },
+    {
+      "text": " up to? We had calculated k. Right?",
+      "start": 3511.807,
+      "duration": 3.952
+    },
+    {
+      "text": " Write the rest of the code. So while,",
+      "start": 3514.859,
+      "duration": 3.344
+    },
+    {
+      "text": " while f.size is less than k, as long as",
+      "start": 3517.299,
+      "duration": 4.748
+    },
+    {
+      "text": " it's less, do it, keep doing it. It",
+      "start": 3521.143,
+      "duration": 4.257
+    },
+    {
+      "text": " can't be more, we need to bring it to",
+      "start": 3524.441,
+      "duration": 2.512
+    },
+    {
+      "text": " equal. Right, what to do first? First",
+      "start": 3525.993,
+      "duration": 5.028
+    },
+    {
+      "text": " of all, decrement f's low, and if, if,",
+      "start": 3530.166,
+      "duration": 6.493
+    },
+    {
+      "text": " if f's and its low is zero, then erase",
+      "start": 3535.803,
+      "duration": 6.493
+    },
+    {
+      "text": " it, remove it, reduce the size, reduce",
+      "start": 3541.44,
+      "duration": 6.493
+    },
+    {
+      "text": " the size. Right, and increment low; we",
+      "start": 3547.078,
+      "duration": 5.884
+    },
+    {
+      "text": " were doing this much last time as well.",
+      "start": 3552.021,
+      "duration": 3.318
+    },
+    {
+      "text": " But now look here, in the previous",
+      "start": 3554.679,
+      "duration": 3.809
+    },
+    {
+      "text": " question, what was this k? It was fixed",
+      "start": 3557.57,
+      "duration": 4.235
+    },
+    {
+      "text": ". Here, what is k? High minus low plus",
+      "start": 3560.805,
+      "duration": 5.645
+    },
+    {
+      "text": " one, so when you are increasing low",
+      "start": 3565.511,
+      "duration": 3.158
+    },
+    {
+      "text": " here, when you are increasing low here,",
+      "start": 3567.73,
+      "duration": 3.404
+    },
+    {
+      "text": " you have to recalculate k. You cannot",
+      "start": 3570.196,
+      "duration": 3.269
+    },
+    {
+      "text": " use the previous k; that's why k is",
+      "start": 3572.51,
+      "duration": 2.562
+    },
+    {
+      "text": " decreasing repeatedly. Why is k",
+      "start": 3574.116,
+      "duration": 2.65
+    },
+    {
+      "text": " decreasing when low increases? Because",
+      "start": 3575.808,
+      "duration": 2.724
+    },
+    {
+      "text": " k is dependent on low. That is why you",
+      "start": 3577.584,
+      "duration": 3.617
+    },
+    {
+      "text": " have to calculate high minus low plus",
+      "start": 3580.279,
+      "duration": 3.916
+    },
+    {
+      "text": " one again here, and this while loop",
+      "start": 3583.274,
+      "duration": 3.758
+    },
+    {
+      "text": " ends here. Take a look. So, a one-line",
+      "start": 3586.111,
+      "duration": 4.138
+    },
+    {
+      "text": " change was added. What was added? We",
+      "start": 3589.297,
+      "duration": 2.933
+    },
+    {
+      "text": " are calculating the value of k. Last",
+      "start": 3591.281,
+      "duration": 2.875
+    },
+    {
+      "text": " time, k was given. This time, k is not",
+      "start": 3593.204,
+      "duration": 2.492
+    },
+    {
+      "text": " given, so we are calculating it. Right?",
+      "start": 3594.724,
+      "duration": 2.466
+    },
+    {
+      "text": " Let's continue. Now, when will this",
+      "start": 3596.29,
+      "duration": 2.615
+    },
+    {
+      "text": " while loop break? When will this while",
+      "start": 3597.943,
+      "duration": 2.472
+    },
+    {
+      "text": " loop break? When will it break? Only",
+      "start": 3599.451,
+      "duration": 2.5
+    },
+    {
+      "text": " two cases were possible. Either it was",
+      "start": 3600.993,
+      "duration": 2.814
+    },
+    {
+      "text": " less or it was equal. The 'less than'",
+      "start": 3602.861,
+      "duration": 2.762
+    },
+    {
+      "text": " case, we put in the while loop, as long",
+      "start": 3604.659,
+      "duration": 2.383
+    },
+    {
+      "text": " as it is less. The meaning of this '",
+      "start": 3606.077,
+      "duration": 2.334
+    },
+    {
+      "text": "while' itself is \"as long as,\" like \"as",
+      "start": 3607.411,
+      "duration": 2.37
+    },
+    {
+      "text": " long as there is life.\" So as long as",
+      "start": 3608.816,
+      "duration": 2.461
+    },
+    {
+      "text": " there is mischief left in it, keep",
+      "start": 3610.32,
+      "duration": 2.449
+    },
+    {
+      "text": " reducing it. As long as there is",
+      "start": 3611.811,
+      "duration": 2.413
+    },
+    {
+      "text": " mischief in it, keep reducing it. If",
+      "start": 3613.266,
+      "duration": 2.703
+    },
+    {
+      "text": " we've come here, what does it mean? It",
+      "start": 3615.034,
+      "duration": 3.958
+    },
+    {
+      "text": " is equal. We've come here only because",
+      "start": 3618.049,
+      "duration": 2.433
+    },
+    {
+      "text": " it's equal, otherwise we wouldn't have.",
+      "start": 3619.511,
+      "duration": 2.148
+    },
+    {
+      "text": " Now just do what you do; if your",
+      "start": 3621.719,
+      "duration": 4.602
+    },
+    {
+      "text": " condition is correct, then do high",
+      "start": 3625.434,
+      "duration": 4.828
+    },
+    {
+      "text": " minus low + 1 and res = max of res, len",
+      "start": 3629.375,
+      "duration": 5.391
+    },
+    {
+      "text": ". That's it. Just return res. The game",
+      "start": 3633.766,
+      "duration": 6.996
+    },
+    {
+      "text": " is over. The game is over. The game is",
+      "start": 3639.816,
+      "duration": 2.99
+    },
+    {
+      "text": " over. Look and see what changed in this",
+      "start": 3641.855,
+      "duration": 3.315
+    },
+    {
+      "text": ". What changed in this? Almost nothing",
+      "start": 3644.17,
+      "duration": 3.084
+    },
+    {
+      "text": " changed. This K changed. How we were",
+      "start": 3646.307,
+      "duration": 3.693
+    },
+    {
+      "text": " figuring out if our condition was right",
+      "start": 3649.057,
+      "duration": 3.191
+    },
+    {
+      "text": " or wrong. That changed. K used to be",
+      "start": 3651.304,
+      "duration": 2.94
+    },
+    {
+      "text": " given before. Now K is not given. We",
+      "start": 3653.288,
+      "duration": 2.777
+    },
+    {
+      "text": " calculated K. Accordingly, the decision",
+      "start": 3655.116,
+      "duration": 2.963
+    },
+    {
+      "text": " for shrinking changed a bit; earlier we",
+      "start": 3657.13,
+      "duration": 2.963
+    },
+    {
+      "text": " were shrinking if it was more, now we",
+      "start": 3659.144,
+      "duration": 2.863
+    },
+    {
+      "text": " are shrinking if it's less. Never",
+      "start": 3661.057,
+      "duration": 2.608
+    },
+    {
+      "text": " memorize that shrinking happens when",
+      "start": 3662.695,
+      "duration": 2.068
+    },
+    {
+      "text": " it's more and doesn't happen when it's",
+      "start": 3663.793,
+      "duration": 2.127
+    },
+    {
+      "text": " less. No, no, it can happen in all",
+      "start": 3664.95,
+      "duration": 2.011
+    },
+    {
+      "text": " cases. I showed you, didn't I, it can",
+      "start": 3665.988,
+      "duration": 2.339
+    },
+    {
+      "text": " happen in all cases. Think about it",
+      "start": 3667.363,
+      "duration": 2.622
+    },
+    {
+      "text": " logically whether it can happen or not.",
+      "start": 3669.042,
+      "duration": 3.241
+    },
+    {
+      "text": " If there is any benefit, then shrink.",
+      "start": 3671.383,
+      "duration": 2.55
+    },
+    {
+      "text": " If there cannot be any benefit, then",
+      "start": 3673.033,
+      "duration": 2.735
+    },
+    {
+      "text": " don't. So this is done. It's the same",
+      "start": 3674.816,
+      "duration": 3.591
+    },
+    {
+      "text": " Order of N time. Order of One space. It",
+      "start": 3677.483,
+      "duration": 4.47
+    },
+    {
+      "text": " is not Order of One space. Basically,",
+      "start": 3680.995,
+      "duration": 2.818
+    },
+    {
+      "text": " let's say it is Order of One space. Why",
+      "start": 3682.874,
+      "duration": 3.418
+    },
+    {
+      "text": "? Is it Order of One space? Because we",
+      "start": 3685.292,
+      "duration": 2.62
+    },
+    {
+      "text": " are using a hash map, right? You might",
+      "start": 3686.949,
+      "duration": 2.447
+    },
+    {
+      "text": " wonder why it's Order of One. But what",
+      "start": 3688.429,
+      "duration": 2.489
+    },
+    {
+      "text": " can be the maximum size of the hash map",
+      "start": 3689.971,
+      "duration": 3.037
+    },
+    {
+      "text": "? 26, because it is given that they are",
+      "start": 3692.008,
+      "duration": 3.545
+    },
+    {
+      "text": " lowercase. They are lowercase",
+      "start": 3694.617,
+      "duration": 2.561
+    },
+    {
+      "text": " characters, right? So whenever you",
+      "start": 3696.221,
+      "duration": 2.563
+    },
+    {
+      "text": " write it, your hash map will look like",
+      "start": 3697.83,
+      "duration": 2.734
+    },
+    {
+      "text": " this at maximum. It will look like this",
+      "start": 3699.609,
+      "duration": 2.931
+    },
+    {
+      "text": " up to z, and its maximum size will be",
+      "start": 3701.589,
+      "duration": 2.827
+    },
+    {
+      "text": " 26. We consider this constant. That is",
+      "start": 3703.465,
+      "duration": 2.644
+    },
+    {
+      "text": " why it is Order of One. So this was",
+      "start": 3705.152,
+      "duration": 2.657
+    },
+    {
+      "text": " today's third question. You will find",
+      "start": 3706.861,
+      "duration": 2.775
+    },
+    {
+      "text": " the code link in the description. Go",
+      "start": 3708.674,
+      "duration": 2.468
+    },
+    {
+      "text": " and submit all three questions. And",
+      "start": 3710.196,
+      "duration": 2.892
+    },
+    {
+      "text": " from now on, we are trying to pick up",
+      "start": 3712.134,
+      "duration": 2.696
+    },
+    {
+      "text": " some speed. So you guys also pick up",
+      "start": 3713.875,
+      "duration": 3.013
+    },
+    {
+      "text": " your pace a bit now. Right? See you",
+      "start": 3715.946,
+      "duration": 3.432
+    },
+    {
+      "text": " tomorrow, and stay consistent.",
+      "start": 3718.447,
+      "duration": 3.053
+    }
+  ]
+}

@@ -1,0 +1,4134 @@
+{
+  "language": "English (United States) (auto-generated)",
+  "language_code": "en-US",
+  "is_generated": true,
+  "videoId": "oFwHwCkSoGw",
+  "channel": "Padho with Pratyush",
+  "segments": [
+    {
+      "text": "This is the most important video on my",
+      "start": 0.142,
+      "duration": 2.71
+    },
+    {
+      "text": " channel. If you haven't watched",
+      "start": 1.897,
+      "duration": 2.582
+    },
+    {
+      "text": " anything yet, haven't seen DSA patterns",
+      "start": 3.529,
+      "duration": 2.95
+    },
+    {
+      "text": " or basics, it doesn't matter. Don't",
+      "start": 5.529,
+      "duration": 3.068
+    },
+    {
+      "text": " miss this one; watch this, and your",
+      "start": 7.648,
+      "duration": 2.802
+    },
+    {
+      "text": " life will improve a bit. It’s my",
+      "start": 9.502,
+      "duration": 3.289
+    },
+    {
+      "text": " fault that while I was teaching, I",
+      "start": 11.839,
+      "duration": 2.609
+    },
+    {
+      "text": " assumed everyone already knew time",
+      "start": 13.495,
+      "duration": 2.61
+    },
+    {
+      "text": " complexity. But how would everyone know",
+      "start": 15.152,
+      "duration": 2.804
+    },
+    {
+      "text": " it if I didn't know it myself at the",
+      "start": 16.995,
+      "duration": 2.382
+    },
+    {
+      "text": " beginning? No one would. It’s my",
+      "start": 18.416,
+      "duration": 2.747
+    },
+    {
+      "text": " mistake. So, all the teaching I've done",
+      "start": 20.212,
+      "duration": 4.255
+    },
+    {
+      "text": " until now—understanding time and",
+      "start": 23.518,
+      "duration": 2.727
+    },
+    {
+      "text": " space complexity is essential because",
+      "start": 25.296,
+      "duration": 2.879
+    },
+    {
+      "text": " it tells you which algorithm to use",
+      "start": 27.226,
+      "duration": 2.778
+    },
+    {
+      "text": " when, and half the game lies in time",
+      "start": 29.054,
+      "duration": 2.829
+    },
+    {
+      "text": " complexity. There are two things.",
+      "start": 30.934,
+      "duration": 3.862
+    },
+    {
+      "text": " Knowing which algorithm to use when is",
+      "start": 34.284,
+      "duration": 2.703
+    },
+    {
+      "text": " determined partly by the patterns we",
+      "start": 36.032,
+      "duration": 2.614
+    },
+    {
+      "text": " are learning. If you can't figure it",
+      "start": 37.691,
+      "duration": 4.961
+    },
+    {
+      "text": " out from patterns, then looking at the",
+      "start": 41.696,
+      "duration": 2.671
+    },
+    {
+      "text": " program's input can give you a hint.",
+      "start": 43.411,
+      "duration": 2.583
+    },
+    {
+      "text": " You get a hint about which algorithm",
+      "start": 47.562,
+      "duration": 2.564
+    },
+    {
+      "text": " won't work and which one might. For",
+      "start": 49.17,
+      "duration": 3.307
+    },
+    {
+      "text": " this, let's start from the beginning. I",
+      "start": 51.523,
+      "duration": 3.169
+    },
+    {
+      "text": " will explain it like a story so it will",
+      "start": 53.738,
+      "duration": 2.795
+    },
+    {
+      "text": " be easy to understand. First of all,",
+      "start": 55.579,
+      "duration": 3.386
+    },
+    {
+      "text": " let’s go to LeetCode. Right? We",
+      "start": 58.014,
+      "duration": 3.817
+    },
+    {
+      "text": " submit programs on LeetCode or GFG.",
+      "start": 60.898,
+      "duration": 3.322
+    },
+    {
+      "text": " It’s some website like that where we",
+      "start": 63.798,
+      "duration": 2.55
+    },
+    {
+      "text": " do it. You can do it anywhere online.",
+      "start": 65.389,
+      "duration": 2.761
+    },
+    {
+      "text": " Now, first, let's understand what a",
+      "start": 67.838,
+      "duration": 3.101
+    },
+    {
+      "text": " simple operation is. A simple operation",
+      "start": 69.999,
+      "duration": 3.516
+    },
+    {
+      "text": " means something that is very easy to do",
+      "start": 72.564,
+      "duration": 2.911
+    },
+    {
+      "text": ". For example, a = 10 is a simple",
+      "start": 74.475,
+      "duration": 4.254
+    },
+    {
+      "text": " operation. Printing \"hello\" is a simple",
+      "start": 77.798,
+      "duration": 6.373
+    },
+    {
+      "text": " operation. a = 10 + 2, a = b + c, what",
+      "start": 83.234,
+      "duration": 6.732
+    },
+    {
+      "text": " are these? These are all simple",
+      "start": 89.066,
+      "duration": 3.693
+    },
+    {
+      "text": " operations. What does a simple",
+      "start": 91.81,
+      "duration": 2.519
+    },
+    {
+      "text": " operation mean? To put it simply, just",
+      "start": 93.377,
+      "duration": 3.525
+    },
+    {
+      "text": " assume this. It takes time, one unit of",
+      "start": 95.961,
+      "duration": 4.034
+    },
+    {
+      "text": " time. It takes one unit of time. This",
+      "start": 99.059,
+      "duration": 5.919
+    },
+    {
+      "text": " unit of time could be a microsecond, a",
+      "start": 104.033,
+      "duration": 3.119
+    },
+    {
+      "text": " millisecond, or a second, but it takes",
+      "start": 106.208,
+      "duration": 3.119
+    },
+    {
+      "text": " one unit. Just assume it's constant",
+      "start": 108.383,
+      "duration": 3.475
+    },
+    {
+      "text": " time; it will happen instantly, like",
+      "start": 110.908,
+      "duration": 2.807
+    },
+    {
+      "text": " this. In the snap of a finger, this",
+      "start": 112.766,
+      "duration": 2.694
+    },
+    {
+      "text": " task will be completed. This is what we",
+      "start": 114.506,
+      "duration": 2.878
+    },
+    {
+      "text": " call a simple operation. Whenever a",
+      "start": 116.432,
+      "duration": 3.517
+    },
+    {
+      "text": " platform like LeetCode or GFG tells you",
+      "start": 119.003,
+      "duration": 3.096
+    },
+    {
+      "text": " to submit a program. Sometimes you",
+      "start": 121.153,
+      "duration": 3.722
+    },
+    {
+      "text": " might notice that if you write a poor",
+      "start": 123.924,
+      "duration": 2.827
+    },
+    {
+      "text": " program, you get \"Time Limit Exceeded.\"",
+      "start": 125.801,
+      "duration": 2.926
+    },
+    {
+      "text": " Why does \"Time Limit Exceeded\" happen?",
+      "start": 129.206,
+      "duration": 3.228
+    },
+    {
+      "text": " Or, how does LeetCode even know that",
+      "start": 132.605,
+      "duration": 2.738
+    },
+    {
+      "text": " your time limit has been exceeded? It",
+      "start": 134.391,
+      "duration": 3.415
+    },
+    {
+      "text": " could be that LeetCode gives a certain",
+      "start": 136.848,
+      "duration": 2.594
+    },
+    {
+      "text": " amount of time for the program to run.",
+      "start": 138.484,
+      "duration": 2.594
+    },
+    {
+      "text": " That must be how it works, right?",
+      "start": 140.475,
+      "duration": 2.689
+    },
+    {
+      "text": " LeetCode tells you that your program",
+      "start": 142.318,
+      "duration": 2.617
+    },
+    {
+      "text": " should run within one second. That’s",
+      "start": 143.98,
+      "duration": 2.855
+    },
+    {
+      "text": " how it would be. Or perhaps it limits",
+      "start": 145.871,
+      "duration": 4.067
+    },
+    {
+      "text": " the number of operations. What does",
+      "start": 148.985,
+      "duration": 4.374
+    },
+    {
+      "text": " that mean? If LeetCode limits the",
+      "start": 152.399,
+      "duration": 4.362
+    },
+    {
+      "text": " number of simple operations to just 100",
+      "start": 155.815,
+      "duration": 3.126
+    },
+    {
+      "text": ". Then if you try to run 101 operations",
+      "start": 157.941,
+      "duration": 3.936
+    },
+    {
+      "text": ", you will get a Time Limit Exceeded",
+      "start": 160.877,
+      "duration": 2.939
+    },
+    {
+      "text": " error. Or if your program is supposed",
+      "start": 162.869,
+      "duration": 3.081
+    },
+    {
+      "text": " to take one second. If you take even",
+      "start": 164.996,
+      "duration": 3.271
+    },
+    {
+      "text": " 1.0001 seconds, you will get a Time",
+      "start": 167.331,
+      "duration": 3.241
+    },
+    {
+      "text": " Limit Exceeded error. These are the",
+      "start": 169.636,
+      "duration": 3.07
+    },
+    {
+      "text": " only two possibilities. All right? Now,",
+      "start": 171.754,
+      "duration": 3.235
+    },
+    {
+      "text": " consider this as a general rule for",
+      "start": 174.045,
+      "duration": 2.949
+    },
+    {
+      "text": " LeetCode. There is no exact figure",
+      "start": 176.049,
+      "duration": 3.336
+    },
+    {
+      "text": " because we aren't software engineers at",
+      "start": 178.433,
+      "duration": 2.842
+    },
+    {
+      "text": " LeetCode. But generally, in 99%of cases",
+      "start": 180.322,
+      "duration": 5.208
+    },
+    {
+      "text": ", you can perform 10 to the power of 8",
+      "start": 184.53,
+      "duration": 3.26
+    },
+    {
+      "text": " simple operations in your program. You",
+      "start": 186.85,
+      "duration": 5.017
+    },
+    {
+      "text": " can perform 10 to the power of 8 simple",
+      "start": 190.921,
+      "duration": 3.121
+    },
+    {
+      "text": " operations. Each language takes a",
+      "start": 193.096,
+      "duration": 3.293
+    },
+    {
+      "text": " different amount of time to accomplish",
+      "start": 195.434,
+      "duration": 2.678
+    },
+    {
+      "text": " this. You might have heard that C is",
+      "start": 197.157,
+      "duration": 3.021
+    },
+    {
+      "text": " fast. C ++ is fast. Python is slow,",
+      "start": 199.225,
+      "duration": 3.857
+    },
+    {
+      "text": " Java is slow. It might take C ++ one",
+      "start": 202.147,
+      "duration": 3.246
+    },
+    {
+      "text": " second to do this. To perform 10 to the",
+      "start": 204.452,
+      "duration": 3.255
+    },
+    {
+      "text": " power of 8 operations. It might take",
+      "start": 206.762,
+      "duration": 2.965
+    },
+    {
+      "text": " Python two seconds to do this. It might",
+      "start": 208.779,
+      "duration": 3.246
+    },
+    {
+      "text": " take JavaScript three seconds to do",
+      "start": 211.075,
+      "duration": 2.757
+    },
+    {
+      "text": " this. It doesn't matter. LeetCode tells",
+      "start": 212.883,
+      "duration": 3.937
+    },
+    {
+      "text": " you that you can choose any language.",
+      "start": 215.865,
+      "duration": 2.661
+    },
+    {
+      "text": " You choose C ++, choose Python, choose",
+      "start": 217.778,
+      "duration": 3.778
+    },
+    {
+      "text": " JavaScript. We will give you the time",
+      "start": 220.629,
+      "duration": 2.916
+    },
+    {
+      "text": " accordingly. If you use JavaScript, you",
+      "start": 222.586,
+      "duration": 2.954
+    },
+    {
+      "text": " get three seconds. Two for Python, one",
+      "start": 224.593,
+      "duration": 3.643
+    },
+    {
+      "text": " for C ++. But the number of operations",
+      "start": 227.32,
+      "duration": 3.15
+    },
+    {
+      "text": " remains the same for any language. So",
+      "start": 229.516,
+      "duration": 3.009
+    },
+    {
+      "text": " what does LeetCode tell you? Write any",
+      "start": 231.572,
+      "duration": 3.291
+    },
+    {
+      "text": " program, write it in any way. You can",
+      "start": 233.917,
+      "duration": 3.175
+    },
+    {
+      "text": " perform a maximum of 10 to the power of",
+      "start": 236.145,
+      "duration": 3.06
+    },
+    {
+      "text": " 8 simple operations. What does this",
+      "start": 238.258,
+      "duration": 2.742
+    },
+    {
+      "text": " mean? That if you write a program like",
+      "start": 240.04,
+      "duration": 3.282
+    },
+    {
+      "text": " this. You write print hello. Right?",
+      "start": 242.368,
+      "duration": 5.523
+    },
+    {
+      "text": " LeetCode says this is one simple",
+      "start": 247.164,
+      "duration": 2.707
+    },
+    {
+      "text": " operation. Only one thing is happening,",
+      "start": 248.924,
+      "duration": 2.931
+    },
+    {
+      "text": " right? A single simple print task is",
+      "start": 250.901,
+      "duration": 2.766
+    },
+    {
+      "text": " happening here. You can write such 10",
+      "start": 252.715,
+      "duration": 3.192
+    },
+    {
+      "text": " to the power of 8 print statements in",
+      "start": 254.955,
+      "duration": 2.763
+    },
+    {
+      "text": " total. If you don't want to write all",
+      "start": 256.766,
+      "duration": 6.134
+    },
+    {
+      "text": " prints, then a = 10, b = 20, c = 30 and",
+      "start": 261.968,
+      "duration": 3.686
+    },
+    {
+      "text": " a = b + c, how many statements are in",
+      "start": 264.723,
+      "duration": 3.548
+    },
+    {
+      "text": " this? How many simple operations are in",
+      "start": 267.34,
+      "duration": 4.047
+    },
+    {
+      "text": " this? Here, 1, 2, 3, 4, 5, that makes",
+      "start": 270.436,
+      "duration": 5.452
+    },
+    {
+      "text": " five in total. So this will run on",
+      "start": 274.999,
+      "duration": 4.392
+    },
+    {
+      "text": " LeetCode. But the moment you perform",
+      "start": 278.442,
+      "duration": 3.254
+    },
+    {
+      "text": " more than 10 to the power of 8 simple",
+      "start": 280.744,
+      "duration": 2.775
+    },
+    {
+      "text": " operations, you will get a time limit",
+      "start": 282.567,
+      "duration": 2.775
+    },
+    {
+      "text": " exceeded error. That is the general",
+      "start": 284.39,
+      "duration": 3.354
+    },
+    {
+      "text": " rule. Now, why should we explain this",
+      "start": 286.791,
+      "duration": 3.179
+    },
+    {
+      "text": " to you? Let us tell you why. For",
+      "start": 289.023,
+      "duration": 3.72
+    },
+    {
+      "text": " example, in LeetCode, you see that for",
+      "start": 291.797,
+      "duration": 3.054
+    },
+    {
+      "text": " any question, the input size is",
+      "start": 293.906,
+      "duration": 2.676
+    },
+    {
+      "text": " mentioned. The input size is mentioned.",
+      "start": 295.636,
+      "duration": 3.562
+    },
+    {
+      "text": " For example, if you are given an array",
+      "start": 299.485,
+      "duration": 2.827
+    },
+    {
+      "text": " question. It will state the size of the",
+      "start": 301.36,
+      "duration": 3.984
+    },
+    {
+      "text": " array, letting you know what it will be",
+      "start": 304.387,
+      "duration": 2.651
+    },
+    {
+      "text": ". What will be the maximum? It tells",
+      "start": 306.038,
+      "duration": 3.798
+    },
+    {
+      "text": " you what the maximum size of the array",
+      "start": 308.88,
+      "duration": 2.677
+    },
+    {
+      "text": " will be. Sometimes it is 1,000.",
+      "start": 310.601,
+      "duration": 3.711
+    },
+    {
+      "text": " Sometimes it is 100,000. Meaning it is",
+      "start": 313.507,
+      "duration": 3.588
+    },
+    {
+      "text": " 10 to the power of 5. Sometimes it is",
+      "start": 316.15,
+      "duration": 3.112
+    },
+    {
+      "text": " 10 to the power of 9. In some cases, it",
+      "start": 318.319,
+      "duration": 3.883
+    },
+    {
+      "text": " can be even larger than 10 to the power",
+      "start": 321.257,
+      "duration": 3.145
+    },
+    {
+      "text": " of 9. In some cases, this number is",
+      "start": 323.457,
+      "duration": 3.966
+    },
+    {
+      "text": " just 20. Why is that? It is because of",
+      "start": 326.485,
+      "duration": 3.982
+    },
+    {
+      "text": " what I just told you. Keep this number",
+      "start": 329.511,
+      "duration": 3.144
+    },
+    {
+      "text": " in mind. 10 to the power of 8. Now let",
+      "start": 331.703,
+      "duration": 4.239
+    },
+    {
+      "text": " me explain. For example, you are told",
+      "start": 334.996,
+      "duration": 3.778
+    },
+    {
+      "text": " that the maximum size of n can be 10.",
+      "start": 337.827,
+      "duration": 2.966
+    },
+    {
+      "text": " Meaning the input your program runs on",
+      "start": 341.811,
+      "duration": 2.88
+    },
+    {
+      "text": " can have a maximum size of 10. So, how",
+      "start": 343.741,
+      "duration": 4.011
+    },
+    {
+      "text": " much complexity can you handle? This is",
+      "start": 346.808,
+      "duration": 3.166
+    },
+    {
+      "text": " the hint I was talking about—looking",
+      "start": 349.02,
+      "duration": 2.766
+    },
+    {
+      "text": " at the input helps you understand which",
+      "start": 350.832,
+      "duration": 2.812
+    },
+    {
+      "text": " algorithm to use. If it is 10 to the",
+      "start": 352.691,
+      "duration": 3.405
+    },
+    {
+      "text": " power of 10. Can you do it in order of",
+      "start": 355.151,
+      "duration": 3.769
+    },
+    {
+      "text": " n? What does order of n mean? I will",
+      "start": 357.965,
+      "duration": 2.598
+    },
+    {
+      "text": " tell you shortly. But for now, just",
+      "start": 359.606,
+      "duration": 2.727
+    },
+    {
+      "text": " understand this. Order of n means since",
+      "start": 361.386,
+      "duration": 3.184
+    },
+    {
+      "text": " this is n, you can perform 10",
+      "start": 363.626,
+      "duration": 2.629
+    },
+    {
+      "text": " operations. You are opting for it. I",
+      "start": 365.312,
+      "duration": 3.668
+    },
+    {
+      "text": " will explain it soon. I will explain it",
+      "start": 368.031,
+      "duration": 3.042
+    },
+    {
+      "text": " very clearly. But for now, to",
+      "start": 370.124,
+      "duration": 3.209
+    },
+    {
+      "text": " understand this part, if you write an",
+      "start": 372.387,
+      "duration": 2.994
+    },
+    {
+      "text": " order of n program, you take n's worst",
+      "start": 374.435,
+      "duration": 3.048
+    },
+    {
+      "text": " possible case, which is 10. You will",
+      "start": 376.537,
+      "duration": 4.471
+    },
+    {
+      "text": " perform 10 operations. Did you",
+      "start": 380.066,
+      "duration": 2.907
+    },
+    {
+      "text": " understand the meaning of order of n?",
+      "start": 382.016,
+      "duration": 2.591
+    },
+    {
+      "text": " If you write an order of log n program,",
+      "start": 384.851,
+      "duration": 3.037
+    },
+    {
+      "text": " you will perform log base 2 of 10,",
+      "start": 386.941,
+      "duration": 2.776
+    },
+    {
+      "text": " which is three operations in the worst",
+      "start": 388.769,
+      "duration": 2.986
+    },
+    {
+      "text": " case. If you write an order of n²",
+      "start": 390.807,
+      "duration": 5.651
+    },
+    {
+      "text": " program, you will perform 10², meaning",
+      "start": 395.523,
+      "duration": 3.546
+    },
+    {
+      "text": " 100 operations in the worst case. If",
+      "start": 398.134,
+      "duration": 5.32
+    },
+    {
+      "text": " you write an order of n³ program, you",
+      "start": 402.512,
+      "duration": 3.18
+    },
+    {
+      "text": " will perform 10 cubed, meaning 1,000",
+      "start": 404.75,
+      "duration": 3.066
+    },
+    {
+      "text": " operations in the worst case. Right? If",
+      "start": 406.873,
+      "duration": 6.582
+    },
+    {
+      "text": " you do an order of 2 to the power of n,",
+      "start": 412.515,
+      "duration": 3.336
+    },
+    {
+      "text": " you will perform 2 to the power of 10,",
+      "start": 414.911,
+      "duration": 3.275
+    },
+    {
+      "text": " meaning 1,024 operations in the worst",
+      "start": 417.246,
+      "duration": 3.216
+    },
+    {
+      "text": " case. Did you understand? What is meant",
+      "start": 419.522,
+      "duration": 4.477
+    },
+    {
+      "text": " by order of? Now look, an example with",
+      "start": 423.045,
+      "duration": 4.481
+    },
+    {
+      "text": " n = 10 is given. Why do we play the",
+      "start": 426.588,
+      "duration": 4.761
+    },
+    {
+      "text": " whole DSA game? To minimize time",
+      "start": 430.402,
+      "duration": 3.528
+    },
+    {
+      "text": " complexity. We have to write a program",
+      "start": 432.986,
+      "duration": 3.906
+    },
+    {
+      "text": " with a time complexity that will pass.",
+      "start": 435.939,
+      "duration": 2.795
+    },
+    {
+      "text": " Now look, if n is 10. Can you write an",
+      "start": 438.687,
+      "duration": 3.651
+    },
+    {
+      "text": " O (n) program? Yes, you can. Why?",
+      "start": 441.396,
+      "duration": 3.481
+    },
+    {
+      "text": " Because you are doing 10. What is the",
+      "start": 443.977,
+      "duration": 2.755
+    },
+    {
+      "text": " maximum permitted? 10 to the power of 8",
+      "start": 445.774,
+      "duration": 2.941
+    },
+    {
+      "text": ". Is 10 less than 10 to the power of 8?",
+      "start": 447.715,
+      "duration": 2.966
+    },
+    {
+      "text": " Yes. You can write O (n). Can you write",
+      "start": 449.781,
+      "duration": 3.994
+    },
+    {
+      "text": " O (n²)? Yes, 100 is less. Can you",
+      "start": 452.843,
+      "duration": 4.435
+    },
+    {
+      "text": " write n³? 1000, yes you can. Can you",
+      "start": 456.338,
+      "duration": 4.682
+    },
+    {
+      "text": " write O (2ⁿ)? Yes, you can, brother.",
+      "start": 460.114,
+      "duration": 3.976
+    },
+    {
+      "text": " That is 1024. Can you write O (n!)? n",
+      "start": 463.222,
+      "duration": 5.642
+    },
+    {
+      "text": " factorial means 10 factorial, which is",
+      "start": 467.962,
+      "duration": 4.741
+    },
+    {
+      "text": " 10*9*8*7 down to 1. It also has some",
+      "start": 471.801,
+      "duration": 4.233
+    },
+    {
+      "text": " value. I don't remember it. But it is",
+      "start": 475.087,
+      "duration": 2.915
+    },
+    {
+      "text": " less than 10 to the power of 8. Do you",
+      "start": 477.05,
+      "duration": 3.447
+    },
+    {
+      "text": " understand? Can you write an O (nⁿ)",
+      "start": 479.544,
+      "duration": 4.346
+    },
+    {
+      "text": " program? Can you write such a bad",
+      "start": 482.971,
+      "duration": 3.402
+    },
+    {
+      "text": " program? Its value is 10 to the power",
+      "start": 485.423,
+      "duration": 3.187
+    },
+    {
+      "text": " of 10, meaning you cannot write this.",
+      "start": 487.664,
+      "duration": 2.989
+    },
+    {
+      "text": " Why? Because 10 to the power of 10 is",
+      "start": 489.843,
+      "duration": 3.44
+    },
+    {
+      "text": " greater than 10 to the power of 8. So",
+      "start": 492.333,
+      "duration": 3.394
+    },
+    {
+      "text": " you stopped here. If you write a",
+      "start": 494.776,
+      "duration": 3.241
+    },
+    {
+      "text": " program with this time complexity, it",
+      "start": 497.067,
+      "duration": 2.856
+    },
+    {
+      "text": " will crash. Anything you write above",
+      "start": 498.973,
+      "duration": 3.355
+    },
+    {
+      "text": " this will work. Do you understand what",
+      "start": 501.37,
+      "duration": 3.302
+    },
+    {
+      "text": " I am saying? When was this working?",
+      "start": 503.715,
+      "duration": 2.71
+    },
+    {
+      "text": " When the input provided is n = 10,",
+      "start": 505.753,
+      "duration": 3.133
+    },
+    {
+      "text": " right? Here, for n = 10, how bad a",
+      "start": 507.949,
+      "duration": 3.695
+    },
+    {
+      "text": " program can you write? You can write up",
+      "start": 510.707,
+      "duration": 3.199
+    },
+    {
+      "text": " to here. You cannot write this specific",
+      "start": 512.946,
+      "duration": 2.876
+    },
+    {
+      "text": " program. No matter how hard you try.",
+      "start": 514.87,
+      "duration": 2.845
+    },
+    {
+      "text": " Let's move to the next example. n is",
+      "start": 517.204,
+      "duration": 3.176
+    },
+    {
+      "text": " given as 1000. In the worst case, can",
+      "start": 519.456,
+      "duration": 4.769
+    },
+    {
+      "text": " you write O (n)? 1000, yes, you can.",
+      "start": 523.283,
+      "duration": 4.548
+    },
+    {
+      "text": " Can you write O (n²)? How much would",
+      "start": 527.21,
+      "duration": 3.303
+    },
+    {
+      "text": " that be? 1000 squared, which is 10 to",
+      "start": 529.553,
+      "duration": 3.19
+    },
+    {
+      "text": " the power of 6. This is still less than",
+      "start": 531.806,
+      "duration": 3.156
+    },
+    {
+      "text": " 10 to the power of 8. You can write it.",
+      "start": 534.01,
+      "duration": 2.81
+    },
+    {
+      "text": " Can you write O (n³)? How much is that",
+      "start": 536.646,
+      "duration": 3.65
+    },
+    {
+      "text": "? 10 to the power of 9, you cannot",
+      "start": 539.296,
+      "duration": 2.748
+    },
+    {
+      "text": " write this because 10 to the power of 9",
+      "start": 541.094,
+      "duration": 2.954
+    },
+    {
+      "text": " is greater than 10 to the power of 8.",
+      "start": 543.098,
+      "duration": 2.854
+    },
+    {
+      "text": " So if the input size n is 1000, you",
+      "start": 545.844,
+      "duration": 3.095
+    },
+    {
+      "text": " have to write a program faster than n³",
+      "start": 547.999,
+      "duration": 3.335
+    },
+    {
+      "text": ". Do you understand? Did you ever",
+      "start": 550.334,
+      "duration": 3.991
+    },
+    {
+      "text": " wonder why you were doing it that way?",
+      "start": 553.366,
+      "duration": 2.559
+    },
+    {
+      "text": " I mean, why n log n works and why n²",
+      "start": 555.581,
+      "duration": 3.327
+    },
+    {
+      "text": " doesn't—that is exactly why. Why?",
+      "start": 557.971,
+      "duration": 3.505
+    },
+    {
+      "text": " Because 10 to the power of 8 operations",
+      "start": 560.639,
+      "duration": 2.92
+    },
+    {
+      "text": " are allowed. n is the input size. You",
+      "start": 562.608,
+      "duration": 3.82
+    },
+    {
+      "text": " optimize your program accordingly.",
+      "start": 565.478,
+      "duration": 2.724
+    },
+    {
+      "text": " Let's move to the next example. n = 10",
+      "start": 567.923,
+      "duration": 3.644
+    },
+    {
+      "text": " to the power of 5. It is given to you.",
+      "start": 570.646,
+      "duration": 3.801
+    },
+    {
+      "text": " Can you write order of n? You can write",
+      "start": 574.057,
+      "duration": 3.262
+    },
+    {
+      "text": " 10 to the power of 5. Can you write",
+      "start": 576.372,
+      "duration": 3.141
+    },
+    {
+      "text": " order of n²? That would be 10 to the",
+      "start": 578.567,
+      "duration": 2.912
+    },
+    {
+      "text": " power of 10, so you can't write that",
+      "start": 580.527,
+      "duration": 2.738
+    },
+    {
+      "text": " now. This is greater than 10 to the",
+      "start": 582.313,
+      "duration": 2.769
+    },
+    {
+      "text": " power of 8. So, this means that when",
+      "start": 584.131,
+      "duration": 3.804
+    },
+    {
+      "text": " the value of n is 10 to the power of 5,",
+      "start": 586.996,
+      "duration": 3.391
+    },
+    {
+      "text": " you cannot use n². See, you could",
+      "start": 589.449,
+      "duration": 3.555
+    },
+    {
+      "text": " write it above, but here you can only",
+      "start": 592.055,
+      "duration": 2.898
+    },
+    {
+      "text": " use n. You can only use n. There is one",
+      "start": 594.005,
+      "duration": 3.483
+    },
+    {
+      "text": " more thing you can do. n log n is a",
+      "start": 596.53,
+      "duration": 3.072
+    },
+    {
+      "text": " very famous time complexity. You can",
+      "start": 598.663,
+      "duration": 4.11
+    },
+    {
+      "text": " write order of n log n. How much would",
+      "start": 601.824,
+      "duration": 3.544
+    },
+    {
+      "text": " n log n be? What would 10 to the power",
+      "start": 604.416,
+      "duration": 4.426
+    },
+    {
+      "text": " of 5*log base 2 of 10 to the power of 5",
+      "start": 607.908,
+      "duration": 3.59
+    },
+    {
+      "text": " be? The log of 10 to the power of 5",
+      "start": 610.564,
+      "duration": 3.923
+    },
+    {
+      "text": " will come out. Doing 10...it will",
+      "start": 613.538,
+      "duration": 2.902
+    },
+    {
+      "text": " definitely be less than 30. It will be",
+      "start": 615.497,
+      "duration": 3.103
+    },
+    {
+      "text": " less than 30. By the time you reach 30,",
+      "start": 617.647,
+      "duration": 2.938
+    },
+    {
+      "text": " it grows very large. What will its",
+      "start": 619.634,
+      "duration": 2.662
+    },
+    {
+      "text": " value be? 30*10 to the power of 5 = 3*",
+      "start": 621.341,
+      "duration": 3.491
+    },
+    {
+      "text": "10 to the power of 6; is this number",
+      "start": 623.832,
+      "duration": 3.56
+    },
+    {
+      "text": " less than 10 to the power of 8? Yes, it",
+      "start": 626.463,
+      "duration": 3.861
+    },
+    {
+      "text": " is less. That is why n log n works and",
+      "start": 629.403,
+      "duration": 3.909
+    },
+    {
+      "text": " n² does not. Did you understand? Why n",
+      "start": 632.369,
+      "duration": 3.406
+    },
+    {
+      "text": " log n works? Why n² doesn't, there is",
+      "start": 634.834,
+      "duration": 2.867
+    },
+    {
+      "text": " science behind all of this. There is no",
+      "start": 636.744,
+      "duration": 2.727
+    },
+    {
+      "text": " magic here. It's not just a story that",
+      "start": 638.514,
+      "duration": 2.579
+    },
+    {
+      "text": " it will work like this. Now move to the",
+      "start": 640.132,
+      "duration": 2.696
+    },
+    {
+      "text": " next example. n = 10 to the power of 8.",
+      "start": 641.875,
+      "duration": 3.874
+    },
+    {
+      "text": " In this case, n will work, it will pass",
+      "start": 645.471,
+      "duration": 3.435
+    },
+    {
+      "text": ". 10 to the power of 8 will work. Will",
+      "start": 647.906,
+      "duration": 3.406
+    },
+    {
+      "text": " n log n work or not? It won't work. 10",
+      "start": 650.364,
+      "duration": 3.846
+    },
+    {
+      "text": " to the power of 8*log 10 to the power",
+      "start": 653.278,
+      "duration": 3.517
+    },
+    {
+      "text": " of 8. Now look, whatever this is, it",
+      "start": 655.863,
+      "duration": 2.971
+    },
+    {
+      "text": " will be some number. 3, 4, 5, 6, 30, 80",
+      "start": 657.884,
+      "duration": 3.659
+    },
+    {
+      "text": "—it is already some number. If you",
+      "start": 660.543,
+      "duration": 3.888
+    },
+    {
+      "text": " multiply any positive number by this,",
+      "start": 663.478,
+      "duration": 2.708
+    },
+    {
+      "text": " it will become larger than 10 to the",
+      "start": 665.232,
+      "duration": 2.662
+    },
+    {
+      "text": " power of 8. That is why when the value",
+      "start": 666.94,
+      "duration": 2.873
+    },
+    {
+      "text": " of n is 10 to the power of 8, only",
+      "start": 668.861,
+      "duration": 2.655
+    },
+    {
+      "text": " order of n will work. Order of n log n",
+      "start": 670.565,
+      "duration": 2.986
+    },
+    {
+      "text": " will also not work. And look at one",
+      "start": 672.605,
+      "duration": 3.103
+    },
+    {
+      "text": " extreme example. The value of n is 10",
+      "start": 674.759,
+      "duration": 3.068
+    },
+    {
+      "text": " to the power of 9. In this case, in",
+      "start": 676.883,
+      "duration": 3.212
+    },
+    {
+      "text": " this case, will order of n work, which",
+      "start": 679.147,
+      "duration": 2.984
+    },
+    {
+      "text": " will perform 10 to the power of 9",
+      "start": 681.184,
+      "duration": 2.723
+    },
+    {
+      "text": " operations? No, it won't work. Why",
+      "start": 682.959,
+      "duration": 3.14
+    },
+    {
+      "text": " won't it work? Because this number is",
+      "start": 685.145,
+      "duration": 2.812
+    },
+    {
+      "text": " low. It is less than 10 to the power of",
+      "start": 687.005,
+      "duration": 2.927
+    },
+    {
+      "text": " 8. It is less. It is less. In this case",
+      "start": 688.98,
+      "duration": 3.503
+    },
+    {
+      "text": ", you will have to write log n. You",
+      "start": 691.483,
+      "duration": 3.025
+    },
+    {
+      "text": " need order of log n. Not n log n. Only",
+      "start": 693.558,
+      "duration": 3.83
+    },
+    {
+      "text": " log n, which is log 10 to the power of",
+      "start": 696.449,
+      "duration": 3.311
+    },
+    {
+      "text": " 9, the answer comes to 30; will this",
+      "start": 698.82,
+      "duration": 3.19
+    },
+    {
+      "text": " work? Yes, 30 is less than 10 to the",
+      "start": 701.07,
+      "duration": 3.407
+    },
+    {
+      "text": " power of 8, this will work. This is how",
+      "start": 703.537,
+      "duration": 3.271
+    },
+    {
+      "text": " you decide which time complexity to use",
+      "start": 705.858,
+      "duration": 2.944
+    },
+    {
+      "text": " in which program. Did you understand?",
+      "start": 707.852,
+      "duration": 3.202
+    },
+    {
+      "text": " This is available in very few places,",
+      "start": 710.378,
+      "duration": 2.85
+    },
+    {
+      "text": " very few people know about it, very few",
+      "start": 712.278,
+      "duration": 2.95
+    },
+    {
+      "text": " people teach it, don't know why, but",
+      "start": 714.279,
+      "duration": 2.8
+    },
+    {
+      "text": " you should know that it happens this",
+      "start": 716.129,
+      "duration": 2.8
+    },
+    {
+      "text": " way. Now let's come to the next part.",
+      "start": 717.979,
+      "duration": 3.114
+    },
+    {
+      "text": " Now we have talked so much about order",
+      "start": 721.401,
+      "duration": 2.822
+    },
+    {
+      "text": " of n and order of n log n. How is it",
+      "start": 723.271,
+      "duration": 3.849
+    },
+    {
+      "text": " calculated? Now I will tell you how it",
+      "start": 726.174,
+      "duration": 2.906
+    },
+    {
+      "text": " is calculated. What did I just tell you",
+      "start": 728.127,
+      "duration": 2.858
+    },
+    {
+      "text": " about simple operations? Okay? Simple",
+      "start": 730.032,
+      "duration": 5.01
+    },
+    {
+      "text": " operations. How much time do simple",
+      "start": 734.107,
+      "duration": 3.947
+    },
+    {
+      "text": " operations take? One. We also write",
+      "start": 737.105,
+      "duration": 3.079
+    },
+    {
+      "text": " this as order of one. You can assume it",
+      "start": 739.232,
+      "duration": 3.386
+    },
+    {
+      "text": " takes one. For example, now another",
+      "start": 741.665,
+      "duration": 4.065
+    },
+    {
+      "text": " thing. When we talk about order of,",
+      "start": 744.788,
+      "duration": 3.932
+    },
+    {
+      "text": " when we say what? What is the",
+      "start": 747.768,
+      "duration": 3.584
+    },
+    {
+      "text": " difference between order of one and",
+      "start": 750.394,
+      "duration": 2.449
+    },
+    {
+      "text": " order of n? Order of one does not mean",
+      "start": 751.885,
+      "duration": 3.654
+    },
+    {
+      "text": " that it takes one unit of time to run.",
+      "start": 754.585,
+      "duration": 2.752
+    },
+    {
+      "text": " We think so. We should think so too.",
+      "start": 756.883,
+      "duration": 2.967
+    },
+    {
+      "text": " But it means it takes constant time.",
+      "start": 759.77,
+      "duration": 2.738
+    },
+    {
+      "text": " What am I saying? Understand it again,",
+      "start": 762.705,
+      "duration": 2.841
+    },
+    {
+      "text": " it is a very important thing. Order of",
+      "start": 764.594,
+      "duration": 2.875
+    },
+    {
+      "text": " one does not mean that it takes one",
+      "start": 766.515,
+      "duration": 2.615
+    },
+    {
+      "text": " unit of time. It takes constant time.",
+      "start": 768.176,
+      "duration": 3.081
+    },
+    {
+      "text": " This means that it is not dependent on",
+      "start": 771.756,
+      "duration": 2.646
+    },
+    {
+      "text": " your input. It is not dependent on your",
+      "start": 773.445,
+      "duration": 5.039
+    },
+    {
+      "text": " input. Meaning, if you are printing",
+      "start": 777.529,
+      "duration": 5.806
+    },
+    {
+      "text": " hello, for example, then even if your",
+      "start": 782.39,
+      "duration": 3.061
+    },
+    {
+      "text": " input size n = 1, then in this order of",
+      "start": 784.506,
+      "duration": 3.172
+    },
+    {
+      "text": " one, meaning constant time, it can take",
+      "start": 786.734,
+      "duration": 3.172
+    },
+    {
+      "text": " anything. For example, it is taking 3",
+      "start": 788.961,
+      "duration": 4.669
+    },
+    {
+      "text": " seconds. Just for example, it will",
+      "start": 792.693,
+      "duration": 3.049
+    },
+    {
+      "text": " still take 3 seconds. If your n becomes",
+      "start": 794.8,
+      "duration": 3.966
+    },
+    {
+      "text": " 100, it will still take 3 seconds. If",
+      "start": 797.827,
+      "duration": 3.983
+    },
+    {
+      "text": " your n becomes 1000, it will still take",
+      "start": 800.873,
+      "duration": 3.465
+    },
+    {
+      "text": " 3 seconds. So it is not dependent on",
+      "start": 803.401,
+      "duration": 2.938
+    },
+    {
+      "text": " the input. It is constant time. It will",
+      "start": 805.386,
+      "duration": 3.03
+    },
+    {
+      "text": " definitely take these 3 seconds. No",
+      "start": 807.46,
+      "duration": 2.578
+    },
+    {
+      "text": " matter what you do. Whatever array you",
+      "start": 809.08,
+      "duration": 2.646
+    },
+    {
+      "text": " bring, whatever n you bring, whatever",
+      "start": 810.768,
+      "duration": 2.529
+    },
+    {
+      "text": " linked list you bring, it will",
+      "start": 812.338,
+      "duration": 2.24
+    },
+    {
+      "text": " definitely take this much. That is why",
+      "start": 813.619,
+      "duration": 2.688
+    },
+    {
+      "text": " we call it a constant one. It's time",
+      "start": 815.354,
+      "duration": 3.561
+    },
+    {
+      "text": " complexity. Whenever you see order of",
+      "start": 817.971,
+      "duration": 3.533
+    },
+    {
+      "text": " one, it means constant. It is not",
+      "start": 820.556,
+      "duration": 3.502
+    },
+    {
+      "text": " dependent on the input. As soon as n",
+      "start": 823.103,
+      "duration": 3.538
+    },
+    {
+      "text": " comes inside the order of, or anything",
+      "start": 825.692,
+      "duration": 2.924
+    },
+    {
+      "text": " related to n, it is dependent on the",
+      "start": 827.666,
+      "duration": 2.823
+    },
+    {
+      "text": " input. As your input increases, as your",
+      "start": 829.54,
+      "duration": 4.629
+    },
+    {
+      "text": " input increases, your time will also",
+      "start": 833.218,
+      "duration": 2.762
+    },
+    {
+      "text": " increase along with it. This is what it",
+      "start": 835.029,
+      "duration": 4.042
+    },
+    {
+      "text": " means. Okay? Now let's come to how to",
+      "start": 838.119,
+      "duration": 3.859
+    },
+    {
+      "text": " calculate it. How do we calculate the",
+      "start": 841.022,
+      "duration": 2.865
+    },
+    {
+      "text": " order? How do we know the order of n?",
+      "start": 842.933,
+      "duration": 2.734
+    },
+    {
+      "text": " For example, write a program. Suppose",
+      "start": 845.813,
+      "duration": 3.972
+    },
+    {
+      "text": " your program has three lines. Your",
+      "start": 848.842,
+      "duration": 3.721
+    },
+    {
+      "text": " program has hello. You say int a = 10",
+      "start": 851.615,
+      "duration": 6.718
+    },
+    {
+      "text": " and int b = 20 and you return it.",
+      "start": 857.396,
+      "duration": 3.09
+    },
+    {
+      "text": " Return a + b is your program. It's a",
+      "start": 862.669,
+      "duration": 3.807
+    },
+    {
+      "text": " four-line program. In this, you are",
+      "start": 865.532,
+      "duration": 3.392
+    },
+    {
+      "text": " also passing an array which can have n",
+      "start": 867.972,
+      "duration": 2.83
+    },
+    {
+      "text": " elements. n is your input. How will you",
+      "start": 869.85,
+      "duration": 4.157
+    },
+    {
+      "text": " calculate the time complexity of this",
+      "start": 873.055,
+      "duration": 2.757
+    },
+    {
+      "text": " program? First of all, you have to",
+      "start": 874.86,
+      "duration": 3.277
+    },
+    {
+      "text": " identify which things are simple",
+      "start": 877.187,
+      "duration": 2.604
+    },
+    {
+      "text": " operations. Meaning, which things are",
+      "start": 878.841,
+      "duration": 4.196
+    },
+    {
+      "text": " simple operations. Simple operations.",
+      "start": 882.09,
+      "duration": 3.801
+    },
+    {
+      "text": " Meaning, those that are not dependent",
+      "start": 884.991,
+      "duration": 2.62
+    },
+    {
+      "text": " on the input. I just told you, print",
+      "start": 886.654,
+      "duration": 2.727
+    },
+    {
+      "text": " hello is not dependent on the input.",
+      "start": 888.429,
+      "duration": 2.73
+    },
+    {
+      "text": " Because whenever you run it, it will",
+      "start": 890.259,
+      "duration": 2.558
+    },
+    {
+      "text": " take the same time. No matter the input",
+      "start": 891.86,
+      "duration": 2.787
+    },
+    {
+      "text": ". You have to identify simple",
+      "start": 893.647,
+      "duration": 2.663
+    },
+    {
+      "text": " operations and those that are dependent",
+      "start": 895.355,
+      "duration": 2.759
+    },
+    {
+      "text": " on the input. Dependent on the input.",
+      "start": 897.159,
+      "duration": 3.635
+    },
+    {
+      "text": " You have to identify these two sections",
+      "start": 901.138,
+      "duration": 2.992
+    },
+    {
+      "text": ". Which one looks like a simple",
+      "start": 903.13,
+      "duration": 2.965
+    },
+    {
+      "text": " operation to you here? Is this line",
+      "start": 905.14,
+      "duration": 2.934
+    },
+    {
+      "text": " dependent on the input? No. This is",
+      "start": 907.122,
+      "duration": 3.343
+    },
+    {
+      "text": " simple. Is this dependent on your n?",
+      "start": 909.537,
+      "duration": 2.88
+    },
+    {
+      "text": " Not dependent on the input. Int = 10,",
+      "start": 911.517,
+      "duration": 2.643
+    },
+    {
+      "text": " that will be the same, right? Whenever",
+      "start": 913.207,
+      "duration": 2.764
+    },
+    {
+      "text": " you run it, it will be the same. So",
+      "start": 915.006,
+      "duration": 2.338
+    },
+    {
+      "text": " this is simple. Is b = 20 dependent on",
+      "start": 916.39,
+      "duration": 2.981
+    },
+    {
+      "text": " the input? It is not. Whenever you run",
+      "start": 918.425,
+      "duration": 2.872
+    },
+    {
+      "text": " it, it will run the same. Return a + b",
+      "start": 920.335,
+      "duration": 2.58
+    },
+    {
+      "text": " is also not dependent on the input.",
+      "start": 921.958,
+      "duration": 2.514
+    },
+    {
+      "text": " Whatever you pass, it will run the same",
+      "start": 923.572,
+      "duration": 2.683
+    },
+    {
+      "text": ". So these four operations are simple",
+      "start": 925.255,
+      "duration": 2.757
+    },
+    {
+      "text": " operations. How much time do simple",
+      "start": 927.058,
+      "duration": 2.691
+    },
+    {
+      "text": " operations take? Order of one. Okay?",
+      "start": 928.797,
+      "duration": 3.702
+    },
+    {
+      "text": " Now, what about your program? There are",
+      "start": 932.04,
+      "duration": 3.425
+    },
+    {
+      "text": " four independent sections as well. What",
+      "start": 934.509,
+      "duration": 2.855
+    },
+    {
+      "text": " does that mean? This is one of your",
+      "start": 936.403,
+      "duration": 2.944
+    },
+    {
+      "text": " independent sections. This line runs",
+      "start": 938.391,
+      "duration": 2.764
+    },
+    {
+      "text": " right here. It ends right here. This",
+      "start": 940.208,
+      "duration": 3.13
+    },
+    {
+      "text": " line starts running right here and ends",
+      "start": 942.384,
+      "duration": 2.788
+    },
+    {
+      "text": " right here. Similar with this line and",
+      "start": 944.218,
+      "duration": 2.993
+    },
+    {
+      "text": " similar to this line. Meaning, these",
+      "start": 946.257,
+      "duration": 3.711
+    },
+    {
+      "text": " are four independent lines that the",
+      "start": 949.015,
+      "duration": 2.671
+    },
+    {
+      "text": " compiler starts running and stops",
+      "start": 950.733,
+      "duration": 2.575
+    },
+    {
+      "text": " running. So you can look at your",
+      "start": 952.356,
+      "duration": 3.411
+    },
+    {
+      "text": " program like this. Your program now",
+      "start": 954.811,
+      "duration": 3.002
+    },
+    {
+      "text": " looks like this. If we think in terms",
+      "start": 956.864,
+      "duration": 3.476
+    },
+    {
+      "text": " of mathematics. The first line is order",
+      "start": 959.391,
+      "duration": 3.527
+    },
+    {
+      "text": " of one. This is order of one. This is",
+      "start": 961.965,
+      "duration": 3.587
+    },
+    {
+      "text": " order of one. This is order of one. You",
+      "start": 964.599,
+      "duration": 3.283
+    },
+    {
+      "text": " have four independent sections. Four",
+      "start": 966.933,
+      "duration": 2.89
+    },
+    {
+      "text": " lines have become four independent",
+      "start": 968.874,
+      "duration": 2.731
+    },
+    {
+      "text": " sections. Now, how do you find the time",
+      "start": 970.656,
+      "duration": 3.078
+    },
+    {
+      "text": " complexity of the entire program? Do",
+      "start": 972.786,
+      "duration": 4.451
+    },
+    {
+      "text": " you add them all up, like if you",
+      "start": 976.285,
+      "duration": 2.528
+    },
+    {
+      "text": " multiply order of one by four times, it",
+      "start": 977.861,
+      "duration": 2.862
+    },
+    {
+      "text": " doesn't mean you write order of four.",
+      "start": 979.771,
+      "duration": 2.767
+    },
+    {
+      "text": " You cannot write order of four. Why?",
+      "start": 982.995,
+      "duration": 2.907
+    },
+    {
+      "text": " Because there is no meaning to order of",
+      "start": 985.002,
+      "duration": 2.45
+    },
+    {
+      "text": " four and order of one. There is no",
+      "start": 986.489,
+      "duration": 2.364
+    },
+    {
+      "text": " difference. Understand it again. What I",
+      "start": 987.894,
+      "duration": 2.86
+    },
+    {
+      "text": " said was, order of one doesn't mean it",
+      "start": 989.8,
+      "duration": 2.748
+    },
+    {
+      "text": " takes one unit of time. Order of four",
+      "start": 991.594,
+      "duration": 2.753
+    },
+    {
+      "text": " doesn't mean it takes four units of",
+      "start": 993.392,
+      "duration": 2.6
+    },
+    {
+      "text": " time. It takes constant time. Whatever",
+      "start": 995.038,
+      "duration": 3.181
+    },
+    {
+      "text": " it is, four, 100, 1000, anything is",
+      "start": 997.291,
+      "duration": 3.525
+    },
+    {
+      "text": " constant. How is the time complexity of",
+      "start": 999.888,
+      "duration": 3.191
+    },
+    {
+      "text": " this whole program calculated? Maximum",
+      "start": 1002.129,
+      "duration": 5.608
+    },
+    {
+      "text": " of the time complexity of all",
+      "start": 1006.788,
+      "duration": 2.471
+    },
+    {
+      "text": " independent sections. Read this",
+      "start": 1008.31,
+      "duration": 5.656
+    },
+    {
+      "text": " carefully and memorize it. All",
+      "start": 1013.014,
+      "duration": 3.638
+    },
+    {
+      "text": " independent sections. Meaning, if your",
+      "start": 1015.705,
+      "duration": 4.063
+    },
+    {
+      "text": " program has four such small sections,",
+      "start": 1018.819,
+      "duration": 2.884
+    },
+    {
+      "text": " order of one is taking place in this",
+      "start": 1020.754,
+      "duration": 2.833
+    },
+    {
+      "text": " one. Order of one is taking place in",
+      "start": 1022.638,
+      "duration": 2.587
+    },
+    {
+      "text": " this one. Order of one is taking place",
+      "start": 1024.266,
+      "duration": 2.595
+    },
+    {
+      "text": " in this one. Order of one is taking",
+      "start": 1025.901,
+      "duration": 2.532
+    },
+    {
+      "text": " place in this one. The time complexity",
+      "start": 1027.476,
+      "duration": 2.844
+    },
+    {
+      "text": " of the whole program will be the",
+      "start": 1029.366,
+      "duration": 2.493
+    },
+    {
+      "text": " maximum of these four, which is order",
+      "start": 1030.906,
+      "duration": 2.725
+    },
+    {
+      "text": " of one. So, this will be the time",
+      "start": 1032.678,
+      "duration": 3.253
+    },
+    {
+      "text": " complexity of your entire program. Did",
+      "start": 1034.984,
+      "duration": 3.043
+    },
+    {
+      "text": " you understand this much about how to",
+      "start": 1037.074,
+      "duration": 2.711
+    },
+    {
+      "text": " calculate time complexity? Maximum of",
+      "start": 1038.832,
+      "duration": 2.798
+    },
+    {
+      "text": " all the independent sections. Look at",
+      "start": 1040.68,
+      "duration": 2.856
+    },
+    {
+      "text": " the next example. Gradually, as we",
+      "start": 1042.581,
+      "duration": 2.725
+    },
+    {
+      "text": " proceed, it will become clearer to you.",
+      "start": 1044.36,
+      "duration": 3.079
+    },
+    {
+      "text": " Now, first of all, what is the",
+      "start": 1047.103,
+      "duration": 2.675
+    },
+    {
+      "text": " complexity of this line? i < 100 i ++",
+      "start": 1048.834,
+      "duration": 7.241
+    },
+    {
+      "text": " is this loop, and we are just printing",
+      "start": 1055.141,
+      "duration": 3.511
+    },
+    {
+      "text": " in it. Print hello, okay? Assume this",
+      "start": 1057.718,
+      "duration": 9.279
+    },
+    {
+      "text": " is a section of your program. What is",
+      "start": 1066.044,
+      "duration": 3.422
+    },
+    {
+      "text": " the time complexity of this section?",
+      "start": 1068.512,
+      "duration": 2.665
+    },
+    {
+      "text": " Look carefully. What is happening here?",
+      "start": 1070.547,
+      "duration": 3.027
+    },
+    {
+      "text": " I starts from zero. I is at zero. I is",
+      "start": 1072.674,
+      "duration": 3.414
+    },
+    {
+      "text": " going up to 100. Which means this loop",
+      "start": 1075.146,
+      "duration": 3.071
+    },
+    {
+      "text": " will run 100 times. Every time you are",
+      "start": 1077.267,
+      "duration": 2.885
+    },
+    {
+      "text": " printing hello once. So, this loop is",
+      "start": 1079.199,
+      "duration": 3.226
+    },
+    {
+      "text": " printing hello 100 times. Now, is it",
+      "start": 1081.492,
+      "duration": 4.313
+    },
+    {
+      "text": " dependent on your input? Is it",
+      "start": 1084.857,
+      "duration": 3.966
+    },
+    {
+      "text": " dependent on your input? If, for",
+      "start": 1087.869,
+      "duration": 3.368
+    },
+    {
+      "text": " example, your program had an input that",
+      "start": 1090.296,
+      "duration": 3.307
+    },
+    {
+      "text": " was 100. Then how much time would it",
+      "start": 1092.662,
+      "duration": 3.083
+    },
+    {
+      "text": " take to run? It is printing hello 100",
+      "start": 1094.785,
+      "duration": 2.914
+    },
+    {
+      "text": " times to run this. How much time does",
+      "start": 1096.754,
+      "duration": 2.843
+    },
+    {
+      "text": " it take to print hello once? Constant",
+      "start": 1098.638,
+      "duration": 2.688
+    },
+    {
+      "text": " time. So, it will take 100 times to run",
+      "start": 1100.379,
+      "duration": 3.084
+    },
+    {
+      "text": ". It will take 100 units. Okay? Even if",
+      "start": 1102.463,
+      "duration": 3.41
+    },
+    {
+      "text": " your n is 10 to the power of 5, it will",
+      "start": 1104.923,
+      "duration": 2.943
+    },
+    {
+      "text": " still take 100 units to run. Because",
+      "start": 1106.916,
+      "duration": 2.8
+    },
+    {
+      "text": " it's running 100 times, right? No",
+      "start": 1108.76,
+      "duration": 2.493
+    },
+    {
+      "text": " matter what n is, it will run 100 times",
+      "start": 1110.297,
+      "duration": 2.704
+    },
+    {
+      "text": ". Even if n is 1, it will run 100 times",
+      "start": 1112.001,
+      "duration": 3.06
+    },
+    {
+      "text": ". Even if you don't pass n, it will",
+      "start": 1114.061,
+      "duration": 2.706
+    },
+    {
+      "text": " still run 100 times. So what is this?",
+      "start": 1115.814,
+      "duration": 2.928
+    },
+    {
+      "text": " Is it dependent on the input or",
+      "start": 1117.867,
+      "duration": 2.362
+    },
+    {
+      "text": " independent of the input? It is",
+      "start": 1119.273,
+      "duration": 3.079
+    },
+    {
+      "text": " independent. It is independent. Did you",
+      "start": 1121.404,
+      "duration": 3.588
+    },
+    {
+      "text": " understand? What is the difference",
+      "start": 1124.038,
+      "duration": 2.434
+    },
+    {
+      "text": " between independent and dependent? If",
+      "start": 1125.51,
+      "duration": 2.48
+    },
+    {
+      "text": " the time of a section increases or",
+      "start": 1127.04,
+      "duration": 2.68
+    },
+    {
+      "text": " decreases as the input changes, then it",
+      "start": 1128.77,
+      "duration": 2.928
+    },
+    {
+      "text": " is dependent. The section that is not",
+      "start": 1130.747,
+      "duration": 2.981
+    },
+    {
+      "text": " affected by the input is input",
+      "start": 1132.773,
+      "duration": 2.343
+    },
+    {
+      "text": " independent. So this is independent.",
+      "start": 1134.161,
+      "duration": 3.326
+    },
+    {
+      "text": " Look at the next line. For i = 0, i < n",
+      "start": 1137.064,
+      "duration": 6.039
+    },
+    {
+      "text": ", i ++ and print. Here you will",
+      "start": 1142.103,
+      "duration": 5.861
+    },
+    {
+      "text": " understand what we are saying. Hello,",
+      "start": 1147.003,
+      "duration": 3.176
+    },
+    {
+      "text": " and the loop ends. Now look, n is your",
+      "start": 1149.238,
+      "duration": 4.048
+    },
+    {
+      "text": " input. n is your input. Now see, will",
+      "start": 1152.347,
+      "duration": 4.604
+    },
+    {
+      "text": " the time complexity of this for loop",
+      "start": 1156.005,
+      "duration": 2.937
+    },
+    {
+      "text": " change if n changes? Yes, it will",
+      "start": 1157.995,
+      "duration": 2.964
+    },
+    {
+      "text": " change. What is this loop doing? This",
+      "start": 1160.024,
+      "duration": 2.905
+    },
+    {
+      "text": " loop is executing n times. What is it",
+      "start": 1161.986,
+      "duration": 3.076
+    },
+    {
+      "text": " doing n times? It's performing a simple",
+      "start": 1164.112,
+      "duration": 2.995
+    },
+    {
+      "text": " operation. This operation has an order",
+      "start": 1166.157,
+      "duration": 3.155
+    },
+    {
+      "text": " of one. What is this for loop doing in",
+      "start": 1168.362,
+      "duration": 3.355
+    },
+    {
+      "text": " total? It is doing n*O (1). Meaning it",
+      "start": 1170.762,
+      "duration": 4.685
+    },
+    {
+      "text": " is doing order of n operations. It's",
+      "start": 1174.497,
+      "duration": 3.664
+    },
+    {
+      "text": " simple, right? If n is 10, this for",
+      "start": 1177.219,
+      "duration": 3.495
+    },
+    {
+      "text": " loop will run 10 times. If n is 100,",
+      "start": 1179.776,
+      "duration": 3.662
+    },
+    {
+      "text": " this for loop will run 100 times. If n",
+      "start": 1182.507,
+      "duration": 3.822
+    },
+    {
+      "text": " is 1000, this for loop will run 1000",
+      "start": 1185.4,
+      "duration": 3.575
+    },
+    {
+      "text": " times. Is the number of times this for",
+      "start": 1188.046,
+      "duration": 3.269
+    },
+    {
+      "text": " loop runs increasing or decreasing",
+      "start": 1190.362,
+      "duration": 2.597
+    },
+    {
+      "text": " based on the input? It is dependent. It",
+      "start": 1192.006,
+      "duration": 3.638
+    },
+    {
+      "text": " is dependent. It is dependent on the",
+      "start": 1194.696,
+      "duration": 3.285
+    },
+    {
+      "text": " input. This is what we call it. Now,",
+      "start": 1197.027,
+      "duration": 4.294
+    },
+    {
+      "text": " see, it is running n times. It is",
+      "start": 1200.391,
+      "duration": 3.872
+    },
+    {
+      "text": " running n times. How much complexity of",
+      "start": 1203.319,
+      "duration": 3.727
+    },
+    {
+      "text": " work is being done each time? Each time",
+      "start": 1206.093,
+      "duration": 2.906
+    },
+    {
+      "text": " this for loop runs n times. How much",
+      "start": 1208.051,
+      "duration": 2.835
+    },
+    {
+      "text": " complexity of work is it doing each",
+      "start": 1209.929,
+      "duration": 2.505
+    },
+    {
+      "text": " time? It is doing an order of one work.",
+      "start": 1211.477,
+      "duration": 2.717
+    },
+    {
+      "text": " It's just printing one thing, right?",
+      "start": 1213.294,
+      "duration": 2.669
+    },
+    {
+      "text": " Printing takes one. So what is the",
+      "start": 1215.063,
+      "duration": 2.792
+    },
+    {
+      "text": " total complexity of this? Now you will",
+      "start": 1216.907,
+      "duration": 3.261
+    },
+    {
+      "text": " have to multiply by the input. n*1 =",
+      "start": 1219.213,
+      "duration": 3.455
+    },
+    {
+      "text": " order of n. This is what we call a",
+      "start": 1221.751,
+      "duration": 3.891
+    },
+    {
+      "text": " program taking order of n time. Meaning",
+      "start": 1224.689,
+      "duration": 3.327
+    },
+    {
+      "text": " it's doing some work n times, and each",
+      "start": 1227.065,
+      "duration": 2.844
+    },
+    {
+      "text": " task takes order of one. So how much",
+      "start": 1228.958,
+      "duration": 2.786
+    },
+    {
+      "text": " total work are you doing? n*1. Did you",
+      "start": 1230.791,
+      "duration": 3.575
+    },
+    {
+      "text": " understand? Should I explain again? The",
+      "start": 1233.414,
+      "duration": 3.046
+    },
+    {
+      "text": " loop is running n times. Each time, a",
+      "start": 1235.512,
+      "duration": 2.989
+    },
+    {
+      "text": " constant task is being performed. So",
+      "start": 1237.554,
+      "duration": 2.958
+    },
+    {
+      "text": " that is why its time complexity is",
+      "start": 1239.562,
+      "duration": 2.697
+    },
+    {
+      "text": " order of n. Any loop running from zero",
+      "start": 1241.309,
+      "duration": 3.398
+    },
+    {
+      "text": " to n will have a time complexity of n.",
+      "start": 1243.758,
+      "duration": 2.939
+    },
+    {
+      "text": " Did you understand? n*1. Now let's see.",
+      "start": 1246.467,
+      "duration": 4.108
+    },
+    {
+      "text": " There is one more thing in this. Now",
+      "start": 1250.217,
+      "duration": 2.79
+    },
+    {
+      "text": " many students get this doubt. I used to",
+      "start": 1252.054,
+      "duration": 3.25
+    },
+    {
+      "text": " have it too. Suppose i < n is not",
+      "start": 1254.351,
+      "duration": 3.445
+    },
+    {
+      "text": " running. n-1 is running. i ++ and it is",
+      "start": 1256.861,
+      "duration": 4.553
+    },
+    {
+      "text": " printing. Now let me tell you. It is",
+      "start": 1260.482,
+      "duration": 5.74
+    },
+    {
+      "text": " printing. Now look, how many times is",
+      "start": 1265.272,
+      "duration": 2.855
+    },
+    {
+      "text": " this loop running? First of all, the",
+      "start": 1267.175,
+      "duration": 2.802
+    },
+    {
+      "text": " very first thing is, is this an",
+      "start": 1269.026,
+      "duration": 2.52
+    },
+    {
+      "text": " independent loop or a dependent loop?",
+      "start": 1270.595,
+      "duration": 2.814
+    },
+    {
+      "text": " So this is a dependent loop. Why?",
+      "start": 1272.581,
+      "duration": 3.015
+    },
+    {
+      "text": " Because due to n, the time of this loop",
+      "start": 1275.066,
+      "duration": 3.0
+    },
+    {
+      "text": " will change. But, how many times was",
+      "start": 1277.117,
+      "duration": 3.271
+    },
+    {
+      "text": " the first loop running? It was running",
+      "start": 1279.439,
+      "duration": 3.048
+    },
+    {
+      "text": " from 0 to n, so it was running n times.",
+      "start": 1281.543,
+      "duration": 3.213
+    },
+    {
+      "text": " This loop says it runs from zero to n-1",
+      "start": 1284.82,
+      "duration": 3.262
+    },
+    {
+      "text": ", which means it runs n-1 times. That's",
+      "start": 1287.082,
+      "duration": 3.263
+    },
+    {
+      "text": " what's happening, right? The first loop",
+      "start": 1289.389,
+      "duration": 2.863
+    },
+    {
+      "text": " was going from zero to n. So that was n",
+      "start": 1291.303,
+      "duration": 3.263
+    },
+    {
+      "text": ". This loop says that it is this, so it",
+      "start": 1293.566,
+      "duration": 3.574
+    },
+    {
+      "text": " should be n-1. What is the total",
+      "start": 1296.193,
+      "duration": 2.977
+    },
+    {
+      "text": " complexity of this loop? n-1*order of 1",
+      "start": 1298.217,
+      "duration": 4.23
+    },
+    {
+      "text": ", so do we write it as order of n-1?",
+      "start": 1301.447,
+      "duration": 3.461
+    },
+    {
+      "text": " No. No, no. Look, if...look, order of n",
+      "start": 1304.934,
+      "duration": 5.179
+    },
+    {
+      "text": "-1...but one should write this.",
+      "start": 1309.113,
+      "duration": 2.956
+    },
+    {
+      "text": " Mathematically, this is what should be",
+      "start": 1311.63,
+      "duration": 2.735
+    },
+    {
+      "text": " written. But whenever we put this",
+      "start": 1313.41,
+      "duration": 2.601
+    },
+    {
+      "text": " inside the order, we call it order. We",
+      "start": 1315.058,
+      "duration": 2.903
+    },
+    {
+      "text": " call it Big O. Okay? Anything written",
+      "start": 1317.016,
+      "duration": 3.941
+    },
+    {
+      "text": " inside this is an expression. It is an",
+      "start": 1320.003,
+      "duration": 3.657
+    },
+    {
+      "text": " expression. Like you used to study in",
+      "start": 1322.71,
+      "duration": 3.025
+    },
+    {
+      "text": " math, it's an expression. Meaning, you",
+      "start": 1324.784,
+      "duration": 3.886
+    },
+    {
+      "text": " used to study quadratic expressions",
+      "start": 1327.729,
+      "duration": 3.095
+    },
+    {
+      "text": " like ax² + bx + c; similarly, when we",
+      "start": 1329.883,
+      "duration": 3.274
+    },
+    {
+      "text": " find the result of this expression,",
+      "start": 1332.217,
+      "duration": 3.094
+    },
+    {
+      "text": " when we analyze how much it takes. In",
+      "start": 1334.371,
+      "duration": 5.723
+    },
+    {
+      "text": " this, we consider the thing with the",
+      "start": 1339.144,
+      "duration": 2.8
+    },
+    {
+      "text": " highest power of n as its complexity.",
+      "start": 1340.994,
+      "duration": 2.85
+    },
+    {
+      "text": " Meaning, what is the power of n in this",
+      "start": 1344.785,
+      "duration": 3.055
+    },
+    {
+      "text": "? One. How can you write one? You can",
+      "start": 1346.84,
+      "duration": 3.972
+    },
+    {
+      "text": " write one as n to the power of 0. So",
+      "start": 1349.864,
+      "duration": 3.346
+    },
+    {
+      "text": " instead of this one, we could write n",
+      "start": 1352.264,
+      "duration": 2.996
+    },
+    {
+      "text": " to the power of 0, and one; there are",
+      "start": 1354.313,
+      "duration": 2.996
+    },
+    {
+      "text": " two powers here. This one and that one.",
+      "start": 1356.363,
+      "duration": 2.927
+    },
+    {
+      "text": " Which one is the highest? One, that is",
+      "start": 1358.39,
+      "duration": 2.944
+    },
+    {
+      "text": " why its time complexity becomes order",
+      "start": 1360.39,
+      "duration": 3.092
+    },
+    {
+      "text": " of n. Order of n-1, n-1, n + 2, n + 100",
+      "start": 1362.539,
+      "duration": 6.442
+    },
+    {
+      "text": ", n-50, all of these will be discarded.",
+      "start": 1367.981,
+      "duration": 4.351
+    },
+    {
+      "text": " Why? Because its highest power is one.",
+      "start": 1372.859,
+      "duration": 3.158
+    },
+    {
+      "text": " That's why we write that its complexity",
+      "start": 1375.359,
+      "duration": 2.85
+    },
+    {
+      "text": " is also order of n. It doesn't matter",
+      "start": 1377.257,
+      "duration": 3.703
+    },
+    {
+      "text": " if it's n-1 or n-2. If someone tells",
+      "start": 1380.013,
+      "duration": 3.729
+    },
+    {
+      "text": " you that its time complexity is this.",
+      "start": 1382.791,
+      "duration": 2.807
+    },
+    {
+      "text": " This one. Then what would you do? They",
+      "start": 1385.627,
+      "duration": 3.542
+    },
+    {
+      "text": " could also say that its time complexity",
+      "start": 1388.214,
+      "duration": 2.761
+    },
+    {
+      "text": " is this, right? You have to do the same",
+      "start": 1390.02,
+      "duration": 2.761
+    },
+    {
+      "text": " thing. What is the highest power of n?",
+      "start": 1391.824,
+      "duration": 2.765
+    },
+    {
+      "text": " Here it is two. Here it is one. Here it",
+      "start": 1393.689,
+      "duration": 3.142
+    },
+    {
+      "text": " is n to the power of zero. Its time",
+      "start": 1395.882,
+      "duration": 2.87
+    },
+    {
+      "text": " complexity will be order of n². Order",
+      "start": 1397.808,
+      "duration": 4.509
+    },
+    {
+      "text": " of n² is the reason for this. This is",
+      "start": 1401.373,
+      "duration": 3.719
+    },
+    {
+      "text": " the reason. That is why we say watch",
+      "start": 1404.138,
+      "duration": 2.669
+    },
+    {
+      "text": " the video till the end. This is the",
+      "start": 1405.851,
+      "duration": 2.706
+    },
+    {
+      "text": " reason why, when we calculate time",
+      "start": 1407.611,
+      "duration": 2.81
+    },
+    {
+      "text": " complexity, what did I say? That if you",
+      "start": 1409.475,
+      "duration": 4.409
+    },
+    {
+      "text": " have three or four sections. This is",
+      "start": 1412.933,
+      "duration": 3.859
+    },
+    {
+      "text": " order of one. This is order of one.",
+      "start": 1415.839,
+      "duration": 3.18
+    },
+    {
+      "text": " This is order of one. So we take the",
+      "start": 1418.394,
+      "duration": 2.803
+    },
+    {
+      "text": " maximum of these. What does taking the",
+      "start": 1420.247,
+      "duration": 2.845
+    },
+    {
+      "text": " maximum mean? How can you write this?",
+      "start": 1422.136,
+      "duration": 2.699
+    },
+    {
+      "text": " Total time, see, it is the sum of the",
+      "start": 1424.155,
+      "duration": 3.148
+    },
+    {
+      "text": " program. If these three sections one,",
+      "start": 1426.361,
+      "duration": 2.951
+    },
+    {
+      "text": " two, and three are running in your",
+      "start": 1428.361,
+      "duration": 2.683
+    },
+    {
+      "text": " program. In reality, it should be their",
+      "start": 1430.094,
+      "duration": 2.984
+    },
+    {
+      "text": " sum. So why is it the maximum? It is",
+      "start": 1432.127,
+      "duration": 2.847
+    },
+    {
+      "text": " the maximum for this very reason. What",
+      "start": 1434.018,
+      "duration": 2.717
+    },
+    {
+      "text": " will you write for this? n to the power",
+      "start": 1435.773,
+      "duration": 3.014
+    },
+    {
+      "text": " 0 + n to the power 0 + n to the power 0",
+      "start": 1437.858,
+      "duration": 3.751
+    },
+    {
+      "text": ". What is the highest power here? The",
+      "start": 1440.609,
+      "duration": 3.946
+    },
+    {
+      "text": " highest power here is zero. That is why",
+      "start": 1443.607,
+      "duration": 3.075
+    },
+    {
+      "text": " its time complexity becomes n to the",
+      "start": 1445.734,
+      "duration": 2.868
+    },
+    {
+      "text": " power of 0 equals order of one. For",
+      "start": 1447.653,
+      "duration": 2.865
+    },
+    {
+      "text": " this reason, we take the highest power",
+      "start": 1449.571,
+      "duration": 2.988
+    },
+    {
+      "text": " of n as the worst complexity. We ignore",
+      "start": 1451.611,
+      "duration": 3.199
+    },
+    {
+      "text": " the rest. That is why the maximum is",
+      "start": 1453.867,
+      "duration": 2.997
+    },
+    {
+      "text": " taken. I hope you all have understood",
+      "start": 1455.913,
+      "duration": 2.702
+    },
+    {
+      "text": " this much. Let's try one more thing.",
+      "start": 1457.659,
+      "duration": 2.993
+    },
+    {
+      "text": " For example, if you write a program.",
+      "start": 1460.192,
+      "duration": 2.958
+    },
+    {
+      "text": " There are two lines in your program.",
+      "start": 1462.25,
+      "duration": 2.555
+    },
+    {
+      "text": " Print hello, this is one line. And this",
+      "start": 1464.828,
+      "duration": 8.42
+    },
+    {
+      "text": " is i = 0, i < n, i ++ and this print",
+      "start": 1472.323,
+      "duration": 3.72
+    },
+    {
+      "text": " world, this is your program. First of",
+      "start": 1475.119,
+      "duration": 8.252
+    },
+    {
+      "text": " all, identify the sections. Section",
+      "start": 1482.43,
+      "duration": 3.084
+    },
+    {
+      "text": " means an independent section that the",
+      "start": 1484.564,
+      "duration": 2.863
+    },
+    {
+      "text": " compiler executes and finishes the task",
+      "start": 1486.478,
+      "duration": 2.963
+    },
+    {
+      "text": ". What is the very first section you",
+      "start": 1488.441,
+      "duration": 2.649
+    },
+    {
+      "text": " see? How much work is being done in",
+      "start": 1490.134,
+      "duration": 2.532
+    },
+    {
+      "text": " this? One task is happening, it prints",
+      "start": 1491.707,
+      "duration": 2.927
+    },
+    {
+      "text": " hello. What is its time complexity?",
+      "start": 1493.684,
+      "duration": 2.73
+    },
+    {
+      "text": " Order of one. Now, is this a single",
+      "start": 1495.514,
+      "duration": 2.889
+    },
+    {
+      "text": " section on its own? What am I saying?",
+      "start": 1497.457,
+      "duration": 3.776
+    },
+    {
+      "text": " Undo the answer. Yes. Is this line a",
+      "start": 1501.287,
+      "duration": 3.191
+    },
+    {
+      "text": " section by itself? No. No, no, it is",
+      "start": 1503.526,
+      "duration": 2.859
+    },
+    {
+      "text": " not a standalone section. Why? Because",
+      "start": 1505.438,
+      "duration": 3.143
+    },
+    {
+      "text": " the for loop hasn't ended. When does",
+      "start": 1507.62,
+      "duration": 2.456
+    },
+    {
+      "text": " the for loop run? The for loop starts",
+      "start": 1509.115,
+      "duration": 2.559
+    },
+    {
+      "text": " from here. It ends here. So, this is a",
+      "start": 1510.716,
+      "duration": 3.049
+    },
+    {
+      "text": " whole section. You cannot say that this",
+      "start": 1512.824,
+      "duration": 3.101
+    },
+    {
+      "text": " line is one section, this print is one",
+      "start": 1514.974,
+      "duration": 2.87
+    },
+    {
+      "text": " section, and that is a separate section",
+      "start": 1516.893,
+      "duration": 2.918
+    },
+    {
+      "text": ". No. For that task, when does it start",
+      "start": 1518.811,
+      "duration": 3.378
+    },
+    {
+      "text": " and end? That small task, instead of",
+      "start": 1521.248,
+      "duration": 4.112
+    },
+    {
+      "text": " this, if this weren't there...If this",
+      "start": 1524.41,
+      "duration": 2.861
+    },
+    {
+      "text": " line weren't here, would it have any",
+      "start": 1526.321,
+      "duration": 2.811
+    },
+    {
+      "text": " significance? It wouldn't. But even if",
+      "start": 1528.182,
+      "duration": 4.146
+    },
+    {
+      "text": " this line weren't here, the for loop",
+      "start": 1531.374,
+      "duration": 2.66
+    },
+    {
+      "text": " would still run. If this for loop",
+      "start": 1533.081,
+      "duration": 2.844
+    },
+    {
+      "text": " weren't here, this line would still run",
+      "start": 1534.972,
+      "duration": 2.84
+    },
+    {
+      "text": ". That is why they are separate",
+      "start": 1536.812,
+      "duration": 2.386
+    },
+    {
+      "text": " sections. If this line is not there,",
+      "start": 1538.241,
+      "duration": 2.693
+    },
+    {
+      "text": " the importance of that line will",
+      "start": 1539.98,
+      "duration": 2.488
+    },
+    {
+      "text": " decrease. That is why this is a",
+      "start": 1541.514,
+      "duration": 2.553
+    },
+    {
+      "text": " separate section. This is a separate",
+      "start": 1543.113,
+      "duration": 2.976
+    },
+    {
+      "text": " section. Understood? What is its time",
+      "start": 1545.136,
+      "duration": 3.203
+    },
+    {
+      "text": " complexity? We just saw it. Order of n.",
+      "start": 1547.39,
+      "duration": 3.438
+    },
+    {
+      "text": " What is the total time complexity of",
+      "start": 1550.116,
+      "duration": 2.663
+    },
+    {
+      "text": " the program? Just sum them all up,",
+      "start": 1551.825,
+      "duration": 2.684
+    },
+    {
+      "text": " brother. Sum the one, sum the n. Write",
+      "start": 1553.558,
+      "duration": 4.071
+    },
+    {
+      "text": " 1 + n, what is the highest power? It is",
+      "start": 1556.693,
+      "duration": 4.026
+    },
+    {
+      "text": " one. Here, it's into n to the power of",
+      "start": 1559.785,
+      "duration": 3.693
+    },
+    {
+      "text": " zero. Pick the highest one. Order of n.",
+      "start": 1562.535,
+      "duration": 3.081
+    },
+    {
+      "text": " The total complexity of this program is",
+      "start": 1564.716,
+      "duration": 2.771
+    },
+    {
+      "text": " calculated. Order of n. This is how we",
+      "start": 1566.532,
+      "duration": 4.027
+    },
+    {
+      "text": " do this work. Let's look at one last",
+      "start": 1569.607,
+      "duration": 4.05
+    },
+    {
+      "text": " example that is used a lot. For i = 0,",
+      "start": 1572.704,
+      "duration": 5.669
+    },
+    {
+      "text": " i < n, i ++. Look. To teach this, I",
+      "start": 1577.514,
+      "duration": 6.869
+    },
+    {
+      "text": " could speak for two hours straight, but",
+      "start": 1583.431,
+      "duration": 2.892
+    },
+    {
+      "text": " I am telling you only what is necessary",
+      "start": 1585.371,
+      "duration": 2.892
+    },
+    {
+      "text": ". Now look, now look, it will be a bit",
+      "start": 1587.263,
+      "duration": 4.443
+    },
+    {
+      "text": " different, j < n. j ++. Print hello,",
+      "start": 1590.771,
+      "duration": 8.398
+    },
+    {
+      "text": " this is your program. Now tell me, what",
+      "start": 1598.223,
+      "duration": 4.606
+    },
+    {
+      "text": " is happening here? First, let's read it",
+      "start": 1601.88,
+      "duration": 3.313
+    },
+    {
+      "text": ". An i loop is running. Where does it",
+      "start": 1604.193,
+      "duration": 2.959
+    },
+    {
+      "text": " run from and to? First of all, is it",
+      "start": 1606.194,
+      "duration": 2.747
+    },
+    {
+      "text": " input dependent or input independent?",
+      "start": 1607.993,
+      "duration": 2.908
+    },
+    {
+      "text": " It is input dependent. This is indeed",
+      "start": 1610.186,
+      "duration": 3.628
+    },
+    {
+      "text": " input dependent. How many times is it",
+      "start": 1612.864,
+      "duration": 2.76
+    },
+    {
+      "text": " running? n times. It's going from zero",
+      "start": 1614.667,
+      "duration": 3.539
+    },
+    {
+      "text": " to n, right brother? It's running n",
+      "start": 1617.255,
+      "duration": 2.81
+    },
+    {
+      "text": " times. So let's write it down. This is",
+      "start": 1619.119,
+      "duration": 3.609
+    },
+    {
+      "text": " running n times. When we wrote the for",
+      "start": 1621.782,
+      "duration": 3.482
+    },
+    {
+      "text": " loop earlier, what was happening? It",
+      "start": 1624.309,
+      "duration": 2.655
+    },
+    {
+      "text": " was printing every time. So we were",
+      "start": 1626.012,
+      "duration": 2.744
+    },
+    {
+      "text": " doing a task every time. But this for",
+      "start": 1627.806,
+      "duration": 3.38
+    },
+    {
+      "text": " loop starts here and ends here. In",
+      "start": 1630.231,
+      "duration": 3.423
+    },
+    {
+      "text": " between is this for loop. This is a",
+      "start": 1632.704,
+      "duration": 2.787
+    },
+    {
+      "text": " nested for loop. A for loop inside a",
+      "start": 1634.54,
+      "duration": 2.794
+    },
+    {
+      "text": " for loop. Now let's look at this first.",
+      "start": 1636.382,
+      "duration": 2.731
+    },
+    {
+      "text": " What is it doing? First of all, is it",
+      "start": 1638.213,
+      "duration": 2.738
+    },
+    {
+      "text": " input dependent or independent? It is",
+      "start": 1640.0,
+      "duration": 2.865
+    },
+    {
+      "text": " dependent. It is going from zero to n,",
+      "start": 1641.916,
+      "duration": 2.896
+    },
+    {
+      "text": " will it change or decrease with n? It",
+      "start": 1643.86,
+      "duration": 2.838
+    },
+    {
+      "text": " is running n times. What is this for",
+      "start": 1645.754,
+      "duration": 3.532
+    },
+    {
+      "text": " loop doing? This for loop is now",
+      "start": 1648.33,
+      "duration": 2.566
+    },
+    {
+      "text": " printing hello. It is printing hello.",
+      "start": 1649.944,
+      "duration": 3.07
+    },
+    {
+      "text": " Let's call it one. So what is happening",
+      "start": 1652.239,
+      "duration": 3.21
+    },
+    {
+      "text": "? When you look at it from a high level",
+      "start": 1654.449,
+      "duration": 2.869
+    },
+    {
+      "text": ", what's happening? i is running n",
+      "start": 1656.318,
+      "duration": 3.445
+    },
+    {
+      "text": " times. What happens every time? j is",
+      "start": 1658.821,
+      "duration": 4.555
+    },
+    {
+      "text": " running n times. j runs n times. j is",
+      "start": 1662.441,
+      "duration": 4.977
+    },
+    {
+      "text": " doing an order-of-one task every time.",
+      "start": 1666.472,
+      "duration": 3.041
+    },
+    {
+      "text": " This is what is happening. What does",
+      "start": 1668.813,
+      "duration": 2.585
+    },
+    {
+      "text": " this mean? If your N is 3. 1 2 3, your",
+      "start": 1670.439,
+      "duration": 6.115
+    },
+    {
+      "text": " i came to one first. i will run from",
+      "start": 1675.635,
+      "duration": 5.467
+    },
+    {
+      "text": " one to three. What is happening each",
+      "start": 1680.149,
+      "duration": 3.13
+    },
+    {
+      "text": " time? j is also running three times. j",
+      "start": 1682.323,
+      "duration": 3.134
+    },
+    {
+      "text": " is running three times, right? j is",
+      "start": 1684.51,
+      "duration": 2.921
+    },
+    {
+      "text": " also running n times. Okay. i finished.",
+      "start": 1686.489,
+      "duration": 3.509
+    },
+    {
+      "text": " What will happen in this? j will run",
+      "start": 1689.098,
+      "duration": 2.742
+    },
+    {
+      "text": " again. j will run again three times.",
+      "start": 1690.894,
+      "duration": 3.018
+    },
+    {
+      "text": " Okay. i came to 3. j is running three",
+      "start": 1693.023,
+      "duration": 4.388
+    },
+    {
+      "text": " times again. j is running three times",
+      "start": 1696.464,
+      "duration": 3.184
+    },
+    {
+      "text": " again. What is the total number of",
+      "start": 1698.701,
+      "duration": 2.972
+    },
+    {
+      "text": " simple operations? Three, three, three,",
+      "start": 1700.721,
+      "duration": 4.597
+    },
+    {
+      "text": " 9; if you look at it up to four. 1 2 3",
+      "start": 1704.392,
+      "duration": 4.97
+    },
+    {
+      "text": " 4, i came to one. It's 1 2 3 4,",
+      "start": 1708.466,
+      "duration": 8.03
+    },
+    {
+      "text": " similarly 1 2 3 4, similarly 1 2 3 4,",
+      "start": 1715.581,
+      "duration": 4.156
+    },
+    {
+      "text": " similarly 1 2 3 4; what is the total",
+      "start": 1718.823,
+      "duration": 4.071
+    },
+    {
+      "text": " number of operations? 4 8 12 16, do you",
+      "start": 1721.979,
+      "duration": 8.86
+    },
+    {
+      "text": " see the pattern? What does this mean? n",
+      "start": 1729.938,
+      "duration": 5.327
+    },
+    {
+      "text": " = 3. The number of simple operations is",
+      "start": 1734.432,
+      "duration": 5.107
+    },
+    {
+      "text": " 3*3 = 9; n = 4. This becomes 4*4 = 16;",
+      "start": 1738.628,
+      "duration": 4.173
+    },
+    {
+      "text": " what is its time complexity? Order of",
+      "start": 1741.88,
+      "duration": 3.931
+    },
+    {
+      "text": " n². Why did that happen? Because,",
+      "start": 1744.888,
+      "duration": 5.572
+    },
+    {
+      "text": " buddy, i is running n times. Every time",
+      "start": 1749.522,
+      "duration": 4.979
+    },
+    {
+      "text": " it is doing n amount of work. In this,",
+      "start": 1753.547,
+      "duration": 2.914
+    },
+    {
+      "text": " j is also running, which runs n times.",
+      "start": 1755.521,
+      "duration": 3.275
+    },
+    {
+      "text": " j is doing 1 unit of work each time. So",
+      "start": 1757.896,
+      "duration": 3.16
+    },
+    {
+      "text": " what was its total time complexity? We",
+      "start": 1760.102,
+      "duration": 2.822
+    },
+    {
+      "text": " said we have to multiply. We did that",
+      "start": 1761.97,
+      "duration": 2.808
+    },
+    {
+      "text": " last time too. n*n*1 = n². The time",
+      "start": 1763.829,
+      "duration": 5.503
+    },
+    {
+      "text": " complexity of this thing is n². If",
+      "start": 1768.388,
+      "duration": 4.019
+    },
+    {
+      "text": " there were a third for loop that also",
+      "start": 1771.466,
+      "duration": 3.181
+    },
+    {
+      "text": " ran n times, it would be n*n*n*1 = n³;",
+      "start": 1773.706,
+      "duration": 3.299
+    },
+    {
+      "text": " that is how time complexity grows. So",
+      "start": 1776.064,
+      "duration": 3.8
+    },
+    {
+      "text": " if you write a nested loop, its time",
+      "start": 1778.918,
+      "duration": 2.937
+    },
+    {
+      "text": " complexity becomes squared. That is",
+      "start": 1780.909,
+      "duration": 3.215
+    },
+    {
+      "text": " what this means. Now the last example,",
+      "start": 1783.171,
+      "duration": 3.804
+    },
+    {
+      "text": " you have a program, brother. You are",
+      "start": 1786.031,
+      "duration": 4.046
+    },
+    {
+      "text": " doing this. Yes, one more thing, the",
+      "start": 1789.126,
+      "duration": 3.968
+    },
+    {
+      "text": " time complexity of sort is n log n.",
+      "start": 1792.158,
+      "duration": 3.246
+    },
+    {
+      "text": " Right? Now, why is that? It happens due",
+      "start": 1794.916,
+      "duration": 3.277
+    },
+    {
+      "text": " to recursion and math, I will teach you",
+      "start": 1797.236,
+      "duration": 2.699
+    },
+    {
+      "text": " later. For now, just remember it. Print",
+      "start": 1798.979,
+      "duration": 4.287
+    },
+    {
+      "text": " hello. Right? For i = 0, i < n, i ++",
+      "start": 1802.319,
+      "duration": 7.9
+    },
+    {
+      "text": " and this is printing hello. Very good.",
+      "start": 1809.305,
+      "duration": 7.574
+    },
+    {
+      "text": " Now, if we are sorting the array.",
+      "start": 1817.14,
+      "duration": 2.718
+    },
+    {
+      "text": " a.begin (), a.end (), the array length",
+      "start": 1821.199,
+      "duration": 3.763
+    },
+    {
+      "text": " is n. This is your program. You write a",
+      "start": 1824.035,
+      "duration": 5.276
+    },
+    {
+      "text": " program like we wrote before. Remember",
+      "start": 1828.358,
+      "duration": 3.434
+    },
+    {
+      "text": " in Two Sum. It was a similar, exact",
+      "start": 1830.85,
+      "duration": 2.988
+    },
+    {
+      "text": " same program in that. Was it or not?",
+      "start": 1832.892,
+      "duration": 2.935
+    },
+    {
+      "text": " Sort, loop, and the rest. Now tell me,",
+      "start": 1835.02,
+      "duration": 3.83
+    },
+    {
+      "text": " first identify the sections. Do the",
+      "start": 1837.91,
+      "duration": 3.352
+    },
+    {
+      "text": " first task. Is this section independent",
+      "start": 1840.321,
+      "duration": 3.083
+    },
+    {
+      "text": "? Is this section related to anything",
+      "start": 1842.404,
+      "duration": 2.802
+    },
+    {
+      "text": " else? No. So this is your section one.",
+      "start": 1844.253,
+      "duration": 3.382
+    },
+    {
+      "text": " Is this a section? Are the for loop and",
+      "start": 1848.229,
+      "duration": 3.168
+    },
+    {
+      "text": " sort related? They are not. The for",
+      "start": 1850.44,
+      "duration": 2.663
+    },
+    {
+      "text": " loop ran and finished. It finished",
+      "start": 1852.15,
+      "duration": 2.591
+    },
+    {
+      "text": " after printing. After that, sorting is",
+      "start": 1853.782,
+      "duration": 2.832
+    },
+    {
+      "text": " happening. This is your section two. Is",
+      "start": 1855.664,
+      "duration": 3.033
+    },
+    {
+      "text": " this sorting line related to anything?",
+      "start": 1857.744,
+      "duration": 2.81
+    },
+    {
+      "text": " No, it's its own line. This became your",
+      "start": 1859.654,
+      "duration": 3.265
+    },
+    {
+      "text": " three. Now, what did I say? Find the",
+      "start": 1861.967,
+      "duration": 3.323
+    },
+    {
+      "text": " time complexity of every section. What",
+      "start": 1864.341,
+      "duration": 2.99
+    },
+    {
+      "text": " is the time complexity of section one?",
+      "start": 1866.38,
+      "duration": 2.832
+    },
+    {
+      "text": " Print hello. Print hello is nothing.",
+      "start": 1868.312,
+      "duration": 2.995
+    },
+    {
+      "text": " Order of one. What is the complexity of",
+      "start": 1870.746,
+      "duration": 3.008
+    },
+    {
+      "text": " section two? We just learned it. i runs",
+      "start": 1872.803,
+      "duration": 2.927
+    },
+    {
+      "text": " n times, and each time one operation",
+      "start": 1874.787,
+      "duration": 3.042
+    },
+    {
+      "text": " happens. Order of n. What is section",
+      "start": 1876.886,
+      "duration": 3.799
+    },
+    {
+      "text": " three? Sort takes n log n. Remember it",
+      "start": 1879.731,
+      "duration": 3.781
+    },
+    {
+      "text": " for now. I will explain it gradually.",
+      "start": 1882.56,
+      "duration": 2.956
+    },
+    {
+      "text": " Now, sum the total time complexity. 1 +",
+      "start": 1884.839,
+      "duration": 4.297
+    },
+    {
+      "text": " n + n log n. What did I say? Now, if",
+      "start": 1888.241,
+      "duration": 5.465
+    },
+    {
+      "text": " someone asks where the power of n is",
+      "start": 1892.758,
+      "duration": 2.865
+    },
+    {
+      "text": " here. Then n log n is written as n*n",
+      "start": 1894.675,
+      "duration": 4.277
+    },
+    {
+      "text": " 1/2. Okay? n/2, its power is n 3/2.",
+      "start": 1898.016,
+      "duration": 6.141
+    },
+    {
+      "text": " Those who don't know log n, n to the",
+      "start": 1903.257,
+      "duration": 3.038
+    },
+    {
+      "text": " power...wait, isn't that how it works?",
+      "start": 1905.351,
+      "duration": 3.152
+    },
+    {
+      "text": " Oh, I thought of a square root, no",
+      "start": 1907.872,
+      "duration": 2.895
+    },
+    {
+      "text": " problem, it's fine for understanding.",
+      "start": 1909.822,
+      "duration": 3.063
+    },
+    {
+      "text": " Now for this total program, the largest",
+      "start": 1913.526,
+      "duration": 3.163
+    },
+    {
+      "text": " element, what is the largest? Is one",
+      "start": 1915.745,
+      "duration": 3.471
+    },
+    {
+      "text": " the largest? No. n, n log n, what is",
+      "start": 1918.269,
+      "duration": 3.589
+    },
+    {
+      "text": " the largest? n log n is the largest",
+      "start": 1920.935,
+      "duration": 3.716
+    },
+    {
+      "text": " because this is just n, here you are",
+      "start": 1923.709,
+      "duration": 3.078
+    },
+    {
+      "text": " multiplying something by n, n log n, so",
+      "start": 1925.845,
+      "duration": 3.252
+    },
+    {
+      "text": " the time complexity of this total",
+      "start": 1928.155,
+      "duration": 2.906
+    },
+    {
+      "text": " program is n log n. This is how we,",
+      "start": 1930.118,
+      "duration": 4.684
+    },
+    {
+      "text": " should I revise it again? We took three",
+      "start": 1933.852,
+      "duration": 3.833
+    },
+    {
+      "text": " sections, wrote all three, summed them",
+      "start": 1936.737,
+      "duration": 2.979
+    },
+    {
+      "text": " up, and took the maximum. So, this is",
+      "start": 1938.768,
+      "duration": 4.099
+    },
+    {
+      "text": " what time complexity is, my friend. Do",
+      "start": 1941.929,
+      "duration": 4.578
+    },
+    {
+      "text": " you understand what it means when",
+      "start": 1945.568,
+      "duration": 3.013
+    },
+    {
+      "text": " someone says Order of n, m, n log n, or",
+      "start": 1947.642,
+      "duration": 3.38
+    },
+    {
+      "text": " n squared? Now you know enough about",
+      "start": 1950.083,
+      "duration": 3.674
+    },
+    {
+      "text": " time complexity that you could teach",
+      "start": 1952.797,
+      "duration": 2.465
+    },
+    {
+      "text": " the teacher at whatever college you are",
+      "start": 1954.303,
+      "duration": 2.587
+    },
+    {
+      "text": " attending. None of the teachers at your",
+      "start": 1955.931,
+      "duration": 2.907
+    },
+    {
+      "text": " college would know this much. That is",
+      "start": 1957.879,
+      "duration": 2.658
+    },
+    {
+      "text": " my guarantee. Everyone just makes you",
+      "start": 1959.589,
+      "duration": 3.623
+    },
+    {
+      "text": " memorize that Order of n means Big O,",
+      "start": 1962.263,
+      "duration": 2.904
+    },
+    {
+      "text": " or Big Omega. Not the mathematical",
+      "start": 1964.219,
+      "duration": 4.437
+    },
+    {
+      "text": " derivation or how to understand it like",
+      "start": 1967.704,
+      "duration": 2.868
+    },
+    {
+      "text": " this. Today, you have understood time",
+      "start": 1969.62,
+      "duration": 4.178
+    },
+    {
+      "text": " complexity. Whenever we talk about it",
+      "start": 1972.852,
+      "duration": 2.955
+    },
+    {
+      "text": " in the future, you will understand why",
+      "start": 1974.854,
+      "duration": 2.794
+    },
+    {
+      "text": " someone is saying n squared. If they",
+      "start": 1976.695,
+      "duration": 2.801
+    },
+    {
+      "text": " say n squared and n log n, how the",
+      "start": 1978.55,
+      "duration": 2.84
+    },
+    {
+      "text": " total time complexity became n squared.",
+      "start": 1980.444,
+      "duration": 3.11
+    },
+    {
+      "text": " n squared and n log n, sometimes yes.",
+      "start": 1982.884,
+      "duration": 3.551
+    },
+    {
+      "text": " Sometimes it might not be obvious to",
+      "start": 1986.101,
+      "duration": 2.662
+    },
+    {
+      "text": " you just by looking which one is larger",
+      "start": 1987.809,
+      "duration": 2.801
+    },
+    {
+      "text": ". The best example for this is to take",
+      "start": 1989.61,
+      "duration": 3.019
+    },
+    {
+      "text": " the value of n as three. Calculate the",
+      "start": 1991.677,
+      "duration": 2.946
+    },
+    {
+      "text": " value for both. How much is 3 squared?",
+      "start": 1993.677,
+      "duration": 3.151
+    },
+    {
+      "text": " 9, and n log n means 3*log 3, log 3 is",
+      "start": 1996.813,
+      "duration": 4.536
+    },
+    {
+      "text": " always base 2. The answer to this will",
+      "start": 2000.442,
+      "duration": 4.606
+    },
+    {
+      "text": " be 3. So which one of the two is bigger",
+      "start": 2004.096,
+      "duration": 3.126
+    },
+    {
+      "text": "? Nine is bigger. n squared is bigger.",
+      "start": 2006.222,
+      "duration": 3.106
+    },
+    {
+      "text": " So choose n squared. Whenever you don't",
+      "start": 2008.428,
+      "duration": 2.935
+    },
+    {
+      "text": " understand, just take a value and see.",
+      "start": 2010.406,
+      "duration": 2.626
+    },
+    {
+      "text": " Do you understand? If you don't",
+      "start": 2012.132,
+      "duration": 2.395
+    },
+    {
+      "text": " understand what the difference is",
+      "start": 2013.568,
+      "duration": 2.338
+    },
+    {
+      "text": " between n and n squared? Just take a",
+      "start": 2014.947,
+      "duration": 2.636
+    },
+    {
+      "text": " value. It's two, its value will come",
+      "start": 2016.634,
+      "duration": 2.657
+    },
+    {
+      "text": " out to be two. Its value will come out",
+      "start": 2018.335,
+      "duration": 2.633
+    },
+    {
+      "text": " to be four. So this one is bigger.",
+      "start": 2020.009,
+      "duration": 2.566
+    },
+    {
+      "text": " Simply take a value and check. Did you",
+      "start": 2021.675,
+      "duration": 3.008
+    },
+    {
+      "text": " understand? So I hope you guys liked",
+      "start": 2023.731,
+      "duration": 2.783
+    },
+    {
+      "text": " this a lot. This was a very important",
+      "start": 2025.56,
+      "duration": 3.107
+    },
+    {
+      "text": " video. And an announcement that",
+      "start": 2027.717,
+      "duration": 2.435
+    },
+    {
+      "text": " tomorrow is Diwali, so I am traveling",
+      "start": 2029.195,
+      "duration": 2.598
+    },
+    {
+      "text": " tomorrow, and the video for tomorrow",
+      "start": 2030.836,
+      "duration": 2.555
+    },
+    {
+      "text": " might not come. I am making this video",
+      "start": 2032.434,
+      "duration": 2.826
+    },
+    {
+      "text": " one day before Diwali. I don't know",
+      "start": 2034.309,
+      "duration": 2.67
+    },
+    {
+      "text": " when it will go live or if it won't.",
+      "start": 2036.02,
+      "duration": 2.478
+    },
+    {
+      "text": " But I won't make a video on the day of",
+      "start": 2038.045,
+      "duration": 2.707
+    },
+    {
+      "text": " Diwali. However it comes, that is",
+      "start": 2039.797,
+      "duration": 3.862
+    },
+    {
+      "text": " enough for today.",
+      "start": 2042.71,
+      "duration": 1.874
+    }
+  ]
+}

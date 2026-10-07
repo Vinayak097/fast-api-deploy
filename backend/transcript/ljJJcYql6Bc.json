@@ -1,0 +1,4909 @@
+{
+  "language": "English (United States) (auto-generated)",
+  "language_code": "en-US",
+  "is_generated": true,
+  "videoId": "ljJJcYql6Bc",
+  "channel": "Padho with Pratyush",
+  "segments": [
+    {
+      "text": "Alright, brother. So today is Day 5 of",
+      "start": 0.102,
+      "duration": 3.03
+    },
+    {
+      "text": " the two-pointer pattern, and it's the",
+      "start": 2.193,
+      "duration": 3.245
+    },
+    {
+      "text": " last day for this pattern. Why am I",
+      "start": 4.499,
+      "duration": 3.291
+    },
+    {
+      "text": " calling it the last day? Because if you",
+      "start": 6.828,
+      "duration": 2.982
+    },
+    {
+      "text": " look at the sheet, there are two more",
+      "start": 8.87,
+      "duration": 3.198
+    },
+    {
+      "text": " questions left. Okay? One is Triplets",
+      "start": 11.127,
+      "duration": 5.221
+    },
+    {
+      "text": " Smaller Sum and the other is Dutch",
+      "start": 15.444,
+      "duration": 4.285
+    },
+    {
+      "text": " National Flag. There are other",
+      "start": 18.826,
+      "duration": 5.198
+    },
+    {
+      "text": " questions remaining. One is the",
+      "start": 23.056,
+      "duration": 2.195
+    },
+    {
+      "text": " sub-array question. And the product",
+      "start": 24.296,
+      "duration": 4.803
+    },
+    {
+      "text": " question. And three problem challenges",
+      "start": 28.187,
+      "duration": 4.588
+    },
+    {
+      "text": " are left. If you look closely at the",
+      "start": 31.844,
+      "duration": 2.921
+    },
+    {
+      "text": " sheet, there are three problem",
+      "start": 33.809,
+      "duration": 2.323
+    },
+    {
+      "text": " challenges written at the end. Now look",
+      "start": 35.176,
+      "duration": 3.775
+    },
+    {
+      "text": ", I don't want to cover these right now",
+      "start": 37.951,
+      "duration": 4.597
+    },
+    {
+      "text": ". Why? Because these are more sliding",
+      "start": 41.548,
+      "duration": 3.549
+    },
+    {
+      "text": " window pattern questions than",
+      "start": 44.157,
+      "duration": 2.76
+    },
+    {
+      "text": " two-pointer. These are more sliding",
+      "start": 45.977,
+      "duration": 3.252
+    },
+    {
+      "text": " window questions. I mean, it's not that",
+      "start": 48.284,
+      "duration": 2.936
+    },
+    {
+      "text": " they aren't both. And we are keeping",
+      "start": 50.261,
+      "duration": 3.064
+    },
+    {
+      "text": " all the problem challenges for the end.",
+      "start": 52.395,
+      "duration": 3.744
+    },
+    {
+      "text": " Because once we've learned many",
+      "start": 55.239,
+      "duration": 3.18
+    },
+    {
+      "text": " patterns, how will you revise? How will",
+      "start": 57.489,
+      "duration": 3.694
+    },
+    {
+      "text": " you know if you still remember what you",
+      "start": 60.229,
+      "duration": 2.779
+    },
+    {
+      "text": " learned? We will do the problem",
+      "start": 62.054,
+      "duration": 2.999
+    },
+    {
+      "text": " challenge for every pattern at the end.",
+      "start": 64.113,
+      "duration": 3.366
+    },
+    {
+      "text": " Now, why is this a sliding window one?",
+      "start": 66.6,
+      "duration": 2.44
+    },
+    {
+      "text": " Because two-pointer is a superset of",
+      "start": 68.36,
+      "duration": 4.702
+    },
+    {
+      "text": " the pattern. Sliding window is a type",
+      "start": 72.165,
+      "duration": 4.066
+    },
+    {
+      "text": " of two-pointer itself. Sliding window",
+      "start": 75.293,
+      "duration": 4.636
+    },
+    {
+      "text": " is a type of two-pointer with some",
+      "start": 79.033,
+      "duration": 4.522
+    },
+    {
+      "text": " conditions. So every sliding window is",
+      "start": 82.659,
+      "duration": 3.802
+    },
+    {
+      "text": " a two-pointer. But not every",
+      "start": 85.509,
+      "duration": 2.33
+    },
+    {
+      "text": " two-pointer is a sliding window. Okay?",
+      "start": 86.879,
+      "duration": 2.94
+    },
+    {
+      "text": " That is why we will do these questions",
+      "start": 89.639,
+      "duration": 2.974
+    },
+    {
+      "text": " right after we move to sliding window.",
+      "start": 91.664,
+      "duration": 2.975
+    },
+    {
+      "text": " So two questions remain in this pattern",
+      "start": 95.179,
+      "duration": 2.818
+    },
+    {
+      "text": ", which we will cover in this lecture,",
+      "start": 96.997,
+      "duration": 2.771
+    },
+    {
+      "text": " and tomorrow we will do a full revision",
+      "start": 98.815,
+      "duration": 2.818
+    },
+    {
+      "text": " of the two-pointer pattern. What will",
+      "start": 100.68,
+      "duration": 3.334
+    },
+    {
+      "text": " we do in the revision? We will take it",
+      "start": 103.069,
+      "duration": 3.544
+    },
+    {
+      "text": " question by question. We will",
+      "start": 105.666,
+      "duration": 2.958
+    },
+    {
+      "text": " understand what the question was and",
+      "start": 107.671,
+      "duration": 2.7
+    },
+    {
+      "text": " understand why two-pointer. Why",
+      "start": 109.418,
+      "duration": 2.603
+    },
+    {
+      "text": " two-pointer is the most important part.",
+      "start": 111.098,
+      "duration": 3.977
+    },
+    {
+      "text": " We will look at why two-pointer and the",
+      "start": 114.175,
+      "duration": 4.489
+    },
+    {
+      "text": " types of two-pointers, that they can be",
+      "start": 117.754,
+      "duration": 4.489
+    },
+    {
+      "text": " different. It can be low and high. What",
+      "start": 121.333,
+      "duration": 4.735
+    },
+    {
+      "text": " the low and high movement does, and how",
+      "start": 125.13,
+      "duration": 3.429
+    },
+    {
+      "text": " to recognize it. We will go through",
+      "start": 127.622,
+      "duration": 3.967
+    },
+    {
+      "text": " that flowchart once again. So, tomorrow",
+      "start": 130.64,
+      "duration": 2.796
+    },
+    {
+      "text": " will be a revision session. Make sure",
+      "start": 132.466,
+      "duration": 2.274
+    },
+    {
+      "text": " to watch tomorrow's lecture. Today, we",
+      "start": 133.781,
+      "duration": 2.681
+    },
+    {
+      "text": " will do these two questions. Okay?",
+      "start": 135.51,
+      "duration": 2.893
+    },
+    {
+      "text": " Which two questions will we do today?",
+      "start": 137.503,
+      "duration": 2.594
+    },
+    {
+      "text": " The first will be Triplets Smaller Sum",
+      "start": 139.272,
+      "duration": 4.055
+    },
+    {
+      "text": " and the Dutch National Flag. Both of",
+      "start": 142.408,
+      "duration": 3.598
+    },
+    {
+      "text": " these are very important questions.",
+      "start": 145.042,
+      "duration": 2.235
+    },
+    {
+      "text": " Both are very important questions for",
+      "start": 146.377,
+      "duration": 3.778
+    },
+    {
+      "text": " you. First, we will do the explanation",
+      "start": 149.23,
+      "duration": 3.114
+    },
+    {
+      "text": " for this one. Then go and check the",
+      "start": 151.394,
+      "duration": 2.742
+    },
+    {
+      "text": " code link provided. Then we will do the",
+      "start": 153.184,
+      "duration": 2.695
+    },
+    {
+      "text": " explanation for this one. Go and check",
+      "start": 154.915,
+      "duration": 2.718
+    },
+    {
+      "text": " the code link. And one thing, this",
+      "start": 156.692,
+      "duration": 3.027
+    },
+    {
+      "text": " knocking sound that you hear, this",
+      "start": 158.772,
+      "duration": 2.826
+    },
+    {
+      "text": " sound that keeps coming, it will",
+      "start": 160.652,
+      "duration": 2.718
+    },
+    {
+      "text": " persist for a few days. Because right",
+      "start": 162.424,
+      "duration": 3.063
+    },
+    {
+      "text": " now, you must be seeing that my video",
+      "start": 164.541,
+      "duration": 3.015
+    },
+    {
+      "text": " isn't there; you just see a board, the",
+      "start": 166.611,
+      "duration": 3.069
+    },
+    {
+      "text": " video that used to be here isn't there.",
+      "start": 168.735,
+      "duration": 3.124
+    },
+    {
+      "text": " That is because we are at home right",
+      "start": 171.06,
+      "duration": 2.597
+    },
+    {
+      "text": " now, and there is a bit of an internet",
+      "start": 172.701,
+      "duration": 2.687
+    },
+    {
+      "text": " issue. So when we make this side video,",
+      "start": 174.432,
+      "duration": 3.723
+    },
+    {
+      "text": " a 1-hour video ends up being around 10",
+      "start": 177.228,
+      "duration": 3.797
+    },
+    {
+      "text": " GB. So, editing that 10 GB video and",
+      "start": 180.099,
+      "duration": 4.019
+    },
+    {
+      "text": " then uploading it to YouTube consumes a",
+      "start": 183.169,
+      "duration": 2.974
+    },
+    {
+      "text": " lot of data, and it takes too much time",
+      "start": 185.194,
+      "duration": 2.974
+    },
+    {
+      "text": ". I don't have that much internet. So,",
+      "start": 187.168,
+      "duration": 3.848
+    },
+    {
+      "text": " I am recording directly on the iPad",
+      "start": 190.06,
+      "duration": 2.537
+    },
+    {
+      "text": " right now. That is why you hear this",
+      "start": 191.641,
+      "duration": 2.628
+    },
+    {
+      "text": " sound a little bit. Please bear with it",
+      "start": 193.313,
+      "duration": 2.719
+    },
+    {
+      "text": ". It's not that loud, but I will try to",
+      "start": 195.032,
+      "duration": 2.26
+    },
+    {
+      "text": " make sure it doesn't come. It shouldn't",
+      "start": 196.322,
+      "duration": 2.185
+    },
+    {
+      "text": " come that much. It will come a little",
+      "start": 197.532,
+      "duration": 2.066
+    },
+    {
+      "text": " bit. Look, if you write like this, then",
+      "start": 198.626,
+      "duration": 2.498
+    },
+    {
+      "text": " it will touch the surface. Even on a",
+      "start": 200.162,
+      "duration": 2.379
+    },
+    {
+      "text": " blackboard, there is some sound, right?",
+      "start": 201.574,
+      "duration": 2.28
+    },
+    {
+      "text": " So, there will be a little bit. I will",
+      "start": 202.954,
+      "duration": 2.463
+    },
+    {
+      "text": " try to keep it minimal. So, please bear",
+      "start": 204.449,
+      "duration": 2.901
+    },
+    {
+      "text": " with it. Okay? Triplets smaller.",
+      "start": 206.42,
+      "duration": 4.419
+    },
+    {
+      "text": " Triplets smaller. Now, whoever hasn't",
+      "start": 209.979,
+      "duration": 5.054
+    },
+    {
+      "text": " watched yesterday's lecture, the 3Sum",
+      "start": 214.091,
+      "duration": 3.158
+    },
+    {
+      "text": " lecture, they won't understand this. I",
+      "start": 216.307,
+      "duration": 3.239
+    },
+    {
+      "text": " gave this warning beforehand. Those who",
+      "start": 218.586,
+      "duration": 2.701
+    },
+    {
+      "text": " have watched that lecture will",
+      "start": 220.336,
+      "duration": 2.487
+    },
+    {
+      "text": " understand this in 5 minutes. That's",
+      "start": 221.873,
+      "duration": 2.998
+    },
+    {
+      "text": " good. Okay? What does the question say?",
+      "start": 223.947,
+      "duration": 3.652
+    },
+    {
+      "text": " What does the question say? You have",
+      "start": 227.359,
+      "duration": 3.157
+    },
+    {
+      "text": " triplets. You are given an array. Okay?",
+      "start": 229.603,
+      "duration": 3.772
+    },
+    {
+      "text": " What is the given array? -1, 0, 1, and",
+      "start": 232.475,
+      "duration": 5.478
+    },
+    {
+      "text": " 3. Alright then. You are given a sum",
+      "start": 237.195,
+      "duration": 5.539
+    },
+    {
+      "text": " which is two. What do you need to tell?",
+      "start": 241.805,
+      "duration": 3.234
+    },
+    {
+      "text": " The number of i, j, k triplets whose",
+      "start": 244.139,
+      "duration": 5.764
+    },
+    {
+      "text": " sum is less than the given sum. Their",
+      "start": 249.036,
+      "duration": 6.505
+    },
+    {
+      "text": " sum should be less than the given sum,",
+      "start": 254.653,
+      "duration": 5.273
+    },
+    {
+      "text": " meaning ai + aj + ak is less than the",
+      "start": 259.039,
+      "duration": 5.16
+    },
+    {
+      "text": " target. How many such triplets are",
+      "start": 263.311,
+      "duration": 3.304
+    },
+    {
+      "text": " there? If there are three such, you",
+      "start": 265.662,
+      "duration": 2.429
+    },
+    {
+      "text": " have to give the answer as three. How",
+      "start": 267.128,
+      "duration": 2.459
+    },
+    {
+      "text": " many different triplets are like that?",
+      "start": 268.63,
+      "duration": 2.619
+    },
+    {
+      "text": " These i, j, k are indices. They are",
+      "start": 270.349,
+      "duration": 2.963
+    },
+    {
+      "text": " indices. Okay? These are i, j, k",
+      "start": 272.357,
+      "duration": 3.705
+    },
+    {
+      "text": " indices. Okay? And you are told that",
+      "start": 275.109,
+      "duration": 3.13
+    },
+    {
+      "text": " all elements in the array are distinct.",
+      "start": 277.286,
+      "duration": 2.841
+    },
+    {
+      "text": " All elements are distinct. So, no",
+      "start": 279.227,
+      "duration": 3.121
+    },
+    {
+      "text": " duplicates, that issue isn't there at",
+      "start": 281.429,
+      "duration": 3.983
+    },
+    {
+      "text": " all. Those who watched yesterday's",
+      "start": 284.493,
+      "duration": 2.452
+    },
+    {
+      "text": " lecture must understand why duplicates",
+      "start": 285.98,
+      "duration": 2.349
+    },
+    {
+      "text": " are so important. Why am I saying this?",
+      "start": 287.364,
+      "duration": 2.451
+    },
+    {
+      "text": " No duplicates. Okay? Again, I’m",
+      "start": 288.915,
+      "duration": 3.039
+    },
+    {
+      "text": " saying, if you haven’t watched",
+      "start": 291.002,
+      "duration": 2.533
+    },
+    {
+      "text": " yesterday’s Three Sum lecture, watch",
+      "start": 292.583,
+      "duration": 2.821
+    },
+    {
+      "text": " that first. Watch that first, otherwise",
+      "start": 294.452,
+      "duration": 2.619
+    },
+    {
+      "text": ", you won't understand this. It will be",
+      "start": 296.071,
+      "duration": 2.285
+    },
+    {
+      "text": " a waste. Don’t waste your time on",
+      "start": 297.391,
+      "duration": 2.132
+    },
+    {
+      "text": " this one. Pause now and go watch that",
+      "start": 298.552,
+      "duration": 2.69
+    },
+    {
+      "text": " first. Alright? Now, for those who",
+      "start": 300.29,
+      "duration": 4.019
+    },
+    {
+      "text": " watched yesterday’s Three Sum,",
+      "start": 303.361,
+      "duration": 2.653
+    },
+    {
+      "text": " isn’t it exactly the same question?",
+      "start": 305.066,
+      "duration": 2.913
+    },
+    {
+      "text": " There’s a slight twist. What did we",
+      "start": 307.189,
+      "duration": 2.578
+    },
+    {
+      "text": " do yesterday? We found triplets. Find",
+      "start": 308.821,
+      "duration": 5.485
+    },
+    {
+      "text": " triplets whose sum equals zero. And",
+      "start": 313.413,
+      "duration": 5.402
+    },
+    {
+      "text": " find triplets whose sum equals a given",
+      "start": 317.927,
+      "duration": 5.256
+    },
+    {
+      "text": " target. Equals a given target. These",
+      "start": 322.295,
+      "duration": 5.259
+    },
+    {
+      "text": " were the two questions we did yesterday",
+      "start": 326.585,
+      "duration": 2.176
+    },
+    {
+      "text": ". Right? And what else did we do? Sum",
+      "start": 327.761,
+      "duration": 3.889
+    },
+    {
+      "text": " closest to the target. Closest to",
+      "start": 330.732,
+      "duration": 3.781
+    },
+    {
+      "text": " target. Closest to target. So we saw",
+      "start": 333.601,
+      "duration": 3.407
+    },
+    {
+      "text": " these three types of questions",
+      "start": 336.047,
+      "duration": 2.153
+    },
+    {
+      "text": " yesterday. This question asks for the",
+      "start": 337.238,
+      "duration": 4.977
+    },
+    {
+      "text": " number of triplets with a sum smaller",
+      "start": 341.333,
+      "duration": 5.348
+    },
+    {
+      "text": " than the target. Smaller than the",
+      "start": 345.799,
+      "duration": 4.987
+    },
+    {
+      "text": " target. One thing is certain: it’s",
+      "start": 349.883,
+      "duration": 3.866
+    },
+    {
+      "text": " the same type of question. It’s",
+      "start": 352.81,
+      "duration": 3.037
+    },
+    {
+      "text": " certain that a two-pointer approach",
+      "start": 354.889,
+      "duration": 2.45
+    },
+    {
+      "text": " will be used. No one should have any",
+      "start": 356.38,
+      "duration": 2.755
+    },
+    {
+      "text": " doubt about that. After watching",
+      "start": 358.183,
+      "duration": 2.735
+    },
+    {
+      "text": " yesterday’s lecture, the two-sum",
+      "start": 359.977,
+      "duration": 2.99
+    },
+    {
+      "text": " concept will apply. Just like we have",
+      "start": 362.026,
+      "duration": 3.02
+    },
+    {
+      "text": " been doing with triplets. What have we",
+      "start": 364.089,
+      "duration": 2.724
+    },
+    {
+      "text": " been doing with triplets? We used to",
+      "start": 365.851,
+      "duration": 2.965
+    },
+    {
+      "text": " fix i. For every i, we used left and",
+      "start": 367.908,
+      "duration": 3.546
+    },
+    {
+      "text": " right pointers. Based on the sum, we",
+      "start": 370.512,
+      "duration": 3.705
+    },
+    {
+      "text": " would increase or decrease the left or",
+      "start": 373.264,
+      "duration": 2.784
+    },
+    {
+      "text": " right pointers. We would either",
+      "start": 375.095,
+      "duration": 3.646
+    },
+    {
+      "text": " increase or decrease them. This is what",
+      "start": 377.838,
+      "duration": 4.034
+    },
+    {
+      "text": " we have been doing consistently in",
+      "start": 380.904,
+      "duration": 2.091
+    },
+    {
+      "text": " Three Sum since yesterday, right?",
+      "start": 382.027,
+      "duration": 2.06
+    },
+    {
+      "text": " That’s what we’ve been doing, right",
+      "start": 383.187,
+      "duration": 2.051
+    },
+    {
+      "text": "? Okay? So now look, what was the very",
+      "start": 384.238,
+      "duration": 4.03
+    },
+    {
+      "text": " first step? In yesterday’s and",
+      "start": 387.329,
+      "duration": 2.746
+    },
+    {
+      "text": " today’s question, sort the array,",
+      "start": 389.114,
+      "duration": 2.357
+    },
+    {
+      "text": " brother. Sort it. If you sort it, what",
+      "start": 390.509,
+      "duration": 4.022
+    },
+    {
+      "text": " will the array become? The array is",
+      "start": 393.577,
+      "duration": 2.739
+    },
+    {
+      "text": " already given as sorted. But still, 0 1",
+      "start": 395.366,
+      "duration": 4.792
+    },
+    {
+      "text": " 3, okay? What is your sum? 2. i used to",
+      "start": 399.333,
+      "duration": 6.63
+    },
+    {
+      "text": " run from where to where? i used to run",
+      "start": 405.049,
+      "duration": 4.87
+    },
+    {
+      "text": " from 0 to n-2. It did, right? For every",
+      "start": 409.029,
+      "duration": 4.776
+    },
+    {
+      "text": " i, what was left? i + 1, and what was",
+      "start": 412.884,
+      "duration": 5.065
+    },
+    {
+      "text": " right? The last element n-1, we’ve",
+      "start": 417.048,
+      "duration": 3.265
+    },
+    {
+      "text": " been doing this since yesterday,",
+      "start": 419.363,
+      "duration": 2.604
+    },
+    {
+      "text": " brother. Okay? After that, what did we",
+      "start": 421.017,
+      "duration": 3.889
+    },
+    {
+      "text": " do? After that, we calculated the sum.",
+      "start": 423.972,
+      "duration": 2.966
+    },
+    {
+      "text": " What was the sum? a [i] + a [left] + a",
+      "start": 426.038,
+      "duration": 6.672
+    },
+    {
+      "text": " [right]. Okay? After that, we made",
+      "start": 431.926,
+      "duration": 5.692
+    },
+    {
+      "text": " three types of decisions. How did we",
+      "start": 436.67,
+      "duration": 2.915
+    },
+    {
+      "text": " make the decisions? Sum equals target,",
+      "start": 438.636,
+      "duration": 5.803
+    },
+    {
+      "text": " Sum less than target. There were always",
+      "start": 445.379,
+      "duration": 4.856
+    },
+    {
+      "text": " three conditions, right? Sum greater",
+      "start": 449.297,
+      "duration": 3.392
+    },
+    {
+      "text": " than target. There were three",
+      "start": 451.756,
+      "duration": 2.708
+    },
+    {
+      "text": " conditions every time. Okay? We did",
+      "start": 453.514,
+      "duration": 3.637
+    },
+    {
+      "text": " something or the other every time.",
+      "start": 456.192,
+      "duration": 2.39
+    },
+    {
+      "text": " Generally, we did different things",
+      "start": 457.682,
+      "duration": 2.882
+    },
+    {
+      "text": " while speaking. According to the",
+      "start": 459.619,
+      "duration": 2.447
+    },
+    {
+      "text": " different questions. But generally,",
+      "start": 461.099,
+      "duration": 3.101
+    },
+    {
+      "text": " here left was incremented and here",
+      "start": 463.287,
+      "duration": 3.965
+    },
+    {
+      "text": " right was decremented. Generally, if we",
+      "start": 466.34,
+      "duration": 4.616
+    },
+    {
+      "text": " had to handle duplicates when sum",
+      "start": 470.007,
+      "duration": 2.687
+    },
+    {
+      "text": " equals target, we would increment both.",
+      "start": 471.745,
+      "duration": 2.994
+    },
+    {
+      "text": " First, we would increment left. We",
+      "start": 474.439,
+      "duration": 3.711
+    },
+    {
+      "text": " would decrement right and keep",
+      "start": 477.215,
+      "duration": 2.954
+    },
+    {
+      "text": " incrementing until there were no",
+      "start": 479.234,
+      "duration": 3.084
+    },
+    {
+      "text": " duplicates. Right? We used to do this.",
+      "start": 481.383,
+      "duration": 4.116
+    },
+    {
+      "text": " Now, according to each question, you",
+      "start": 484.972,
+      "duration": 2.458
+    },
+    {
+      "text": " will have to change these three",
+      "start": 486.47,
+      "duration": 2.256
+    },
+    {
+      "text": " conditions. The conditions remain the",
+      "start": 487.766,
+      "duration": 2.314
+    },
+    {
+      "text": " same. Look, the conditions will remain",
+      "start": 489.111,
+      "duration": 2.374
+    },
+    {
+      "text": " the same. The sum can be equal to the",
+      "start": 490.52,
+      "duration": 3.121
+    },
+    {
+      "text": " target, less than it, or greater than",
+      "start": 492.704,
+      "duration": 3.338
+    },
+    {
+      "text": " it. In 99%of cases, both of these will",
+      "start": 495.105,
+      "duration": 3.121
+    },
+    {
+      "text": " remain the same. You will have to",
+      "start": 497.276,
+      "duration": 2.544
+    },
+    {
+      "text": " change this one. You might need to",
+      "start": 498.86,
+      "duration": 2.484
+    },
+    {
+      "text": " change things by 10%here and there.",
+      "start": 500.387,
+      "duration": 2.533
+    },
+    {
+      "text": " Okay? Now see, what is your goal?",
+      "start": 502.2,
+      "duration": 3.79
+    },
+    {
+      "text": " Everything up to here is the same. What",
+      "start": 505.09,
+      "duration": 2.295
+    },
+    {
+      "text": " is your goal? Your goal is to find this",
+      "start": 506.436,
+      "duration": 3.841
+    },
+    {
+      "text": ", right? Your goal is the target, the",
+      "start": 509.277,
+      "duration": 4.433
+    },
+    {
+      "text": " smaller sum, and you don't have to",
+      "start": 512.764,
+      "duration": 2.835
+    },
+    {
+      "text": " print any triplets. You just have to",
+      "start": 514.653,
+      "duration": 4.006
+    },
+    {
+      "text": " find the number. You have to find the",
+      "start": 517.738,
+      "duration": 3.561
+    },
+    {
+      "text": " number. You have to find the number. So",
+      "start": 520.359,
+      "duration": 5.086
+    },
+    {
+      "text": ", which part do you need? You need this",
+      "start": 524.445,
+      "duration": 4.094
+    },
+    {
+      "text": " one. You need this one. Do you need",
+      "start": 527.63,
+      "duration": 3.27
+    },
+    {
+      "text": " this one? No. Do you need this one? No.",
+      "start": 529.954,
+      "duration": 3.382
+    },
+    {
+      "text": " So, can we take only two conditions?",
+      "start": 532.415,
+      "duration": 3.844
+    },
+    {
+      "text": " One condition where we found the sum",
+      "start": 535.52,
+      "duration": 2.737
+    },
+    {
+      "text": " less than the target. Combine the next",
+      "start": 537.306,
+      "duration": 3.336
+    },
+    {
+      "text": " two conditions because if the sum is",
+      "start": 539.688,
+      "duration": 2.67
+    },
+    {
+      "text": " equal to or greater than the target,",
+      "start": 541.404,
+      "duration": 2.67
+    },
+    {
+      "text": " it's the same thing because what are",
+      "start": 543.12,
+      "duration": 2.67
+    },
+    {
+      "text": " you looking for? You are looking for a",
+      "start": 544.836,
+      "duration": 3.098
+    },
+    {
+      "text": " sum smaller than the target. Even if",
+      "start": 546.978,
+      "duration": 2.673
+    },
+    {
+      "text": " the sum is equal to the target, it is",
+      "start": 548.7,
+      "duration": 2.812
+    },
+    {
+      "text": " still too large. Whenever we get",
+      "start": 550.561,
+      "duration": 2.485
+    },
+    {
+      "text": " something larger, what do we do? We",
+      "start": 552.086,
+      "duration": 2.473
+    },
+    {
+      "text": " decrement the right. That's what we do,",
+      "start": 553.603,
+      "duration": 2.849
+    },
+    {
+      "text": " right? Listen carefully again. You want",
+      "start": 555.499,
+      "duration": 3.434
+    },
+    {
+      "text": " the sum to be smaller than the target.",
+      "start": 557.983,
+      "duration": 2.876
+    },
+    {
+      "text": " If you get a sum equal to the target,",
+      "start": 559.959,
+      "duration": 2.778
+    },
+    {
+      "text": " that means it's too large. You don't",
+      "start": 561.785,
+      "duration": 2.871
+    },
+    {
+      "text": " want that. If you don't want something",
+      "start": 563.714,
+      "duration": 3.078
+    },
+    {
+      "text": " large, what do you do? You decrement",
+      "start": 565.844,
+      "duration": 2.926
+    },
+    {
+      "text": " the right. If it's smaller, you",
+      "start": 567.822,
+      "duration": 2.764
+    },
+    {
+      "text": " increment the left. So, this is our",
+      "start": 569.643,
+      "duration": 3.221
+    },
+    {
+      "text": " condition. This is our perfect",
+      "start": 571.933,
+      "duration": 2.958
+    },
+    {
+      "text": " condition. This is a useless condition.",
+      "start": 573.952,
+      "duration": 3.227
+    },
+    {
+      "text": " In this, we will increment. So, can we",
+      "start": 576.279,
+      "duration": 3.675
+    },
+    {
+      "text": " do it like this, where we calculate the",
+      "start": 579.027,
+      "duration": 3.864
+    },
+    {
+      "text": " sum? sum = ai + a left + a right. Now",
+      "start": 581.965,
+      "duration": 10.554
+    },
+    {
+      "text": " if sum greater than or equal to target",
+      "start": 591.679,
+      "duration": 5.62
+    },
+    {
+      "text": " What is this? These are both conditions",
+      "start": 597.905,
+      "duration": 2.796
+    },
+    {
+      "text": ". These are both conditions. This one",
+      "start": 599.701,
+      "duration": 2.657
+    },
+    {
+      "text": " is a condition and this one is also a",
+      "start": 601.408,
+      "duration": 2.854
+    },
+    {
+      "text": " condition. It means your sum is either",
+      "start": 603.312,
+      "duration": 3.057
+    },
+    {
+      "text": " equal to the target or greater. So we",
+      "start": 605.423,
+      "duration": 2.929
+    },
+    {
+      "text": " don't really want that. We want it to",
+      "start": 607.383,
+      "duration": 2.414
+    },
+    {
+      "text": " be smaller. So for smaller, just do",
+      "start": 608.843,
+      "duration": 4.046
+    },
+    {
+      "text": " right minus minus. It's simple. There",
+      "start": 611.995,
+      "duration": 4.066
+    },
+    {
+      "text": " are no duplicates, so no need to handle",
+      "start": 615.102,
+      "duration": 2.619
+    },
+    {
+      "text": " them. Very good. But, but, but else,",
+      "start": 616.762,
+      "duration": 3.591
+    },
+    {
+      "text": " what does this mean? That your sum is",
+      "start": 619.399,
+      "duration": 3.776
+    },
+    {
+      "text": " less than the target. That's exactly",
+      "start": 622.236,
+      "duration": 2.883
+    },
+    {
+      "text": " what we want. Now, the answer, look, we",
+      "start": 624.151,
+      "duration": 3.593
+    },
+    {
+      "text": " definitely need this. What does that",
+      "start": 626.814,
+      "duration": 3.242
+    },
+    {
+      "text": " mean? Let's understand with an example.",
+      "start": 629.102,
+      "duration": 2.96
+    },
+    {
+      "text": " Now here, you have to calculate the",
+      "start": 631.162,
+      "duration": 2.326
+    },
+    {
+      "text": " answer. But how will you calculate the",
+      "start": 632.526,
+      "duration": 2.818
+    },
+    {
+      "text": " answer? Your i is here, your left is",
+      "start": 634.393,
+      "duration": 5.309
+    },
+    {
+      "text": " here, and your right is here. Right?",
+      "start": 638.839,
+      "duration": 5.76
+    },
+    {
+      "text": " Look, i is here, so -2 + 0 + 3 is what?",
+      "start": 644.42,
+      "duration": 5.199
+    },
+    {
+      "text": " One. It's one, right? One is smaller",
+      "start": 649.159,
+      "duration": 4.007
+    },
+    {
+      "text": " than the target. Yes, it's smaller. One",
+      "start": 652.239,
+      "duration": 3.323
+    },
+    {
+      "text": " is smaller than two, right? Yes. Now,",
+      "start": 654.599,
+      "duration": 2.788
+    },
+    {
+      "text": " how do we find the answer? Now, look,",
+      "start": 656.425,
+      "duration": 2.807
+    },
+    {
+      "text": " can you do this; your left is here,",
+      "start": 658.305,
+      "duration": 3.533
+    },
+    {
+      "text": " right is here. Right? And i is here. So",
+      "start": 660.91,
+      "duration": 3.875
+    },
+    {
+      "text": " one triplet is your -2, 0, and 3. That",
+      "start": 663.893,
+      "duration": 5.106
+    },
+    {
+      "text": " is one triplet. Right? So you can",
+      "start": 668.107,
+      "duration": 4.413
+    },
+    {
+      "text": " either add one to the answer. You can",
+      "start": 671.576,
+      "duration": 3.1
+    },
+    {
+      "text": " increment the answer. But, but look",
+      "start": 673.73,
+      "duration": 3.0
+    },
+    {
+      "text": " very closely. Look very carefully. You",
+      "start": 675.787,
+      "duration": 3.584
+    },
+    {
+      "text": " are saying that my i is this, my left",
+      "start": 678.435,
+      "duration": 3.364
+    },
+    {
+      "text": " is this, and my three is this. The",
+      "start": 680.863,
+      "duration": 3.278
+    },
+    {
+      "text": " whole array is sorted. You are saying",
+      "start": 683.195,
+      "duration": 3.934
+    },
+    {
+      "text": " that my -2 + 0 + 3 is less than my sum.",
+      "start": 686.23,
+      "duration": 4.929
+    },
+    {
+      "text": " That is why you are taking this as a",
+      "start": 690.79,
+      "duration": 2.407
+    },
+    {
+      "text": " triplet. Is that correct? Listen",
+      "start": 692.236,
+      "duration": 3.292
+    },
+    {
+      "text": " carefully to one thing. If this is the",
+      "start": 694.602,
+      "duration": 3.984
+    },
+    {
+      "text": " left, this is the right. Whenever the",
+      "start": 697.646,
+      "duration": 3.585
+    },
+    {
+      "text": " sum was less, whenever the sum was less",
+      "start": 700.302,
+      "duration": 3.772
+    },
+    {
+      "text": " than the target, what did we do? We",
+      "start": 703.145,
+      "duration": 4.124
+    },
+    {
+      "text": " used to increment the left. Right? We",
+      "start": 706.335,
+      "duration": 3.718
+    },
+    {
+      "text": " used to increment the left. That's what",
+      "start": 709.086,
+      "duration": 2.277
+    },
+    {
+      "text": " we did, right? See, why did we",
+      "start": 710.389,
+      "duration": 2.29
+    },
+    {
+      "text": " increment the left? But remember why we",
+      "start": 711.735,
+      "duration": 3.299
+    },
+    {
+      "text": " did it? We did it because if we",
+      "start": 714.095,
+      "duration": 3.238
+    },
+    {
+      "text": " decrement the right, then if 0 + 3 is",
+      "start": 716.407,
+      "duration": 3.758
+    },
+    {
+      "text": " less than my target, then 0 + 1 will",
+      "start": 719.24,
+      "duration": 3.683
+    },
+    {
+      "text": " definitely be less than my target.",
+      "start": 721.997,
+      "duration": 3.535
+    },
+    {
+      "text": " Listen again. Whenever the sum was less",
+      "start": 724.632,
+      "duration": 3.529
+    },
+    {
+      "text": ", why didn't we just move the right",
+      "start": 727.161,
+      "duration": 2.992
+    },
+    {
+      "text": " over here? We didn't do it because",
+      "start": 729.209,
+      "duration": 3.824
+    },
+    {
+      "text": " whenever the sum of my left and right",
+      "start": 732.096,
+      "duration": 3.308
+    },
+    {
+      "text": " is less than my target, then the sum of",
+      "start": 734.466,
+      "duration": 3.433
+    },
+    {
+      "text": " everything to the left of right, if you",
+      "start": 736.961,
+      "duration": 3.433
+    },
+    {
+      "text": " add it, will also be less. This is the",
+      "start": 739.457,
+      "duration": 3.822
+    },
+    {
+      "text": " most basic part of the question. This",
+      "start": 742.326,
+      "duration": 3.005
+    },
+    {
+      "text": " is the most basic part of the question.",
+      "start": 744.379,
+      "duration": 2.88
+    },
+    {
+      "text": " When your i was here and this was here.",
+      "start": 746.979,
+      "duration": 4.0
+    },
+    {
+      "text": " It was here, so you said, okay, -1 0 3",
+      "start": 750.079,
+      "duration": 3.888
+    },
+    {
+      "text": " is one of my answers. Good. Will -2 0",
+      "start": 753.043,
+      "duration": 5.422
+    },
+    {
+      "text": " and 1, and 1, and 1 also be less? Yes,",
+      "start": 757.553,
+      "duration": 4.681
+    },
+    {
+      "text": " it will be less. Why? If -2 + 0 + 3 is",
+      "start": 761.278,
+      "duration": 4.102
+    },
+    {
+      "text": " less than your target, then -2 + 0 +",
+      "start": 764.445,
+      "duration": 3.343
+    },
+    {
+      "text": " anything to the left of 3 will also be",
+      "start": 766.853,
+      "duration": 3.473
+    },
+    {
+      "text": " less, because it's sorted, right?",
+      "start": 769.391,
+      "duration": 3.148
+    },
+    {
+      "text": " Whatever 1 is, it will be less than 3.",
+      "start": 771.979,
+      "duration": 3.12
+    },
+    {
+      "text": " Let's assume that. So when -2 + 0 + 3",
+      "start": 774.199,
+      "duration": 3.682
+    },
+    {
+      "text": " is less than my target, then -2 0 1",
+      "start": 776.949,
+      "duration": 3.375
+    },
+    {
+      "text": " will also be less than the target. So",
+      "start": 779.392,
+      "duration": 3.542
+    },
+    {
+      "text": " this should also be in the answer.",
+      "start": 781.981,
+      "duration": 2.618
+    },
+    {
+      "text": " Right? What are you saying? Let me",
+      "start": 783.7,
+      "duration": 3.243
+    },
+    {
+      "text": " explain to you again what I am trying",
+      "start": 785.994,
+      "duration": 2.878
+    },
+    {
+      "text": " to say. What is it? Take a bigger array",
+      "start": 787.923,
+      "duration": 4.869
+    },
+    {
+      "text": ", then you will understand. It's",
+      "start": 791.792,
+      "duration": 2.901
+    },
+    {
+      "text": " possible. See, 0 1 2 3 4 5 6 7 8, okay?",
+      "start": 793.761,
+      "duration": 8.919
+    },
+    {
+      "text": " Now write this down. 1 2 3 4 5 6 7 8 9,",
+      "start": 802.08,
+      "duration": 6.055
+    },
+    {
+      "text": " your i = 0. So where is your i? i is",
+      "start": 807.34,
+      "duration": 5.523
+    },
+    {
+      "text": " here. Your left is here. Your right is",
+      "start": 811.999,
+      "duration": 4.713
+    },
+    {
+      "text": " here. That is correct. That is correct,",
+      "start": 815.804,
+      "duration": 4.165
+    },
+    {
+      "text": " right? Okay. If you calculate the sum",
+      "start": 819.016,
+      "duration": 5.206
+    },
+    {
+      "text": " now, 1 + 2 + 9 That comes to 12.",
+      "start": 823.333,
+      "duration": 6.087
+    },
+    {
+      "text": " Suppose your target was 15. Assume",
+      "start": 828.799,
+      "duration": 3.43
+    },
+    {
+      "text": " target equals 15. 12 is less than 15,",
+      "start": 831.304,
+      "duration": 3.587
+    },
+    {
+      "text": " so you would add one to the answer that",
+      "start": 833.951,
+      "duration": 3.366
+    },
+    {
+      "text": " 1, 2, and 9 is one of my answers. Good.",
+      "start": 836.377,
+      "duration": 3.661
+    },
+    {
+      "text": " But if the sum of 1, 2, and 9 is less",
+      "start": 839.679,
+      "duration": 3.96
+    },
+    {
+      "text": " than your target, then will the sum of",
+      "start": 842.719,
+      "duration": 4.04
+    },
+    {
+      "text": " 1, 2, and 8 also be less? Yes, it will",
+      "start": 845.839,
+      "duration": 3.699
+    },
+    {
+      "text": " be less because 8 is less than 9, right",
+      "start": 848.586,
+      "duration": 2.884
+    },
+    {
+      "text": ". This means your 1, 2, 8 will also be",
+      "start": 850.47,
+      "duration": 5.014
+    },
+    {
+      "text": " less. If your 1, 2, 8 is less. Now see,",
+      "start": 854.583,
+      "duration": 3.808
+    },
+    {
+      "text": " we have kept i and left fixed. We are",
+      "start": 857.447,
+      "duration": 3.105
+    },
+    {
+      "text": " trying to move right back and forth. If",
+      "start": 859.598,
+      "duration": 2.84
+    },
+    {
+      "text": " the sum of my 1, 2, and 8 is less, then",
+      "start": 861.487,
+      "duration": 2.935
+    },
+    {
+      "text": " will the sum of 1, 2, 7 be less or more",
+      "start": 863.472,
+      "duration": 2.935
+    },
+    {
+      "text": "? It will be less. It will be less.",
+      "start": 865.407,
+      "duration": 2.515
+    },
+    {
+      "text": " This will also come in the answer. 1 2",
+      "start": 867.022,
+      "duration": 3.368
+    },
+    {
+      "text": " 7, similarly if you find any such left",
+      "start": 869.46,
+      "duration": 3.677
+    },
+    {
+      "text": " and right where the sum of i, left, and",
+      "start": 872.207,
+      "duration": 3.747
+    },
+    {
+      "text": " right is less, then the sum of all",
+      "start": 875.024,
+      "duration": 3.395
+    },
+    {
+      "text": " elements between left and right will be",
+      "start": 877.489,
+      "duration": 3.747
+    },
+    {
+      "text": " less. Listen again, right now left is",
+      "start": 880.306,
+      "duration": 3.633
+    },
+    {
+      "text": " here and right is here. But if you",
+      "start": 882.991,
+      "duration": 3.027
+    },
+    {
+      "text": " place the right pointer anywhere here,",
+      "start": 885.082,
+      "duration": 3.427
+    },
+    {
+      "text": " the sum will be lower. If you place the",
+      "start": 887.573,
+      "duration": 3.724
+    },
+    {
+      "text": " right at eight, then lower: 7, 6, 5, 4,",
+      "start": 890.372,
+      "duration": 3.921
+    },
+    {
+      "text": " 3, 2, so 0 and 1—these are your I and",
+      "start": 893.368,
+      "duration": 3.921
+    },
+    {
+      "text": " left. Zero and one. These are your I",
+      "start": 896.364,
+      "duration": 3.796
+    },
+    {
+      "text": " and left. Along with this, if you keep",
+      "start": 899.234,
+      "duration": 3.479
+    },
+    {
+      "text": " any right from two to eight, the sum",
+      "start": 901.773,
+      "duration": 3.178
+    },
+    {
+      "text": " will be lower. That is why, whenever we",
+      "start": 904.012,
+      "duration": 4.792
+    },
+    {
+      "text": " get a sum less than the target.",
+      "start": 907.893,
+      "duration": 3.746
+    },
+    {
+      "text": " Whenever we get a sum less than the",
+      "start": 911.379,
+      "duration": 3.323
+    },
+    {
+      "text": " target, we don't just do answer equals",
+      "start": 913.768,
+      "duration": 3.522
+    },
+    {
+      "text": " answer plus one. How many elements can",
+      "start": 916.357,
+      "duration": 3.216
+    },
+    {
+      "text": " come in between? See, your left is one.",
+      "start": 918.624,
+      "duration": 4.141
+    },
+    {
+      "text": " How much is this? Count how many",
+      "start": 921.979,
+      "duration": 4.484
+    },
+    {
+      "text": " elements are there from left plus one",
+      "start": 925.564,
+      "duration": 4.764
+    },
+    {
+      "text": " to the right that you found. 1, 2, 3, 4",
+      "start": 929.43,
+      "duration": 5.921
+    },
+    {
+      "text": ", 5, 6, 7; why did it come? This seven",
+      "start": 934.351,
+      "duration": 5.613
+    },
+    {
+      "text": " came from 8-1, doing 8-1 equals 7. How",
+      "start": 939.072,
+      "duration": 5.024
+    },
+    {
+      "text": " many numbers are there between any two",
+      "start": 943.141,
+      "duration": 2.729
+    },
+    {
+      "text": " numbers? By subtracting the low number",
+      "start": 944.916,
+      "duration": 3.254
+    },
+    {
+      "text": " from the high number. So, how many",
+      "start": 947.23,
+      "duration": 2.93
+    },
+    {
+      "text": " numbers are there between one and eight",
+      "start": 949.207,
+      "duration": 2.825
+    },
+    {
+      "text": "? So, there are numbers 2, 3, 4, 5, 6,",
+      "start": 951.032,
+      "duration": 3.842
+    },
+    {
+      "text": " 7. You have to do 8-1. That is why you",
+      "start": 953.949,
+      "duration": 3.767
+    },
+    {
+      "text": " should not do this. This is useless.",
+      "start": 956.781,
+      "duration": 3.378
+    },
+    {
+      "text": " Answer equals answer plus right minus",
+      "start": 959.279,
+      "duration": 6.025
+    },
+    {
+      "text": " left. Yes, right minus left. Did you",
+      "start": 964.439,
+      "duration": 5.034
+    },
+    {
+      "text": " understand why we are doing this? Now",
+      "start": 968.522,
+      "duration": 2.927
+    },
+    {
+      "text": " that is done once. Now look. If you",
+      "start": 970.521,
+      "duration": 3.804
+    },
+    {
+      "text": " have done this, then this left's work",
+      "start": 973.37,
+      "duration": 2.652
+    },
+    {
+      "text": " is finished. This left has already",
+      "start": 975.067,
+      "duration": 2.814
+    },
+    {
+      "text": " formed pairs with whoever it could.",
+      "start": 976.938,
+      "duration": 2.965
+    },
+    {
+      "text": " Okay? Now you have to increment the",
+      "start": 979.119,
+      "duration": 3.766
+    },
+    {
+      "text": " left, which we used to do. Which is",
+      "start": 981.931,
+      "duration": 2.78
+    },
+    {
+      "text": " that if the sum was less than the",
+      "start": 983.752,
+      "duration": 2.37
+    },
+    {
+      "text": " target, we used to increase the left.",
+      "start": 985.163,
+      "duration": 2.536
+    },
+    {
+      "text": " But before increasing the left, we",
+      "start": 987.759,
+      "duration": 3.617
+    },
+    {
+      "text": " calculated that whatever pairs this",
+      "start": 990.453,
+      "duration": 3.695
+    },
+    {
+      "text": " left could form with any right, we",
+      "start": 993.225,
+      "duration": 3.618
+    },
+    {
+      "text": " counted them in our answer. Now we will",
+      "start": 995.92,
+      "duration": 4.903
+    },
+    {
+      "text": " increment the left here and do similar",
+      "start": 999.887,
+      "duration": 3.432
+    },
+    {
+      "text": " work for this. Did you understand? Why",
+      "start": 1002.383,
+      "duration": 3.0
+    },
+    {
+      "text": " are we doing this? Why did we add to",
+      "start": 1004.419,
+      "duration": 2.341
+    },
+    {
+      "text": " the answer like that? After this, we",
+      "start": 1005.795,
+      "duration": 2.738
+    },
+    {
+      "text": " will increment the left because that is",
+      "start": 1007.59,
+      "duration": 3.213
+    },
+    {
+      "text": " what we used to do. So, look, did the",
+      "start": 1009.86,
+      "duration": 3.097
+    },
+    {
+      "text": " condition remain the same or not? You",
+      "start": 1012.007,
+      "duration": 2.896
+    },
+    {
+      "text": " only have two conditions. Sum less than",
+      "start": 1013.951,
+      "duration": 3.138
+    },
+    {
+      "text": " target and sum greater than or equal to",
+      "start": 1016.154,
+      "duration": 3.529
+    },
+    {
+      "text": " target. So, there are the same three",
+      "start": 1018.748,
+      "duration": 2.533
+    },
+    {
+      "text": " conditions for you. You are doing the",
+      "start": 1020.316,
+      "duration": 2.27
+    },
+    {
+      "text": " same work. But before doing the work,",
+      "start": 1021.616,
+      "duration": 2.412
+    },
+    {
+      "text": " you are doing whatever you need to do",
+      "start": 1023.067,
+      "duration": 2.444
+    },
+    {
+      "text": " with your answer. Okay? Understood? If",
+      "start": 1024.55,
+      "duration": 3.791
+    },
+    {
+      "text": " anyone didn't understand, please",
+      "start": 1027.388,
+      "duration": 2.525
+    },
+    {
+      "text": " comment. I will explain it again",
+      "start": 1028.96,
+      "duration": 2.342
+    },
+    {
+      "text": " tomorrow. Understanding is very",
+      "start": 1030.339,
+      "duration": 2.221
+    },
+    {
+      "text": " important. That’s right. So, this is",
+      "start": 1031.598,
+      "duration": 3.181
+    },
+    {
+      "text": " its pseudo-code. You all must have",
+      "start": 1033.839,
+      "duration": 2.536
+    },
+    {
+      "text": " understood the pseudo-code. The code",
+      "start": 1035.402,
+      "duration": 2.171
+    },
+    {
+      "text": " from yesterday and a simple link to the",
+      "start": 1036.613,
+      "duration": 2.57
+    },
+    {
+      "text": " code will be available here. Go and",
+      "start": 1038.223,
+      "duration": 2.484
+    },
+    {
+      "text": " take a look at that. Time complexity",
+      "start": 1039.75,
+      "duration": 3.264
+    },
+    {
+      "text": " again, order of N and order of one",
+      "start": 1042.087,
+      "duration": 3.482
+    },
+    {
+      "text": " space. This is the time. Okay? No,",
+      "start": 1044.642,
+      "duration": 4.677
+    },
+    {
+      "text": " sorry, order of N², yes, look at",
+      "start": 1048.364,
+      "duration": 2.489
+    },
+    {
+      "text": " yesterday's lecture and you will",
+      "start": 1049.898,
+      "duration": 2.443
+    },
+    {
+      "text": " understand. Why N², N² time, order of",
+      "start": 1051.386,
+      "duration": 3.268
+    },
+    {
+      "text": " one space, that is the question. Come",
+      "start": 1053.702,
+      "duration": 3.538
+    },
+    {
+      "text": " to the next question. Dutch National",
+      "start": 1056.315,
+      "duration": 5.1
+    },
+    {
+      "text": " Flag. Okay? Now, this is a different",
+      "start": 1060.519,
+      "duration": 4.286
+    },
+    {
+      "text": " type of question. The three-term",
+      "start": 1063.837,
+      "duration": 2.158
+    },
+    {
+      "text": " approach we were doing is a different",
+      "start": 1065.031,
+      "duration": 2.349
+    },
+    {
+      "text": " type of question. In my opinion, of all",
+      "start": 1066.416,
+      "duration": 2.49
+    },
+    {
+      "text": " the questions we've done in the sheet",
+      "start": 1067.942,
+      "duration": 2.357
+    },
+    {
+      "text": " so far, this is the most unique one.",
+      "start": 1069.336,
+      "duration": 2.32
+    },
+    {
+      "text": " Okay? So, what are you asked to do in",
+      "start": 1070.779,
+      "duration": 3.938
+    },
+    {
+      "text": " this? It says you are given an array.",
+      "start": 1073.787,
+      "duration": 2.893
+    },
+    {
+      "text": " Okay, an array is given. Okay? It says",
+      "start": 1075.82,
+      "duration": 6.72
+    },
+    {
+      "text": " there are only three types of elements",
+      "start": 1081.577,
+      "duration": 2.419
+    },
+    {
+      "text": " in the array. 0, 1, 2, well, this is",
+      "start": 1083.033,
+      "duration": 3.942
+    },
+    {
+      "text": " not sorted. So it could be in any order",
+      "start": 1086.082,
+      "duration": 3.879
+    },
+    {
+      "text": ", like one, zero, zero, two, zero, one,",
+      "start": 1088.961,
+      "duration": 3.226
+    },
+    {
+      "text": " it could be like that. Okay? It said",
+      "start": 1091.244,
+      "duration": 4.247
+    },
+    {
+      "text": " you should rearrange the array.",
+      "start": 1094.57,
+      "duration": 3.449
+    },
+    {
+      "text": " Rearrange the array. Do it in-place. So",
+      "start": 1097.219,
+      "duration": 6.92
+    },
+    {
+      "text": " that all the zeros come together. All",
+      "start": 1103.227,
+      "duration": 4.197
+    },
+    {
+      "text": " the ones come together. After that, all",
+      "start": 1106.49,
+      "duration": 3.341
+    },
+    {
+      "text": " the twos come together. Let the array",
+      "start": 1108.878,
+      "duration": 2.873
+    },
+    {
+      "text": " become like this. Do it like this.",
+      "start": 1110.804,
+      "duration": 3.495
+    },
+    {
+      "text": " Rearrange, do it in-place, and do it",
+      "start": 1113.739,
+      "duration": 4.613
+    },
+    {
+      "text": " without sorting. You have to do it",
+      "start": 1117.452,
+      "duration": 3.867
+    },
+    {
+      "text": " without sorting. Do it without sorting.",
+      "start": 1120.387,
+      "duration": 4.913
+    },
+    {
+      "text": " This is what you are told in the",
+      "start": 1124.48,
+      "duration": 2.653
+    },
+    {
+      "text": " question to do. First of all, first of",
+      "start": 1126.185,
+      "duration": 3.123
+    },
+    {
+      "text": " all, which pattern will apply to this?",
+      "start": 1128.363,
+      "duration": 3.094
+    },
+    {
+      "text": " How to identify that. Is it an array",
+      "start": 1130.557,
+      "duration": 4.337
+    },
+    {
+      "text": " question? Yes. Is it sorted? No. But",
+      "start": 1133.969,
+      "duration": 5.432
+    },
+    {
+      "text": " okay. Okay. It is not sorted. Can we",
+      "start": 1138.491,
+      "duration": 3.762
+    },
+    {
+      "text": " sort it? Can we sort it? No. The",
+      "start": 1141.341,
+      "duration": 4.498
+    },
+    {
+      "text": " question said not to sort. Is it a",
+      "start": 1144.915,
+      "duration": 3.497
+    },
+    {
+      "text": " rearrangement question? Is \"rearrange\"",
+      "start": 1147.466,
+      "duration": 3.079
+    },
+    {
+      "text": " mentioned in the question? You have to",
+      "start": 1149.597,
+      "duration": 2.891
+    },
+    {
+      "text": " do it. Are you understanding? Yes. Yes.",
+      "start": 1151.528,
+      "duration": 3.043
+    },
+    {
+      "text": " It is a rearrangement question. Do you",
+      "start": 1153.671,
+      "duration": 2.92
+    },
+    {
+      "text": " have to do it in-place? Meaning no",
+      "start": 1155.645,
+      "duration": 3.255
+    },
+    {
+      "text": " extra space. No extra space. Yes. So",
+      "start": 1157.966,
+      "duration": 4.598
+    },
+    {
+      "text": " look, most conditions for two pointers",
+      "start": 1161.616,
+      "duration": 2.981
+    },
+    {
+      "text": " are satisfied. It is an array question",
+      "start": 1163.65,
+      "duration": 3.231
+    },
+    {
+      "text": " too. The sorted one didn't get",
+      "start": 1165.937,
+      "duration": 2.543
+    },
+    {
+      "text": " satisfied. But \"rearrange\" is written",
+      "start": 1167.529,
+      "duration": 3.625
+    },
+    {
+      "text": " and you have to do it in-place, so in",
+      "start": 1170.224,
+      "duration": 3.611
+    },
+    {
+      "text": " my opinion, there is a 90%chance it is",
+      "start": 1172.905,
+      "duration": 3.681
+    },
+    {
+      "text": " a two-pointer question. This is a",
+      "start": 1175.657,
+      "duration": 3.169
+    },
+    {
+      "text": " two-pointer question. You have been",
+      "start": 1177.875,
+      "duration": 2.572
+    },
+    {
+      "text": " given this directly in the question.",
+      "start": 1179.481,
+      "duration": 2.233
+    },
+    {
+      "text": " Okay? Now look, there are two or three",
+      "start": 1180.814,
+      "duration": 4.456
+    },
+    {
+      "text": " ways to solve this question. First is",
+      "start": 1184.318,
+      "duration": 3.615
+    },
+    {
+      "text": " the brute force. First is the brute",
+      "start": 1187.01,
+      "duration": 4.059
+    },
+    {
+      "text": " force. Right? Brute force. You",
+      "start": 1190.162,
+      "duration": 3.239
+    },
+    {
+      "text": " understand the question now, right? You",
+      "start": 1192.43,
+      "duration": 2.25
+    },
+    {
+      "text": " have to bring all the zeros to one side",
+      "start": 1193.721,
+      "duration": 2.603
+    },
+    {
+      "text": ". You have to create an array of ones",
+      "start": 1195.324,
+      "duration": 2.603
+    },
+    {
+      "text": " and twos like this. For such an array,",
+      "start": 1196.969,
+      "duration": 2.732
+    },
+    {
+      "text": " what should you do first as a brute",
+      "start": 1198.747,
+      "duration": 2.63
+    },
+    {
+      "text": " force? I think many people must have",
+      "start": 1200.423,
+      "duration": 2.958
+    },
+    {
+      "text": " understood the brute force approach for",
+      "start": 1202.435,
+      "duration": 3.1
+    },
+    {
+      "text": " this. Create three arrays. Create three",
+      "start": 1204.589,
+      "duration": 4.451
+    },
+    {
+      "text": " separate arrays. Create three separate",
+      "start": 1208.12,
+      "duration": 4.438
+    },
+    {
+      "text": " arrays. This is the array for zeros.",
+      "start": 1211.625,
+      "duration": 4.296
+    },
+    {
+      "text": " This is the array for ones. This is the",
+      "start": 1215.021,
+      "duration": 2.286
+    },
+    {
+      "text": " array for twos. So, in your main array,",
+      "start": 1216.343,
+      "duration": 4.137
+    },
+    {
+      "text": " take all the zeros and put them here.",
+      "start": 1219.576,
+      "duration": 4.543
+    },
+    {
+      "text": " So these become 0 0 0, take all the",
+      "start": 1223.459,
+      "duration": 3.11
+    },
+    {
+      "text": " ones and put them here, so these become",
+      "start": 1225.629,
+      "duration": 3.352
+    },
+    {
+      "text": " 1 1, and put all the twos here, so",
+      "start": 1228.042,
+      "duration": 3.05
+    },
+    {
+      "text": " these become two two. After that, write",
+      "start": 1230.152,
+      "duration": 3.441
+    },
+    {
+      "text": " all the zeros from this into your main",
+      "start": 1232.656,
+      "duration": 3.401
+    },
+    {
+      "text": " array, then write all the ones from",
+      "start": 1235.121,
+      "duration": 3.211
+    },
+    {
+      "text": " this into your main array. Write all",
+      "start": 1237.395,
+      "duration": 3.101
+    },
+    {
+      "text": " the twos from this into the main array.",
+      "start": 1239.534,
+      "duration": 2.465
+    },
+    {
+      "text": " So, this is done. What is its time",
+      "start": 1241.119,
+      "duration": 3.412
+    },
+    {
+      "text": " complexity? O (n) and space complexity",
+      "start": 1243.597,
+      "duration": 3.757
+    },
+    {
+      "text": " is Order of n because you are creating",
+      "start": 1246.414,
+      "duration": 3.273
+    },
+    {
+      "text": " separate arrays, so that was the brute",
+      "start": 1248.747,
+      "duration": 3.273
+    },
+    {
+      "text": " force. Everyone must have understood",
+      "start": 1251.08,
+      "duration": 3.23
+    },
+    {
+      "text": " this. Optimized, optimized, optimized",
+      "start": 1253.368,
+      "duration": 5.044
+    },
+    {
+      "text": "—now in this, we do the work we were",
+      "start": 1257.412,
+      "duration": 4.669
+    },
+    {
+      "text": " doing in brute force a bit faster. What",
+      "start": 1261.177,
+      "duration": 5.058
+    },
+    {
+      "text": " were you doing? You were creating",
+      "start": 1265.281,
+      "duration": 2.441
+    },
+    {
+      "text": " arrays and writing zeros in them. But",
+      "start": 1266.76,
+      "duration": 2.614
+    },
+    {
+      "text": " why is there a need to write zeros? Do",
+      "start": 1268.419,
+      "duration": 2.944
+    },
+    {
+      "text": " one thing. Take three variables. count0",
+      "start": 1270.495,
+      "duration": 4.561
+    },
+    {
+      "text": " = 0, count1 = 0, count2 = 0 and",
+      "start": 1274.152,
+      "duration": 3.983
+    },
+    {
+      "text": " traverse the whole array once. Traverse",
+      "start": 1277.232,
+      "duration": 4.934
+    },
+    {
+      "text": " the entire array once and count them.",
+      "start": 1281.23,
+      "duration": 3.349
+    },
+    {
+      "text": " So you will understand that I have 4",
+      "start": 1283.759,
+      "duration": 3.076
+    },
+    {
+      "text": " zeros. 3 ones and 2 twos. Now write",
+      "start": 1285.892,
+      "duration": 4.515
+    },
+    {
+      "text": " into the array based on these variables",
+      "start": 1289.459,
+      "duration": 3.028
+    },
+    {
+      "text": ". You know that there are four zeros in",
+      "start": 1291.487,
+      "duration": 2.964
+    },
+    {
+      "text": " your entire array. Three ones. Two twos",
+      "start": 1293.497,
+      "duration": 3.756
+    },
+    {
+      "text": ". So just 0 0 Write three ones in the",
+      "start": 1296.253,
+      "duration": 5.402
+    },
+    {
+      "text": " array. Anywhere in the array, look, the",
+      "start": 1300.687,
+      "duration": 2.749
+    },
+    {
+      "text": " total size of the array will be 4 + 3 =",
+      "start": 1302.479,
+      "duration": 2.68
+    },
+    {
+      "text": " 7 + 2 = 9; that is certain because the",
+      "start": 1304.202,
+      "duration": 2.636
+    },
+    {
+      "text": " variables were created by counting from",
+      "start": 1305.881,
+      "duration": 2.679
+    },
+    {
+      "text": " this array itself. So just write it",
+      "start": 1307.603,
+      "duration": 2.802
+    },
+    {
+      "text": " like this, overwrite the array. This is",
+      "start": 1309.458,
+      "duration": 3.19
+    },
+    {
+      "text": " your final array. This is your final",
+      "start": 1311.71,
+      "duration": 3.301
+    },
+    {
+      "text": " array. Right? How much time complexity",
+      "start": 1314.075,
+      "duration": 3.195
+    },
+    {
+      "text": " did this take? Order of n. How much",
+      "start": 1316.313,
+      "duration": 2.903
+    },
+    {
+      "text": " space did this take? Order of one. No",
+      "start": 1318.259,
+      "duration": 2.812
+    },
+    {
+      "text": " space was used, man. Where is the space",
+      "start": 1320.114,
+      "duration": 2.795
+    },
+    {
+      "text": "? There is space for three variables.",
+      "start": 1321.909,
+      "duration": 2.066
+    },
+    {
+      "text": " Three variables are constant. So this",
+      "start": 1323.075,
+      "duration": 3.185
+    },
+    {
+      "text": " is one of the best approaches. This is",
+      "start": 1325.319,
+      "duration": 3.133
+    },
+    {
+      "text": " one of the best approaches. If you",
+      "start": 1327.49,
+      "duration": 2.734
+    },
+    {
+      "text": " explain this in any interview, the",
+      "start": 1329.272,
+      "duration": 2.612
+    },
+    {
+      "text": " interviewer won't be able to argue with",
+      "start": 1330.932,
+      "duration": 2.85
+    },
+    {
+      "text": " you because the two-pointer approach we",
+      "start": 1332.829,
+      "duration": 2.85
+    },
+    {
+      "text": " are learning is the same approach. That",
+      "start": 1334.727,
+      "duration": 3.212
+    },
+    {
+      "text": " also has the same time complexity and",
+      "start": 1336.989,
+      "duration": 2.843
+    },
+    {
+      "text": " same space complexity. If you write",
+      "start": 1338.882,
+      "duration": 3.034
+    },
+    {
+      "text": " this in an interview, no one will be",
+      "start": 1340.984,
+      "duration": 3.453
+    },
+    {
+      "text": " able to argue. But if by chance they do",
+      "start": 1343.505,
+      "duration": 4.584
+    },
+    {
+      "text": ", and say, \"Tell me the two-pointer",
+      "start": 1347.089,
+      "duration": 3.113
+    },
+    {
+      "text": " approach,\" then for the specific thing",
+      "start": 1349.263,
+      "duration": 3.294
+    },
+    {
+      "text": " we're learning this for, this becomes",
+      "start": 1351.618,
+      "duration": 3.234
+    },
+    {
+      "text": " the best approach. Let me explain why",
+      "start": 1353.913,
+      "duration": 4.426
+    },
+    {
+      "text": " this is the best approach. How many",
+      "start": 1357.396,
+      "duration": 3.489
+    },
+    {
+      "text": " passes are you doing here? What do you",
+      "start": 1359.943,
+      "duration": 3.268
+    },
+    {
+      "text": " mean by passes? How many times are you",
+      "start": 1362.271,
+      "duration": 2.841
+    },
+    {
+      "text": " going through the whole array? First,",
+      "start": 1364.149,
+      "duration": 3.008
+    },
+    {
+      "text": " you traversed the entire array once to",
+      "start": 1366.203,
+      "duration": 2.764
+    },
+    {
+      "text": " create these zeros, ones, and twos. It",
+      "start": 1368.014,
+      "duration": 3.121
+    },
+    {
+      "text": " only gets created that way. You have to",
+      "start": 1370.167,
+      "duration": 2.287
+    },
+    {
+      "text": " go through the whole array once for it",
+      "start": 1371.484,
+      "duration": 2.131
+    },
+    {
+      "text": " to happen. So that's one. And then you",
+      "start": 1372.645,
+      "duration": 3.572
+    },
+    {
+      "text": " passed through the array again. To",
+      "start": 1375.261,
+      "duration": 2.573
+    },
+    {
+      "text": " overwrite that there are four zeros. So",
+      "start": 1376.889,
+      "duration": 3.127
+    },
+    {
+      "text": " we wrote them in the first four",
+      "start": 1379.051,
+      "duration": 2.104
+    },
+    {
+      "text": " positions. Then we wrote them in the",
+      "start": 1380.191,
+      "duration": 2.333
+    },
+    {
+      "text": " next three. Then in the next two. So",
+      "start": 1381.559,
+      "duration": 2.699
+    },
+    {
+      "text": " you had to do two passes. Meaning you",
+      "start": 1383.316,
+      "duration": 3.329
+    },
+    {
+      "text": " had to go through the entire array",
+      "start": 1385.686,
+      "duration": 2.382
+    },
+    {
+      "text": " twice like that. Right? It doesn't make",
+      "start": 1387.108,
+      "duration": 2.856
+    },
+    {
+      "text": " a huge difference, but you had to do it",
+      "start": 1388.999,
+      "duration": 2.365
+    },
+    {
+      "text": ". Right? In the best approach, you only",
+      "start": 1390.364,
+      "duration": 3.828
+    },
+    {
+      "text": " do one pass. Meaning you go from the",
+      "start": 1393.253,
+      "duration": 2.845
+    },
+    {
+      "text": " start to the end of the array, and the",
+      "start": 1395.137,
+      "duration": 2.503
+    },
+    {
+      "text": " whole array gets sorted. So this is a",
+      "start": 1396.68,
+      "duration": 2.456
+    },
+    {
+      "text": " single-pass approach. That is why it is",
+      "start": 1398.17,
+      "duration": 2.397
+    },
+    {
+      "text": " the best approach. So the interviewer",
+      "start": 1399.602,
+      "duration": 2.825
+    },
+    {
+      "text": " might tell you to do a single pass.",
+      "start": 1401.489,
+      "duration": 3.152
+    },
+    {
+      "text": " Explain the single-pass approach. This",
+      "start": 1403.779,
+      "duration": 5.046
+    },
+    {
+      "text": " is the only approach for a single pass.",
+      "start": 1407.881,
+      "duration": 3.199
+    },
+    {
+      "text": " Right? Explain the single-pass approach",
+      "start": 1410.599,
+      "duration": 3.279
+    },
+    {
+      "text": ". What have we understood so far? We",
+      "start": 1412.878,
+      "duration": 3.34
+    },
+    {
+      "text": " need to sort the array. Right? And we",
+      "start": 1415.307,
+      "duration": 4.785
+    },
+    {
+      "text": " need to do it in a single pass. We",
+      "start": 1419.171,
+      "duration": 3.788
+    },
+    {
+      "text": " shouldn't use space. Two-pointer will",
+      "start": 1422.039,
+      "duration": 4.287
+    },
+    {
+      "text": " be used. Two-pointer will be used.",
+      "start": 1425.396,
+      "duration": 2.823
+    },
+    {
+      "text": " Right? Let me open the question once so",
+      "start": 1427.319,
+      "duration": 4.044
+    },
+    {
+      "text": " I can get the problem statement for it.",
+      "start": 1430.412,
+      "duration": 2.907
+    },
+    {
+      "text": " Get an example. Oh, you need an example",
+      "start": 1433.521,
+      "duration": 3.192
+    },
+    {
+      "text": ", right? Right? We have this example.",
+      "start": 1435.713,
+      "duration": 5.166
+    },
+    {
+      "text": " We have the example: 2, 0, 2, 1, 0,",
+      "start": 1444.439,
+      "duration": 4.834
+    },
+    {
+      "text": " very good. Okay, so how do we use two",
+      "start": 1448.383,
+      "duration": 6.822
+    },
+    {
+      "text": " pointers in this? So look, how should",
+      "start": 1454.297,
+      "duration": 4.1
+    },
+    {
+      "text": " your final array turn out? Once your",
+      "start": 1457.467,
+      "duration": 4.258
+    },
+    {
+      "text": " final array is formed, it will look",
+      "start": 1460.786,
+      "duration": 3.125
+    },
+    {
+      "text": " like this: 0, 1, 2, 3, 4, 5, so what",
+      "start": 1462.971,
+      "duration": 6.49
+    },
+    {
+      "text": " will your final array look like? There",
+      "start": 1468.594,
+      "duration": 5.734
+    },
+    {
+      "text": " will be two zeros, two ones, and two",
+      "start": 1473.403,
+      "duration": 3.698
+    },
+    {
+      "text": " twos. It will look just like that,",
+      "start": 1476.176,
+      "duration": 2.432
+    },
+    {
+      "text": " right? Now, pay attention to this. This",
+      "start": 1477.642,
+      "duration": 4.211
+    },
+    {
+      "text": " is your zero region. This is your zero",
+      "start": 1480.927,
+      "duration": 3.944
+    },
+    {
+      "text": " region. This is your two region. This",
+      "start": 1483.95,
+      "duration": 4.732
+    },
+    {
+      "text": " is your one region. Right? So, this is",
+      "start": 1487.75,
+      "duration": 4.423
+    },
+    {
+      "text": " zero. This is one, and this one here is",
+      "start": 1491.298,
+      "duration": 3.98
+    },
+    {
+      "text": " two. So, whatever array you create,",
+      "start": 1494.347,
+      "duration": 3.094
+    },
+    {
+      "text": " your final array is divided into three",
+      "start": 1496.495,
+      "duration": 3.08
+    },
+    {
+      "text": " parts. You see, there is a zero region.",
+      "start": 1498.63,
+      "duration": 3.369
+    },
+    {
+      "text": " There is a one region and a two region.",
+      "start": 1501.199,
+      "duration": 3.08
+    },
+    {
+      "text": " I mean, the array will start, and it",
+      "start": 1503.419,
+      "duration": 4.562
+    },
+    {
+      "text": " will come to a zero. Until the end of",
+      "start": 1507.08,
+      "duration": 4.371
+    },
+    {
+      "text": " zero. Then one will begin. One will end",
+      "start": 1510.526,
+      "duration": 7.037
+    },
+    {
+      "text": ". Two will begin, and two will end. Now",
+      "start": 1516.563,
+      "duration": 7.89
+    },
+    {
+      "text": " see, your array will look like this,",
+      "start": 1523.498,
+      "duration": 2.613
+    },
+    {
+      "text": " won't it? The array will start",
+      "start": 1525.155,
+      "duration": 2.381
+    },
+    {
+      "text": " somewhere, which will be from zero. But",
+      "start": 1526.579,
+      "duration": 2.8
+    },
+    {
+      "text": " that's okay. So, the array will start",
+      "start": 1528.439,
+      "duration": 3.632
+    },
+    {
+      "text": " somewhere. The array will run up to",
+      "start": 1531.146,
+      "duration": 3.193
+    },
+    {
+      "text": " here, to zero. Then one will start. One",
+      "start": 1533.396,
+      "duration": 3.329
+    },
+    {
+      "text": " will also end eventually. Then right",
+      "start": 1535.773,
+      "duration": 2.838
+    },
+    {
+      "text": " after that, two will start and two will",
+      "start": 1537.659,
+      "duration": 2.843
+    },
+    {
+      "text": " end. So, this was your zero area. This",
+      "start": 1539.549,
+      "duration": 3.292
+    },
+    {
+      "text": " one for one, this one for two. This is",
+      "start": 1541.878,
+      "duration": 2.454
+    },
+    {
+      "text": " what's happening, right? In this case,",
+      "start": 1543.369,
+      "duration": 2.897
+    },
+    {
+      "text": " what is it? What is your start? Your",
+      "start": 1545.32,
+      "duration": 3.304
+    },
+    {
+      "text": " start index is zero. At which index did",
+      "start": 1547.706,
+      "duration": 4.241
+    },
+    {
+      "text": " zero end? Zero ended at this index, at",
+      "start": 1551.005,
+      "duration": 3.208
+    },
+    {
+      "text": " one. At one. At which index did one",
+      "start": 1553.268,
+      "duration": 3.011
+    },
+    {
+      "text": " begin? At two. At which index did one",
+      "start": 1555.32,
+      "duration": 3.001
+    },
+    {
+      "text": " end? At three. At which index did two",
+      "start": 1557.365,
+      "duration": 2.909
+    },
+    {
+      "text": " begin? At four. And at which index did",
+      "start": 1559.312,
+      "duration": 3.109
+    },
+    {
+      "text": " two end? At five. Okay? Did everyone",
+      "start": 1561.464,
+      "duration": 4.313
+    },
+    {
+      "text": " understand this much or not? Up to here",
+      "start": 1564.822,
+      "duration": 3.087
+    },
+    {
+      "text": ". Okay? Now, let's do the next part.",
+      "start": 1566.909,
+      "duration": 3.696
+    },
+    {
+      "text": " The video will continue right on this.",
+      "start": 1569.705,
+      "duration": 2.796
+    },
+    {
+      "text": " Look, did everyone understand up to",
+      "start": 1571.601,
+      "duration": 2.85
+    },
+    {
+      "text": " here that your array is divided? Your",
+      "start": 1573.504,
+      "duration": 2.944
+    },
+    {
+      "text": " array is divided. It is divided into",
+      "start": 1575.486,
+      "duration": 2.717
+    },
+    {
+      "text": " chunks. Into zero, into one, into two,",
+      "start": 1577.257,
+      "duration": 3.291
+    },
+    {
+      "text": " for everything. Now suppose, let's just",
+      "start": 1579.604,
+      "duration": 4.624
+    },
+    {
+      "text": " suppose that the array you are given,",
+      "start": 1583.305,
+      "duration": 3.846
+    },
+    {
+      "text": " your input array, the input array given",
+      "start": 1586.228,
+      "duration": 4.0
+    },
+    {
+      "text": " to you is 2 0 2 1 0 0 1 2 5, let's",
+      "start": 1589.305,
+      "duration": 10.574
+    },
+    {
+      "text": " assume this region here is already",
+      "start": 1598.959,
+      "duration": 3.72
+    },
+    {
+      "text": " given to you somewhere. Along with that",
+      "start": 1601.759,
+      "duration": 3.952
+    },
+    {
+      "text": ", this region is also given to you.",
+      "start": 1604.711,
+      "duration": 3.268
+    },
+    {
+      "text": " What I am trying to say is, suppose",
+      "start": 1608.2,
+      "duration": 3.941
+    },
+    {
+      "text": " this region...sorry, my recording went",
+      "start": 1611.225,
+      "duration": 4.194
+    },
+    {
+      "text": " off. Okay? So, what was I just saying?",
+      "start": 1614.503,
+      "duration": 3.948
+    },
+    {
+      "text": " You have your regions in the array.",
+      "start": 1617.551,
+      "duration": 2.37
+    },
+    {
+      "text": " Right? So, if we take three pointers,",
+      "start": 1619.021,
+      "duration": 4.907
+    },
+    {
+      "text": " like this, and assume something. Look,",
+      "start": 1623.002,
+      "duration": 4.616
+    },
+    {
+      "text": " you need to process this entire array.",
+      "start": 1626.675,
+      "duration": 3.164
+    },
+    {
+      "text": " Rearrange it. Let's assume that there",
+      "start": 1628.939,
+      "duration": 3.764
+    },
+    {
+      "text": " is some part to the left and some part",
+      "start": 1631.76,
+      "duration": 3.162
+    },
+    {
+      "text": " to the right of this array. Right? We",
+      "start": 1633.979,
+      "duration": 3.864
+    },
+    {
+      "text": " say that wherever the array starts,",
+      "start": 1636.905,
+      "duration": 3.162
+    },
+    {
+      "text": " let's assume it's a huge infinite array",
+      "start": 1639.129,
+      "duration": 3.409
+    },
+    {
+      "text": ". You only need to worry about this",
+      "start": 1641.538,
+      "duration": 3.86
+    },
+    {
+      "text": " part. But this array is infinite. I'm",
+      "start": 1644.475,
+      "duration": 3.297
+    },
+    {
+      "text": " just telling you for the sake of",
+      "start": 1646.803,
+      "duration": 1.992
+    },
+    {
+      "text": " explanation. So, assume that from the",
+      "start": 1647.826,
+      "duration": 4.634
+    },
+    {
+      "text": " start to low -1, everything is zero.",
+      "start": 1651.591,
+      "duration": 5.722
+    },
+    {
+      "text": " Assume everything here is zero. This is",
+      "start": 1656.413,
+      "duration": 3.71
+    },
+    {
+      "text": " in its correct form. Good. Also assume",
+      "start": 1659.181,
+      "duration": 4.726
+    },
+    {
+      "text": " that from high +1 to the end,",
+      "start": 1663.022,
+      "duration": 4.329
+    },
+    {
+      "text": " everything is two, so it's sorted. This",
+      "start": 1666.466,
+      "duration": 5.146
+    },
+    {
+      "text": " is also in its correct form. So, from",
+      "start": 1670.648,
+      "duration": 2.414
+    },
+    {
+      "text": " here to here, everything is two. Good.",
+      "start": 1672.101,
+      "duration": 3.154
+    },
+    {
+      "text": " You need to sort the middle part. You",
+      "start": 1674.359,
+      "duration": 3.29
+    },
+    {
+      "text": " need to sort the middle part. You need",
+      "start": 1676.72,
+      "duration": 3.784
+    },
+    {
+      "text": " to sort the middle part. Ideally, what",
+      "start": 1679.562,
+      "duration": 3.544
+    },
+    {
+      "text": " should have been there is that the",
+      "start": 1682.185,
+      "duration": 3.686
+    },
+    {
+      "text": " middle part should all be ones.",
+      "start": 1684.95,
+      "duration": 3.449
+    },
+    {
+      "text": " That’s what it should be, right? If",
+      "start": 1687.619,
+      "duration": 2.219
+    },
+    {
+      "text": " we say the array is stuck somewhere in",
+      "start": 1688.887,
+      "duration": 2.864
+    },
+    {
+      "text": " the middle. Here, everything is zero.",
+      "start": 1690.8,
+      "duration": 2.979
+    },
+    {
+      "text": " Here, everything is two. So, there",
+      "start": 1692.98,
+      "duration": 2.442
+    },
+    {
+      "text": " should be ones here. Right? So, your",
+      "start": 1694.478,
+      "duration": 4.084
+    },
+    {
+      "text": " problem has now shrunk. Your problem is",
+      "start": 1697.619,
+      "duration": 2.973
+    },
+    {
+      "text": " slowly getting smaller. Getting smaller",
+      "start": 1699.63,
+      "duration": 2.52
+    },
+    {
+      "text": ". Look, you are a teacher. All the",
+      "start": 1701.15,
+      "duration": 2.982
+    },
+    {
+      "text": " topper students are standing here. All",
+      "start": 1703.171,
+      "duration": 2.643
+    },
+    {
+      "text": " the failing students are standing here.",
+      "start": 1704.859,
+      "duration": 2.738
+    },
+    {
+      "text": " You are given that average students",
+      "start": 1706.819,
+      "duration": 2.75
+    },
+    {
+      "text": " should be in the middle. So, if only",
+      "start": 1708.619,
+      "duration": 3.244
+    },
+    {
+      "text": " averages were here, it would be fine.",
+      "start": 1710.923,
+      "duration": 3.236
+    },
+    {
+      "text": " If only averages were here, everything",
+      "start": 1713.56,
+      "duration": 2.376
+    },
+    {
+      "text": " would be fine. But just think like a",
+      "start": 1714.972,
+      "duration": 3.357
+    },
+    {
+      "text": " human. Think like a teacher. Think",
+      "start": 1717.404,
+      "duration": 2.91
+    },
+    {
+      "text": " carefully about it. All the toppers are",
+      "start": 1719.376,
+      "duration": 3.552
+    },
+    {
+      "text": " here. All the toppers are here. All the",
+      "start": 1721.995,
+      "duration": 4.068
+    },
+    {
+      "text": " failures are here. You are the teacher.",
+      "start": 1725.132,
+      "duration": 4.118
+    },
+    {
+      "text": " You have to arrange them. So, if you",
+      "start": 1728.35,
+      "duration": 2.899
+    },
+    {
+      "text": " see a failure here, what will you say?",
+      "start": 1730.308,
+      "duration": 3.235
+    },
+    {
+      "text": " Go and stand at the very end. That's",
+      "start": 1732.643,
+      "duration": 3.066
+    },
+    {
+      "text": " correct. What will you say if you see a",
+      "start": 1734.759,
+      "duration": 2.783
+    },
+    {
+      "text": " topper? Go and stand at the beginning.",
+      "start": 1736.584,
+      "duration": 3.188
+    },
+    {
+      "text": " What will you say to a failure? Go and",
+      "start": 1738.872,
+      "duration": 2.553
+    },
+    {
+      "text": " stand at the end. Yes, this is an",
+      "start": 1740.493,
+      "duration": 2.854
+    },
+    {
+      "text": " average student. One is an average",
+      "start": 1742.387,
+      "duration": 2.315
+    },
+    {
+      "text": " student. One is an average student. One",
+      "start": 1743.737,
+      "duration": 2.305
+    },
+    {
+      "text": " should have been right here. Leave the",
+      "start": 1745.077,
+      "duration": 2.66
+    },
+    {
+      "text": " one. Leave the average alone. Then ask",
+      "start": 1746.801,
+      "duration": 2.776
+    },
+    {
+      "text": " them, \"Hey, what are you doing here?\"",
+      "start": 1748.611,
+      "duration": 2.283
+    },
+    {
+      "text": " Go and stand with the topper at the",
+      "start": 1749.994,
+      "duration": 2.954
+    },
+    {
+      "text": " start. That is what we are going to do.",
+      "start": 1752.004,
+      "duration": 2.635
+    },
+    {
+      "text": " That is what we are going to do. Okay?",
+      "start": 1753.899,
+      "duration": 2.882
+    },
+    {
+      "text": " That is what we are going to do. Did",
+      "start": 1755.881,
+      "duration": 2.892
+    },
+    {
+      "text": " you understand? Now, look, what did I",
+      "start": 1757.838,
+      "duration": 3.724
+    },
+    {
+      "text": " say? Low = 0. Mid = 0. High = n-1. What",
+      "start": 1760.637,
+      "duration": 11.268
+    },
+    {
+      "text": " did we say? What is the range of zero?",
+      "start": 1771.002,
+      "duration": 3.368
+    },
+    {
+      "text": " What is the range of zero? From start",
+      "start": 1773.47,
+      "duration": 3.937
+    },
+    {
+      "text": " to low -1, everything is zero. What is",
+      "start": 1776.578,
+      "duration": 7.171
+    },
+    {
+      "text": " the range of two? It's not high +1 at",
+      "start": 1782.816,
+      "duration": 4.661
+    },
+    {
+      "text": " high. From +1 to the end, whatever the",
+      "start": 1786.551,
+      "duration": 3.194
+    },
+    {
+      "text": " end is, let it be infinite. There is no",
+      "start": 1788.799,
+      "duration": 3.042
+    },
+    {
+      "text": " problem. Here is the range of two. What",
+      "start": 1790.883,
+      "duration": 3.045
+    },
+    {
+      "text": " will be the range of one? Then what",
+      "start": 1792.968,
+      "duration": 2.738
+    },
+    {
+      "text": " will be the range of one? From low to",
+      "start": 1794.774,
+      "duration": 4.471
+    },
+    {
+      "text": " mid -1. That will be the middle range.",
+      "start": 1798.382,
+      "duration": 4.917
+    },
+    {
+      "text": " Now, one range is left in this. See, if",
+      "start": 1802.459,
+      "duration": 3.152
+    },
+    {
+      "text": " you look at the three pointers, one",
+      "start": 1804.666,
+      "duration": 2.956
+    },
+    {
+      "text": " range is left. We covered start to low-",
+      "start": 1806.677,
+      "duration": 3.396
+    },
+    {
+      "text": "1, so this part is covered. We covered",
+      "start": 1809.073,
+      "duration": 3.316
+    },
+    {
+      "text": " high +1 to end, so this part is covered",
+      "start": 1811.443,
+      "duration": 3.07
+    },
+    {
+      "text": " too. Low to mid -1, this part is also",
+      "start": 1813.566,
+      "duration": 3.403
+    },
+    {
+      "text": " covered. But this range is left. This",
+      "start": 1816.032,
+      "duration": 3.59
+    },
+    {
+      "text": " range is left. This is the range that",
+      "start": 1818.683,
+      "duration": 2.682
+    },
+    {
+      "text": " needs to be sorted. This is the range",
+      "start": 1820.397,
+      "duration": 2.615
+    },
+    {
+      "text": " we need to sort. So, this is the range",
+      "start": 1822.064,
+      "duration": 3.009
+    },
+    {
+      "text": " we need to sort. We need to sort from",
+      "start": 1824.123,
+      "duration": 3.905
+    },
+    {
+      "text": " mid to high. This is our problem. This",
+      "start": 1827.117,
+      "duration": 4.004
+    },
+    {
+      "text": " is what is problematic. This is our",
+      "start": 1830.177,
+      "duration": 3.901
+    },
+    {
+      "text": " problematic area. Understand again with",
+      "start": 1833.147,
+      "duration": 4.181
+    },
+    {
+      "text": " an example. What am I saying? Look at",
+      "start": 1836.381,
+      "duration": 3.254
+    },
+    {
+      "text": " the example. Is start to low -1, let's",
+      "start": 1838.702,
+      "duration": 4.693
+    },
+    {
+      "text": " assume it's -1. Is everything up to",
+      "start": 1842.506,
+      "duration": 3.482
+    },
+    {
+      "text": " here zero? Yes, we have already assumed",
+      "start": 1845.026,
+      "duration": 2.348
+    },
+    {
+      "text": " that everything is zero. Very good.",
+      "start": 1846.406,
+      "duration": 2.402
+    },
+    {
+      "text": " High +1 to end, everything here is two.",
+      "start": 1847.908,
+      "duration": 3.398
+    },
+    {
+      "text": " We have already assumed that everything",
+      "start": 1850.499,
+      "duration": 2.47
+    },
+    {
+      "text": " here is two. Low to mid -1, well, it",
+      "start": 1852.006,
+      "duration": 4.011
+    },
+    {
+      "text": " has no significance right now.",
+      "start": 1855.093,
+      "duration": 3.267
+    },
+    {
+      "text": " Everything from 0 to -1 is one. There",
+      "start": 1857.862,
+      "duration": 3.018
+    },
+    {
+      "text": " is no reason for it right now. So, we",
+      "start": 1859.916,
+      "duration": 2.472
+    },
+    {
+      "text": " don't know about it. Mid to high. Mid",
+      "start": 1861.437,
+      "duration": 3.363
+    },
+    {
+      "text": " to high, meaning 0 to 5, is everything",
+      "start": 1863.855,
+      "duration": 3.086
+    },
+    {
+      "text": " unsorted? Is it problematic? Yes, it is",
+      "start": 1865.996,
+      "duration": 2.953
+    },
+    {
+      "text": " problematic. You can see that it's all",
+      "start": 1867.99,
+      "duration": 2.791
+    },
+    {
+      "text": " jumbled up. It is not in order, so this",
+      "start": 1869.829,
+      "duration": 2.76
+    },
+    {
+      "text": " is what needs to be sorted. This is",
+      "start": 1871.631,
+      "duration": 2.47
+    },
+    {
+      "text": " what needs to be sorted. Okay? Now, the",
+      "start": 1873.129,
+      "duration": 2.882
+    },
+    {
+      "text": " teacher strategy I mentioned: if you",
+      "start": 1875.071,
+      "duration": 3.128
+    },
+    {
+      "text": " see a topper, try to send them to the",
+      "start": 1877.258,
+      "duration": 3.187
+    },
+    {
+      "text": " start. If you see a failure, try to",
+      "start": 1879.504,
+      "duration": 2.971
+    },
+    {
+      "text": " send them to the end. We will do the",
+      "start": 1881.527,
+      "duration": 3.103
+    },
+    {
+      "text": " same thing now. So, what is our",
+      "start": 1883.679,
+      "duration": 3.043
+    },
+    {
+      "text": " problematic area? Mid = 0. i is n-1.",
+      "start": 1885.8,
+      "duration": 7.079
+    },
+    {
+      "text": " Now, this needs to be sorted. So why",
+      "start": 1891.999,
+      "duration": 3.474
+    },
+    {
+      "text": " don't we run mid from zero to the end?",
+      "start": 1894.539,
+      "duration": 3.5
+    },
+    {
+      "text": " The teacher would do this, right? The",
+      "start": 1897.156,
+      "duration": 2.303
+    },
+    {
+      "text": " teacher would do this, right? The",
+      "start": 1898.488,
+      "duration": 2.033
+    },
+    {
+      "text": " teacher will go through the entire",
+      "start": 1899.553,
+      "duration": 2.075
+    },
+    {
+      "text": " class. The teacher will check every",
+      "start": 1900.66,
+      "duration": 2.342
+    },
+    {
+      "text": " student one by one. Check every student",
+      "start": 1902.04,
+      "duration": 2.909
+    },
+    {
+      "text": " one by one. Until when? From mid to",
+      "start": 1904.007,
+      "duration": 3.507
+    },
+    {
+      "text": " high. Why? Because we have assumed high",
+      "start": 1906.585,
+      "duration": 3.232
+    },
+    {
+      "text": " plus one to end is sorted. High plus",
+      "start": 1908.863,
+      "duration": 2.769
+    },
+    {
+      "text": " one to end is sorted. And it will",
+      "start": 1910.685,
+      "duration": 2.611
+    },
+    {
+      "text": " always remain sorted. We will make sure",
+      "start": 1912.332,
+      "duration": 2.892
+    },
+    {
+      "text": " of that. See, you might be thinking,",
+      "start": 1914.284,
+      "duration": 3.272
+    },
+    {
+      "text": " how did we just assume this? Why assume",
+      "start": 1916.619,
+      "duration": 3.274
+    },
+    {
+      "text": " it? Well, this is an algorithm. The",
+      "start": 1918.935,
+      "duration": 2.341
+    },
+    {
+      "text": " name of this algorithm is the Dutch",
+      "start": 1920.313,
+      "duration": 2.28
+    },
+    {
+      "text": " National Flag. Right? So, this",
+      "start": 1921.629,
+      "duration": 2.379
+    },
+    {
+      "text": " algorithm has been designed. You will",
+      "start": 1923.057,
+      "duration": 3.034
+    },
+    {
+      "text": " have to follow it. We haven't just",
+      "start": 1925.163,
+      "duration": 3.068
+    },
+    {
+      "text": " assumed this for no reason. We will",
+      "start": 1927.275,
+      "duration": 2.582
+    },
+    {
+      "text": " make sure that this remains true. It",
+      "start": 1928.897,
+      "duration": 2.496
+    },
+    {
+      "text": " must be true every single time. So, in",
+      "start": 1930.435,
+      "duration": 2.726
+    },
+    {
+      "text": " every case, in every iteration, these",
+      "start": 1932.217,
+      "duration": 3.047
+    },
+    {
+      "text": " four things must be true. Right? Now,",
+      "start": 1934.319,
+      "duration": 3.455
+    },
+    {
+      "text": " let's see. What are we doing? We are",
+      "start": 1936.883,
+      "duration": 4.074
+    },
+    {
+      "text": " running mid from zero to the end. Right",
+      "start": 1940.04,
+      "duration": 4.265
+    },
+    {
+      "text": "? So, we will go from mid to high. Okay",
+      "start": 1943.305,
+      "duration": 4.87
+    },
+    {
+      "text": "? Now, mid will run up to high. Now",
+      "start": 1947.175,
+      "duration": 3.873
+    },
+    {
+      "text": " look, there can be three cases for",
+      "start": 1950.104,
+      "duration": 2.903
+    },
+    {
+      "text": " array of mid, right? What can you find",
+      "start": 1952.063,
+      "duration": 3.029
+    },
+    {
+      "text": " in array of mid? First, you can find a",
+      "start": 1954.139,
+      "duration": 3.294
+    },
+    {
+      "text": " zero, then you can find a one, and then",
+      "start": 1956.502,
+      "duration": 3.661
+    },
+    {
+      "text": " you can find a two. You can only find",
+      "start": 1959.231,
+      "duration": 2.796
+    },
+    {
+      "text": " three things, right? The array only has",
+      "start": 1961.05,
+      "duration": 2.097
+    },
+    {
+      "text": " three types of elements. Right? Let's",
+      "start": 1962.177,
+      "duration": 2.615
+    },
+    {
+      "text": " see what happens in each case one by",
+      "start": 1963.833,
+      "duration": 2.476
+    },
+    {
+      "text": " one. What was the first thing I said?",
+      "start": 1965.35,
+      "duration": 2.891
+    },
+    {
+      "text": " The teacher found a topper. So, the",
+      "start": 1967.341,
+      "duration": 2.513
+    },
+    {
+      "text": " teacher will tell the topper to go and",
+      "start": 1968.896,
+      "duration": 2.6
+    },
+    {
+      "text": " stand with the other toppers. So the",
+      "start": 1970.538,
+      "duration": 3.416
+    },
+    {
+      "text": " teacher will say, where the topper is",
+      "start": 1972.996,
+      "duration": 2.574
+    },
+    {
+      "text": " standing, right here, you go and stand",
+      "start": 1974.612,
+      "duration": 2.616
+    },
+    {
+      "text": " after this. Go and stand after him. And",
+      "start": 1976.271,
+      "duration": 3.912
+    },
+    {
+      "text": " what about the boy who is currently",
+      "start": 1979.233,
+      "duration": 2.765
+    },
+    {
+      "text": " there? What will we do with that boy?",
+      "start": 1981.049,
+      "duration": 2.643
+    },
+    {
+      "text": " We will swap that boy. So look, see,",
+      "start": 1982.792,
+      "duration": 4.758
+    },
+    {
+      "text": " see, look again, look again, if I am",
+      "start": 1986.649,
+      "duration": 4.574
+    },
+    {
+      "text": " the teacher, I will say, if you are a",
+      "start": 1990.322,
+      "duration": 4.674
+    },
+    {
+      "text": " zero, go to A of low. Look again, where",
+      "start": 1994.095,
+      "duration": 4.562
+    },
+    {
+      "text": " are the zeros? Zeros are up to low",
+      "start": 1997.715,
+      "duration": 3.095
+    },
+    {
+      "text": " minus one. So what is the next empty",
+      "start": 1999.861,
+      "duration": 2.674
+    },
+    {
+      "text": " space for a zero? We are assuming up to",
+      "start": 2001.577,
+      "duration": 2.692
+    },
+    {
+      "text": " low minus one is already filled. The",
+      "start": 2003.31,
+      "duration": 2.643
+    },
+    {
+      "text": " next empty space is at low. Right? We",
+      "start": 2005.027,
+      "duration": 4.026
+    },
+    {
+      "text": " will say swap A of low and A of mid",
+      "start": 2008.12,
+      "duration": 3.348
+    },
+    {
+      "text": " where we currently are. Swap them. What",
+      "start": 2010.535,
+      "duration": 5.309
+    },
+    {
+      "text": " did this achieve? The zero in the",
+      "start": 2014.9,
+      "duration": 3.216
+    },
+    {
+      "text": " middle went to low first. Right? It",
+      "start": 2017.189,
+      "duration": 3.706
+    },
+    {
+      "text": " went to low first. The zero in the",
+      "start": 2019.973,
+      "duration": 3.788
+    },
+    {
+      "text": " middle went to low first. Right? That's",
+      "start": 2022.834,
+      "duration": 4.054
+    },
+    {
+      "text": " good. And will anything come from low?",
+      "start": 2025.988,
+      "duration": 4.798
+    },
+    {
+      "text": " Will anything come from low? What can",
+      "start": 2029.886,
+      "duration": 2.405
+    },
+    {
+      "text": " come from low? Can a zero come from low",
+      "start": 2031.336,
+      "duration": 2.901
+    },
+    {
+      "text": "? No. Why? Because where was the zero?",
+      "start": 2033.237,
+      "duration": 4.625
+    },
+    {
+      "text": " The zero was up to low-1. The zero was",
+      "start": 2036.979,
+      "duration": 3.684
+    },
+    {
+      "text": " up to low-1. A zero cannot come from",
+      "start": 2039.71,
+      "duration": 2.688
+    },
+    {
+      "text": " low. Can a two come from there? No, no,",
+      "start": 2041.442,
+      "duration": 3.574
+    },
+    {
+      "text": " no, no. Two is from high plus one to",
+      "start": 2044.098,
+      "duration": 3.025
+    },
+    {
+      "text": " the end. What can come from low? Only a",
+      "start": 2046.171,
+      "duration": 2.887
+    },
+    {
+      "text": " one can come from low, brother. Only a",
+      "start": 2048.098,
+      "duration": 2.605
+    },
+    {
+      "text": " one can come from low. Only a one can",
+      "start": 2049.745,
+      "duration": 2.688
+    },
+    {
+      "text": " come from low. And if a one is coming,",
+      "start": 2051.479,
+      "duration": 2.68
+    },
+    {
+      "text": " then it's great, because we need a one",
+      "start": 2053.199,
+      "duration": 2.52
+    },
+    {
+      "text": " in the middle anyway. So, nothing that",
+      "start": 2054.759,
+      "duration": 3.034
+    },
+    {
+      "text": " causes a problem can come from low.",
+      "start": 2056.86,
+      "duration": 3.37
+    },
+    {
+      "text": " Only a one can come from low. We are",
+      "start": 2059.33,
+      "duration": 3.164
+    },
+    {
+      "text": " sending a zero, and a one is coming. So",
+      "start": 2061.535,
+      "duration": 2.704
+    },
+    {
+      "text": ", very good. Do this. Increase low.",
+      "start": 2063.239,
+      "duration": 3.969
+    },
+    {
+      "text": " Because now the range of zeros has",
+      "start": 2066.308,
+      "duration": 2.942
+    },
+    {
+      "text": " increased. Increase mid as well. Mid's",
+      "start": 2068.307,
+      "duration": 3.152
+    },
+    {
+      "text": " job is done. A one has arrived here. We",
+      "start": 2070.509,
+      "duration": 2.696
+    },
+    {
+      "text": " needed a one. If we find a one at A mid",
+      "start": 2072.264,
+      "duration": 3.056
+    },
+    {
+      "text": ", that's the best case. Best case, we",
+      "start": 2074.32,
+      "duration": 2.776
+    },
+    {
+      "text": " only needed a one. We only need a one,",
+      "start": 2076.141,
+      "duration": 2.745
+    },
+    {
+      "text": " brother. There is already a zero. There",
+      "start": 2077.93,
+      "duration": 2.999
+    },
+    {
+      "text": " is a two here. If we find all ones here",
+      "start": 2079.971,
+      "duration": 2.842
+    },
+    {
+      "text": ", that's great. Good. We find ones in",
+      "start": 2081.813,
+      "duration": 2.911
+    },
+    {
+      "text": " all of them. Increase mid. No need to",
+      "start": 2083.763,
+      "duration": 3.249
+    },
+    {
+      "text": " do anything. Look at this one. This is",
+      "start": 2086.077,
+      "duration": 3.134
+    },
+    {
+      "text": " a special case. You found a two. So",
+      "start": 2088.254,
+      "duration": 3.44
+    },
+    {
+      "text": " where can we send the two? Where should",
+      "start": 2090.74,
+      "duration": 2.7
+    },
+    {
+      "text": " the two be sent? It must be sent to the",
+      "start": 2092.475,
+      "duration": 2.291
+    },
+    {
+      "text": " end. Where the two is standing. Where",
+      "start": 2093.795,
+      "duration": 2.386
+    },
+    {
+      "text": " is the two standing? Where is the two's",
+      "start": 2095.215,
+      "duration": 2.58
+    },
+    {
+      "text": " end standing? The two is standing at",
+      "start": 2096.839,
+      "duration": 3.281
+    },
+    {
+      "text": " high + 1 and the end. Right? So if high",
+      "start": 2099.187,
+      "duration": 4.234
+    },
+    {
+      "text": " is here and high + 1 is here, then it's",
+      "start": 2102.504,
+      "duration": 4.257
+    },
+    {
+      "text": " full of twos from here. There are many",
+      "start": 2105.845,
+      "duration": 3.606
+    },
+    {
+      "text": " twos. So where do we put the two? We",
+      "start": 2108.493,
+      "duration": 2.491
+    },
+    {
+      "text": " will put the two right before it. So",
+      "start": 2110.029,
+      "duration": 2.677
+    },
+    {
+      "text": " bring the two and place it here. Bring",
+      "start": 2111.749,
+      "duration": 2.652
+    },
+    {
+      "text": " it and place it here. Bring it and",
+      "start": 2113.437,
+      "duration": 2.444
+    },
+    {
+      "text": " place it here. Is that correct or not?",
+      "start": 2114.931,
+      "duration": 3.636
+    },
+    {
+      "text": " Bring the two and place it here. So, my",
+      "start": 2118.139,
+      "duration": 3.5
+    },
+    {
+      "text": " internet keeps disconnecting. Right?",
+      "start": 2120.733,
+      "duration": 4.245
+    },
+    {
+      "text": " Please have a little patience. Sorry.",
+      "start": 2124.619,
+      "duration": 3.639
+    },
+    {
+      "text": " Yes. Now, where are we sending this two",
+      "start": 2127.358,
+      "duration": 4.444
+    },
+    {
+      "text": "? We are sending it to the end. Right?",
+      "start": 2130.802,
+      "duration": 2.978
+    },
+    {
+      "text": " So, one thing you must have understood",
+      "start": 2133.779,
+      "duration": 4.344
+    },
+    {
+      "text": " is that we swapped A mid and A high.",
+      "start": 2137.211,
+      "duration": 4.168
+    },
+    {
+      "text": " Okay, once we swapped them, what were",
+      "start": 2141.009,
+      "duration": 3.381
+    },
+    {
+      "text": " we doing in the first one? We were",
+      "start": 2143.455,
+      "duration": 2.998
+    },
+    {
+      "text": " swapping in the first one as well. Very",
+      "start": 2145.485,
+      "duration": 2.414
+    },
+    {
+      "text": " good. And we were incrementing both. So",
+      "start": 2146.954,
+      "duration": 2.963
+    },
+    {
+      "text": ", will we do the same thing here?",
+      "start": 2148.917,
+      "duration": 3.362
+    },
+    {
+      "text": " Should we say, increment mid, brother,",
+      "start": 2151.379,
+      "duration": 2.921
+    },
+    {
+      "text": " and high won't increase anymore? High",
+      "start": 2153.35,
+      "duration": 2.862
+    },
+    {
+      "text": " will only decrease. High is coming from",
+      "start": 2155.248,
+      "duration": 2.678
+    },
+    {
+      "text": " the opposite side. Well, we can't do",
+      "start": 2156.973,
+      "duration": 3.168
+    },
+    {
+      "text": " that. Why can't we? Understand this",
+      "start": 2159.213,
+      "duration": 3.316
+    },
+    {
+      "text": " very carefully. What were we expecting",
+      "start": 2161.59,
+      "duration": 3.854
+    },
+    {
+      "text": " from array of low? We have already",
+      "start": 2164.516,
+      "duration": 3.139
+    },
+    {
+      "text": " proven that only one could come from",
+      "start": 2166.705,
+      "duration": 2.818
+    },
+    {
+      "text": " array of low. Why? Because zero was up",
+      "start": 2168.573,
+      "duration": 3.724
+    },
+    {
+      "text": " to low minus one. From low to mid it",
+      "start": 2171.36,
+      "duration": 3.057
+    },
+    {
+      "text": " was one, so one would come from here.",
+      "start": 2173.459,
+      "duration": 2.56
+    },
+    {
+      "text": " Right? What can come from high? What",
+      "start": 2175.379,
+      "duration": 3.381
+    },
+    {
+      "text": " can come from high? Look at that flow",
+      "start": 2177.805,
+      "duration": 3.124
+    },
+    {
+      "text": " chart again. What is in high? See, from",
+      "start": 2179.995,
+      "duration": 4.622
+    },
+    {
+      "text": " mid to high, this is the high area.",
+      "start": 2183.682,
+      "duration": 3.303
+    },
+    {
+      "text": " This area is problematic, brother.",
+      "start": 2186.085,
+      "duration": 2.558
+    },
+    {
+      "text": " There is nothing deterministic in this.",
+      "start": 2187.743,
+      "duration": 3.48
+    },
+    {
+      "text": " What did we say? From start to low",
+      "start": 2190.323,
+      "duration": 3.073
+    },
+    {
+      "text": " minus one, there is zero. From high",
+      "start": 2192.441,
+      "duration": 2.634
+    },
+    {
+      "text": " plus one to end, there is two. From low",
+      "start": 2194.12,
+      "duration": 2.897
+    },
+    {
+      "text": " to mid minus one, there is one. But",
+      "start": 2196.074,
+      "duration": 3.225
+    },
+    {
+      "text": " this area is problematic. So, anything",
+      "start": 2198.346,
+      "duration": 2.928
+    },
+    {
+      "text": " can come from high. Zero, one, or two;",
+      "start": 2200.325,
+      "duration": 3.918
+    },
+    {
+      "text": " anything can come from high. Anything",
+      "start": 2203.307,
+      "duration": 3.965
+    },
+    {
+      "text": " can come. Anything can come. So,",
+      "start": 2206.319,
+      "duration": 3.704
+    },
+    {
+      "text": " anything can come from high. So, you",
+      "start": 2209.105,
+      "duration": 3.969
+    },
+    {
+      "text": " have to decrease high because what have",
+      "start": 2212.134,
+      "duration": 3.317
+    },
+    {
+      "text": " we just put in high? We have put two in",
+      "start": 2214.51,
+      "duration": 3.11
+    },
+    {
+      "text": " high. So, it has become part of the two",
+      "start": 2216.663,
+      "duration": 2.632
+    },
+    {
+      "text": " family. So, now we will bring high here",
+      "start": 2218.335,
+      "duration": 3.037
+    },
+    {
+      "text": ", and it becomes high minus one. That",
+      "start": 2220.372,
+      "duration": 2.981
+    },
+    {
+      "text": " is a very good thing. We should do high",
+      "start": 2222.392,
+      "duration": 2.949
+    },
+    {
+      "text": " minus minus. But we won't do anything",
+      "start": 2224.402,
+      "duration": 3.477
+    },
+    {
+      "text": " to mid. Why won't we do anything to mid",
+      "start": 2226.94,
+      "duration": 2.807
+    },
+    {
+      "text": "? Because if a zero has come from there",
+      "start": 2228.747,
+      "duration": 3.528
+    },
+    {
+      "text": ", you will have to do this again. If a",
+      "start": 2231.275,
+      "duration": 3.675
+    },
+    {
+      "text": " one has come here, you will have to do",
+      "start": 2233.993,
+      "duration": 2.631
+    },
+    {
+      "text": " this again. If a two has come from",
+      "start": 2235.667,
+      "duration": 2.604
+    },
+    {
+      "text": " there, you will have to do this again.",
+      "start": 2237.309,
+      "duration": 2.471
+    },
+    {
+      "text": " So, because that area is problematic",
+      "start": 2239.78,
+      "duration": 2.716
+    },
+    {
+      "text": " and we don't know what has come from",
+      "start": 2241.543,
+      "duration": 2.717
+    },
+    {
+      "text": " high, we won't do anything to mid and",
+      "start": 2243.307,
+      "duration": 2.764
+    },
+    {
+      "text": " we will stop. And until when will this",
+      "start": 2245.119,
+      "duration": 4.052
+    },
+    {
+      "text": " whole story continue? What is the",
+      "start": 2248.221,
+      "duration": 2.715
+    },
+    {
+      "text": " problematic area? From mid to high. So,",
+      "start": 2249.988,
+      "duration": 4.432
+    },
+    {
+      "text": " as soon as mid becomes greater than",
+      "start": 2253.511,
+      "duration": 4.2
+    },
+    {
+      "text": " high, we will stop doing this. We will",
+      "start": 2256.803,
+      "duration": 4.379
+    },
+    {
+      "text": " stop doing this. We will stop. Let's do",
+      "start": 2260.259,
+      "duration": 4.624
+    },
+    {
+      "text": " a dry run, you all will understand",
+      "start": 2263.926,
+      "duration": 2.459
+    },
+    {
+      "text": " completely. This is a bit of a hard",
+      "start": 2265.428,
+      "duration": 2.589
+    },
+    {
+      "text": " algorithm. I agree, it's very hard. But",
+      "start": 2267.054,
+      "duration": 4.66
+    },
+    {
+      "text": " we have to do it.",
+      "start": 2270.779,
+      "duration": 2.101
+    },
+    {
+      "text": " Okay? 2 0 2 1 0 0 1 2 3 4 5 What did I",
+      "start": 2273.9,
+      "duration": 11.676
+    },
+    {
+      "text": " say? Increase low, low = 0, mid = 0.",
+      "start": 2284.749,
+      "duration": 6.746
+    },
+    {
+      "text": " High = n-1 5, how long to run mid?",
+      "start": 2292.994,
+      "duration": 4.4
+    },
+    {
+      "text": " Until it crosses high. Very good. Come",
+      "start": 2296.494,
+      "duration": 4.298
+    },
+    {
+      "text": " on, run it. What is mid = 0? What is",
+      "start": 2299.838,
+      "duration": 4.185
+    },
+    {
+      "text": " mid = 0? It's two. What did we do with",
+      "start": 2303.106,
+      "duration": 3.441
+    },
+    {
+      "text": " two? We used to swap mid and high. We",
+      "start": 2305.59,
+      "duration": 3.746
+    },
+    {
+      "text": " used to swap mid and high. That's what",
+      "start": 2308.424,
+      "duration": 4.045
+    },
+    {
+      "text": " we did, right? We used to swap mid and",
+      "start": 2311.514,
+      "duration": 3.876
+    },
+    {
+      "text": " high. We will swap now. So first of all",
+      "start": 2314.478,
+      "duration": 4.046
+    },
+    {
+      "text": ", what was here? There was a two here",
+      "start": 2317.524,
+      "duration": 3.862
+    },
+    {
+      "text": " and a zero here. Swap the mid and the",
+      "start": 2320.457,
+      "duration": 4.829
+    },
+    {
+      "text": " high. So we wrote two here. We wrote",
+      "start": 2324.402,
+      "duration": 6.104
+    },
+    {
+      "text": " zero here. And we decreased high by one",
+      "start": 2329.561,
+      "duration": 3.348
+    },
+    {
+      "text": ". We decreased high by one. We",
+      "start": 2331.909,
+      "duration": 3.592
+    },
+    {
+      "text": " decreased high by one, but do we",
+      "start": 2334.553,
+      "duration": 2.646
+    },
+    {
+      "text": " increase mid? No, we don't increase mid",
+      "start": 2336.25,
+      "duration": 2.835
+    },
+    {
+      "text": " because we don't know what came from",
+      "start": 2338.128,
+      "duration": 2.536
+    },
+    {
+      "text": " there; anything could come. That's why",
+      "start": 2339.707,
+      "duration": 2.804
+    },
+    {
+      "text": " we will go to the next iteration. Mid",
+      "start": 2341.559,
+      "duration": 2.862
+    },
+    {
+      "text": " equals 0 again, mid hasn't increased.",
+      "start": 2343.47,
+      "duration": 2.805
+    },
+    {
+      "text": " Now look, a zero has come. What were we",
+      "start": 2345.375,
+      "duration": 2.659
+    },
+    {
+      "text": " supposed to do? Swap mid and low. Look",
+      "start": 2347.064,
+      "duration": 3.363
+    },
+    {
+      "text": " here, mid is also zero, low is also",
+      "start": 2349.489,
+      "duration": 3.171
+    },
+    {
+      "text": " zero, so there's no need, a swap will",
+      "start": 2351.722,
+      "duration": 3.296
+    },
+    {
+      "text": " keep it the same, and we have to",
+      "start": 2354.08,
+      "duration": 2.986
+    },
+    {
+      "text": " increment both. Very good! So increment",
+      "start": 2356.128,
+      "duration": 3.397
+    },
+    {
+      "text": " both, mid and low. Make it one. Mid is",
+      "start": 2358.569,
+      "duration": 4.542
+    },
+    {
+      "text": " equal to one. At mid = 1, a zero came",
+      "start": 2362.203,
+      "duration": 3.776
+    },
+    {
+      "text": " again. What needs to be done? Swap both",
+      "start": 2365.04,
+      "duration": 3.027
+    },
+    {
+      "text": ". Both are the same, so it won't make a",
+      "start": 2367.067,
+      "duration": 2.282
+    },
+    {
+      "text": " difference. Both need to be incremented",
+      "start": 2368.379,
+      "duration": 2.537
+    },
+    {
+      "text": ". Good. Increment both. Make it two.",
+      "start": 2369.916,
+      "duration": 3.864
+    },
+    {
+      "text": " Make it two. Mid = 2. At mid = 2, a two",
+      "start": 2372.88,
+      "duration": 5.91
+    },
+    {
+      "text": " has come. Now, when a two comes, what",
+      "start": 2377.845,
+      "duration": 2.995
+    },
+    {
+      "text": " do we do? Swap with whom? With high. So",
+      "start": 2379.891,
+      "duration": 4.098
+    },
+    {
+      "text": " we will swap it with high = 4. So when",
+      "start": 2383.064,
+      "duration": 5.016
+    },
+    {
+      "text": " we swap with four, this happens, we put",
+      "start": 2387.141,
+      "duration": 3.349
+    },
+    {
+      "text": " two at four, and decrease high. We will",
+      "start": 2389.551,
+      "duration": 4.27
+    },
+    {
+      "text": " decrease high, but we won't increment",
+      "start": 2392.871,
+      "duration": 2.828
+    },
+    {
+      "text": " mid. Very good. So mid = 2, what is at",
+      "start": 2394.749,
+      "duration": 3.877
+    },
+    {
+      "text": " mid = 2? One. What is one? Best case.",
+      "start": 2397.704,
+      "duration": 3.355
+    },
+    {
+      "text": " Very good. Just increase mid, brother.",
+      "start": 2400.159,
+      "duration": 2.514
+    },
+    {
+      "text": " Just need to increase mid. Just need to",
+      "start": 2401.773,
+      "duration": 2.459
+    },
+    {
+      "text": " increase mid. Just need to increase mid",
+      "start": 2403.267,
+      "duration": 2.465
+    },
+    {
+      "text": ". Good. Now mid equals three, mid",
+      "start": 2404.732,
+      "duration": 4.812
+    },
+    {
+      "text": " equals three. Watch carefully. Watch",
+      "start": 2408.655,
+      "duration": 3.617
+    },
+    {
+      "text": " carefully. Has it crossed the high? Not",
+      "start": 2411.322,
+      "duration": 3.384
+    },
+    {
+      "text": " crossed yet. It is equal. We can do it.",
+      "start": 2413.751,
+      "duration": 3.049
+    },
+    {
+      "text": " Mid equals to high, there's a one again",
+      "start": 2415.9,
+      "duration": 2.387
+    },
+    {
+      "text": ". Very good. Very good. Increase the",
+      "start": 2417.287,
+      "duration": 3.02
+    },
+    {
+      "text": " mid. Increase the mid. Now look, mid is",
+      "start": 2419.354,
+      "duration": 3.444
+    },
+    {
+      "text": " equal to four. Mid equals four, has mid",
+      "start": 2421.856,
+      "duration": 4.353
+    },
+    {
+      "text": " crossed three? Yes, it has increased.",
+      "start": 2425.311,
+      "duration": 3.366
+    },
+    {
+      "text": " This means the problematic area we",
+      "start": 2428.239,
+      "duration": 3.147
+    },
+    {
+      "text": " started with, mid to high, is now",
+      "start": 2430.449,
+      "duration": 3.084
+    },
+    {
+      "text": " solved. Exit the program. Now see, is",
+      "start": 2432.596,
+      "duration": 4.089
+    },
+    {
+      "text": " your array sorted? Is your array sorted",
+      "start": 2435.747,
+      "duration": 3.68
+    },
+    {
+      "text": "? Has your zero come here? Has your one",
+      "start": 2438.427,
+      "duration": 3.242
+    },
+    {
+      "text": " come here? Has your two come here? Yes,",
+      "start": 2440.721,
+      "duration": 2.944
+    },
+    {
+      "text": " it has. Then return it. So that is the",
+      "start": 2442.724,
+      "duration": 4.707
+    },
+    {
+      "text": " complete explanation. I think we've",
+      "start": 2446.503,
+      "duration": 3.427
+    },
+    {
+      "text": " already written the pseudo-code and you",
+      "start": 2448.987,
+      "duration": 3.235
+    },
+    {
+      "text": " have seen it. Code link will be in the",
+      "start": 2451.279,
+      "duration": 3.348
+    },
+    {
+      "text": " description. So these are both",
+      "start": 2453.689,
+      "duration": 2.59
+    },
+    {
+      "text": " questions. Very important questions. I",
+      "start": 2455.323,
+      "duration": 3.433
+    },
+    {
+      "text": " am saying it repeatedly. They are",
+      "start": 2457.786,
+      "duration": 2.118
+    },
+    {
+      "text": " important questions. Watch it again.",
+      "start": 2458.941,
+      "duration": 2.871
+    },
+    {
+      "text": " Watch repeatedly, understand it. Submit",
+      "start": 2460.912,
+      "duration": 2.82
+    },
+    {
+      "text": " it and yes, make sure to submit. You",
+      "start": 2462.815,
+      "duration": 3.884
+    },
+    {
+      "text": " can take some reference from the code",
+      "start": 2465.738,
+      "duration": 2.443
+    },
+    {
+      "text": " link. Whether it's C ++, Java, or",
+      "start": 2467.22,
+      "duration": 3.336
+    },
+    {
+      "text": " Python, you can refer to all those. But",
+      "start": 2469.631,
+      "duration": 3.878
+    },
+    {
+      "text": " do make sure to submit. Do make sure to",
+      "start": 2472.553,
+      "duration": 2.746
+    },
+    {
+      "text": " submit. See you tomorrow.",
+      "start": 2474.341,
+      "duration": 2.358
+    }
+  ]
+}
