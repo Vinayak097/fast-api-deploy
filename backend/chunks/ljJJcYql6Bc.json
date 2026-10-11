@@ -1,0 +1,252 @@
+{
+  "videoId": "ljJJcYql6Bc",
+  "channel": "Padho with Pratyush",
+  "chunks": [
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 0.102,
+      "end": 61.183,
+      "text": "Alright, brother. So today is Day 5 of  the two-pointer pattern, and it's the  last day for this pattern. Why am I  calling it the last day? Because if you  look at the sheet, there are two more  questions left. Okay? One is Triplets  Smaller Sum and the other is Dutch  National Flag. There are other  questions remaining. One is the  sub-array question. And the product  question. And three problem challenges  are left. If you look closely at the  sheet, there are three problem  challenges written at the end. Now look , I don't want to cover these right now . Why? Because these are more sliding  window pattern questions than  two-pointer. These are more sliding  window questions. I mean, it's not that  they aren't both. And we are keeping  all the problem challenges for the end.  Because once we've learned many  patterns, how will you revise? How will"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 60.229,
+      "end": 122.24300000000001,
+      "text": " you know if you still remember what you  learned? We will do the problem  challenge for every pattern at the end.  Now, why is this a sliding window one?  Because two-pointer is a superset of  the pattern. Sliding window is a type  of two-pointer itself. Sliding window  is a type of two-pointer with some  conditions. So every sliding window is  a two-pointer. But not every  two-pointer is a sliding window. Okay?  That is why we will do these questions  right after we move to sliding window.  So two questions remain in this pattern , which we will cover in this lecture,  and tomorrow we will do a full revision  of the two-pointer pattern. What will  we do in the revision? We will take it  question by question. We will  understand what the question was and  understand why two-pointer. Why  two-pointer is the most important part.  We will look at why two-pointer and the  types of two-pointers, that they can be"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 121.333,
+      "end": 184.118,
+      "text": " different. It can be low and high. What  the low and high movement does, and how  to recognize it. We will go through  that flowchart once again. So, tomorrow  will be a revision session. Make sure  to watch tomorrow's lecture. Today, we  will do these two questions. Okay?  Which two questions will we do today?  The first will be Triplets Smaller Sum  and the Dutch National Flag. Both of  these are very important questions.  Both are very important questions for  you. First, we will do the explanation  for this one. Then go and check the  code link provided. Then we will do the  explanation for this one. Go and check  the code link. And one thing, this  knocking sound that you hear, this  sound that keeps coming, it will  persist for a few days. Because right  now, you must be seeing that my video  isn't there; you just see a board, the  video that used to be here isn't there.  That is because we are at home right  now, and there is a bit of an internet  issue. So when we make this side video,  a 1-hour video ends up being around 10  GB. So, editing that 10 GB video and"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 183.169,
+      "end": 245.03900000000002,
+      "text": " then uploading it to YouTube consumes a  lot of data, and it takes too much time . I don't have that much internet. So,  I am recording directly on the iPad  right now. That is why you hear this  sound a little bit. Please bear with it . It's not that loud, but I will try to  make sure it doesn't come. It shouldn't  come that much. It will come a little  bit. Look, if you write like this, then  it will touch the surface. Even on a  blackboard, there is some sound, right?  So, there will be a little bit. I will  try to keep it minimal. So, please bear  with it. Okay? Triplets smaller.  Triplets smaller. Now, whoever hasn't  watched yesterday's lecture, the 3Sum  lecture, they won't understand this. I  gave this warning beforehand. Those who  have watched that lecture will  understand this in 5 minutes. That's  good. Okay? What does the question say?  What does the question say? You have  triplets. You are given an array. Okay?  What is the given array? -1, 0, 1, and  3. Alright then. You are given a sum  which is two. What do you need to tell?"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 244.139,
+      "end": 304.309,
+      "text": " The number of i, j, k triplets whose  sum is less than the given sum. Their  sum should be less than the given sum,  meaning ai + aj + ak is less than the  target. How many such triplets are  there? If there are three such, you  have to give the answer as three. How  many different triplets are like that?  These i, j, k are indices. They are  indices. Okay? These are i, j, k  indices. Okay? And you are told that  all elements in the array are distinct.  All elements are distinct. So, no  duplicates, that issue isn't there at  all. Those who watched yesterday's  lecture must understand why duplicates  are so important. Why am I saying this?  No duplicates. Okay? Again, I’m  saying, if you haven’t watched  yesterday’s Three Sum lecture, watch  that first. Watch that first, otherwise , you won't understand this. It will be  a waste. Don’t waste your time on  this one. Pause now and go watch that  first. Alright? Now, for those who"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 303.361,
+      "end": 365.046,
+      "text": " watched yesterday’s Three Sum,  isn’t it exactly the same question?  There’s a slight twist. What did we  do yesterday? We found triplets. Find  triplets whose sum equals zero. And  find triplets whose sum equals a given  target. Equals a given target. These  were the two questions we did yesterday . Right? And what else did we do? Sum  closest to the target. Closest to  target. Closest to target. So we saw  these three types of questions  yesterday. This question asks for the  number of triplets with a sum smaller  than the target. Smaller than the  target. One thing is certain: it’s  the same type of question. It’s  certain that a two-pointer approach  will be used. No one should have any  doubt about that. After watching  yesterday’s lecture, the two-sum  concept will apply. Just like we have"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 364.089,
+      "end": 424.906,
+      "text": " been doing with triplets. What have we  been doing with triplets? We used to  fix i. For every i, we used left and  right pointers. Based on the sum, we  would increase or decrease the left or  right pointers. We would either  increase or decrease them. This is what  we have been doing consistently in  Three Sum since yesterday, right?  That’s what we’ve been doing, right ? Okay? So now look, what was the very  first step? In yesterday’s and  today’s question, sort the array,  brother. Sort it. If you sort it, what  will the array become? The array is  already given as sorted. But still, 0 1  3, okay? What is your sum? 2. i used to  run from where to where? i used to run  from 0 to n-2. It did, right? For every  i, what was left? i + 1, and what was  right? The last element n-1, we’ve  been doing this since yesterday,  brother. Okay? After that, what did we"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 423.972,
+      "end": 485.49899999999997,
+      "text": " do? After that, we calculated the sum.  What was the sum? a [i] + a [left] + a  [right]. Okay? After that, we made  three types of decisions. How did we  make the decisions? Sum equals target,  Sum less than target. There were always  three conditions, right? Sum greater  than target. There were three  conditions every time. Okay? We did  something or the other every time.  Generally, we did different things  while speaking. According to the  different questions. But generally,  here left was incremented and here  right was decremented. Generally, if we  had to handle duplicates when sum  equals target, we would increment both.  First, we would increment left. We  would decrement right and keep  incrementing until there were no  duplicates. Right? We used to do this."
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 484.972,
+      "end": 545.79,
+      "text": " Now, according to each question, you  will have to change these three  conditions. The conditions remain the  same. Look, the conditions will remain  the same. The sum can be equal to the  target, less than it, or greater than  it. In 99%of cases, both of these will  remain the same. You will have to  change this one. You might need to  change things by 10%here and there.  Okay? Now see, what is your goal?  Everything up to here is the same. What  is your goal? Your goal is to find this , right? Your goal is the target, the  smaller sum, and you don't have to  print any triplets. You just have to  find the number. You have to find the  number. You have to find the number. So , which part do you need? You need this  one. You need this one. Do you need  this one? No. Do you need this one? No.  So, can we take only two conditions?  One condition where we found the sum  less than the target. Combine the next  two conditions because if the sum is  equal to or greater than the target,  it's the same thing because what are"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 544.836,
+      "end": 606.369,
+      "text": " you looking for? You are looking for a  sum smaller than the target. Even if  the sum is equal to the target, it is  still too large. Whenever we get  something larger, what do we do? We  decrement the right. That's what we do,  right? Listen carefully again. You want  the sum to be smaller than the target.  If you get a sum equal to the target,  that means it's too large. You don't  want that. If you don't want something  large, what do you do? You decrement  the right. If it's smaller, you  increment the left. So, this is our  condition. This is our perfect  condition. This is a useless condition.  In this, we will increment. So, can we  do it like this, where we calculate the  sum? sum = ai + a left + a right. Now  if sum greater than or equal to target  What is this? These are both conditions . These are both conditions. This one  is a condition and this one is also a  condition. It means your sum is either"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 605.423,
+      "end": 668.999,
+      "text": " equal to the target or greater. So we  don't really want that. We want it to  be smaller. So for smaller, just do  right minus minus. It's simple. There  are no duplicates, so no need to handle  them. Very good. But, but, but else,  what does this mean? That your sum is  less than the target. That's exactly  what we want. Now, the answer, look, we  definitely need this. What does that  mean? Let's understand with an example.  Now here, you have to calculate the  answer. But how will you calculate the  answer? Your i is here, your left is  here, and your right is here. Right?  Look, i is here, so -2 + 0 + 3 is what?  One. It's one, right? One is smaller  than the target. Yes, it's smaller. One  is smaller than two, right? Yes. Now,  how do we find the answer? Now, look,  can you do this; your left is here,  right is here. Right? And i is here. So  one triplet is your -2, 0, and 3. That"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 668.107,
+      "end": 728.161,
+      "text": " is one triplet. Right? So you can  either add one to the answer. You can  increment the answer. But, but look  very closely. Look very carefully. You  are saying that my i is this, my left  is this, and my three is this. The  whole array is sorted. You are saying  that my -2 + 0 + 3 is less than my sum.  That is why you are taking this as a  triplet. Is that correct? Listen  carefully to one thing. If this is the  left, this is the right. Whenever the  sum was less, whenever the sum was less  than the target, what did we do? We  used to increment the left. Right? We  used to increment the left. That's what  we did, right? See, why did we  increment the left? But remember why we  did it? We did it because if we  decrement the right, then if 0 + 3 is  less than my target, then 0 + 1 will  definitely be less than my target.  Listen again. Whenever the sum was less"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 727.161,
+      "end": 788.8720000000001,
+      "text": ", why didn't we just move the right  over here? We didn't do it because  whenever the sum of my left and right  is less than my target, then the sum of  everything to the left of right, if you  add it, will also be less. This is the  most basic part of the question. This  is the most basic part of the question.  When your i was here and this was here.  It was here, so you said, okay, -1 0 3  is one of my answers. Good. Will -2 0  and 1, and 1, and 1 also be less? Yes,  it will be less. Why? If -2 + 0 + 3 is  less than your target, then -2 + 0 +  anything to the left of 3 will also be  less, because it's sorted, right?  Whatever 1 is, it will be less than 3.  Let's assume that. So when -2 + 0 + 3  is less than my target, then -2 0 1  will also be less than the target. So  this should also be in the answer.  Right? What are you saying? Let me  explain to you again what I am trying"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 787.923,
+      "end": 849.538,
+      "text": " to say. What is it? Take a bigger array , then you will understand. It's  possible. See, 0 1 2 3 4 5 6 7 8, okay?  Now write this down. 1 2 3 4 5 6 7 8 9,  your i = 0. So where is your i? i is  here. Your left is here. Your right is  here. That is correct. That is correct,  right? Okay. If you calculate the sum  now, 1 + 2 + 9 That comes to 12.  Suppose your target was 15. Assume  target equals 15. 12 is less than 15,  so you would add one to the answer that  1, 2, and 9 is one of my answers. Good.  But if the sum of 1, 2, and 9 is less  than your target, then will the sum of  1, 2, and 8 also be less? Yes, it will"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 848.586,
+      "end": 908.804,
+      "text": " be less because 8 is less than 9, right . This means your 1, 2, 8 will also be  less. If your 1, 2, 8 is less. Now see,  we have kept i and left fixed. We are  trying to move right back and forth. If  the sum of my 1, 2, and 8 is less, then  will the sum of 1, 2, 7 be less or more ? It will be less. It will be less.  This will also come in the answer. 1 2  7, similarly if you find any such left  and right where the sum of i, left, and  right is less, then the sum of all  elements between left and right will be  less. Listen again, right now left is  here and right is here. But if you  place the right pointer anywhere here,  the sum will be lower. If you place the  right at eight, then lower: 7, 6, 5, 4,  3, 2, so 0 and 1—these are your I and  left. Zero and one. These are your I  and left. Along with this, if you keep  any right from two to eight, the sum  will be lower. That is why, whenever we"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 907.893,
+      "end": 969.473,
+      "text": " get a sum less than the target.  Whenever we get a sum less than the  target, we don't just do answer equals  answer plus one. How many elements can  come in between? See, your left is one.  How much is this? Count how many  elements are there from left plus one  to the right that you found. 1, 2, 3, 4 , 5, 6, 7; why did it come? This seven  came from 8-1, doing 8-1 equals 7. How  many numbers are there between any two  numbers? By subtracting the low number  from the high number. So, how many  numbers are there between one and eight ? So, there are numbers 2, 3, 4, 5, 6,  7. You have to do 8-1. That is why you  should not do this. This is useless.  Answer equals answer plus right minus  left. Yes, right minus left. Did you"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 968.522,
+      "end": 1029.913,
+      "text": " understand why we are doing this? Now  that is done once. Now look. If you  have done this, then this left's work  is finished. This left has already  formed pairs with whoever it could.  Okay? Now you have to increment the  left, which we used to do. Which is  that if the sum was less than the  target, we used to increase the left.  But before increasing the left, we  calculated that whatever pairs this  left could form with any right, we  counted them in our answer. Now we will  increment the left here and do similar  work for this. Did you understand? Why  are we doing this? Why did we add to  the answer like that? After this, we  will increment the left because that is  what we used to do. So, look, did the  condition remain the same or not? You  only have two conditions. Sum less than  target and sum greater than or equal to  target. So, there are the same three  conditions for you. You are doing the  same work. But before doing the work,  you are doing whatever you need to do  with your answer. Okay? Understood? If  anyone didn't understand, please"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 1028.96,
+      "end": 1089.961,
+      "text": " comment. I will explain it again  tomorrow. Understanding is very  important. That’s right. So, this is  its pseudo-code. You all must have  understood the pseudo-code. The code  from yesterday and a simple link to the  code will be available here. Go and  take a look at that. Time complexity  again, order of N and order of one  space. This is the time. Okay? No,  sorry, order of N², yes, look at  yesterday's lecture and you will  understand. Why N², N² time, order of  one space, that is the question. Come  to the next question. Dutch National  Flag. Okay? Now, this is a different  type of question. The three-term  approach we were doing is a different  type of question. In my opinion, of all  the questions we've done in the sheet  so far, this is the most unique one.  Okay? So, what are you asked to do in  this? It says you are given an array.  Okay, an array is given. Okay? It says  there are only three types of elements  in the array. 0, 1, 2, well, this is  not sorted. So it could be in any order"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 1088.961,
+      "end": 1150.5449999999998,
+      "text": ", like one, zero, zero, two, zero, one,  it could be like that. Okay? It said  you should rearrange the array.  Rearrange the array. Do it in-place. So  that all the zeros come together. All  the ones come together. After that, all  the twos come together. Let the array  become like this. Do it like this.  Rearrange, do it in-place, and do it  without sorting. You have to do it  without sorting. Do it without sorting.  This is what you are told in the  question to do. First of all, first of  all, which pattern will apply to this?  How to identify that. Is it an array  question? Yes. Is it sorted? No. But  okay. Okay. It is not sorted. Can we  sort it? Can we sort it? No. The  question said not to sort. Is it a  rearrangement question? Is \"rearrange\""
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 1149.597,
+      "end": 1212.558,
+      "text": " mentioned in the question? You have to  do it. Are you understanding? Yes. Yes.  It is a rearrangement question. Do you  have to do it in-place? Meaning no  extra space. No extra space. Yes. So  look, most conditions for two pointers  are satisfied. It is an array question  too. The sorted one didn't get  satisfied. But \"rearrange\" is written  and you have to do it in-place, so in  my opinion, there is a 90%chance it is  a two-pointer question. This is a  two-pointer question. You have been  given this directly in the question.  Okay? Now look, there are two or three  ways to solve this question. First is  the brute force. First is the brute  force. Right? Brute force. You  understand the question now, right? You  have to bring all the zeros to one side . You have to create an array of ones  and twos like this. For such an array,  what should you do first as a brute  force? I think many people must have  understood the brute force approach for  this. Create three arrays. Create three  separate arrays. Create three separate"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 1211.625,
+      "end": 1275.0559999999998,
+      "text": " arrays. This is the array for zeros.  This is the array for ones. This is the  array for twos. So, in your main array,  take all the zeros and put them here.  So these become 0 0 0, take all the  ones and put them here, so these become  1 1, and put all the twos here, so  these become two two. After that, write  all the zeros from this into your main  array, then write all the ones from  this into your main array. Write all  the twos from this into the main array.  So, this is done. What is its time  complexity? O (n) and space complexity  is Order of n because you are creating  separate arrays, so that was the brute  force. Everyone must have understood  this. Optimized, optimized, optimized —now in this, we do the work we were  doing in brute force a bit faster. What  were you doing? You were creating  arrays and writing zeros in them. But  why is there a need to write zeros? Do  one thing. Take three variables. count0"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 1274.152,
+      "end": 1335.6789999999999,
+      "text": " = 0, count1 = 0, count2 = 0 and  traverse the whole array once. Traverse  the entire array once and count them.  So you will understand that I have 4  zeros. 3 ones and 2 twos. Now write  into the array based on these variables . You know that there are four zeros in  your entire array. Three ones. Two twos . So just 0 0 Write three ones in the  array. Anywhere in the array, look, the  total size of the array will be 4 + 3 =  7 + 2 = 9; that is certain because the  variables were created by counting from  this array itself. So just write it  like this, overwrite the array. This is  your final array. This is your final  array. Right? How much time complexity  did this take? Order of n. How much  space did this take? Order of one. No  space was used, man. Where is the space ? There is space for three variables.  Three variables are constant. So this  is one of the best approaches. This is  one of the best approaches. If you  explain this in any interview, the  interviewer won't be able to argue with  you because the two-pointer approach we"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 1334.727,
+      "end": 1396.098,
+      "text": " are learning is the same approach. That  also has the same time complexity and  same space complexity. If you write  this in an interview, no one will be  able to argue. But if by chance they do , and say, \"Tell me the two-pointer  approach,\" then for the specific thing  we're learning this for, this becomes  the best approach. Let me explain why  this is the best approach. How many  passes are you doing here? What do you  mean by passes? How many times are you  going through the whole array? First,  you traversed the entire array once to  create these zeros, ones, and twos. It  only gets created that way. You have to  go through the whole array once for it  to happen. So that's one. And then you  passed through the array again. To  overwrite that there are four zeros. So  we wrote them in the first four  positions. Then we wrote them in the  next three. Then in the next two. So  you had to do two passes. Meaning you  had to go through the entire array  twice like that. Right? It doesn't make  a huge difference, but you had to do it . Right? In the best approach, you only  do one pass. Meaning you go from the"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 1395.137,
+      "end": 1455.205,
+      "text": " start to the end of the array, and the  whole array gets sorted. So this is a  single-pass approach. That is why it is  the best approach. So the interviewer  might tell you to do a single pass.  Explain the single-pass approach. This  is the only approach for a single pass.  Right? Explain the single-pass approach . What have we understood so far? We  need to sort the array. Right? And we  need to do it in a single pass. We  shouldn't use space. Two-pointer will  be used. Two-pointer will be used.  Right? Let me open the question once so  I can get the problem statement for it.  Get an example. Oh, you need an example , right? Right? We have this example.  We have the example: 2, 0, 2, 1, 0,  very good. Okay, so how do we use two"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 1454.297,
+      "end": 1517.563,
+      "text": " pointers in this? So look, how should  your final array turn out? Once your  final array is formed, it will look  like this: 0, 1, 2, 3, 4, 5, so what  will your final array look like? There  will be two zeros, two ones, and two  twos. It will look just like that,  right? Now, pay attention to this. This  is your zero region. This is your zero  region. This is your two region. This  is your one region. Right? So, this is  zero. This is one, and this one here is  two. So, whatever array you create,  your final array is divided into three  parts. You see, there is a zero region.  There is a one region and a two region.  I mean, the array will start, and it  will come to a zero. Until the end of  zero. Then one will begin. One will end"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 1516.563,
+      "end": 1578.2030000000002,
+      "text": ". Two will begin, and two will end. Now  see, your array will look like this,  won't it? The array will start  somewhere, which will be from zero. But  that's okay. So, the array will start  somewhere. The array will run up to  here, to zero. Then one will start. One  will also end eventually. Then right  after that, two will start and two will  end. So, this was your zero area. This  one for one, this one for two. This is  what's happening, right? In this case,  what is it? What is your start? Your  start index is zero. At which index did  zero end? Zero ended at this index, at  one. At one. At which index did one  begin? At two. At which index did one  end? At three. At which index did two  begin? At four. And at which index did  two end? At five. Okay? Did everyone  understand this much or not? Up to here . Okay? Now, let's do the next part.  The video will continue right on this.  Look, did everyone understand up to  here that your array is divided? Your  array is divided. It is divided into"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 1577.257,
+      "end": 1637.843,
+      "text": " chunks. Into zero, into one, into two,  for everything. Now suppose, let's just  suppose that the array you are given,  your input array, the input array given  to you is 2 0 2 1 0 0 1 2 5, let's  assume this region here is already  given to you somewhere. Along with that , this region is also given to you.  What I am trying to say is, suppose  this region...sorry, my recording went  off. Okay? So, what was I just saying?  You have your regions in the array.  Right? So, if we take three pointers,  like this, and assume something. Look,  you need to process this entire array.  Rearrange it. Let's assume that there  is some part to the left and some part  to the right of this array. Right? We"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 1636.905,
+      "end": 1698.5620000000001,
+      "text": " say that wherever the array starts,  let's assume it's a huge infinite array . You only need to worry about this  part. But this array is infinite. I'm  just telling you for the sake of  explanation. So, assume that from the  start to low -1, everything is zero.  Assume everything here is zero. This is  in its correct form. Good. Also assume  that from high +1 to the end,  everything is two, so it's sorted. This  is also in its correct form. So, from  here to here, everything is two. Good.  You need to sort the middle part. You  need to sort the middle part. You need  to sort the middle part. Ideally, what  should have been there is that the  middle part should all be ones.  That’s what it should be, right? If  we say the array is stuck somewhere in  the middle. Here, everything is zero.  Here, everything is two. So, there  should be ones here. Right? So, your"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 1697.619,
+      "end": 1758.7730000000001,
+      "text": " problem has now shrunk. Your problem is  slowly getting smaller. Getting smaller . Look, you are a teacher. All the  topper students are standing here. All  the failing students are standing here.  You are given that average students  should be in the middle. So, if only  averages were here, it would be fine.  If only averages were here, everything  would be fine. But just think like a  human. Think like a teacher. Think  carefully about it. All the toppers are  here. All the toppers are here. All the  failures are here. You are the teacher.  You have to arrange them. So, if you  see a failure here, what will you say?  Go and stand at the very end. That's  correct. What will you say if you see a  topper? Go and stand at the beginning.  What will you say to a failure? Go and  stand at the end. Yes, this is an  average student. One is an average  student. One is an average student. One  should have been right here. Leave the  one. Leave the average alone. Then ask  them, \"Hey, what are you doing here?\"  Go and stand with the topper at the  start. That is what we are going to do.  That is what we are going to do. Okay?  That is what we are going to do. Did"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 1757.838,
+      "end": 1819.6219999999998,
+      "text": " you understand? Now, look, what did I  say? Low = 0. Mid = 0. High = n-1. What  did we say? What is the range of zero?  What is the range of zero? From start  to low -1, everything is zero. What is  the range of two? It's not high +1 at  high. From +1 to the end, whatever the  end is, let it be infinite. There is no  problem. Here is the range of two. What  will be the range of one? Then what  will be the range of one? From low to  mid -1. That will be the middle range.  Now, one range is left in this. See, if  you look at the three pointers, one  range is left. We covered start to low- 1, so this part is covered. We covered  high +1 to end, so this part is covered  too. Low to mid -1, this part is also  covered. But this range is left. This"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 1818.683,
+      "end": 1880.445,
+      "text": " range is left. This is the range that  needs to be sorted. This is the range  we need to sort. So, this is the range  we need to sort. We need to sort from  mid to high. This is our problem. This  is what is problematic. This is our  problematic area. Understand again with  an example. What am I saying? Look at  the example. Is start to low -1, let's  assume it's -1. Is everything up to  here zero? Yes, we have already assumed  that everything is zero. Very good.  High +1 to end, everything here is two.  We have already assumed that everything  here is two. Low to mid -1, well, it  has no significance right now.  Everything from 0 to -1 is one. There  is no reason for it right now. So, we  don't know about it. Mid to high. Mid  to high, meaning 0 to 5, is everything  unsorted? Is it problematic? Yes, it is  problematic. You can see that it's all  jumbled up. It is not in order, so this  is what needs to be sorted. This is  what needs to be sorted. Okay? Now, the  teacher strategy I mentioned: if you  see a topper, try to send them to the"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 1879.504,
+      "end": 1940.957,
+      "text": " start. If you see a failure, try to  send them to the end. We will do the  same thing now. So, what is our  problematic area? Mid = 0. i is n-1.  Now, this needs to be sorted. So why  don't we run mid from zero to the end?  The teacher would do this, right? The  teacher would do this, right? The  teacher will go through the entire  class. The teacher will check every  student one by one. Check every student  one by one. Until when? From mid to  high. Why? Because we have assumed high  plus one to end is sorted. High plus  one to end is sorted. And it will  always remain sorted. We will make sure  of that. See, you might be thinking,  how did we just assume this? Why assume  it? Well, this is an algorithm. The  name of this algorithm is the Dutch  National Flag. Right? So, this  algorithm has been designed. You will  have to follow it. We haven't just  assumed this for no reason. We will  make sure that this remains true. It  must be true every single time. So, in  every case, in every iteration, these  four things must be true. Right? Now,  let's see. What are we doing? We are"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 1940.04,
+      "end": 2000.81,
+      "text": " running mid from zero to the end. Right ? So, we will go from mid to high. Okay ? Now, mid will run up to high. Now  look, there can be three cases for  array of mid, right? What can you find  in array of mid? First, you can find a  zero, then you can find a one, and then  you can find a two. You can only find  three things, right? The array only has  three types of elements. Right? Let's  see what happens in each case one by  one. What was the first thing I said?  The teacher found a topper. So, the  teacher will tell the topper to go and  stand with the other toppers. So the  teacher will say, where the topper is  standing, right here, you go and stand  after this. Go and stand after him. And  what about the boy who is currently  there? What will we do with that boy?  We will swap that boy. So look, see,  see, look again, look again, if I am  the teacher, I will say, if you are a  zero, go to A of low. Look again, where  are the zeros? Zeros are up to low"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 1999.861,
+      "end": 2060.23,
+      "text": " minus one. So what is the next empty  space for a zero? We are assuming up to  low minus one is already filled. The  next empty space is at low. Right? We  will say swap A of low and A of mid  where we currently are. Swap them. What  did this achieve? The zero in the  middle went to low first. Right? It  went to low first. The zero in the  middle went to low first. Right? That's  good. And will anything come from low?  Will anything come from low? What can  come from low? Can a zero come from low ? No. Why? Because where was the zero?  The zero was up to low-1. The zero was  up to low-1. A zero cannot come from  low. Can a two come from there? No, no,  no, no. Two is from high plus one to  the end. What can come from low? Only a  one can come from low, brother. Only a  one can come from low. Only a one can  come from low. And if a one is coming,  then it's great, because we need a one  in the middle anyway. So, nothing that  causes a problem can come from low."
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 2059.33,
+      "end": 2121.639,
+      "text": " Only a one can come from low. We are  sending a zero, and a one is coming. So , very good. Do this. Increase low.  Because now the range of zeros has  increased. Increase mid as well. Mid's  job is done. A one has arrived here. We  needed a one. If we find a one at A mid , that's the best case. Best case, we  only needed a one. We only need a one,  brother. There is already a zero. There  is a two here. If we find all ones here , that's great. Good. We find ones in  all of them. Increase mid. No need to  do anything. Look at this one. This is  a special case. You found a two. So  where can we send the two? Where should  the two be sent? It must be sent to the  end. Where the two is standing. Where  is the two standing? Where is the two's  end standing? The two is standing at  high + 1 and the end. Right? So if high  is here and high + 1 is here, then it's  full of twos from here. There are many  twos. So where do we put the two? We  will put the two right before it. So  bring the two and place it here. Bring  it and place it here. Bring it and  place it here. Is that correct or not?  Bring the two and place it here. So, my"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 2120.733,
+      "end": 2180.9289999999996,
+      "text": " internet keeps disconnecting. Right?  Please have a little patience. Sorry.  Yes. Now, where are we sending this two ? We are sending it to the end. Right?  So, one thing you must have understood  is that we swapped A mid and A high.  Okay, once we swapped them, what were  we doing in the first one? We were  swapping in the first one as well. Very  good. And we were incrementing both. So , will we do the same thing here?  Should we say, increment mid, brother,  and high won't increase anymore? High  will only decrease. High is coming from  the opposite side. Well, we can't do  that. Why can't we? Understand this  very carefully. What were we expecting  from array of low? We have already  proven that only one could come from  array of low. Why? Because zero was up  to low minus one. From low to mid it  was one, so one would come from here.  Right? What can come from high? What  can come from high? Look at that flow"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 2179.995,
+      "end": 2242.496,
+      "text": " chart again. What is in high? See, from  mid to high, this is the high area.  This area is problematic, brother.  There is nothing deterministic in this.  What did we say? From start to low  minus one, there is zero. From high  plus one to end, there is two. From low  to mid minus one, there is one. But  this area is problematic. So, anything  can come from high. Zero, one, or two;  anything can come from high. Anything  can come. Anything can come. So,  anything can come from high. So, you  have to decrease high because what have  we just put in high? We have put two in  high. So, it has become part of the two  family. So, now we will bring high here , and it becomes high minus one. That  is a very good thing. We should do high  minus minus. But we won't do anything  to mid. Why won't we do anything to mid ? Because if a zero has come from there , you will have to do this again. If a  one has come here, you will have to do  this again. If a two has come from  there, you will have to do this again.  So, because that area is problematic"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 2241.543,
+      "end": 2304.023,
+      "text": " and we don't know what has come from  high, we won't do anything to mid and  we will stop. And until when will this  whole story continue? What is the  problematic area? From mid to high. So,  as soon as mid becomes greater than  high, we will stop doing this. We will  stop doing this. We will stop. Let's do  a dry run, you all will understand  completely. This is a bit of a hard  algorithm. I agree, it's very hard. But  we have to do it.  Okay? 2 0 2 1 0 0 1 2 3 4 5 What did I  say? Increase low, low = 0, mid = 0.  High = n-1 5, how long to run mid?  Until it crosses high. Very good. Come  on, run it. What is mid = 0? What is"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 2303.106,
+      "end": 2363.111,
+      "text": " mid = 0? It's two. What did we do with  two? We used to swap mid and high. We  used to swap mid and high. That's what  we did, right? We used to swap mid and  high. We will swap now. So first of all , what was here? There was a two here  and a zero here. Swap the mid and the  high. So we wrote two here. We wrote  zero here. And we decreased high by one . We decreased high by one. We  decreased high by one, but do we  increase mid? No, we don't increase mid  because we don't know what came from  there; anything could come. That's why  we will go to the next iteration. Mid  equals 0 again, mid hasn't increased.  Now look, a zero has come. What were we  supposed to do? Swap mid and low. Look  here, mid is also zero, low is also  zero, so there's no need, a swap will  keep it the same, and we have to  increment both. Very good! So increment  both, mid and low. Make it one. Mid is"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 2362.203,
+      "end": 2422.798,
+      "text": " equal to one. At mid = 1, a zero came  again. What needs to be done? Swap both . Both are the same, so it won't make a  difference. Both need to be incremented . Good. Increment both. Make it two.  Make it two. Mid = 2. At mid = 2, a two  has come. Now, when a two comes, what  do we do? Swap with whom? With high. So  we will swap it with high = 4. So when  we swap with four, this happens, we put  two at four, and decrease high. We will  decrease high, but we won't increment  mid. Very good. So mid = 2, what is at  mid = 2? One. What is one? Best case.  Very good. Just increase mid, brother.  Just need to increase mid. Just need to  increase mid. Just need to increase mid . Good. Now mid equals three, mid  equals three. Watch carefully. Watch  carefully. Has it crossed the high? Not  crossed yet. It is equal. We can do it.  Mid equals to high, there's a one again . Very good. Very good. Increase the  mid. Increase the mid. Now look, mid is"
+    },
+    {
+      "videoId": "ljJJcYql6Bc",
+      "start": 2421.856,
+      "end": 2476.699,
+      "text": " equal to four. Mid equals four, has mid  crossed three? Yes, it has increased.  This means the problematic area we  started with, mid to high, is now  solved. Exit the program. Now see, is  your array sorted? Is your array sorted ? Has your zero come here? Has your one  come here? Has your two come here? Yes,  it has. Then return it. So that is the  complete explanation. I think we've  already written the pseudo-code and you  have seen it. Code link will be in the  description. So these are both  questions. Very important questions. I  am saying it repeatedly. They are  important questions. Watch it again.  Watch repeatedly, understand it. Submit  it and yes, make sure to submit. You  can take some reference from the code  link. Whether it's C ++, Java, or  Python, you can refer to all those. But  do make sure to submit. Do make sure to  submit. See you tomorrow."
+    }
+  ]
+}

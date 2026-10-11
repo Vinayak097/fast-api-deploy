@@ -1,4 +1,4 @@
-from script_download import prints ,Transcript
+from script_download import prints , Transcript
 from chunks import process_transcripts
 from embed import process_chunks
 from qdrant import upload_embeddings

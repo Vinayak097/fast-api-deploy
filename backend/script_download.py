@@ -170,8 +170,14 @@ def Transcript():
         video_id = get_video_id(url)
         if not video_id:
             print(f"Invalid YouTube URL: {url}")
-            continue 
-        print("videoId:", video_id) # File for this specific video transcript_file = TRANSCRIPT_DIR / f"{video_id}.json" # Check if transcript already exists if transcript_file.exists(): print(f"{video_id} already exists. Skipping.") continue
+            continue
+
+        transcript_file = TRANSCRIPT_DIR / f"{video_id}.json"
+        if transcript_file.exists():
+            print(f"{video_id} already exists. Skipping.")
+            continue
+
+        print("videoId:", video_id)
 
         try:
             # Fetch transcript
@@ -206,9 +212,6 @@ def Transcript():
             }
 
             # Add to transcript array
-            
-            transcript_file = TRANSCRIPT_DIR / f"{video_id}.json"
-
             # Save immediately
             with open(transcript_file, "w", encoding="utf-8") as f:
                 json.dump(

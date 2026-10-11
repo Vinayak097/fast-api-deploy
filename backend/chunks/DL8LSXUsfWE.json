@@ -1,0 +1,426 @@
+{
+  "videoId": "DL8LSXUsfWE",
+  "channel": "Padho with Pratyush",
+  "chunks": [
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 0.1,
+      "end": 60.82,
+      "text": "The two questions today are, in my  opinion, the only two questions you  need to study for sliding window. I  mean, if I had to teach anyone sliding  window in my life and explain it with  only two questions, I would choose  these two, using the hiring and firing  analogy I explained. Work starts  getting done. They start firing. The  same concept is used in sliding window.  You won't find this kind of example or  intuition anywhere on the internet. You  will find the code. Code is available  everywhere. Keep copying that if you  want. But if you want to understand the  intuition, watch both questions. If you  are watching this video, whether you're  new or whoever you are. Don't watch one  and skip the second one. Either don't  watch either. Close it right now.  It’s only been 30 seconds. Close it.  If you are watching, watch both. If you  aren't, don't watch either. If you go  to an interview having watched only one , you won't be able to solve the other.  They are linked. Okay? So, it was  simple, and let's get started. It’s  going to be a great video. It’s going  to be a detailed video. Please watch it . Yes, it’s been a long break. From  today, everything will run properly.  From today, the video will be on, and"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 59.865,
+      "end": 123.02199999999999,
+      "text": " you won't hear any stuttering or  glitches. Okay? For those coming to the  channel for the first time, today is  Day 2 of the sliding window pattern.  You will find the sheet in the  description. And today we are going to  do two questions. I will tell you in a  while. You will find the iPad notes in  the description. Links to Insta and  LinkedIn are also in the description.  And the code links in C ++, Java, and  Python are also in the description.  Those were all the points. The two  questions we are doing today, first of  all, the first question—these aren't  my words. They are written exactly like  this in the question. Okay? Let's see  the wording of the first question, and  then we'll see how the pattern applies  to it. Why does it apply? What do you  need to do to apply it? How to apply it ? What do you have to do? You are given  an array. What do you need to do? Find  the maximum sum of any subarray—not  subsequence, subarray—of size k. That"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 122.065,
+      "end": 187.779,
+      "text": " is your question. What happened last  time? Let's quickly recap that because  many people have forgotten. When does  the sliding window pattern apply? First  of all, it has to be an array question.  It should be a question about either  arrays, lists, or linked lists. The  question must mention either subarray  or substring. The array list also  includes strings. A string is also a  type of array. Okay? It must be a  subarray or substring question. And if  both of these are true. If both of  these are true. Then what are we trying  to return? I mean, you are told here to  find this, right? Do this thing. So  what are we finding? We are trying to  find the max, min of something, the  longest or shortest of something, or we  are doing a sum, count, average, or at  most K, at least K, or exactly K. Okay?"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 187.557,
+      "end": 247.583,
+      "text": " We are trying to find a combination of  all these things. If both are not true,  we shouldn't reach this step. If both  are true, then look at this list to see  if we are trying to find a combination  of these. So let's check this question.  Is it an array question? Yes, it is an  array question. So this is true. Does  it involve working with subarrays or  substrings? Yes. You have to do  something with a subarray. This is also  true. Now let's check the second list.  What do we need to find? Maximum sum,  meaning the maximum sum, so this  combination also fits. If these three  things fit, then it will never be the  case that it is not a sliding window  question. You could do it in some other  way. But the best optimal way for this  will be sliding window. So see how  reading just two lines of the question  made it clear that sliding window  should be used. So 50%of your work is  done. The interviewer is already 50% happy just by knowing that you"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 246.635,
+      "end": 308.636,
+      "text": " understand what type of question this  is. Now, in this, some people start  applying graphs, trees, or DP. Some  people start doing other things. No. We  won't do all that because we study  patterns. So, just by reading the  question, we understood that it is a  sliding window pattern. Okay? That's  good. Now, first of all, what is the  sliding window pattern? This is in the  introduction video. Go check the  playlist. What is the slight addition  to it? For any sliding window question.  For any sliding window question, there  are three steps. What is it? There are  three steps. Okay? The first step is to  identify the pattern. The first step is  to identify the pattern. Meaning, is  this a sliding window question or not?  So, we have already done this. Very  good. The second step is the window  type. Find out the window type. What  does window type mean? Is it a fixed  window or a variable window? Is it a  fixed window or a variable window? I"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 307.686,
+      "end": 367.878,
+      "text": " mean, remember what we said in the  previous intro? We said, what does a  window mean in any array or list?  Window means this is a window. Now this  window moves. Meaning it slides. You  must have seen sliding doors, right? We  slide them with our hands. So, just  like that, the window is here first.  Then this window comes here. Then this  window comes here, so it keeps sliding.  Okay? Now, as it slides, is a window of  the same size sliding every time?  Meaning, if this window is of size  three, are we just taking this window  and sliding it one or two steps every  time? Meaning, earlier this window was  here, the same size, size three, we  placed the three here. Then we took  this three-size window and placed it  here, then here, so this is a fixed  window. Meaning the size of the window  is not changing. If the window is of  size three, then it remains size three,  you are just sliding it from one side  to the other. That is called a fixed  window. What is a variable window?  Meaning, if this window is like this,  then variable means the size of the  window is also changing. The position  of the window definitely changes. The  window is definitely sliding. From here"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 366.914,
+      "end": 428.906,
+      "text": " to there, or from there to here, or  anywhere. The window's size is also,  meaning it is decreasing from the back.  It is increasing from the front.  Sometimes it decreases from the back,  so the window becomes smaller.  Sometimes it increases from the front,  so the window becomes longer. Meaning,  earlier the window was like this. Then  we cut it, and now the window looks  like this. Then we expanded it, and the  window looks like this again. That is  called a variable window. The second  step is to find out if this question  involves a fixed window or a variable  window. Right? How will you do that? I  will also explain how to do that. What  is the third step? What is the third  step, where did it go? Oh, where did it  go, brother? Okay. What is the third  step? Once you have determined the  fixed or variable window task. Once you  understand whether it is fixed or  variable. Whatever window you are  starting with, starting from any window . When you start, it will have a size.  It will have a position. For example,  you say my window starts from the  beginning and is of size three. So this  becomes your starting point for the  program. So what is the next step? Find"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 427.956,
+      "end": 488.406,
+      "text": " out its data. Its data or its  information. This window, any window  represents something. It represents  some information. It could be that the  window represents the elements inside  it, if this window is of three elements . It might be telling what the sum is.  Or it might be telling who the max is.  Or it might be telling who the min is.  This is called the information of the  window. What is the meaning of that  window? When a computer sees that  window, it only understands zeros and  ones. When you see that window, what do  you understand? That is called  information. Meaningful data is called  information. A window has three  elements: 10, 20, 30. This is data. It  is just data that the window is of size  three. It contains 10, 20, 30. But what  information is derived from this? It  could be that the information you are  getting is that the sum of 10, 20, and  30 is 60. This is the information of  that window. Right? First, find out the  information of that window. In any way,"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 487.464,
+      "end": 552.036,
+      "text": " just start in any way. We will discuss  all of this further. This is just the  approach, these are the four steps to  solve any sliding window pattern. No  question is asked anywhere that  deviates from these steps. Right? Now  what is the fourth step? You have  already found one initial window. It  must be starting somewhere and have  some size, which is great. Now slide  the window. Slide it or change its size . Whatever the question asks, whatever  your need, just slide the window or  resize it, as required. Now for the new  window created, slide it; your window  was this, now it is this. Now, find the  data for the new window. Maybe the  previous window’s information was  that its sum was 60. The new window  that was created, perhaps one more  element was added to it, so its sum  might have increased, decreased,  changed, or stayed the same. Find the  information for that new window, find  the information for the new window.  Just find it out. Okay? Keep repeating"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 551.082,
+      "end": 611.188,
+      "text": " this process until you reach the end of  the array, or until you get your answer , or until your window runs out. There  could be any ending condition. In short , there are four steps. Every sliding  window pattern has only four steps.  Look at it again. First of all,  identify whether it is a sliding window  or not, my friend. Done. Is it fixed or  variable? Is it a fixed window or a  variable window? Determine whether the  window size will keep changing or stay  the same. Find the information for the  window you are starting with. Store  that information somehow. That is the  third step. The fourth step is that now , as the window slides and a new window  is formed next time. You must also find  and keep the information for that. Only  then can a comparison be made. After  all, what does sliding mean? That you  keep sliding and looking at different  parts of the array, right? That is the  meaning, isn't it? Suppose there are 10  houses. You can look at two houses at a  time. So you looked at two houses at  once. You found out which of the two  houses is more beautiful. That is very  good. Now you are looking at the next"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 610.23,
+      "end": 670.6949999999999,
+      "text": " two houses. You have to find the  information for those as well. Only  then will you be able to look at all 10  houses and compare which is the most  beautiful one, right? So, this is how  it is. So you just do this. Your  program will be solved in four steps.  Okay? Now we will solve your question  using these four steps. What is your  question? You are given an array. Well,  what is the question in Hindi? What is  the question trying to tell you in  Hindi? Arrays have subarrays. Okay?  What is a subarray? It's if you have an  array, any continuous part of it is  called a subarray. For example, this is  a subarray of it. An array is also a  subarray of itself. You studied subsets , right, where you had a set? What was  its subset? It's just a small part of  it, that's what it is. Now, what the  question is telling you is that you are  given an input K, and for every  subarray of size K in that array, okay?  You have to find their sums. Find the  sum of all of them. You have to return"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 669.743,
+      "end": 730.2950000000001,
+      "text": " the maximum sum among those. You have  to return it. That is the meaning of  the question in Hindi. Okay? This is  what the question says: there is an  array, and we are giving you a number  K. Take all subarrays of that size K;  if k is two, keep all subarrays of size  two. Find the sum of all of them.  Return whichever sum is the maximum  among them. For example, if we try to  look at an example of this, it has 100,  200 300, and 400, okay? 0, 1, 2, 3,  what were you told? Its K is 2. K is 2.  Now you are asked for the answer. So,  for all subarrays of size two, one  subarray of size two is 100 and 200.  The second subarray is this. The second  subarray is 200 and 300. What is the  third one? 300 and 400. You have three  subarrays. Right? One here, one here,  and one here. You need to calculate the  sum of all three subarrays. Meaning,  calculate the sum of all elements in"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 729.34,
+      "end": 791.072,
+      "text": " those subarrays. So, it could be s1, s2 , and s3. Return whichever is the  maximum among them. So, if we look  according to this question, what will  be the sum of the first subarray? 100 +  200, the second one 200 + 300, the  third one 300 + 400; its sum will be  300. Its sum will be 500, its sum will  be 700. Which one is the highest among  the three? 700. Your answer should be  700. Is that correct? Understood? Okay.  Now, why is sliding window used here?  If you look at the pattern, you have  already memorized that if these things  are written in the question, it's a  sliding window. So that's a good thing.  But even if you didn't know the pattern , and even if you didn't understand the  question, what is happening here? What  are we doing? We are looking at  subarrays of size two. Meaning, we  looked at this first. Okay. Then we  looked at this. What happened when we  looked at this? What happened when we  looked at this? In the first subarray,"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 790.134,
+      "end": 851.5310000000001,
+      "text": " we saw 100 and 200. After that, we  removed 100. 200 is still there, and we  added 300. Meaning we were taking two.  We did something with those two and got  an answer. After that, we left the  previous one behind. We left the  previous 100 here. And brought the next  300 inside. We took the next 300 into  our array. We calculated its sum. Then  the same thing that happened with 100,  now happened with 200. Earlier we were  looking at this. After that, we crossed  out 200 as well, saying \"you go too.\"  And we took 400 inside, so now you are  looking at 300 and 400. Now, if you try  to do with 300 what was done with 100  and 200, then remove 300 as well. Now  400, but there is no one left in the  array to bring in. The array has ended.  That is why we are only able to make  three subarrays. Do you understand? Do  you understand what I'm saying? What  are we doing every time? We are  removing one element from the back. We  are taking one element from the front.  So the size of the subarray is being  maintained. It is being maintained,  right? Because what were you told in  the question? It's a subarray of size K  only. You haven't been asked to just  find a subarray of any size, brother."
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 850.631,
+      "end": 911.818,
+      "text": " No. K = 2. You have to look at a  subarray of size two only. Every time  you have to look at a two-sized  subarray and tell the sum from it. So,  in our step two, is our window fixed or  is our window variable? Our window is  fixed. Our window is fixed. Why?  Because the question is telling you to  find the one with size K. Don't find it  on your own. If k is two. Any subarray  must be of size two only. Technically,  400 alone is also a subarray.  Technically, 200, 300, 400 is also a  subarray. But why are we not doing that ? Why? Because its size will be  different. If we take these three, its  size will be three. If we take 400  alone, its size will remain one. We  need two. That is why we are taking a  subarray of size two every time. We are  taking a window of size two, a window.  Window means sliding, sliding. Earlier  we had taken this window of ours. Now  we have taken this window. Now we have  taken this window. So the window is  sliding. What does it mean to slide?  Leave the one behind. Take the one  ahead. Then leave the one behind. Take  the one ahead. The window is sliding  properly. But its size remains the same"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 910.861,
+      "end": 971.932,
+      "text": " every time. The size remains the same.  We are not changing the size. We are  not doing it in a way that we leave one  behind and take two instead. Because  that would increase the size. We are  also not doing it such that we don't  leave the one behind and just take the  one ahead. That would shrink the window . Right? So we are never altering the  size. The size is just two. So this  tells us that the window is fixed. The  window is fixed. The task for step two  is done. Step one was to identify the  pattern. We found out it is sliding.  Step two was whether it is fixed or  variable, that is also found out. Now  let's come to step three. Now let's  come to step three. What did step three  say? Step three said, whenever you  start the window, extract information  from your starting point. Extract the  information from it. Okay? Now, what is  the starting point, brother? The  starting point isn't written in the  question as to where you have to start.  See, the starting point isn't written  because the starting point is very  simple. It asks you to perform some  work on the subarray of the array. So,  where will the array's subarray start  from? It will start from the beginning;"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 970.964,
+      "end": 1032.201,
+      "text": " it won't be that you start from the  middle. If you start from the middle,  where will you go? Starting from the  middle, you would either go left or  right. Whichever way you go, the other  side will be left out. So it is  intuitive, it is natural that you will  start from here. So this becomes your  starting point. Now this is your  starting point. What will be the window  size? The window size is already known  to be two. So what is your starting  window? Your starting window is 100 and  200. So, did you find your starting  point? Good. Do you know the starting  point? Good. What is its information?  What did we mean by information? What  are we trying to understand from that  window? Or what are we trying to do in  the question? We are not trying to find  the name of the subarray, any subarray,  that we don't know. We are trying to  find its sum, that's why we got 700. We  are, oh man! What are we trying to do  with it over and over? We are trying to  find its sum, only then can we find the  maximum sum. So, what is its  information? The sum of that window,  the sum of everything in that window."
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 1032.683,
+      "end": 1093.482,
+      "text": " So, extracting information from that  window means we calculate the sum of  that window. That is its information.  Okay? Now, how will you calculate the  sum? What is a subarray, anyway? A  subarray is also just an array. A  subarray is just a small array within  that array, right? How will you  calculate its sum? We will calculate  its sum properly, wait, one minute. Yes . So, how will you calculate its sum?  To calculate its sum, you will iterate.  How do you calculate the sum of an  array? In an array, you go from zero to  n-1. How will you calculate the sum of  a subarray? You will calculate the sum  from zero to where that subarray ends.  Okay? We calculated its sum as 300,  which is 100 + 200. Step three is  complete. We aren't thinking about code  right now. We are just thinking about  how to perform this step. It is very  important that whenever you solve a DSA  program, a DSA problem, don't think  like a computer. You should think like  a human. It makes things much easier.  Why? Because many people start thinking  as soon as they read the question:"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 1092.528,
+      "end": 1153.076,
+      "text": " which loop will run here? Which  algorithm will we use here? Which graph  here? Hey, you shouldn't think like  that. Let the computer think about all  that. You are a human, right? Think  like a human. Whatever AI, etc., is  being built today, what is its goal?  Its goal is to make computers think  like humans. All that image processing,  what is that? If a computer sees with  eyes, what is it? That is the computer  thinking like a human. And you, being a  human, are trying to think in loops,  but you shouldn't do that. We will  write the loops later. Think like a  human. You need to find the sum of  these two, so how would you do it?  You'll see 100 + 200. That's exactly  what you do. Write down 300. Okay. Come  to step four. What was step four?  Whenever your current window is at 100  and 200, what will the next window be?  Your next window will be 200 and 300.  Because the window is sliding. 100 is  going to be removed. 300 is going to be  added. Right? Now you need to find its  information too. You need to find its  information as well. Right? Its  information will also be the sum. If  this is the information, we have  already established that the"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 1152.122,
+      "end": 1212.269,
+      "text": " information of any subarray is its sum.  It is the sum of those elements. Right?  Now, how will you find its sum? One  very good way is to find it just like  the sum of 100 and 200 was found. Just  like the sum of 100 and 200 was found,  the sum of 200 and 300 should be found  too. That's good. So, you iterate from  here. You run 'i' from here to here and  you would get 500. Very good. How will  the sum of 300 and 400 be found? Just  like the sum of 200 and 300 was found.  You run from here to here and the sum  would be found. But this is a  ridiculous way. Why is this a  ridiculous way? Why? I will tell you.  Now, what are you saying about how to  find the sum of the new window? Just  like we found it for the old window.  For the old window, we found it by  doing 100 + 200. Equal to 300. For the  new window, we will add 200 + 300. So  we will get 500. For the next window,  we will add 300 and 400. So we will get  700. That is how we will find it. Okay,  so there is nothing wrong with this."
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 1211.369,
+      "end": 1272.806,
+      "text": " But this is not a good way. Why? Just  imagine. Here, that human element will  come in. I keep telling you, think like  a human. Because it's a window of two,  you aren't understanding it. For  example, you have five people. Right?  You have five people. They have come to  your house. Right? That's a good thing.  Every person is giving you money. Every  person is giving you some money as they  please. This one is giving 5 rupees.  This one is giving 4 rupees. This one  is giving 2 rupees. He is giving ₹ 10 . He is also giving ₹ 5. You have now  taken the money from all five and  counted it. You have 5, 4, 9, 11, 21,  26; you have ₹ 26. You counted it and  sat down. You sat comfortably in your  seat. Now, now, now, this man here,  this man in the middle, he says, \"Sir,  I won't be able to pay.\"\"I am going  home with my money.\"\"Give me my ₹ 2  back; my brother will come in my place,  he will give you one rupee instead of  two.\" What happened? Five people came"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 1271.853,
+      "end": 1333.3220000000001,
+      "text": " to you and gave money. You counted and  kept ₹ 26, good, but the middle one  says, \"Sir, I'm going home, I'll take  my money back.\"\"I won't be able to pay. \"\"I'll send my brother, he won't give  ₹ 2, he will give only one rupee.\"  Okay, all right? His brother will come  in his place. His brother will come in  his place. How much will the brother  give? The brother will give ₹ 1. And  this man will go home with his ₹ 2.  Now you will return his ₹ 2. And take  his brother's ₹ 1. Now, how much  money do you have? You had ₹ 26  before, but since one man left, you  gave back his ₹ 2. You gave his ₹ 2 . And you kept his brother's ₹ 1. Now  how much money do you have? One way to  do this is to return everyone's money  to them. You become empty-handed. Okay?  And then say, \"Give me the money again,  I will count it again.\" Then you will  spend time on that and then you will  know how much money you have. But you  have already counted their money. You  have already counted these four  people's money. Yes. Are these four  going anywhere? No. Are these four  asking you for their money? They are"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 1332.364,
+      "end": 1392.762,
+      "text": " not asking. What is changing? What is  changing? What is changing? You have to  return this ₹ 2, so you returned ₹  2 and took this man's ₹ 1. The man  came and gave ₹ 1. You had ₹ 26  before. Now you will have 26-2 = 24 + 1  = ₹ 25 left. A person does exactly  this if you already have it and someone  says, \"Give me mine.\"\"Give me my money  back.\" So you gave it back. Look,  someone else gave me money to hold. You  took it, calculated the change, and  realized I now have 25 rupees, whereas  I had 26 before. The point is, this  calculation of 26 required you to talk  to all five people to see how much they  were giving because you were just  starting. Before this, you had nothing.  There was no reference point. But now  that you know I have 26 rupees. You  give the money to whoever you need to.  Subtract that from the total. Take from  whoever you need to. This is how a bank  account works, right? If you have 1  lakh rupees, you buy a cold drink for  100, and someone gives you 50, does the"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 1391.813,
+      "end": 1451.9350000000002,
+      "text": " bank tell you to empty the account and  recount everything from scratch? What  does the bank do? It does 1 lakh minus  100. It adds 50 and updates your bank  balance. The bank does exactly this.  Humans do exactly this. So why are we  doing that useless work of counting  everything repeatedly? What will we do?  What will we do? Look again, look again . Create an array: 100, 200, 300, 400.  That’s our array, right? Now we will  work like humans, not like monkeys. For  the first window, the very first window , you do have to calculate the sum. Why ? Because you had money, you had five  people, and you had no reference; you  didn't even know what was happening.  You have to calculate its sum, so our  S1 will be 100 + 200 = 300. Very good,  we have that information. Now, what is  happening in the next window? In the"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 1450.992,
+      "end": 1511.396,
+      "text": " next window, we are trying to remove  100. We are telling 100 to leave, and  what are we doing after that? What are  we doing after that? The window is  sliding, right? What is the next window ? Your next window is this. 200 and 300 , what are we doing there? We are  removing 100. We are bringing 300 in.  The same process is happening as before . One person said, \"I'm going home, to  the village,\" and, \"my brother is  arriving.\" So 100 is going to its  village, 300 is coming back. Now for  the S2 that will come, why are we  calculating when we don't even need to  add 200 and 300 again? What is  happening with you? Your previous sum  was 300. The previous sum was 300, what  is happening in this? What is happening  in this? -100 is going out. Who is  coming in? Plus + 300 + 300, is this  what is happening? Now what will be the  answer to this? 200 + 300 = 500, check  and match it. The sum of 200 and 300 is  500. Is this what is happening? Very  good. Your S2 is formed. How quickly  was your S2 formed? What did you have"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 1510.437,
+      "end": 1570.917,
+      "text": " to do for S2? Earlier, for S2, you had  to look at the whole subarray, see 200  and 300, and do the work of adding them . Now what are you doing? You are  removing 100 and adding 300. Do the  same thing. Do the same thing. Whose  was S3? What does S3 mean? S3 means  this window. This window. What is  happening in this? 200 is saying I will  go home. 400 is saying I will come in.  So come on in. Come on in, write 500.  After that, 200 says I will go home. Go , and 400 says I will come in. What is  the answer to this? 700. Check and  match it. The sum of 300 and 400 is 700 . Now do you understand how the window  works? How you are doing less work in  less time. Very good. Now you have  received all the information like this.  Let me revise it once again. What all  did we do? We did fixed window and  variable window. To extract the first  piece of information, you have to do  the work. Looking at 100 and 200, it is  300. You don't need to do the same work  for the next info; that is the beauty  of the sliding window. That is why we  are studying the sliding window. You  would have to do this again and again.  If our thinking was just to look at"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 1569.96,
+      "end": 1631.706,
+      "text": " everything repeatedly. Then take all  the subarrays, take all the subarrays.  You know how to extract all subarrays  of an array, right? Take them all, keep  them in different places, and then  create them all. So you could have done  it that way. But why are we studying  these patterns? Are we studying just to  do this? We are studying to think like  this. Okay? Did you understand? Now,  how do we write this? Now we will come  to the computer part. Once you have  thought like a human. Now let's see how  to translate this into computer  language. Okay? Now, how will we do  this? Okay? 100, 200, 300 and 400; 0, 1 , 2, 3 in a sliding window, whenever we  write a sliding window program, it has  two window pointers. How a window? What  does window mean? Window means a part,  meaning a subarray. For an array, you  need at least two things, brother, a  start and an end. Hey, for any line or  any window, if someone says it's a  piece, it must have a start and an end  to be a piece, otherwise it will just  spread out. So there are always two  pointers. Different teachers call these"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 1630.755,
+      "end": 1692.304,
+      "text": " pointers by different names, but in my  opinion, low and high. These are the  standard names for both. Low means  where it starts, high means where it  ends. Very good. So when we are  starting, when we are starting. When we  are starting, then where are we  starting from? We have to take a  subarray of size two from the beginning  of the array. Meaning the first window  is this. Okay? So in array problems,  low is always at the index where your  window starts. So your low will be at  zero because the window is starting  from the zero-th index. Where does the  window end? The window ends at the  first index because we have to take  size two, so taking zero and one makes  it size two. If we took three, where  would it end? At index number two. What  format are we understanding from this?  That when k = 2 and k is your window  size, your high will always be at k-1.  Wait, didn't understand this. k = 2  means we have to take size two. Your  start is at zero. So where will your"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 1691.347,
+      "end": 1756.415,
+      "text": " high go? High is always at the block or  the thing where the window ends. So  high will be at one. High will  generally speaking be at k-1 in 90%of  cases. Okay? When K is your size and it  becomes something else, don't do it  like that. Okay? Now, what did we say?  To find the first sum, you will have to  do that craftsmanship, you have to look . How will we look? How will we look?  Simply set i equal to low. Run it until  i reaches high. Not less than high. Not  less than high. Array size usually goes  up to less than n. Why? Because the  last index is at n-1. We are placing  high at the index where it ends. So,  less than or equal to, and take a sum  variable. Set sum equal to 0. And if  you do sum = sum plus array of i, you  will get the sum of 100 and 200. By now , 300 is registered in your sum. Okay?  Your low = 0. High = 1. Okay? This is"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 1755.463,
+      "end": 1816.2830000000001,
+      "text": " generally the standard process for any  sliding window. Okay? Here we are  calculating the sum. If it were an  average question, we would calculate  the average. Or frequency, we would do  whatever was needed. But the thing is,  to get information from the first  window, you have to iterate from low to  high. Done. Very good. Now, we also  need to shift the window. We need to  slide the window. While sliding it  every time, we have to keep updating  its information. Okay? How do we slide  the window? How do we slide the window?  For that, the first thing is, how long  do we slide the window? Currently, your  low is here, and high is here. What  does sliding the window mean? It means  the window that was here will now come  here. That's exactly it. So currently,  your low is here, and high is here.  When this window slides, your low will  come here and high will come here.  That’s what will happen, right? Low  and high. Low is where it starts, high  is where it ends. To slide, you will  have to increase the low. You will have  to increase the high. If you slide one  more time, your low will come here. And"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 1815.326,
+      "end": 1876.059,
+      "text": " high will come here. That’s how it  works. Now if you slide one more time,  your low will come here. But your high  has moved outside the array. That’s  when you realize your work is done.  What is high? High points to that index . Once your high goes outside the array , there are no more indices. The last  high can go up to here. If high goes  outside the array, your window is  finished. Your program is finished.  Okay? So, what to do to slide this  window? The standard way to slide is to  use a while loop. While, where can the  high go up to? We always check where  the end is, right? We'll see the start.  Look at the start, wherever it is, if  the start is fixed, it will stay behind  the high. Meaning, if this window is  fixed. In any case, the low will be  behind the high. The start will always  be behind the end, right brother? Even  if you take a size of one, it will stay  there. If you take a sub-array of size  one, then both low and high will be  right here. So, low will always be"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 1875.111,
+      "end": 1935.758,
+      "text": " either less than or equal to high. Okay ? So, we check the high, and when high  goes out of the array, we finish. So,  while high is less than n, what is it?  What is the size of your array n here?  In this case, n = 4. So, high can go up  to three. High can come up to the last  position here. As soon as high goes to  four, it's over. The program ends. Okay ? Very good. Come here. Now, which  window are you on right now? During  this time, when the computer came here,  which window are you on? You are on the  first window. Low and high are equal to  one. You are on the first window. Do  you know the current result right now?  Do you have this information? Yes, I do . Why do I know? Because we have  already calculated it and are sitting  comfortably with it. That is why I know . Now, whatever you need to do here,  what do you need to do with that result ? We need to find the maximum of this  result. Find the maximum sum of every  sub-array. So, your information is the  sum, and you need to find its maximum."
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 1935.065,
+      "end": 2000.056,
+      "text": " So, how will we find it? We will do it.  How do you find the maximum of an array ? We will find it the same way. So, we  will take another variable. The result,  whatever our final result is supposed  to be. And now, what does the result  need? The result needs the maximum sum.  So, just like we find the maximum of an  array, we will do the same here. So,  res = maximum of res and sum. Okay?  What does this mean? It means if the  current result is less than the current  sum...what is in sum? Sum contains the  sum of this window. So, if our result  is currently less than this window's  sum, then update the result. Set the  result equal to the sum of this window.  Very good. So, what has come into your  result? 300 has come into your result  as well. Why? Because you should  initialize the result to zero or  something accordingly. Okay? This is  done. Now, now, now we will slide the  window. We will slide the window. How  will we slide the window? If it is a  fixed size. If it is a fixed size.  Right now your size is fixed, right?  The window is of size two only. How  will we slide it? To slide it, first of  all, what is this? Low plus plus. Okay?"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 1999.157,
+      "end": 2060.268,
+      "text": " We did low plus plus. Very good. And  high plus plus. As soon as you do this,  your window slides. Your window has  slid, right? See where the array was.  As soon as you do this, your low was  here, high was here. As soon as you did  low plus plus and high plus plus, your  low came here. High came here.  Automatically, see, your window has  slid. Your window has slid. Okay? Very  good. What was the next step? We need  the sum of this window, this window.  Why? Because when we are coming here,  when we are reaching here, when we are  at the beginning of the while loop, we  already need to use the sum. We need  that result to be there. Why? Because  the sum of every window is being used  immediately. It is being used  beforehand. Okay? So you have to find  the result of this window. Meaning, you  have to find the sum of this window,  the sum of this window. How will we do  it? Just like we did last time, just  like we did last time. What has  happened? What has happened here? Low  plus plus has happened here, so it"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 2059.319,
+      "end": 2120.6459999999997,
+      "text": " means where low was earlier, low was  somewhere behind, it has come here, so  the person at low minus one has gone  home, has gone to the village. And now  where high is, where high is now,  suppose high was at two earlier, now  high has come to three, so this person  has been added. See, these are very  simple things, all these are very  simple things. Understand carefully,  this plus plus, minus minus can be  difficult, you might be asking why I  wrote low minus, but didn't write high  minus one. Why? Think about it once,  you will understand. Low was here, high  was here. Okay? There is no confusion  in this. We knew its result at the  start. Now low came here and high came  here. What happened? What happened?  What happened? In layman's terms, what  happened? Now low is here. So low -1.  This guy has gone back home. That's  what happened, right? That's what  happened, right? And where high is  right now. Where high is right now. So  300 got added to the window. Earlier  300 wasn't there, earlier it was 100  and 200. Now 100 came out and 300 got"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 2119.712,
+      "end": 2180.15,
+      "text": " added. From this we understand that if  low is here, then we have to remove low  -1 and add where high is right now. Did  you understand this? Remove 100, add  300. In terms of index, we will write  it like this. So first of all, remove  the low minus one element. First of all , sum = sum minus array of low-1 is  removed. Your 100 is removed. From your  300, 100 has been removed. Very good.  Now what? We have to add the high one.  But, but, but it is possible. It is  possible that sometimes in some cases  your high might be here. Your high  might be here. It might be three. You  did low plus plus so low also moved  forward. There is no problem with that.  Low minus one is removed. High plus  plus comes, so high becomes equal to 4.  That can happen, right? In while, we  checked that while high < n, so when  high was checked, high was three. So we  entered the while loop and did its work"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 2179.15,
+      "end": 2241.021,
+      "text": ". But, but now you did high plus plus,  high came here. Now if you try to do  sum = sum + a high, high is four. There  is no index four in the array. So your  program will mess up. You will get a  segmentation error. So before adding,  to check if we are still in the array  or not. If high equals equal to n,  break. Did you understand? Why did we  check? Because when high was checked,  it was three, that was very good. We  did its work. As soon as high plus plus  happens, high will become four. So now  you have no window left. Now low is  there and high is outside the array, so  check if high has become n, if it has  after adding, then break. Break what?  Break the while loop. We will end the  program. Okay? If that hasn't happened,  then you have a window, so you do it.  So whatever you understand, you do it.  Very good. Now do it. a Do high. Now  what happened? 300 minus 100 happened.  Plus 300 got added. Plus a of high,"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 2240.067,
+      "end": 2300.094,
+      "text": " which would have reached high two. Is  it fine now? What is the state of your  program right now? Your low = 1 has  happened. High has become 2. And sum  has become 500. After what? After this  statement, this is your program's  condition. Just close the while loop.  Let's take a look at it briefly. What  did we do? What did we do? First, we  found the sum of the starting part. By  iterating. You will have to do it by  iterating every time. There is no other  way. After that, what did we do? Ran a  loop for i less than n. Very good. As  soon as we entered this window, we  processed it. We stored the sum of this  window—maximum or minimum, whatever  you want—in the result and processed  it. Then we shifted the window. This  part is the shift. These two lines are  the shift part. We incremented low as  well. We incremented high as well. So,  the starting point also increased. The  starting point increased by one, and  the ending point also increased by one."
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 2299.194,
+      "end": 2359.948,
+      "text": " So the size remained the same. Okay?  Now, we found the information for the  new window here. And this will continue . Now, when will this information of  the new window, 500, be useful? 500  will be useful now. The next time this  runs, 500 will be updated here. So your  result will be updated to 500. Next  time, if you do some calculations, your  sum will become 700. Your result will  be updated to 700. Now, after that,  your high will become 4. The program  will break. After that, you come out.  After that, you come out. In my opinion , there could be an edge case if k is 1 . In my opinion, this condition here,  this condition, you should write this  before this line. Write this here, okay ? This condition here, write it here,  okay? Bring this line below this one,  swap them. Why? Because if k = 1, it  will break. Now, check how this program  breaks by running it for k = 1, it will"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 2359.01,
+      "end": 2422.113,
+      "text": " fault, okay? That was a mistake. So,  move this up. Move the sum below it so  that we stay completely safe. We need  to stay completely safe, right? No  risks to be taken. This is done. Now,  once you have done all this, your  result must have been updated  automatically. Right? Because we have  seen 100, 200, 200, 300, 300, 400,  we've seen all the sums. Its maximum is  stored in the result. That's it, it's  done. Now, simply return the result.  Return the result. Okay? We returned  the result. Did everyone understand  that this is how any sliding window  works? Right now it's very simple, but  the format will remain the same. This  is the format. This format, this  pattern, whatever you want to call it,  look at this template. This is its  template. Okay? Now the result is  returned. What is its time complexity?  Its time complexity is order of n. Why?  Because you are traversing the array  only once, right? You are traversing  the array just once. What happens every  time? Low was 0 and high was 1. Next"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 2421.189,
+      "end": 2482.714,
+      "text": " time, you set low = 1. You set high = 2 . Then you set low = 2. You set high =  3. How long will this run? Until high  becomes equal to n. So, how many times  did it run? From one to n. It ran n  times. If you haven't watched the time  complexity video, go watch it now. It's  a very important video, otherwise you  won't understand all this. Then you'll  just complain in the comments that you  didn't understand. Go watch that. It  ran n times. Every n times, we are  talking about this loop, this while  loop, the while loop ran n times. What  are you doing every time? You aren't  doing any work that depends on the  input. Every task is independent of the  input, meaning it's a simple operation.  You're just doing addition and  subtraction, right? So it can be said  that it is constant. Therefore, the  overall time complexity is order of n.  What is the overall space? Are we  taking any space? You aren't taking any  space that depends on the input. Order  of one. This is your space and this is  your time. That's right. So you have"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 2481.755,
+      "end": 2543.6369999999997,
+      "text": " learned the solution to the fixed  window problem. Very good. You have  learned this. You will find the code  link. We will do one more question. The  video hasn't ended yet. You will get  the code link now. Go and code it. Okay ? Let's go. Okay? Come to the next  question. Do the fixed one. Or just  watch both. Watch both fixed and  variable. If you understand these two  questions, 70%of sliding window is done , brother. Okay? What is the next  question? Minimum Size Subarray Sum.  That's a good question name. What is  written in the question? What the  question tells you is that you are  given an array with positive integers.  That is very good. And you are given a  target. You are given a target variable . Right? You have a target variable.  Okay. What do you need to find? What do  you need to return? Minimum length of a  subarray, the minimum length of any  subarray. A subarray can be of any size  like 2, 3, 4, 5; find the minimum  length subarray whose sum is either"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 2542.698,
+      "end": 2604.808,
+      "text": " equal to or greater than the target.  Okay, this is what we need to find.  Meaning, there can be many subarrays in  an array. Some subarrays could be of  size two, some could be of three, and  some could even be of four. Of any  length; these subarrays have length two , these have three. This one has four.  In this, there could be many such  subarrays that have a length of two.  Okay, whichever length subarray has a  sum greater than or equal to the target , you have to return that length.  Meaning if any two-sized subarray or  window has a sum greater than the  target, you must return two. This is  your question. First of all, come to  the flowchart. Is it an array question?  Yes. Is there talk of a subarray or  substring? Yes, absolutely there is. Do  you need to find a combination of them?  Minimum, maximum, and sum or greater  than or equal to something, yes, we  need to find that. Combining all these"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 2603.858,
+      "end": 2665.328,
+      "text": " keywords, it says there is an 80%chance  that this is a sliding window question.  Right? It is not a graph question. It  is not a tree or some DP question. It  is not greedy. Based on everything we  have studied so far, yes, it could be  sliding window. Right? So let's assume  it might be. Step one, if you are  watching the video from here, then  please don't. Go and watch from the  beginning. And for those who haven't  reached here yet, that is very good.  What was step one? Identify the pattern . The identification has been done. It  has been identified. It was done after  reading the question. Right? Step two,  look, you might think the two questions  in this video are the same. Let's do  one. Not skip one. These questions are  very different from each other. One  question is easy, one question is  medium. So one is a whole level higher.  This question is difficult, to be  honest. If you are a new student, if  you are new to DSA, then if you only  study that question, you won't be able  to solve this at all. Okay? Why? There  is only one reason, that this is a  variable-size window. This is a"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 2664.38,
+      "end": 2725.8799999999997,
+      "text": " variable-size window. How did we figure  this out? It is not written anywhere in  the question that it's a variable-size  window. It isn't written, right? Yes.  It is also not written in the question  that there is a subarray of size K. Try  looking for a subarray of size K. I am  not lying. It is not written in the  question that there is a subarray of  size K. It is also not written in the  question whether it is a subarray of  size two, three, or four. No, nothing  is written. It just says subarray.  Minimum length subarray. So whenever it  is not written in the question what the  size of the subarray is. Or if you  can't figure it out, or you feel that  the answer could be of any length. It  is possible that the answer is of  length two. It could be of length three , or length four. Whenever it's like  this. It is a variable-size window  question. It is not fixed. It is  variable. Okay? This is what makes this  question difficult. And that is why it  is important to do this question. That  is why it is necessary to understand  this question in a different way. Okay?  Okay. Now let's come to the question.  What is the question telling you? What  is the question saying? Suppose you are"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 2724.972,
+      "end": 2786.89,
+      "text": " given an array 1 2 4 and 4 0 1 2 3.  Good. You are given a target of four. A  target of four is given. You have to  look at all the subarrays. You have to  find the minimum length subarray whose  elements 'sum is greater than the  target. So one thing is that the  information about the subarray, what  was step three? The information about  the subarray, what is it? Sum, the sum  of its elements. Very good. Now see,  what is a naive solution for this? What  were we doing in the previous question?  In the previous question, we had a  fixed subarray of length k. We used to  start from here and slide it along.  Every time, we would adjust its sum. By  adding and subtracting, we would find  the sum. This question is not like that . What does this question say? You take  it, consider all the subarrays as you  like. Check all subarrays of length one , check length two, three, four, or any  length. For any category of subarray  whose sum is greater than target four,  return that answer, return that length."
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 2786.339,
+      "end": 2850.527,
+      "text": " Okay? So this is variable. Now, it  always has a different format. In a  variable-length subarray, you cannot  just set low to zero and high to  something else, like two or three or  somewhere else. Why? Where did we keep  high last time? If you remember, we  kept it at k-1. Because if it's a  subarray of length two, then zero and  one together form a subarray. One and  two form one. Two and three form one.  That is why whenever there is a  variable-size question, a variable  sliding window question, you must  always start with low = 0 and high = 0.  Why? Because no matter how small a  subarray gets, it will at least be of  length one. An empty subarray doesn't  exist; it's not like an empty set, not  here at least. It’s not possible for  a subarray to have zero elements. There  is at least one element in the subarray . There must be one, only then will a  subarray be formed. That is why we  start small and then see what needs to  be done next. Always, in variable size,"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 2849.59,
+      "end": 2910.461,
+      "text": " we will keep low at zero. We will also  keep high at zero. With this, the  length of our current subarray will be  one. So you have found your starting  position and starting index. This is  your window too. Your window is of size  one. Your low is also right here. High  is also right here. This window starts  from here. It also ends right here.  Very good. Right? Now what to do? Now  what is in the question? Now think like  a human again. Do not think like a  computer. Let’s think like humans. Oh , look. In the array, you were told to  find the subarray and find the minimum  length whose sum matches the target. So , it's a question like this: you know,  you have a company. A company. A  company. How is logic built? Let me  tell you. The company is Amazon. Now,  Amazon needs to get work done. What  does Amazon do? You might have heard  that just two or three days ago, there  were layoffs at Amazon. Why did the"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 2909.5,
+      "end": 2971.7360000000003,
+      "text": " layoffs happen? The layoffs happened  for this reason. Amazon needs to get  work done. So Amazon hires people.  Amazon doesn't know how many people are  needed to finish the work. They have no  idea. Right? Amazon hired a person.  Hired one person. The work didn't get  done. One person couldn't do it. It’s  a very large company. Hired another  person. They kept hiring like that.  Right? The boss didn't pay attention.  HR just kept hiring people. That's how  six people were hired. Right? Now the  work started getting done. As soon as  those six people were hired, the work  began. Very good. So Amazon could have  said that they need six people to get  the work done. We need six people to  get the work done. But the six people  hired might include some who are very  fast and some who are quite dull.  That’s possible, right? Not everyone  works the same way. Maybe this person  can do the work of three people alone.  They are that fast. This one is dull.  They don't do anyone's work. They just  add to the workload, requiring more  people to be hired. Right? Now, how"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 2970.794,
+      "end": 3030.9320000000002,
+      "text": " will Amazon filter them? Because they  are already hired. For example, there  is a policy that you have to fire them  in the same order you hired them.  Meaning, you hired this one first. Then  this one, then this one. You hired them  like that. You have to fire them the  same way too. You can't just pick  someone from the middle to fire. No.  You have to fire this one. Then this  one, then this one; that's how it has  to be done. Now Amazon feels that the  work is getting done, but maybe six  people aren't needed. Maybe four are  enough, right? Maybe the last person  who joined has the strength to do the  work of six people alone. So how will  they find out? Only by firing them will  they know. For example, six men were  hired; it is possible this job didn't  need six, maybe it could be done by  four, or even three. How will you find  out? You'll only know when you fire  someone. What will Amazon do? What does  Amazon even do? Amazon will remove this  person. They will say, \"Go, you're  fired.\" Fired. Now there are only four  or five people in the company. Now"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 3029.97,
+      "end": 3090.819,
+      "text": " Amazon sees the work is still getting  done. The work is still happening.  Earlier it was being done by six. Now  it's being done by five. Amazon will  get even greedier. Amazon will think, \" Oh, it's working with five.\" Maybe it  can be done by four, so save one more  salary. What will they say? \"You get  out too.\"\"You get out.\" Now the work is  being done by four. Now the work is  being done by four. Very good. Amazon  will think, \"Alright.\"\"Do one thing,  you get out too.\" Now the work started  happening with three. The work is still  getting done. The work is still getting  done. Previously, it was being done by  six, now it's done by three. But as  soon as Amazon fires this person. When  they fire this person, only two are  left in total. Now it realizes, \"Oh,  the work isn't getting done now.\" The  work isn't getting done now. Now, the  work started getting stuck. It’s not  happening now. But now you can't  re-hire the one you already fired. So  what will Amazon do now? Amazon will do  the same thing. They will go back to  college. They will hire people again.  Hired one person, the work didn't  happen. Hired one more. Still, the work  is not getting done. Hired one more  person. Now the work started happening.  Now Amazon sat back completely  comfortably. Now Amazon sat back  comfortably. How many people are"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 3089.859,
+      "end": 3150.136,
+      "text": " working in the company now? Now only  five people are working in the company.  Do you understand what is happening?  It's a window, right? Doesn't the  window look like this? Six people were  hired. Then slowly, slowly, they were  fired. Until the work stopped. As soon  as the work stopped, they hired more.  Then the work started happening again.  Then what will they do? \"Now go.\"\"You  get out too.\"\"You go too.\" The work is  still getting done. \"Go, you get out  too.\" As soon as they fired this one,  the work stopped again. The work  stopped again. The work stopped again.  What will they do? They will go and  hire again. This is what Amazon does.  This is what we have to do. We have to  do this exact same work. We have to do  the same work like Amazon. Are you  understanding it or not? If you are not , I will explain it now. Do you  understand it now? What is the logic,  what is the intuition? Now look, what  was the array? What was it, man? 1 2 4  4 2 4 4 0 1, forget everything. Forget  all for loops and while loops. We will  do it by hand. We will see what happens . The target is four. What is the  target? It is four. Good. First of all,  let’s see, you have no one in your"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 3149.183,
+      "end": 3209.574,
+      "text": " company right now. Right now your low =  0. High = 0. No one is working right  now. Okay, so let’s hire slowly. Hire  this person. What became your sum? Add  this up. Earlier it was zero. Earlier  there was zero work. Add this to it. It  became one. Is one greater than your  target? Meaning, is the work happening  now? The work is not happening. We will  hire more. Hire more. Hire this person.  Sum = 1 + 2 = 3. Is three greater than  four? It is not. No problem. Hire again . Come. Sum = 3 + 4 = 7, which is  greater than your four. The work  started happening. When did the work  happen? When you hired three people, no  matter what earthquake or disaster hits  the world, three will definitely be an  answer. Maybe the answer could be two,  or one, but three it will be. There is  no need to go to four, five, or six.  You found three, right? Suppose if  there was an answer of four, three is"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 3208.619,
+      "end": 3269.2140000000004,
+      "text": " smaller than that. You have to take the  minimum. Minimal length. Remember,  minimal. Three is my answer. Write down  three comfortably in one place. Good.  What used to Amazon do? Remember. As  soon as the work started, they would  start firing, thinking maybe one person  could do the whole job, so we fire  everyone else. Maybe some fool might  have come. Good, fire them, right? Fire  them, right? Fire this person. Fire  this person. Come, update your sum.  What happened when you fired them? They  left with their work and their computer . Six, six, six, it is still more than  four. Yes, it is more. That is exactly  what was happening. Even after firing,  the work was getting done. The work was  getting done even at six. It was  happening with five as well. With four  too, and with three as well. So as the  work keeps happening, now see, how many  is it working with? Who is in the  company now? Only this one is in the  company. What happened? Earlier there  were so many people in the company, so  work started happening. Work started  happening, now you started firing. Come  here. As soon as the work started, you  started firing. Come, come here. What"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 3268.253,
+      "end": 3328.509,
+      "text": " is the window length? Two length. Two  length. Two is smaller than three,  right? Now no matter what happens in  the world, two will be the answer, your  earlier answer was three. It is smaller  than two, isn't it? Two is definitely  smaller than three. Write two here.  Write two here. Good. Work is still  happening, so fire more, fire more,  fire the guy. Fire him. Remove him.  Update the sum. 6-2 = 4. Is 4 > = your  target = 4? Yes, it is, work is still  happening. Why? Because this guy four  was doing the work alone. The same  thing was happening there, that one  person was doing the work of six people . Very good. Now what is your length?  Now what is your window? Took this out.  Took this out. This is all that's left.  This single one is left, son. Do this  one too. Now what is your length? One,  one. No matter what happens in the  world. One will be my answer. Write one  here, now it's comfortable. Very good.  Now what was it doing? Amazon is  foolish anyway. Now it doesn't realize  that there is only one person here."
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 3327.609,
+      "end": 3387.904,
+      "text": " Fire him too. Fire him too. So do it.  Fire him too. Come on. Sum = 4-4 = 0,  fired him. Now it became zero. Finally,  it became zero. 0 is greater than 4,  right? Now the work is stuck. The work  is stuck. What will we do? We will hire . The work is stuck. Come here. Hired  him. Hire him. Sum = 0 + 4 = 4. Greater  than four, yes it is. Where is your  window? How many people are hired right  now? Only this one is hired. Only this  one is hired. One is already written.  Okay? No problem. One was there before  too. It is there now as well. Now the  work started happening. Fire him. Fire  him. Fire him, the jerk. Get rid of him . Fire him. Fire him. 4-4 = 0 work,  right? The work isn't getting done. You  will have to hire. But who will you  hire? Yes. Now it's all over. All the  kids in that college are finished. The  array is finished. Your program is"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 3386.952,
+      "end": 3448.3219999999997,
+      "text": " finished. This was yours. What is in  this? The smallest number is one.  Return one. Its answer is one. Why is  its answer one? Because only one man  was working. I don't think you need to  understand anything else after the  Amazon example. Initially, you have  nothing. Keep hiring. Keep firing.  Until when do you have to hire? Hire  once. Hire as long as the work is not  getting done. Hire until the work is  not done. Once the work starts, note it  down and start firing from one end.  Okay? Very good. Now come on. Now that  you have thought about it, let's start  thinking in computer language about  what will happen. Good. Low is equal to  zero, high is equal to...yes, it is  also written that if suppose there is  no such subarray whose sum is greater  than or equal to the target. It could  also be that your target is 100,000,  right? None of your men are able to do  the work. You hired the whole college,  and it couldn't get the work done. So,  in that case, return zero. In that case , if you return zero, that will be your"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 3447.375,
+      "end": 3508.943,
+      "text": " result. Take something for the result.  Take INT_MAX. One more thing, whenever  you have to return the minimum of  anything—not just in a sliding window , but anywhere in programming. If you  have to return a minimum value, then  your starting value for the result is  INT_MAX. Meaning, infinity. If you ever  have to return a maximum in your life,  the value of your result is INT_MIN;  it’s the opposite. Okay? If you have  to return the minimum, start your  result with infinity. If you have to  return the maximum, start your result  with minus infinity. Why? Because any  first value of yours will come. Suppose  your first value came as 10. Then what  will you do? When you have to return  the minimum. You will do this, right?  Min of your current answer which came  as 10 and res. So, what will happen is  that when your result is already  infinity, anything that comes will be  better than infinity, so you will take  it. Similarly, when you want the  maximum, you do this, right? You do  this for the answer. So, if anything"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 3508.002,
+      "end": 3569.598,
+      "text": " comes, say 10, then 10 is better than  minus infinity, so 10 will be taken.  That is why we do this. Okay? Remember  that. Okay? So, let's come back again.  Low = 0, high = 0, res = since we need  to return the minimum, INT_MAX, which  you can understand as infinity in  computer language. Okay? INT_MAX means  the maximum value an integer can hold.  Okay? Now, what is the information of  each window? What is the window's  information? Sum. Initially, how much  do you have? Meaning, how much sum, or  how many people, or how many things?  It's zero. There is nothing. Absolutely  nothing, haven't hired anyone yet. Okay ? Now, let's talk about the hiring and  firing. Now, how will this hiring and  firing happen? In which direction did  the hiring happen? In which direction  is the hiring? Hiring was happening in  this direction. It was, right? We were  hiring one by one towards the right  side. How did the firing happen? Firing  also happened in this same direction.  Meaning, the window is here first. When  this window expanded. Expanding the  window means we are making the company  bigger. So, the window used to grow"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 3568.653,
+      "end": 3630.056,
+      "text": " like this, it kept growing. When the  window shrank, it started shrinking  from this side. Whoever was hired first , they are fired first, okay? It  started shrinking from this side, like  this. Meaning, meaning, meaning, What  does hiring mean? What does it mean to  hire an element? Adding that element's  value to the sum. What does it mean to  fire an element? Subtracting the  element's value from the sum. Meaning,  and who will we add? We will add the  new element. The new element that comes  into the window, we will add that. The  old element will be removed, and the  window will be adjusted from that side.  We did that in the previous question.  In the previous question, we removed  100 and added 300. We removed 200 and  added 400. So, the task of adding, the  task of hiring, or the task of  increasing, is always done by high.  Only when high increases will it come.  And whatever firing happens, or  whatever task involves decreasing, the  element you want to send home is done"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 3629.106,
+      "end": 3689.641,
+      "text": " from the' low 'side. The same thing  happened in the previous one too. In  that, the order was' high 'plus plus,  and we used to do something with' array  of high '. We would sum it or take it  inside our window. In this, we first  removed' array of low 'and then did'  low 'plus plus. Both of these are  opposites of each other. This is what  is happening. This is the hiring  process. This is the firing process.  That's how we will do it, right brother ? To hire someone, we will increase'  high '. We will hire them. If we have  to fire, then we fire this one first.  After that, we increase' low 'so they  are not in the company. The company  size decreased. Okay? So what can we do  in this? How will we write the code?  Writing its code is a bit tricky. Its  code is very beautiful. You might not  understand the code at first, even if  the logic is clear. Even now, if I tell  you to write the code for this, you  won't be able to write it, okay? I  didn't know how to either. So' low 'is  zero,' high 'is zero, let's create the"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 3688.728,
+      "end": 3750.051,
+      "text": " array: 1 2 4 4. The same task we did  last time, we proceed on' high '. As  soon as' high 'goes out, the program  ends,' high 'less than' n '. Okay,  right now your sum is zero, your sum is  zero, you have nothing, and your target  constraint given is from one. So in the  beginning, there is nothing at all. So  you can't fire anyone. So you have to  hire. Go ahead and hire. Sum = plus  array of' high '. Okay? Now what is  happening? Now once you have hired. The  process was to check if work is  happening; if work is happening, if  work is not happening, then there is no  discussion. If work is not happening,  then there is no chance of firing.  Right now the company is not stable. If  work is not happening, then you have to  hire more, so increase' high 'and do  all the work. But, if work is happening , then keep reducing the company to  find the minimum where work is"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 3749.097,
+      "end": 3810.303,
+      "text": " happening. Work is happening at six,  very good. Write six in the answer.  Maybe it works for five too, so try  five. It works for five too, so write  down five. It works for four, so write  down four. It doesn't work for three,  so stop there. Now we hire. That's how  it is, right? We can write it like this . While, while, another while, while  inside a while—what does' sum 'mean?'  Sum is ', look here. What does it mean  for work to be done? That your sum is  equal to or greater than the target. If  that happens, if you come here, it  means work is getting done. Some work  is definitely getting done somewhere.  No matter how many, the work of 100  people is getting done. So, how many  people are working together right now?  At this point, at this point, how many  people are working together? At this  point, how many people are working  together? Where is your' high '? Your'  high 'is here. That's why we added it.  Every time we are adding the high one,  we are hiring. Your' low 'is also right  here.' Low 'is also right here, isn't  it?' Low 'is at zero. So low = 0, high  = 0, meaning someone is telling you my"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 3809.378,
+      "end": 3869.615,
+      "text": " start = 0, my end is also at zero. Tell  me its length. And how will its length  be calculated? Its length will be  calculated by doing end minus start  plus one. Didn't understand? There is a  subarray from 0 to 2. Tell me its  length. So which elements are in this?  0, 1, and 2. By looking at it, you  might think to do 2 minus 0. 2 minus 0  is 2. Its length is three. How does  that happen? 2 minus 0 plus 1 equals 3.  This is simple math. We aren't thinking  about this right now. It's just simple  math, right? So first of all, calculate  this. How many people are in the  company? High minus low plus one. Very  good. As many people as there are, that  much work is being done. Result equals  minimum of result and length. So the  result was infinity before. Now it must  have realized that this many people can  do the work. Very good. This is done.  This is done. You have seen it. Amazon  saw that six people can do the work. It  wrote six in its diary. Now fire them."
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 3868.715,
+      "end": 3928.733,
+      "text": " How do we fire? How do we fire? How do  we fire? How to fire? We fire them.  Subtract the' low 'first. Sum equals  sum minus array of low. What do we do  after subtracting? We increase the' low  '. The one we fired, we no longer need.  Okay? Okay? Okay? That much is done.  Did you understand this much? What did  we do? I will explain it again. Don't  worry. The code is somewhat done. Close  the file. Close the while loop. What  happened in this file? First, we came  to' high '. I will explain from here.  Came here. We had nothing here. We  don't know how the company is running  right now. Added' high '. Hired the one  at' high '. If the work is being done.  This section means this. As long as the  work is being done. The work is going  on. This is a while loop. It's not just  one loop. This is not' if '. It is a"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 3927.784,
+      "end": 3988.955,
+      "text": " loop, as long as work is done. While  sum is greater than or equal to target.  What to do until then? We will find the  length one by one. We will keep writing  it in the answer. Write it in the  answer. And keep firing too. One by one . This firing happened here. When will  this firing stop? It's possible that  after firing one person, the sum is  still greater than or equal to the  target. That is exactly what was  happening. Your window was built up to  here. Remember the example? The window  was built up to here, so you wrote  three in your answer. Very good. You  fired one. You saw that two and four  are still working. So it's fine, right?  So keep firing, why do it again and  again? Do a mass firing all at once.  You saw that two and four are also  doing it. Write two in your answer. And  keep firing. Remove two as well. Do  this too. This is also working. Okay.  So do this too. Write one in your  answer. Fire this one too. Now your'  low 'will come here.' Low 'will come  here. Now you have nothing left.  Everyone you hired, you fired them all.  Now you realize that there is nothing"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 3988.001,
+      "end": 4049.78,
+      "text": " left. Okay? When there is nothing. When  there is nothing left, your' while ' will break. It will break automatically . As soon as the work stops, you cannot  fire. As long as you have the power to  fire and work is being done, keep  firing. Keep shrinking, shrink, shrink  the window. As soon as work stops,  firing stops. And we have moved all its  answers here and there. Now that you  have come here, what happened? You had  hired up to a certain high. You had  hired up to a specific high. Now who is  to be hired? The next high. Pay  attention to the next high. The high  was here. The low was here. Suppose  your high ever reaches here. What does  its arrival here mean? That high has  already been hired. It is possible that  it has been fired as well. We do not  know. You had brought the high up to  here. You had brought the high. This  high has definitely been hired. It is  possible that it has been fired as well . It makes no difference. That will be  handled by this, this thing. The firing"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 4048.827,
+      "end": 4110.639,
+      "text": " manager will look after it. Now why  high plus plus? Because you will hire  the next high, right? You have already  hired one high. You have done your work  with it. Now who is to be hired? The  next kid from the college. The next  college kid, so high plus plus, we  increased the high. Take a look at this . This is a simple program. It is very  simple, very short, but very beautiful  and tricky. Listen carefully. Watch it  again carefully. If possible, slow down  the speed a bit. Listen again once or  twice. How the code is written and what  the code means? I have explained as  much as possible. But still, if you  have any doubts, ask in the comments.  Right? And try writing it in a  different way too. The simple logic is  just this. Hire. Check the work. As  long as the work is happening, fire,  and increment the hire pointer so that  the next hiring can happen. Okay? Once  you come here, you just have to do  nothing. Return result, the result we"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 4109.688,
+      "end": 4170.2699999999995,
+      "text": " have been calculating here. We will  return this one. When will we return it ? When this while loop breaks. When  will this while loop break? When high  becomes equal to n. High equals to n  means no kid is left to hire. Your high , your high has entered here. As soon  as your high went out of the array,  your window broke, right? A window  needs a start and an end, the end is  gone. The end is broken, so what window , there is no window. Just return it.  That was it. Its time complexity is  also just like the previous question.  Order of N time. Taking no space. Order  of one space. This is the beauty of  sliding window. Two questions, very  important questions in my opinion, very  solid questions in my opinion, and both  questions have been created with a lot  of time. Go and submit the code. The  link to my submission is in the  description. First, look at it yourself . First, try to write the complete code  by reading the pseudo-code. If you  don't understand, then look at mine.  There is not much benefit in watching  mine. I will be the one who understands  from it. You won't learn anything. Okay"
+    },
+    {
+      "videoId": "DL8LSXUsfWE",
+      "start": 4169.27,
+      "end": 4182.339,
+      "text": "? Two questions. Sliding window is  wiped clean. We will proceed by  increasing the speed like this and keep  studying. Maintain consistency daily  and keep studying every day. If you  have doubts, ask. I will try to reply.  Okay?"
+    }
+  ]
+}

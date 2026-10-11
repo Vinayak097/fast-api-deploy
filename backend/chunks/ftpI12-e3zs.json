@@ -1,0 +1,72 @@
+{
+  "videoId": "ftpI12-e3zs",
+  "channel": "Padho with Pratyush",
+  "chunks": [
+    {
+      "videoId": "ftpI12-e3zs",
+      "start": 0.1,
+      "end": 60.974000000000004,
+      "text": "Give me 15 minutes of your life, and  the linked list slow and fast pointer,  which lets you solve 60%of questions,  will be clear to you. It will be clear  to you. My name is Pratyush Narayan. If  you are new to the channel, there is a  pattern link in the description. We  study DSA pattern-wise here. Not  topic-wise. This is the easiest and  fastest way to study DSA. Anyway, when  we started the story of the slow and  fast pointer. The slow and fast pointer . First of all, its flowchart—what is  the flowchart to know if this pattern  applies just by looking at the question ? Its flowchart is different. In two  pointers and sliding window, we could  tell by looking at the array or linked  list whether it would apply or not. In  this question, or this pattern, or this  category, there is no such thing.  Meaning that this pattern also applies  to arrays. It can also apply to a  single number. It can apply to strings  and it can also apply to linked lists.  This is what makes this pattern a bit  difficult to identify. So, first of all , you don't even have to look at these  things to figure out if it can be"
+    },
+    {
+      "videoId": "ftpI12-e3zs",
+      "start": 60.02,
+      "end": 121.982,
+      "text": " applied or not, it makes no difference.  It can apply to any data structure. Now , let's come to what should be in the  question. If the question asks you to  find a cycle. Find what? A cycle.  Finding means saying true or false— hey, is there a cycle or not? This  cycle can be a linked list cycle. This  cycle can also be a number cycle. This  cycle can also be a cycle in an array.  Any kind of cycle, any kind of  practical situation where you feel a  cycle is being formed. Meaning A is  going to B. B is going to C. C is  coming back to A. So, if you have to  find a cycle somewhere. This pattern  will definitely apply. What will apply?  Definitely, with a 100%guarantee.  Furthermore, if you are given that  there is a cycle, let's say it's  confirmed there is a cycle. Find the  start of the cycle. Find what? The  starting point of the cycle, meaning  which person or which element or what  thing in the question creates the cycle , causing it to form? Again, if this is  in your question, 100%slow and fast  pointer will apply. Furthermore, if you"
+    },
+    {
+      "videoId": "ftpI12-e3zs",
+      "start": 121.031,
+      "end": 183.00199999999998,
+      "text": " need to find anything, say the middle  of a linked list, what should you do?  Middle of a linked list, middle of a  linked list, 100%this pattern will  definitely be used; nothing else will  work except this pattern. So, there are  only three cases, kid. What are those  three cases? The first one is finding a  cycle. The second is finding the  starting point of the cycle, and the  third is finding the middle of the  linked list. In all three types of  questions, with a 100%guarantee, what  will be used? Slow and fast pointers.  Now look. There is less time, so I am  unable to tell you all. I don't know if  you realize it or not. But it is  possible that the question might not  explicitly state that you need to find  a cycle. It is possible that the  question is wrapped in a long story or  a complex scenario. You have to  understand it by looking at the  question. Like the duplicate number  question, there was a duplicate number  question in an array, right? In that,  we understood by looking at the  question that a cycle would definitely  be formed. Meaning, if there is zero  and one, then one goes to two, two goes  to three, and three goes to four. Now,"
+    },
+    {
+      "videoId": "ftpI12-e3zs",
+      "start": 182.065,
+      "end": 244.70499999999998,
+      "text": " let four go anywhere. Let four go  anywhere. Let four go to any of these  three. Let four go to any of them or  even back to itself. A cycle will  definitely be formed. So, we understood  by looking at the question that a cycle  would form, and what needs to be  returned? The starting point. If you  are watching this playlist in the  middle, then it is possible that you  might not understand some things. Watch  the playlist from the beginning. The  playlist currently running is named DSA  Patterns 2025. Watch it from the start.  Okay. Let's go. We talked about three  scenarios. What scenarios did we talk  about? The first one is, is there a  cycle or not? That's the question.  First of all, there is a set pattern  for this. What is the set pattern? It's  a set pattern. Every question will be  solved using this pattern. Take two  things. What? Slow and fast. Place both  of them at the start. At the start of  what? At the start of your house? No.  If it is a linked list, you can place  them at the head. If an array is given,  you can place both at index zero. If a  number is given, you can place both at  the number itself. Meaning, place them  at the start. Place them wherever your  process is beginning. Very good. Now  after that, run a loop. While? Let's"
+    },
+    {
+      "videoId": "ftpI12-e3zs",
+      "start": 243.745,
+      "end": 303.817,
+      "text": " see the condition for that now. We will  see its condition now. First, move the  slow pointer one step ahead. How far  ahead? One step ahead. If it's a linked  list, you will write next. If it's an  array, you might write that slow equals  array of slow. This can move it forward . If a number is given, the question  will tell you what the number becomes  after one step. Like in happy numbers,  you were told that the number becomes  the sum of the squares of its digits.  So, it will be stated clearly. Okay?  And how many steps should you move the  fast pointer? Two steps. Not one step,  child, move it two steps ahead. Move it  two steps ahead. If, if, sorry, if, if  slow equals fast. Anywhere it happens.  What have you figured out? There is a  cycle. There is a cycle, return true.  If you need to find if there is a cycle ? Return true. If, if, if you need to  say what the starting point is? What is  the starting point? Then instead of"
+    },
+    {
+      "videoId": "ftpI12-e3zs",
+      "start": 302.865,
+      "end": 364.423,
+      "text": " returning true, what should you do?  Reset the slow pointer to the start.  Reset the slow pointer to the start.  Let the fast pointer stay where it is.  Now what to do? While slow is not equal  to fast. What? Not equal to fast. Now  how many steps to move slow ahead? One  step ahead. How many steps to move fast  ahead? Just one step ahead. Not two  steps. One step ahead. Sorry. Not two.  One, one step ahead. One step ahead and  close this while loop. As soon as this  while loop breaks, as soon as this loop  breaks, it means here your slow is  equal to fast. Why? Because this  condition is designed that way. Just  return slow. If there is a cycle, this  is all you have to do. In both types of  templates, the pattern, template, and  blueprint are the same. What do you  just need to think about? What do you  need to think about in every question?  What is this starting point going to be ? And what do you need to think about,  one step ahead and two steps ahead.  What does this mean? How will you do"
+    },
+    {
+      "videoId": "ftpI12-e3zs",
+      "start": 363.469,
+      "end": 423.635,
+      "text": " this? Just these two things you need to  think about. And what else should you  think about? This condition, which  condition? This condition here. What  does this condition tell you? That your  fast pointer should not run out.  Meaning, it should not reach the end.  What does ending mean, like if it's a  linked list, will fast become null? If  it's an array, will fast go out of the  array bounds? If it's a number, every  number question will have a condition,  like if it becomes one, your program  ends. So you need to check if fast has  become one or if it has reached your  condition. Meaning, has fast gone out  of bounds? This means if there's a  straight road, no cycle, then fast will  eventually go out of bounds. You have  to write this exit condition here. If  it's a linked list, we write null.  Similarly, we write it for an array.  Those who have seen previous questions  will have no trouble with this. Okay?  Okay? What was the last one? Middle."
+    },
+    {
+      "videoId": "ftpI12-e3zs",
+      "start": 422.824,
+      "end": 482.95,
+      "text": " What was it? Middle. Need to find the  middle. It's simple, brother. This will  always be asked for a linked list.  Place slow at the head. Place fast at  the head. Now what to do? While fast  hasn't gone out of bounds. Fast not  equal to null and fast dot next not  equal to null. What to do after this?  Move slow one step forward, one step  only, not two; slow dot next. And how  many steps to move fast? Two, fast dot  next dot next. Close it. When will this  loop end? When will this loop end? When  fast goes out of bounds. Goes out of  bounds. Goes out of bounds. Fast has  gone out of bounds. Meaning fast has  covered the entire distance. So how"
+    },
+    {
+      "videoId": "ftpI12-e3zs",
+      "start": 481.999,
+      "end": 547.417,
+      "text": " much distance will slow cover? Slow  will cover exactly half. Return slow.  That's it. Find the middle of the  linked list. It gets done in just this  much. So see, with this one pattern,  you learned so many questions. You  learned so many varieties of questions.  You learned linked list questions. You  learned array questions. You learned  number questions. You learned number  questions as well. So with this one  pattern, all three types of questions  are formed. Which three types of  questions? The ones mentioned in the  three conditions. Repeating again,  cycle. Start of cycle and middle.  Middle. Three types of questions, three  types of data structures, all three  combined can appear anywhere. So what  was this? Slow and fast pointer. What  was it? Slow and fast. Yes, I made a  mistake that in the pattern sheet, one  DSA pattern is missing. Which pattern  is missing? Kadane's and Prefix Sum.  Kadane's and Prefix Sum. Prefix Sum."
+    },
+    {
+      "videoId": "ftpI12-e3zs",
+      "start": 547.714,
+      "end": 608.0840000000001,
+      "text": " This pattern is missing. What will we  do with it? We will add it. And from  tomorrow, we will start Kadane's. We  will start Kadane's. Kadane's is a very  important pattern. What is it? It is a  very important pattern. From tomorrow,  we will start Kadane's. And from  tomorrow, the video will be a bit  longer. Tomorrow's video is going to be  a bit longer because in a single video,  I want to explain the flowcharts and  everything about both Kadane's and  Prefix Sum. Well, today's video was  very short. This was a revision video.  Keep watching like this, stay  consistent. Those who have a backlog,  please cover it. And keep solving  questions. Keep solving questions  yourself. Don't rely on me thinking  that \"Bhaiya must be solving them  anyway.\" Why should we do it? You have  to do it too. The main purpose of  creating this channel is to teach you.  I don't need to be taught. I can study  on my own. At least I don't need to  start a YouTube channel to study myself . Okay? So, the purpose of this channel  is for you to learn. When will you  learn? You will learn by watching  videos. You will learn by revising. You  will learn by making notes. You will  learn by solving questions. So keep  practicing. It is practice. If you keep  practicing, you won't have to be"
+    },
+    {
+      "videoId": "ftpI12-e3zs",
+      "start": 607.13,
+      "end": 621.188,
+      "text": " dependent on me, waiting for me to  teach so you can study. You know, I  don't know much at all. I probably  don't even know 10%of DSA. You guys can  go much further than me. You are very  smart kids. Alright, come tomorrow, we  will start learning Kadane's."
+    }
+  ]
+}

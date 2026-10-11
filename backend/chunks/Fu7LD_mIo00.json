@@ -1,0 +1,294 @@
+{
+  "videoId": "Fu7LD_mIo00",
+  "channel": "Padho with Pratyush",
+  "chunks": [
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 1.019,
+      "end": 62.382999999999996,
+      "text": "My job is to teach you the patterns  correctly within the 3 months, or  rather 2 months, leading up to my  birthday on January 13th. Your job is  just to stay consistent. If you feel  you won't be able to stay consistent,  then don't even watch. I don't need to  increase views. I am saying this  repeatedly. Whatever work you do, be  the best at it. There was a song in  Panchayat about being a diamond or a  topaz, not just metal. So if you want  to be metal, be a diamond. Iron, silver , gold—that doesn't help. Okay? Stay  consistent. I am repeating the same  thing over and over. From now on, there  will be a video every day. The entire  pattern will be finished in three to  four days. If you aren't consistent,  you won't understand it. Okay? Today is  the introduction video for the  Two-Pointer pattern. Anyone who doesn't  have the sheet, it's in the description , go download it. Now, first of all,  patterns vs. DSA topics. All the  courses on the internet right now, be  it Striver's, Love Babbar's, or anyone  else's, they are all teaching you DSA  topic-wise. They say learn arrays first , do 100 questions on arrays, then 100  on linked lists, then stacks—that's  not how it works. That's not how DSA is  taught. There is no point in doing 100"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 61.424,
+      "end": 123.01100000000001,
+      "text": " array questions. If you don't  understand which algorithm applies to  them. Because there aren't just 100  array questions. There are 100,000  array questions. You won't achieve  anything by doing 100, so whether you  do 100, 1,000, or 10,000, nothing will  happen. That is why learning patterns  is essential. So, what is a pattern?  It's about what you need to solve in an  interview. You have to solve questions  in an interview, right? Obviously, the  question will be either about arrays or  linked lists. Besides these, those are  the fundamental data structures, right,  brother? Arrays and linked lists are  the fundamentals. Okay? Stacks, queues,  graphs, trees, deques, and so on are  all built from arrays and linked lists.  So obviously, every question is an  array question. Every question is a  linked list question. How to solve it,  brother? Which pattern is it? Which  algorithm will be used? That is what we  understand in patterns. So, what is  today's pattern? Two-pointer. To  understand the two-pointer pattern,  let's start with a real-world example.  Let's take an example of a building.  Right? A building has four floors.  Right? What do I tell you? There are 1,"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 122.07,
+      "end": 182.347,
+      "text": " 2, 3, four floors. I ask you to do one  thing: you are on the ground floor  right now. Right? You are this person.  I tell you to go up to the fourth floor  and get some items. So, what will you  do? You will go from one to two. Two to  three. Three to four. You will get the  items. Then descend from four to three.  Three to two to one. So, how many times  did you have to climb? You had to climb  four flights of stairs. You had to  descend four flights of stairs. So,  what was the total work done? Eight.  Right? Now, for example, let me explain  it another way. I tell you, \"Don't  worry.\" I have another person standing  on the top floor. So, do one thing: you  start climbing up. Tell the person at  the top to come down. So, what will you  do? You will go from one to two. By  then, the other person will come down  here. Then you will meet somewhere in  the middle, right? You will meet  somewhere in between. So, what happened  here? You only had to climb two flights  of stairs. They had to descend two  flights of stairs. Right? So, the work  done is the same. Before, you were  climbing four flights. Here too,  net-wise, you climbed two and they"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 181.407,
+      "end": 243.299,
+      "text": " descended two, so it's still four. But  it took less time. Didn't the time get  cut in half? Earlier, you climbed four.  Now, you are climbing two. You got the  same items. So, the time was halved. We  reduced the time by half. This is what  a two-pointer is. A two-pointer is just  this small concept where, if you have  an array or a linked list problem and  someone asks you to perform a task that  would otherwise require traversing the  array two, three, or four times, we  instead use two indices, two positions,  or two people to reduce the time. The  amount of work remains the same. Mind  you, you cannot reduce the work itself.  For a task, you have to climb exactly  as many stairs as required. But if two  people work together, the time taken is  halved. If three people work together,  the time becomes one-third. This is the  two-pointer pattern. By now, you must  have understood the gist of the pattern  in simple terms. Now, how do we apply  this pattern? How will you know if a  DSA question requires it? You have to  think about the two-pointer pattern.  Whether or not to consider two-pointer?"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 242.479,
+      "end": 304.16400000000004,
+      "text": " Whether it applies or not is a later  discussion. Everything has an 80-90% probability, but how to start thinking  if it could apply? The first thing is,  the question must be about an array or  a linked list. Okay? The question must  be about an array or a linked list. If  the question is about a tree, graph,  stack, DP, or queue. In my opinion, in  99%of cases, two-pointer doesn't apply.  For two-pointer to apply, the question  must involve an array or a linked list.  So, if it's not an array or linked list  question, don't even think about  two-pointer. Now, let's move forward.  You have an array or linked list  question. Now, the next part. If you  are given sorted data, or if sorting it  would make things easier. If you feel  that sorted data would make it easier,  or if the data is already sorted,  that's the second sign to think about  two-pointer. Okay? Now, let's move"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 303.232,
+      "end": 363.525,
+      "text": " forward. If \"merge\" is mentioned in the  data. You need to merge something. \" Remove duplicate\" is mentioned. If \" remove duplicate\" is mentioned anywhere . Okay? Or if \"rearrange\" is mentioned  somewhere. For example, you are given  two arrays and you have to merge them.  There are some duplicates in an array  and you have to remove them. There are  some duplicates in a linked list and  you have to remove them. You have to  rearrange things, there are many items  in an array. There are 0s, 1s, and 2s  in the array. You need to bring all 0s  to one place. Bring all 1s to one place . Bring all 2s to one place. This is  called rearrangement, where the values  remain the same. You have to move them  around, i.e., rearrange them. Then you  can definitely think about the  two-pointer pattern. Next, if it's a  linked list question. If \"detect cycle\"  is mentioned anywhere, or you  intuitively feel that if there were a  cycle, the question would be solved.  Then the two-pointer pattern applies  here. So, remember this flow chart.  Note this down in your notebook. Next,  I will tell you how this flow chart is  used. Did everyone understand the flow"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 362.567,
+      "end": 423.62399999999997,
+      "text": " chart? Array, linked list, sorted, or  if sorting makes it easier. Merge,  remove, or rearrange is mentioned.  Detect cycle in a linked list is  mentioned. Or, there is one more thing.  If you don't have to find a single  thing. Like in most questions, it asks  you to find one thing. Find an element.  Find an index. If you have to find  pairs, or find triplets. Or if you have  to find quadruplets. Meaning, it  doesn't have just one answer. Or there  are two answers, three answers, four  answers. It tells you to search for a  pair. Pair means a couple; search for a  pair or a triplet, meaning find i, j, k , three things that work together, or  four things that work together; then  you can think about Two Pointers. Make  sure to note this flow chart in your  notebook. Memorize it, and as we  proceed with the questions, it will  become clear to you how the flow chart  is used and where. Okay? Good. Another"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 422.685,
+      "end": 483.786,
+      "text": " confusion arises: are Two Pointers and  Sliding Window the same? No, they are  not the same. If you look at the sheet,  both are different patterns. They are  not mixed into one. Two Pointers and  Sliding Window are almost similar. But  the questions where both are used are  different. That is why they are  separate patterns. It is not one single  pattern. Let's forget about Sliding  Window for now. When the time comes for  Sliding Window, we will study it. Let's  focus on Two Pointers. So, what did you  understand from Two Pointers? Whenever  you use more than one person to do any  task. What does person mean? Person  doesn't mean a literal human being.  Imagine there is an array. All right? 0  1 2 3 4 5. Now, if your question is to  find the sum of the array. Then there  is 10, 20, 30, 40, 50, 60. Now, what is  your question? Sum of the array. How do  you find the sum of an array? You  iterate i from 0 up to n and keep  adding to the sum. That's how you find  the sum, right? So, how many people are"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 482.82,
+      "end": 544.43,
+      "text": " you using in this? You are using one  person in this. Which person? i. And  there is no one else. Apart from i, i  is moving in a line from zero up to n.  You calculate everyone's sum. Find the  product of the array. It is the same  thing. You will iterate from zero to n.  You will get the product. Find the  maximum of the array. It's the same  thing. Go from zero up to n. Store  whatever is the maximum. So, you are  using one person. As soon as we start  using more than one index or more than  one person. For example, j along with i . What this means is, if there is an  array: 0, 1, 2, 3, 4, with 10, 20, 30,  40, 50. As soon as you start using more  than one element. As soon as you start  saying, \"Let my i be here.\" And let's  assume my j will be here. Not  necessarily here, just for the example.  So you say my i is here. J is here.  This is my i. This is my j. Both will  move together. They will move in  coordination. What was happening in the  building? One person was on the ground  floor. One person was on the top floor.  Both were moving in coordination. The"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 543.475,
+      "end": 606.0690000000001,
+      "text": " ground floor person said, \"Okay, I am  moving up now.\" The top person said, \" Okay, I am coming down.\" Then the  ground floor person moved up. Then the  other came down, so they met at one  place and swapped items. That is why  when you use more than one person in  indexes or linked list pointers, that  is what we call Two Pointer. Now, some  people might have a doubt: why Two  Pointer? Why not three pointers or four  pointers? Because Two Pointer is easy  to write and easy to understand.  Because two people is simple. Now you  might be saying to use three people.  Now, put one person at the top of the  building, one at the bottom, and one in  the middle. Then the middle one will  also move, and it will keep happening,  so it becomes complex. It won't be  understood, you won't be able to write  the code well, nor solve the problem  well. So where we need more than two,  there are other ways to solve it. There  are other better ways to solve it. That  is why we stop at Two Pointer. Because  if there is binary search, why not  ternary search? Why not quaternary  search? Binary doesn't work that way.  Two Pointer is used because it is a"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 605.115,
+      "end": 665.6350000000001,
+      "text": " balance. The complexity is decent and  it is very useful. You understand the  meaning of Two Pointer, which is to  halve the work. If something is taking  you 1 hour, it will take you half an  hour. If it used to take you 2 years  for something, it will take only one  year. So, half is a very big, you know.  Factor. Okay? That is why we say  two-pointer. Not three-pointer,  four-pointer, or five-pointer. There  might be, uh, some questions like Three  Sum. Three pointers are used in Three  Sum. So that is just an extended form  of two-pointer. Three-pointer is an  evolved form of two-pointer. Okay? So  you don't have to think like that.  Everyone understood that two-pointer is  using more than one person to get work  done and coordinating both. Okay?  Coordinating both. Not that one person  walks the whole way first. And then the  second person walks the whole way. Then  that is the same thing. For example, if  you have an array, are you saying that  we think of a two-pointer where i walks  from here to there and then j walks  from here to there, then why are you  using j? Then you should just use i. It  is like one person climbing the whole  building. Then the second person"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 664.662,
+      "end": 724.7339999999999,
+      "text": " climbing the whole building again. So  this is not two-pointer. This is  one-pointer two times. Okay? It is  one-pointer two times. Two-pointer  means both will move together. Moving  together in coordination so that your  work gets done faster. The work is the  same, but it will be done faster. If  one person is doing a task, it takes 1  hour. If two people coordinate and work  in an office or school, it takes half  the time. It is the same thing. It is  the same concept and there is no rocket  science in it. Okay? So now we will see  how questions are solved. So whenever  you solve questions, I am telling you  repeatedly to write this flowchart  somewhere in your notebook. What is the  flowchart? Is the array or linked list  sorted, or does sorting help? Do you  need to merge? Do you need to remove  duplicates? Do you need to rearrange?  Do you need to detect a cycle in a  linked list? Do you need to find a pair , or a triplet, or a quadruple, or five , or anything else? If you need to find  more than one thing, then you can do it . Yes, this does not mean that if  someone says find a vector or tell  about an array, then array could mean  many things for two-pointer. It is  specifically given that hey, find two"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 723.772,
+      "end": 784.169,
+      "text": " things or find three things, then you  should think about this. Again, this  isn't a 100%guarantee. You might say, \" Look, there was a question about  removing duplicates, but it didn't use  two pointers,\" and someone in the  comments might point that out. So, this  is not a 100%rule. It just increases  the probability. Whenever a question  comes up in an interview, where do you  start thinking? You have to start  thinking from somewhere. Maybe your  first approach is wrong. Perhaps you  think of two pointers first. Then you  spend 5 minutes on it. You realize, \"No , this isn't working with two pointers. \" Then what do you think of? You think  of binary search. You spend 2 minutes  on binary search. You realize, \"No,  this won't work with binary search  either.\" Then you think of backtracking . And you say, \"Yes, this will work  with backtracking.\" So, how do you  think? You have to start thinking from  somewhere, right? When a car or bike  breaks down, it’s not like the  mechanic knows exactly what's wrong.  They start debugging it. They say, \" This might be the problem.\" If it's not  that, then maybe that's the problem. So , you proceed based on probability.  Maybe the probability of it being two"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 783.217,
+      "end": 844.871,
+      "text": " pointers is 70%. So, you think about  that first. If that doesn't feel right,  maybe the probability of it being  binary search is 20%. Maybe you think  of that. And if that doesn't feel right  either...Maybe the probability of it  being backtracking is only 10%for that  question. For example, the flow chart  for backtracking might have a condition  or two that matches, but not everything . That's why patterns are important;  they help you start thinking about  where to begin and where to go, and you  stop when it clicks. Okay? With enough  practice, you also develop an intuition  that a question might look like it's  for two pointers. But in reality, it's  a binary search question. So, when will  that intuition come? When will that  practice come? When you solve a lot of  questions and when you stay with this  series. Okay? I think this is enough  for the two-pointer theory. Now let's  move on to the questions. What is the  question? The first question in the  sheet, okay? What is the first question  in the sheet? Two Sum. Go and read the  question. Now, there are two types of  Two Sum questions. Wait, one more thing —I made a mistake in the sheet. That"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 843.923,
+      "end": 905.863,
+      "text": " link for Two Sum is incorrect. So let  me tell you what is written in the  sheet, what the real Two Pointer  pattern is, and why both won't apply.  Right? Now, one is Two Sum. Okay? What  is the Two Sum question? It's that you  are given an array and a target. You  have to identify two such numbers in  this array. Identify two numbers or two  indices such that, for example, you say  my two numbers are a and b. Their sum  must be equal to the target. That is  the rough idea of the question. Okay?  What does this mean? Sorry. What does  this mean? That if the array is, for  example, the array is 2, 7, 11, and 15,  and your target is given as nine. So 0,  1, 2, 3, and your target is given as  nine. So which two numbers do you see  that sum up to nine? The sum of 2 + 7  is nine. Okay? Okay? So you have to  return these numbers. Now let's see how  the flowchart works and how this"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 904.927,
+      "end": 965.98,
+      "text": " question has a format with two parts.  Okay? Not two parts, what should we  call it? Two variations. One variation  is not on Two Pointer. The second  variation is on Two Pointer. How do we  find out? We find out from whether it  is sorted. It's a very small thing. But  it is a very important thing. For  example, now if you were told that this  array—what was our first flowchart?  Our first flowchart was, is it an array  question or a linked list question? It  is an array question. Yes, it is an  array question. Is it given to you as  sorted? It is not given as sorted. Will  sorting it be beneficial? This is  exactly that small thing. Watch very  carefully. Understand very carefully.  Now the question can ask you for two  things. What has the question asked you ? Give us a pair. So the pair flowchart  has already clicked that, brother, it  is asking for a pair. It could be Two  Pointer, we don't know. It is an array  question. It is asking for a pair. It  is possible. If your question tells you  to return the numbers. Two numbers— the number meaning if 2 + 7 sum is nine , then if the questioner says we want  two and seven in the answer. This could  be one variation of the question, that"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 965.015,
+      "end": 1025.598,
+      "text": " you have to return the numbers  themselves. Otherwise, if they tell you  that we want you to return the indices.  Don't return the number, brother.  Return the index. I mean, return zero  and one. This question has two forms.  Does everyone understand? I’ll  explain it again. You’re asked to  provide two numbers whose sum is the  target. Now, two things can happen with  an array. Either they ask for the  actual numbers. Give two and seven. Or  they ask for their indices. Give zero  and one. So, numbers or indices. These  are the two forms of this question.  Right? Now, one can use two pointers.  And one cannot use two pointers. Why  can't you use them? Let me explain: if  you need to provide just the numbers,  you can sort the array. Understand the  fundamental principle of sorting; for  example, if your original array looks  like 2, 7, 11, 15 (0, 1, 2, 3), see,  this array is already sorted. It’s"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 1024.648,
+      "end": 1085.85,
+      "text": " sorted by chance. The question doesn't  state the array is sorted. Okay? You  might think 2, 7, 11, 15 is sorted.  Let's change this array. Let's change  the array to 7, 11, 2, and 15. Okay?  Now the array is not sorted. Suppose  this array was given. Now, when you  sort this array, what happens? When you  sort the array, it becomes 2, 7, 11,  and 15 (0, 1, 2, 3). Now look,  something very interesting has happened . What numbers were in the array before ? The array had 2, 7, 11, and 15. What  numbers are in this array now? The same  numbers. Sorting doesn't change the  numbers; does sorting 2, 7, 11, 15  change them? It changes the indices.  Look, at what index was 2 before? 2 was  at the second index before. Now 2 has  come to the zero index. 7 was at the  zero index before. 7 has now come to  the first index. 11 was at one before.  11 has come to two. 15 stayed the same,  but three things changed. So your"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 1084.9,
+      "end": 1146.168,
+      "text": " entire number-to-index mapping is  messed up. Isn't it? 2 was here before.  Now it has come here. If you were asked  to just give the numbers. Give the  numbers. The index wouldn't matter.  Then you could have managed by sorting.  Because sorting messes up the indices.  The numbers remain the same. So if you  were asked to give the numbers, then  you could sort. I will also explain why  you can sort. But you can sort, for  sure. But if you are ever asked to  provide the indices. Give the index.  You don't need the numbers. If you need  the index positions and it's already  sorted, that's great. But you cannot  sort it yourself. Why? If you sort,  your index-to-number mapping will get  messed up. You will get the wrong  answer. Right? So when does this  two-pointer approach apply? When will  it apply? When you are asked to provide  the numbers. If you need the numbers  and the index doesn't matter, then in  that case you can sort it. Or if you  are asked for the indices and the array  provided is already sorted. You don't  need to sort it, so you can apply the  two-pointer approach. Right? If it asks"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 1145.217,
+      "end": 1206.747,
+      "text": " for indices and it's not sorted, then  the two-pointer won't work because you  cannot sort it. Sorting would make it  easier. I will tell you how that would  make it easier. But I hope you  understood how small things make a  difference. See, just changing the  index and number around makes a pattern  work. Or makes a pattern not work.  These small little things are what you  need to understand and keep in mind.  Alright? Now let's come to our question . So in any DSA question, if you are a  beginner. Right? If we are talking  about a beginner. Don't try to think of  the best approach first. People have a  tendency to start thinking about the  perfect approach from day one. First,  write the brute force, brother. Brute  force means if you don't know anything  as of today. If someone asks you to  solve this. Solve it in any way  possible, the crudest approach that  comes to your mind but solves it, is  what we call brute force. Brute means  someone who doesn't use their brain.  Right? So first, you must think of the  brute force. You don't need to write  the brute force. But you should know  how to do it using brute force. Now,"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 1205.809,
+      "end": 1266.909,
+      "text": " how to do this? For example, this is  your array. Right? Your target is nine.  The most basic brute force approach  that even a 10 th-grade student should  know, what is it? We will do one thing.  We will run 'i' from zero to three. 'i'  will increase. As soon as i reaches  seven, we will run another pointer j  from the bottom. Now it is seven. Is it  okay now? Now that you have reached  seven, what do you need to find? When  you reach seven, you need to find  another number such that it equals nine , so 7 + x = 9. x should be two. So,  whenever you are at seven, you search  the entire array to see if two exists  anywhere. If two is there, then the  answer is seven and two. If two is not  there, then seven is not part of the  answer. Move on to the next one. If you  come to two, how much more does two  need to become nine? It needs seven.  Search further to see if seven is there  or not? If it is not there, that is  great. Move on. Come to 11. How much  does 11 need to become nine? 11 needs  -2 to become nine. Check if there is a"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 1265.96,
+      "end": 1326.709,
+      "text": " -2 anywhere. How much does 15 need? 15  needs -6 to become nine. Search the  whole array to see if -6 is there. By  searching again and again like this,  you will find the answer. It is a very  poor solution. Yes, it is a very poor  solution. But does it work? Yes, it  works. This is called brute force. What  will be its time complexity? Well,  first of all, you are running i from  zero to n. i is going through every  element. Now, since i is going through  every element, for each i, you are  searching the entire array. That is  exactly what you are doing, right? If i  is seven and you need to find two, how  will you find two? You will have to  search the entire array again. Right?  You will have to do a linear search. So , for every i, you are already running  i from 0 to n. And for every i, you are  also running j from 0 to n. The time  complexity that comes out is n².  Meaning if the array size is five, you  are doing 5 squared, which is 25  operations. If the array size is 10,  you are doing 10 squared, which is 100  operations. So, do you see how much it  is increasing? If the array size  becomes 100,000, your computer will  shut down. Right? Because if the array  size becomes 100,000, you are doing 10  to the power of 12 operations. 10 to"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 1325.775,
+      "end": 1386.8229999999999,
+      "text": " the power of 12 means 1000 GB, you are  doing that much work. Your computer  will shut down. Alright then. We have  written the brute force. Now let's move  on to our two-pointer pattern. Now what  is another solution for this, what is  another solution? What is one more  solution? 7 11 2 15 0 1 2 3, now we  always want to go towards a better  solution. Something better and more  optimized than brute force. Right? We  have written the brute force. Now, what  was happening in the brute force? In  the brute force, we were looking at one  element. After that, we were searching  the entire array to see if the target  minus this element exists or not. That  is what we were doing. If it was seven,  we were checking the whole array for  9-7 = 2. That is what we were trying to  find. Why not make this extra searching  process easier each time? What does  that mean? There is a thing called a"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 1385.86,
+      "end": 1447.022,
+      "text": " map. You must be aware of it. You  should store all elements and their  indices in a hashmap. What should we  write in the hashmap? We need to write  that 7 is at 0, 11 is at 1, 2 is at 2,  and 15 is at 3. We have stored this in  the hashmap. Now when you come, your i  becomes 7. i = 7 arrived. What do you  need to search? You need to search for  9-7 = 2. So instead of traversing the  array to find two, just ask the hashmap . Do you have two? Every operation of a  hashmap is order of one. Meaning it  takes one unit of time, 'order of one'  means constant time, practically zero  time. So as soon as you come to i = 7,  just ask the hashmap, \"Do you have two? \" The hashmap will say, \"Yes, yes, I  have two, it is at this index, at index  two.\" So you go ahead and return it.  What will you return? Again, whether to  return the number or the index. So if  you have to return the index or the  number, just return seven and two. Why?  Because you are already at seven in the"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 1446.059,
+      "end": 1506.599,
+      "text": " array, seven is there, and two is also  in the array, who is telling you? The  map is telling you. So you will do it.  The time complexity for this will come  out to be order of n. Why? Because you  are still running i from zero to n.  Your i is still going from zero to n.  You will still ask for every element.  But the task of looking things up is  happening in O (n). So, its time  complexity is order of n. But, but, but  now someone might say that this is not  a two-pointer approach, brother. You  are still just moving 'i' and asking  the hashmap. So it is not two-pointer.  Exactly, this is not two-pointer. We  still haven't reached the two-pointer  approach. I am explaining the nuance of  the question to you; there can be 10  ways to solve one problem. Right? But  you have to find the best way. For that , understand this. Now you will say  this is a one-pointer approach. That is  absolutely correct. This is one-pointer , not two-pointer. So why use  two-pointer? It’s already done. It  worked with one-pointer, didn't it,  brother? We aren't here to get a PhD in  two-pointers by learning useless stuff.  Why learn two-pointer? What is  happening here now? Now your time is  already order of n. What about the"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 1505.656,
+      "end": 1568.3410000000001,
+      "text": " space? You won't write this hashmap in  your notebook, will you? It will be  stored somewhere in the computer. So  what are you doing? If there are four  elements in the array, you are taking  up space for eight. You are, aren't you ? Storing every element and its index.  If the array has 10 elements, you are  creating a hashmap of size 20. Now,  what is the problem with this? Always,  always try to avoid using extra space.  Using space should be your last option  in any DSA pattern. Why? Because if  there are 10 elements in an array, you  are storing 20 integers. You are  storing 20 integers, right? 7, 0, 11, 1 , 2, 15, 3. If there were 20 in the  array, you'd store 40 integers. Imagine  you have a company. Your company has 1  lakh elements. An array of 1 lakh is a  very small number for any company. So,  how much is in your element? This much.  How much will you store? 2*10 to the  power 4 integers. What does that mean?  2 lakh integers. An integer that takes"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 1567.393,
+      "end": 1627.552,
+      "text": " space in the computer, for example, 8  bytes. So multiply that by eight, which  is 1,600,000 bytes. So that becomes  1600 KB. Convert that as well. So that  becomes 1.6 MB. So when your array  length is 1 lakh, you are taking 1.6 MB  of space. Right? No company uses an  array length of 100,000. Now, suppose  the array length is 10 to the power of  9, so multiply it by 10 to the power of  4. It gets multiplied, right? Now, what  will the answer be? 16 followed by a  few zeros in MB, do you know how big  that number is? That is 16 GB. 16 GB.  So if your program has an array length  of 10 to the power of 9, you need 16 GB  of memory just to store the hashmap.  That's besides your Chrome running.  Your program is running. Your variables  are running; that is a separate issue.  16 GB of memory is needed just to store  that. 16 GB of RAM, and where is that  stored? Where does the program run? It  runs in the RAM. What is the RAM of a"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 1626.628,
+      "end": 1689.6699999999998,
+      "text": " laptop nowadays? 8 GB, or maybe 12 GB  for some. If someone has a MacBook or a  good laptop, it's 16 GB. Now, you have  16 GB of RAM. If you shove a hashmap  into that 16 GB, what will happen to  your laptop? It will crash. That is why  you should save space. In companies, it  is always said, \"Don't use space,  brother.\" If possible, take a little  more time. Try to use as little space  as possible. Space is expensive. Okay?  That is why we cannot use space now.  Now, the next point is that we cannot  use space. Let me explain the pattern  format of the question we have reached  now. What is your exact question going  to be? Why did I build up all this  background? I could have come directly  to this question. Building up this  background is necessary because you  also need to understand it. Copying me  won't help. If I thought of this and  you just read the same thing, then you  are just copying me. You should know  the whole process of why a person is  doing something. Okay? Now I will write  the final question, which is the sheet  question. You need to find, you are  given an array. An unsorted array is"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 1688.743,
+      "end": 1749.903,
+      "text": " given. You need to find two numbers in  it. Whose sum is equal to a given  target. And it is written, \"Do not use  extra space.\" This is the exact  LeetCode question named Two Sum II. Its  link will appear. Go and check the  description. Extra space. This is your  question where the two-pointer pattern  will be used. Now, why will it be used?  Again, I could have come directly to  this question, but the whole point of  this long story was just this. Now  let's put our flowchart to work. Yes.  The first point is, an array is  mentioned. Yes, an array is mentioned.  The array is not sorted. It is unsorted . So, will sorting it be beneficial? We  will see that ahead. Need to find two  numbers. Need to find a two-number pair . Absolutely correct. And do not use  extra space. If you want, add this to  your flowchart now: whenever \"do not  use extra space\" is mentioned and you  need to find two or more things, a  two-pointer approach will be used. Okay ? What are you saying? Whenever it says  \"do not use extra space\" and you need  to find two, three, four, or five"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 1748.949,
+      "end": 1811.533,
+      "text": " things, then a two-pointer approach  will be used. So, look, this matched.  This matched. This matched. I don't  understand this part. What is it that  you don't understand about whether  sorting will make it easier or not? It  definitely will. Why will it? I'll  explain now. Suppose this is your array . Suppose, oh man, now suppose this is  your array. 2 5 1 7 and 3 0 1 2 3 4,  this is your array. What do you need to  find? It is. You need to find target  equals six. Need to find target equals  six. Now I will show you something. Now  you, yes, and you have to tell the  number. Whenever you need to tell the  number, you can sort. You absolutely  can. The numbers don't change in  sorting. If you need to tell the index,  you cannot. Whenever you have to tell  the index in any array question, don't  even think about sorting. Everything  will get messed up. Why will sorting it  make it easier for us? I am telling you . Now you have to sort it. If you sort"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 1810.626,
+      "end": 1873.1960000000001,
+      "text": " it, you get: 1, 2, 3, 5, 7, 1, 2, 3, 5,  7, 0, 1, 2, 3, 4. Now see how the  two-pointer will beautifully solve this , beautifully solve this. Okay? Do one  thing; earlier we were putting one  person to work, one 'i' was going and  searching. Now what we will do is put  two people to work. In the building,  keep one 'i' here, and keep one 'j'  here. Why are we keeping them, how are  we keeping them, I'll explain. What is  your target, brother? Your target is  six. Okay? Now let's see how it will  increase. Sum these two. Now sum the  numbers at i and j. What does the sum  come to? 1 + 7 = 8. If eight is equal  to the target, that's great. Return the  numbers at i and j. But, but, but if it  is not equal to the target. Another  thing in the two-pointer pattern is  that you use two pointers. But every  time, after doing anything, after every"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 1872.27,
+      "end": 1932.462,
+      "text": " iteration, you must change one of the  pointers. What am I saying? If there is  i, j, and two pointers. You did a small  task. Now, in the next step, you have  to change either i or j. If you don't  change either, the program will never  end. For example, one person is at the  top of the building. One person is at  the bottom of the building. Now we say  that neither should ever change. Then  both will stay in the same house and  nothing will happen. Every time, either  one will change, or both can change.  But it is necessary to change. It is  necessary to change. And why will it  change? For this, you have to think  about the logic. What will change? Why  will it change? Where will it change?  How much will it change? Will both  change or just one? You have to  understand this. Now what did I say?  Sum these two up. It is eight. Now see,  eight is...there could be three cases  here. Your sum is eight, you need to  find six. Now, there could be three  types of possibilities in the world.  Either eight would equal six. In that  case, we would return the number. Or"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 1931.524,
+      "end": 1992.009,
+      "text": " eight would be smaller than six, or  eight would be greater than six. With  integers, you will only have three  choices in the world. Either equal,  less, or greater. Apart from this,  there is no other choice. If someone  says there is a fourth one, there isn't . Now suppose if eight...now can you  see that eight is greater than six? Now  see, I said every time you have to  change at least one of them. Now see  that the sum of one and seven is eight,  which is greater than six. Okay? The  array is sorted. We sort the array.  Remember, please remember. Now you have  two ways. Both are moving towards each  other. Right? The one at the bottom  will go up. The one at the top will  come down. Now, if you say that we  increment one to two and keep seven as  seven. Tell me one thing, one is here,  two is here, the array is sorted. So,  every element after one is greater than  one. That is true because there are  only larger elements on the right. You  have already sorted it. So if you are  saying that the sum of one and seven is  greater, then you are saying that if we"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 1991.053,
+      "end": 2051.1910000000003,
+      "text": " look at the sum of two and seven, it  will obviously be greater than six,  right? Why? Understand this again, it  is a very important point. Many people  do not understand this. It is a very  fundamental and basic point. You are  saying the sum of one and seven is  greater than six. That is very good.  Now, you are asking if we should try  incrementing one? What, brother? So, if  you increment one to the right, what is  on the right? An element larger than  one. Any element will be larger than  one. It is a sorted array. It could be  1000, 2000, 1 lakh, or 500. But it is  larger than one. So, if the sum of one  and seven is greater than six, then the  sum of two and seven will also be  greater than six. The sum of one and  seven is eight. The sum of two and  seven will obviously be something  greater than eight. It could be nine,  10, 11, or 12. It is still greater than  six, brother. Isn't it? So, there is no  point in incrementing one. If your sum,  eight, is greater than six, can we  decrease seven? Yes, we can decrease it . Why can we decrease it? Because the  sum of one and seven is eight. It is  greater than six. Where would seven go?  Seven is moving this way. It is moving"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 2050.225,
+      "end": 2111.6769999999997,
+      "text": " backwards. Seven is sitting at the top  of that building. It is coming down.  Seven can go here or here. It will only  move in this direction. The elements in  this direction of seven are smaller  than seven. You know that already. They  are smaller than seven. Anything  smaller than seven is possible. It  could be six, five, four, three, minus  two, minus 100, anything. But it is  guaranteed to be smaller than seven,  right? So, if you say the sum of one  and seven is large, then take the sum  with a smaller element instead of seven . Maybe you don't know that. Maybe. The  whole change depends on the 'maybe'. If  you increase seven, what is the sum of  one and five? Six. You get the answer  immediately. Right? What did we  understand from this? Now, take an  example. If the sum of one and seven is  eight. If your target was not six,  let's take another example. It was 12.  What is your target? 12. The sum of one  and seven is eight, which is less than  12. So, is it wise to decrease seven in  this case? No. Because seven would make  the sum even smaller. If one and seven  is eight, then one and five is six. So  when one and seven is already less,"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 2110.719,
+      "end": 2172.342,
+      "text": " adding one to anything else will also  be less. In this case, we will increase  it. The sum of two and seven is nine,  which is one more than eight. Right? It  is still less than 12. So, suppose you  are at two and seven, which one would  you increase? You would increase two,  not decrease seven. Why? Because if the  sum of two and seven is less than this,  the sum of two and five is obviously  smaller. So you try to check three and  seven. What is the sum of three and  seven? 10, still less than 12, so keep  increasing. What is the sum of five and  seven? 12, 12 = 12, you quickly got the  answer 5 and 7, understood? Look at the  pseudocode. First of all, what are we  doing? We are sorting the array. After  that, we are revising. Now let's write  the pseudocode. We are keeping one  element here. We are keeping one  element here. What is this? This is at  the start. This is at the end of the  array. We are summing them every time.  What are we doing? ai, aj; there are  only three possibilities in the entire  universe. ai + aj might be equal to"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 2171.445,
+      "end": 2231.619,
+      "text": " your sum or target, which is great.  Return it in this case. Your ai + aj  might be smaller than your sum. If it  is smaller, what will we do? What did  we understand? What did we understand?  Look here. Look, the sum of one and  seven is smaller than 12, so what did  we do? We increased one. We didn't  decrease seven, because we need to  increase and move forward, not go  backward. You are already sitting with  a smaller person, so if you try to sit  with an even smaller person, that won't  work. So if this is small, in this case , we have to do i ++, we are moving i  forward. What could be the third choice ? Ai + Aj is greater than the sum. What  did we do when it was greater, brother?  What did we do? What did we do? Why  don't you speak up? It is greater; if  the sum of one and seven is greater  than six, then increasing one won't  help; you will get even bigger, and the  difference will increase further.  Reduce the seven, bring the seven back,"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 2230.691,
+      "end": 2291.128,
+      "text": " reduce it a bit. You see, all of this  is like a game. You took a number, it's  a bit low, you increase it a little,  you increase it too much, then you  decrease it a little, so you see, we  are trying to bring it into balance,  right? So if the sum of Ai and Aj is  greater, what will we do? We will do j --. Brother, speak, speak, speak, it  will happen by speaking. This is the  pseudo-code, and where you find that  this is i and j, you return that. We  have to return the numbers here. If the  array was already sorted and we had to  return indices, would it still work? In  which question would it work, brother?  It will work for numbers. If the array  is already sorted, it will work for  indices too. Open your mouth and speak.  Open your mind and listen. Open your  ears and listen. Open your mind and  understand. Did you understand the  two-pointer approach? Why was it used  here? After listening to the whole epic . So now, how will you think of this?  Someone could say, you thought of it,  but how will we think of it, brother?  So, it comes with practice. Believe me,  I didn't know anything earlier either."
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 2290.228,
+      "end": 2351.3160000000003,
+      "text": " Whatever I have explained in these 40  minutes today. I didn't even have 4  seconds 'worth of knowledge about it 2  years ago. Slowly, slowly, it builds up . And it's not like I am teaching by  writing a script. I am no hero that a  teleprompter is running in front of me.  I am reading. Everything is in my mind.  I am telling you everything. Everything  that is in my mind, that is why I say  watch the video till the end. Something  might come up in between that you don't  know and that you could learn. When I  was in college too, I used to watch  Striver's videos. So, their videos used  to be 40 minutes, an hour, or half an  hour long. And I would understand it. I  used to understand it within the first  10 minutes. But I would still watch the  whole thing. Because in between, they  would share something or write such  beautiful code. They wrote code with  such elegance that I would think, \"Yes,  this is great.\" So, whatever I am doing  today is because of that. I have  learned from many people. Learning the  good things from many people is why I  am teaching you today. You should also  learn from me. You should also teach.  You should also learn from five  different people. Learn the good things  from all five and move forward. Alright ? Let's write the pseudocode. What will  be your input in the pseudocode,  brother? Yes, there's one more thing. I"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 2350.353,
+      "end": 2410.81,
+      "text": " won't write the full code. You write  the full code yourself. You have to  write the full code, after all. Right?  What did we say in the pseudocode? What  will be your input? Your input is an  array and a target sum. So, what is the  very first task? Sort it. Sort the  array. Now, this is written differently  in C ++. Differently in Java. And  differently in Python. Look up the  syntax. There is no point in teaching  syntax. Now, learn how to think. Learn  how to think. Anyone can learn syntax.  A person can learn syntax in just one  day. Now, take two variables. j = n-1,  what is n? It is the length of the  array. If it's not provided, calculate  it. Now, now there is one more thing.  One more thing, oh my God, I almost  forgot to tell you the most important  thing. Where is it? Yes, suppose a sum  is given that isn't even in the array.  Such a sum is also possible, right?  It's not necessary that they are your  friend and are giving you a sum that  exists in the array. They tell you to  find 20, brother. If you sum any  elements, 20 won't come up. It won't"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 2409.864,
+      "end": 2470.434,
+      "text": " come. So, how will it end in this case?  One person is at the bottom of the  building, one is at the top. So, both  keep coming closer. But when they meet,  they will realize the item isn't there.  So, when will it end? When will it end?  Whenever your two-pointer question has  both pointers at the same position.  Listen carefully, with your mind wide  open. When you start, both pointers are  at different positions. Someone might  be ahead, someone behind, someone above , or someone below. If ever in the  world both elements meet at the same  array position, or, or, or...If they  cross each other, either crossed or met , your program is done. Beyond that,  there's nothing left for you; nothing  will work, okay? After that, definitely  stop. Meaning, I'm saying it again, I'm  saying it again, write this down  somewhere. One is here, one is here.  This right is moving, where did it go?  This left is moving, this right is  moving, at some point...At some point,  they will both meet or even cross each  other. It's not necessary that they  meet on one; they will cross. As soon"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 2469.504,
+      "end": 2530.264,
+      "text": " as they meet or cross, you must stop  your program. Understand how to write  this in code as well. Where is it? Now  look, i is 0. i is j and n-1. It is  possible that your array length is five . So what will be the value of j? Four.  Right? That's good. So i is 0. j = 4. i  will always increase. i is always  increasing, right? So i can be one. It  can be two. It can be three. It can be  four. j will always be decreasing. So j  will either become three. Sometimes it  will become two, sometimes one. Now see , is this condition valid? One and  three, they still haven't crossed. One  is here, one is here. Very good. Two  and two, see here, they met. They  arrived at one position. Stop the  program. Suppose this didn't happen, if  someone said, \"It's four and one,\" then  look at i, i has gone to four, j has  come to one, so they crossed, man! Then  there is no two-pointer left. Now one  person is going ahead, one person is  going behind, so what will they do?  They won't be able to do anything. Your"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 2529.324,
+      "end": 2589.821,
+      "text": " coordination is gone. So how do we  write it in code? We run a' while 'loop .' While 'means as long as this  condition is true. That's what we are  saying, that until you cross each other  or meet, only then keep doing i. Less  than j, why are we not writing equals?  Because they shouldn't even meet. They  shouldn't even land on one box. i must  be smaller than j. i will be here, j  will be there. That's very good. As  soon as they meet or cross, the game is  over. So, what does \"while i less than  j\" mean? As long as, brother, i is less  than j. Keep doing all these tasks. As  soon as it goes out, come out. Not  after that. After that, it's simple.  Take a sum variable. Calculate the sum  of ai and aj. Now, what did I say?  There can only be three conditions in  the entire universe. Check all three  one by one, brother. If sum is equal to  the target. That's very good. Many  congratulations to everyone. Return it.  Return i, j, or whatever number ai, aj"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 2588.881,
+      "end": 2648.978,
+      "text": " you need to return, return ai or else  return i. You must have understood. Now , it's not like that. Yes, one more  thing, as soon as you return, your  function ends. Okay? If this returns,  nothing else will run further. The  whole function ends. If this didn't run , it means this condition isn't true. I  am saying, if this didn't return, it  means this condition is false. Now if  this condition is false, two more  things can happen. If sum is less than  target. What does that mean? The sum of  one and seven is eight. It is less than  12. So will you increase one or  decrease seven? You will increase one.  i ++ yes. Else, let's write if. There  is no need to write. Sum is greater  than target, meaning the sum of one and  seven is eight. It's greater than six,  so will you increase one more or  decrease seven? We will decrease,  brother. j--close this while loop. And  if you ever come out of this loop. What  did I say? When will this while loop  close? When i and j cross each other."
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 2648.078,
+      "end": 2709.181,
+      "text": " If they crossed and the answer wasn't  found, you'll never find the answer in  the world. Return something empty.  Whatever is written in the question,  return -1 or anything. Anything empty  or error, whatever, that will be  written in the question, like return -1  or something like that. In many  questions, it is written that there  will be an answer, still you have to  write the program like this because in  an interview it might not be guaranteed . Say it isn't there, brother, and if  it isn't, then if we have to return -1,  we will return -1. So it depends on  question to question. So, we hope that  this was understood. A lot of effort  went into this. Explaining all this to  you, and more videos will come from  tomorrow. It might even come today, or  tomorrow. So, all these videos will be  available in a Two Pointers playlist.  You can watch them. My goal is for  thousands of college students to watch,  understand, and learn this later on. So  go ahead, it has been updated in the  sheet with the link. Go and practice it . If you feel like it, practice both  Two Sum and Two Sum II. Okay? What I  mean by practicing both is to try both  of them out. How many approaches did we  learn? We learned the brute force one,  it's not of much use. We learned a"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 2708.221,
+      "end": 2769.098,
+      "text": " better approach using a hash map, you  should learn that too. There is no harm  in it if you feel like it. And the even  better approach, the Two Pointer  pattern. What is its time complexity? I  forgot to mention that. See, that’s  why I tell you to watch the video until  the end. Sometimes I suddenly remember  things and mention them. What is the  time complexity? What was the time  complexity of the hash map one? It was  Order of N. Yes. Always keep this in  mind: whenever you sort something, it  takes at least n log n. It will take  more than that. It won't take less than  that. So, first of all, our sorting  took n log n. That much is done. Now,  what are you doing? I is moving from  one end, J is moving from the other. So  it is only running once. It is not  running separately. I is covering half,  and J is covering the rest. Order of N  is taken by our traversal. So,  whichever of the two is larger, since  you feel like two independent tasks are  happening. I will explain time  complexity in detail very comfortably  one day. But whichever is larger, n log  n is larger. So, n log n is its time.  How much space did it take? Nothing. No  extra space. Order of one space. Zero  space, yes, yes. No matter how large"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 2768.132,
+      "end": 2829.073,
+      "text": " the array is, we won't take any space.  So, even if it's a 1 billion element  array, 2 billion, or a trillion, no  space is needed. No RAM needed in the  laptop. It will run in Order of one  space. Right? You now know all three  approaches. What was it in brute force?  n² time, one space. In hash map, n  space, n time. It's n log n time and  one space. All three might be asked in  interviews too. So make sure you  understand these as well. Go ahead and  submit it, run it. If it doesn't run,  read the hints. But understand that my  goal is to explain all this to you  gradually. My goal isn't to be a school  teacher who makes you memorize 400  questions. There's no benefit in that.  I want to teach you so that even if you  do 100 questions, the 101st question  should come to your mind on its own,  and it will. It will come with time. It  happens for everyone. I'm not some  highly intelligent genius. I don't even  have four hands. I give this example  quite often. I mean, I was born in  Patna. I went to a private college.  Then from there, I went to IIT. From  there, I went to a startup. From the  startup, I came to Akamai, and now I'm  on YouTube, so everyone eventually"
+    },
+    {
+      "videoId": "Fu7LD_mIo00",
+      "start": 2828.123,
+      "end": 2840.5800000000004,
+      "text": " figures it out. It might take a little  more or less time for some, but  everyone gets there. So, this was Day 1 . Enjoy it, watch it again, make notes,  solve the questions, and see you  tomorrow, see you tomorrow, tomorrow."
+    }
+  ]
+}

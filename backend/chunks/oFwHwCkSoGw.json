@@ -1,0 +1,210 @@
+{
+  "videoId": "oFwHwCkSoGw",
+  "channel": "Padho with Pratyush",
+  "chunks": [
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 0.142,
+      "end": 61.831,
+      "text": "This is the most important video on my  channel. If you haven't watched  anything yet, haven't seen DSA patterns  or basics, it doesn't matter. Don't  miss this one; watch this, and your  life will improve a bit. It’s my  fault that while I was teaching, I  assumed everyone already knew time  complexity. But how would everyone know  it if I didn't know it myself at the  beginning? No one would. It’s my  mistake. So, all the teaching I've done  until now—understanding time and  space complexity is essential because  it tells you which algorithm to use  when, and half the game lies in time  complexity. There are two things.  Knowing which algorithm to use when is  determined partly by the patterns we  are learning. If you can't figure it  out from patterns, then looking at the  program's input can give you a hint.  You get a hint about which algorithm  won't work and which one might. For  this, let's start from the beginning. I  will explain it like a story so it will  be easy to understand. First of all,  let’s go to LeetCode. Right? We"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 60.898,
+      "end": 122.099,
+      "text": " submit programs on LeetCode or GFG.  It’s some website like that where we  do it. You can do it anywhere online.  Now, first, let's understand what a  simple operation is. A simple operation  means something that is very easy to do . For example, a = 10 is a simple  operation. Printing \"hello\" is a simple  operation. a = 10 + 2, a = b + c, what  are these? These are all simple  operations. What does a simple  operation mean? To put it simply, just  assume this. It takes time, one unit of  time. It takes one unit of time. This  unit of time could be a microsecond, a  millisecond, or a second, but it takes  one unit. Just assume it's constant  time; it will happen instantly, like  this. In the snap of a finger, this  task will be completed. This is what we  call a simple operation. Whenever a  platform like LeetCode or GFG tells you"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 121.153,
+      "end": 181.275,
+      "text": " to submit a program. Sometimes you  might notice that if you write a poor  program, you get \"Time Limit Exceeded.\"  Why does \"Time Limit Exceeded\" happen?  Or, how does LeetCode even know that  your time limit has been exceeded? It  could be that LeetCode gives a certain  amount of time for the program to run.  That must be how it works, right?  LeetCode tells you that your program  should run within one second. That’s  how it would be. Or perhaps it limits  the number of operations. What does  that mean? If LeetCode limits the  number of simple operations to just 100 . Then if you try to run 101 operations , you will get a Time Limit Exceeded  error. Or if your program is supposed  to take one second. If you take even  1.0001 seconds, you will get a Time  Limit Exceeded error. These are the  only two possibilities. All right? Now,  consider this as a general rule for  LeetCode. There is no exact figure  because we aren't software engineers at"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 180.322,
+      "end": 241.0,
+      "text": " LeetCode. But generally, in 99%of cases , you can perform 10 to the power of 8  simple operations in your program. You  can perform 10 to the power of 8 simple  operations. Each language takes a  different amount of time to accomplish  this. You might have heard that C is  fast. C ++ is fast. Python is slow,  Java is slow. It might take C ++ one  second to do this. To perform 10 to the  power of 8 operations. It might take  Python two seconds to do this. It might  take JavaScript three seconds to do  this. It doesn't matter. LeetCode tells  you that you can choose any language.  You choose C ++, choose Python, choose  JavaScript. We will give you the time  accordingly. If you use JavaScript, you  get three seconds. Two for Python, one  for C ++. But the number of operations  remains the same for any language. So  what does LeetCode tell you? Write any  program, write it in any way. You can  perform a maximum of 10 to the power of  8 simple operations. What does this"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 240.04,
+      "end": 302.312,
+      "text": " mean? That if you write a program like  this. You write print hello. Right?  LeetCode says this is one simple  operation. Only one thing is happening,  right? A single simple print task is  happening here. You can write such 10  to the power of 8 print statements in  total. If you don't want to write all  prints, then a = 10, b = 20, c = 30 and  a = b + c, how many statements are in  this? How many simple operations are in  this? Here, 1, 2, 3, 4, 5, that makes  five in total. So this will run on  LeetCode. But the moment you perform  more than 10 to the power of 8 simple  operations, you will get a time limit  exceeded error. That is the general  rule. Now, why should we explain this  to you? Let us tell you why. For  example, in LeetCode, you see that for  any question, the input size is  mentioned. The input size is mentioned.  For example, if you are given an array"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 301.36,
+      "end": 362.33299999999997,
+      "text": " question. It will state the size of the  array, letting you know what it will be . What will be the maximum? It tells  you what the maximum size of the array  will be. Sometimes it is 1,000.  Sometimes it is 100,000. Meaning it is  10 to the power of 5. Sometimes it is  10 to the power of 9. In some cases, it  can be even larger than 10 to the power  of 9. In some cases, this number is  just 20. Why is that? It is because of  what I just told you. Keep this number  in mind. 10 to the power of 8. Now let  me explain. For example, you are told  that the maximum size of n can be 10.  Meaning the input your program runs on  can have a maximum size of 10. So, how  much complexity can you handle? This is  the hint I was talking about—looking  at the input helps you understand which  algorithm to use. If it is 10 to the  power of 10. Can you do it in order of  n? What does order of n mean? I will  tell you shortly. But for now, just"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 361.386,
+      "end": 423.99899999999997,
+      "text": " understand this. Order of n means since  this is n, you can perform 10  operations. You are opting for it. I  will explain it soon. I will explain it  very clearly. But for now, to  understand this part, if you write an  order of n program, you take n's worst  possible case, which is 10. You will  perform 10 operations. Did you  understand the meaning of order of n?  If you write an order of log n program,  you will perform log base 2 of 10,  which is three operations in the worst  case. If you write an order of n²  program, you will perform 10², meaning  100 operations in the worst case. If  you write an order of n³ program, you  will perform 10 cubed, meaning 1,000  operations in the worst case. Right? If  you do an order of 2 to the power of n,  you will perform 2 to the power of 10,  meaning 1,024 operations in the worst  case. Did you understand? What is meant"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 423.045,
+      "end": 483.89,
+      "text": " by order of? Now look, an example with  n = 10 is given. Why do we play the  whole DSA game? To minimize time  complexity. We have to write a program  with a time complexity that will pass.  Now look, if n is 10. Can you write an  O (n) program? Yes, you can. Why?  Because you are doing 10. What is the  maximum permitted? 10 to the power of 8 . Is 10 less than 10 to the power of 8?  Yes. You can write O (n). Can you write  O (n²)? Yes, 100 is less. Can you  write n³? 1000, yes you can. Can you  write O (2ⁿ)? Yes, you can, brother.  That is 1024. Can you write O (n!)? n  factorial means 10 factorial, which is  10*9*8*7 down to 1. It also has some  value. I don't remember it. But it is  less than 10 to the power of 8. Do you  understand? Can you write an O (nⁿ)"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 482.971,
+      "end": 544.048,
+      "text": " program? Can you write such a bad  program? Its value is 10 to the power  of 10, meaning you cannot write this.  Why? Because 10 to the power of 10 is  greater than 10 to the power of 8. So  you stopped here. If you write a  program with this time complexity, it  will crash. Anything you write above  this will work. Do you understand what  I am saying? When was this working?  When the input provided is n = 10,  right? Here, for n = 10, how bad a  program can you write? You can write up  to here. You cannot write this specific  program. No matter how hard you try.  Let's move to the next example. n is  given as 1000. In the worst case, can  you write O (n)? 1000, yes, you can.  Can you write O (n²)? How much would  that be? 1000 squared, which is 10 to  the power of 6. This is still less than  10 to the power of 8. You can write it.  Can you write O (n³)? How much is that ? 10 to the power of 9, you cannot  write this because 10 to the power of 9"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 543.098,
+      "end": 605.3679999999999,
+      "text": " is greater than 10 to the power of 8.  So if the input size n is 1000, you  have to write a program faster than n³ . Do you understand? Did you ever  wonder why you were doing it that way?  I mean, why n log n works and why n²  doesn't—that is exactly why. Why?  Because 10 to the power of 8 operations  are allowed. n is the input size. You  optimize your program accordingly.  Let's move to the next example. n = 10  to the power of 5. It is given to you.  Can you write order of n? You can write  10 to the power of 5. Can you write  order of n²? That would be 10 to the  power of 10, so you can't write that  now. This is greater than 10 to the  power of 8. So, this means that when  the value of n is 10 to the power of 5,  you cannot use n². See, you could  write it above, but here you can only  use n. You can only use n. There is one  more thing you can do. n log n is a  very famous time complexity. You can  write order of n log n. How much would"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 604.416,
+      "end": 664.431,
+      "text": " n log n be? What would 10 to the power  of 5*log base 2 of 10 to the power of 5  be? The log of 10 to the power of 5  will come out. Doing 10...it will  definitely be less than 30. It will be  less than 30. By the time you reach 30,  it grows very large. What will its  value be? 30*10 to the power of 5 = 3* 10 to the power of 6; is this number  less than 10 to the power of 8? Yes, it  is less. That is why n log n works and  n² does not. Did you understand? Why n  log n works? Why n² doesn't, there is  science behind all of this. There is no  magic here. It's not just a story that  it will work like this. Now move to the  next example. n = 10 to the power of 8.  In this case, n will work, it will pass . 10 to the power of 8 will work. Will  n log n work or not? It won't work. 10  to the power of 8*log 10 to the power  of 8. Now look, whatever this is, it  will be some number. 3, 4, 5, 6, 30, 80 —it is already some number. If you"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 663.478,
+      "end": 724.223,
+      "text": " multiply any positive number by this,  it will become larger than 10 to the  power of 8. That is why when the value  of n is 10 to the power of 8, only  order of n will work. Order of n log n  will also not work. And look at one  extreme example. The value of n is 10  to the power of 9. In this case, in  this case, will order of n work, which  will perform 10 to the power of 9  operations? No, it won't work. Why  won't it work? Because this number is  low. It is less than 10 to the power of  8. It is less. It is less. In this case , you will have to write log n. You  need order of log n. Not n log n. Only  log n, which is log 10 to the power of  9, the answer comes to 30; will this  work? Yes, 30 is less than 10 to the  power of 8, this will work. This is how  you decide which time complexity to use  in which program. Did you understand?  This is available in very few places,  very few people know about it, very few  people teach it, don't know why, but  you should know that it happens this  way. Now let's come to the next part.  Now we have talked so much about order"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 723.271,
+      "end": 783.335,
+      "text": " of n and order of n log n. How is it  calculated? Now I will tell you how it  is calculated. What did I just tell you  about simple operations? Okay? Simple  operations. How much time do simple  operations take? One. We also write  this as order of one. You can assume it  takes one. For example, now another  thing. When we talk about order of,  when we say what? What is the  difference between order of one and  order of n? Order of one does not mean  that it takes one unit of time to run.  We think so. We should think so too.  But it means it takes constant time.  What am I saying? Understand it again,  it is a very important thing. Order of  one does not mean that it takes one  unit of time. It takes constant time.  This means that it is not dependent on  your input. It is not dependent on your  input. Meaning, if you are printing"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 782.39,
+      "end": 843.8870000000001,
+      "text": " hello, for example, then even if your  input size n = 1, then in this order of  one, meaning constant time, it can take  anything. For example, it is taking 3  seconds. Just for example, it will  still take 3 seconds. If your n becomes  100, it will still take 3 seconds. If  your n becomes 1000, it will still take  3 seconds. So it is not dependent on  the input. It is constant time. It will  definitely take these 3 seconds. No  matter what you do. Whatever array you  bring, whatever n you bring, whatever  linked list you bring, it will  definitely take this much. That is why  we call it a constant one. It's time  complexity. Whenever you see order of  one, it means constant. It is not  dependent on the input. As soon as n  comes inside the order of, or anything  related to n, it is dependent on the  input. As your input increases, as your  input increases, your time will also  increase along with it. This is what it  means. Okay? Now let's come to how to  calculate it. How do we calculate the"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 842.933,
+      "end": 904.13,
+      "text": " order? How do we know the order of n?  For example, write a program. Suppose  your program has three lines. Your  program has hello. You say int a = 10  and int b = 20 and you return it.  Return a + b is your program. It's a  four-line program. In this, you are  also passing an array which can have n  elements. n is your input. How will you  calculate the time complexity of this  program? First of all, you have to  identify which things are simple  operations. Meaning, which things are  simple operations. Simple operations.  Meaning, those that are not dependent  on the input. I just told you, print  hello is not dependent on the input.  Because whenever you run it, it will  take the same time. No matter the input . You have to identify simple  operations and those that are dependent  on the input. Dependent on the input.  You have to identify these two sections"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 903.13,
+      "end": 965.552,
+      "text": ". Which one looks like a simple  operation to you here? Is this line  dependent on the input? No. This is  simple. Is this dependent on your n?  Not dependent on the input. Int = 10,  that will be the same, right? Whenever  you run it, it will be the same. So  this is simple. Is b = 20 dependent on  the input? It is not. Whenever you run  it, it will run the same. Return a + b  is also not dependent on the input.  Whatever you pass, it will run the same . So these four operations are simple  operations. How much time do simple  operations take? Order of one. Okay?  Now, what about your program? There are  four independent sections as well. What  does that mean? This is one of your  independent sections. This line runs  right here. It ends right here. This  line starts running right here and ends  right here. Similar with this line and  similar to this line. Meaning, these  are four independent lines that the  compiler starts running and stops  running. So you can look at your  program like this. Your program now  looks like this. If we think in terms  of mathematics. The first line is order  of one. This is order of one. This is"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 964.599,
+      "end": 1025.2250000000001,
+      "text": " order of one. This is order of one. You  have four independent sections. Four  lines have become four independent  sections. Now, how do you find the time  complexity of the entire program? Do  you add them all up, like if you  multiply order of one by four times, it  doesn't mean you write order of four.  You cannot write order of four. Why?  Because there is no meaning to order of  four and order of one. There is no  difference. Understand it again. What I  said was, order of one doesn't mean it  takes one unit of time. Order of four  doesn't mean it takes four units of  time. It takes constant time. Whatever  it is, four, 100, 1000, anything is  constant. How is the time complexity of  this whole program calculated? Maximum  of the time complexity of all  independent sections. Read this  carefully and memorize it. All  independent sections. Meaning, if your  program has four such small sections,  order of one is taking place in this  one. Order of one is taking place in"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 1024.266,
+      "end": 1085.805,
+      "text": " this one. Order of one is taking place  in this one. Order of one is taking  place in this one. The time complexity  of the whole program will be the  maximum of these four, which is order  of one. So, this will be the time  complexity of your entire program. Did  you understand this much about how to  calculate time complexity? Maximum of  all the independent sections. Look at  the next example. Gradually, as we  proceed, it will become clearer to you.  Now, first of all, what is the  complexity of this line? i < 100 i ++  is this loop, and we are just printing  in it. Print hello, okay? Assume this  is a section of your program. What is  the time complexity of this section?  Look carefully. What is happening here?  I starts from zero. I is at zero. I is  going up to 100. Which means this loop  will run 100 times. Every time you are  printing hello once. So, this loop is  printing hello 100 times. Now, is it"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 1084.857,
+      "end": 1147.9640000000002,
+      "text": " dependent on your input? Is it  dependent on your input? If, for  example, your program had an input that  was 100. Then how much time would it  take to run? It is printing hello 100  times to run this. How much time does  it take to print hello once? Constant  time. So, it will take 100 times to run . It will take 100 units. Okay? Even if  your n is 10 to the power of 5, it will  still take 100 units to run. Because  it's running 100 times, right? No  matter what n is, it will run 100 times . Even if n is 1, it will run 100 times . Even if you don't pass n, it will  still run 100 times. So what is this?  Is it dependent on the input or  independent of the input? It is  independent. It is independent. Did you  understand? What is the difference  between independent and dependent? If  the time of a section increases or  decreases as the input changes, then it  is dependent. The section that is not  affected by the input is input  independent. So this is independent.  Look at the next line. For i = 0, i < n , i ++ and print. Here you will"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 1147.003,
+      "end": 1207.046,
+      "text": " understand what we are saying. Hello,  and the loop ends. Now look, n is your  input. n is your input. Now see, will  the time complexity of this for loop  change if n changes? Yes, it will  change. What is this loop doing? This  loop is executing n times. What is it  doing n times? It's performing a simple  operation. This operation has an order  of one. What is this for loop doing in  total? It is doing n*O (1). Meaning it  is doing order of n operations. It's  simple, right? If n is 10, this for  loop will run 10 times. If n is 100,  this for loop will run 100 times. If n  is 1000, this for loop will run 1000  times. Is the number of times this for  loop runs increasing or decreasing  based on the input? It is dependent. It  is dependent. It is dependent on the  input. This is what we call it. Now,  see, it is running n times. It is  running n times. How much complexity of"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 1206.093,
+      "end": 1266.222,
+      "text": " work is being done each time? Each time  this for loop runs n times. How much  complexity of work is it doing each  time? It is doing an order of one work.  It's just printing one thing, right?  Printing takes one. So what is the  total complexity of this? Now you will  have to multiply by the input. n*1 =  order of n. This is what we call a  program taking order of n time. Meaning  it's doing some work n times, and each  task takes order of one. So how much  total work are you doing? n*1. Did you  understand? Should I explain again? The  loop is running n times. Each time, a  constant task is being performed. So  that is why its time complexity is  order of n. Any loop running from zero  to n will have a time complexity of n.  Did you understand? n*1. Now let's see.  There is one more thing in this. Now  many students get this doubt. I used to  have it too. Suppose i < n is not  running. n-1 is running. i ++ and it is  printing. Now let me tell you. It is"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 1265.272,
+      "end": 1325.7350000000001,
+      "text": " printing. Now look, how many times is  this loop running? First of all, the  very first thing is, is this an  independent loop or a dependent loop?  So this is a dependent loop. Why?  Because due to n, the time of this loop  will change. But, how many times was  the first loop running? It was running  from 0 to n, so it was running n times.  This loop says it runs from zero to n-1 , which means it runs n-1 times. That's  what's happening, right? The first loop  was going from zero to n. So that was n . This loop says that it is this, so it  should be n-1. What is the total  complexity of this loop? n-1*order of 1 , so do we write it as order of n-1?  No. No, no. Look, if...look, order of n -1...but one should write this.  Mathematically, this is what should be  written. But whenever we put this  inside the order, we call it order. We  call it Big O. Okay? Anything written  inside this is an expression. It is an  expression. Like you used to study in"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 1324.784,
+      "end": 1385.598,
+      "text": " math, it's an expression. Meaning, you  used to study quadratic expressions  like ax² + bx + c; similarly, when we  find the result of this expression,  when we analyze how much it takes. In  this, we consider the thing with the  highest power of n as its complexity.  Meaning, what is the power of n in this ? One. How can you write one? You can  write one as n to the power of 0. So  instead of this one, we could write n  to the power of 0, and one; there are  two powers here. This one and that one.  Which one is the highest? One, that is  why its time complexity becomes order  of n. Order of n-1, n-1, n + 2, n + 100 , n-50, all of these will be discarded.  Why? Because its highest power is one.  That's why we write that its complexity  is also order of n. It doesn't matter  if it's n-1 or n-2. If someone tells  you that its time complexity is this."
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 1385.627,
+      "end": 1446.682,
+      "text": " This one. Then what would you do? They  could also say that its time complexity  is this, right? You have to do the same  thing. What is the highest power of n?  Here it is two. Here it is one. Here it  is n to the power of zero. Its time  complexity will be order of n². Order  of n² is the reason for this. This is  the reason. That is why we say watch  the video till the end. This is the  reason why, when we calculate time  complexity, what did I say? That if you  have three or four sections. This is  order of one. This is order of one.  This is order of one. So we take the  maximum of these. What does taking the  maximum mean? How can you write this?  Total time, see, it is the sum of the  program. If these three sections one,  two, and three are running in your  program. In reality, it should be their  sum. So why is it the maximum? It is  the maximum for this very reason. What  will you write for this? n to the power  0 + n to the power 0 + n to the power 0 . What is the highest power here? The  highest power here is zero. That is why"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 1445.734,
+      "end": 1506.385,
+      "text": " its time complexity becomes n to the  power of 0 equals order of one. For  this reason, we take the highest power  of n as the worst complexity. We ignore  the rest. That is why the maximum is  taken. I hope you all have understood  this much. Let's try one more thing.  For example, if you write a program.  There are two lines in your program.  Print hello, this is one line. And this  is i = 0, i < n, i ++ and this print  world, this is your program. First of  all, identify the sections. Section  means an independent section that the  compiler executes and finishes the task . What is the very first section you  see? How much work is being done in  this? One task is happening, it prints  hello. What is its time complexity?  Order of one. Now, is this a single  section on its own? What am I saying?  Undo the answer. Yes. Is this line a  section by itself? No. No, no, it is"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 1505.438,
+      "end": 1565.616,
+      "text": " not a standalone section. Why? Because  the for loop hasn't ended. When does  the for loop run? The for loop starts  from here. It ends here. So, this is a  whole section. You cannot say that this  line is one section, this print is one  section, and that is a separate section . No. For that task, when does it start  and end? That small task, instead of  this, if this weren't there...If this  line weren't here, would it have any  significance? It wouldn't. But even if  this line weren't here, the for loop  would still run. If this for loop  weren't here, this line would still run . That is why they are separate  sections. If this line is not there,  the importance of that line will  decrease. That is why this is a  separate section. This is a separate  section. Understood? What is its time  complexity? We just saw it. Order of n.  What is the total time complexity of  the program? Just sum them all up,  brother. Sum the one, sum the n. Write  1 + n, what is the highest power? It is  one. Here, it's into n to the power of  zero. Pick the highest one. Order of n."
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 1564.716,
+      "end": 1625.264,
+      "text": " The total complexity of this program is  calculated. Order of n. This is how we  do this work. Let's look at one last  example that is used a lot. For i = 0,  i < n, i ++. Look. To teach this, I  could speak for two hours straight, but  I am telling you only what is necessary . Now look, now look, it will be a bit  different, j < n. j ++. Print hello,  this is your program. Now tell me, what  is happening here? First, let's read it . An i loop is running. Where does it  run from and to? First of all, is it  input dependent or input independent?  It is input dependent. This is indeed  input dependent. How many times is it  running? n times. It's going from zero  to n, right brother? It's running n  times. So let's write it down. This is  running n times. When we wrote the for"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 1624.309,
+      "end": 1685.457,
+      "text": " loop earlier, what was happening? It  was printing every time. So we were  doing a task every time. But this for  loop starts here and ends here. In  between is this for loop. This is a  nested for loop. A for loop inside a  for loop. Now let's look at this first.  What is it doing? First of all, is it  input dependent or independent? It is  dependent. It is going from zero to n,  will it change or decrease with n? It  is running n times. What is this for  loop doing? This for loop is now  printing hello. It is printing hello.  Let's call it one. So what is happening ? When you look at it from a high level , what's happening? i is running n  times. What happens every time? j is  running n times. j runs n times. j is  doing an order-of-one task every time.  This is what is happening. What does  this mean? If your N is 3. 1 2 3, your  i came to one first. i will run from  one to three. What is happening each  time? j is also running three times. j"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 1684.51,
+      "end": 1745.8110000000001,
+      "text": " is running three times, right? j is  also running n times. Okay. i finished.  What will happen in this? j will run  again. j will run again three times.  Okay. i came to 3. j is running three  times again. j is running three times  again. What is the total number of  simple operations? Three, three, three,  9; if you look at it up to four. 1 2 3  4, i came to one. It's 1 2 3 4,  similarly 1 2 3 4, similarly 1 2 3 4,  similarly 1 2 3 4; what is the total  number of operations? 4 8 12 16, do you  see the pattern? What does this mean? n  = 3. The number of simple operations is  3*3 = 9; n = 4. This becomes 4*4 = 16;  what is its time complexity? Order of"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 1744.888,
+      "end": 1810.219,
+      "text": " n². Why did that happen? Because,  buddy, i is running n times. Every time  it is doing n amount of work. In this,  j is also running, which runs n times.  j is doing 1 unit of work each time. So  what was its total time complexity? We  said we have to multiply. We did that  last time too. n*n*1 = n². The time  complexity of this thing is n². If  there were a third for loop that also  ran n times, it would be n*n*n*1 = n³;  that is how time complexity grows. So  if you write a nested loop, its time  complexity becomes squared. That is  what this means. Now the last example,  you have a program, brother. You are  doing this. Yes, one more thing, the  time complexity of sort is n log n.  Right? Now, why is that? It happens due  to recursion and math, I will teach you  later. For now, just remember it. Print  hello. Right? For i = 0, i < n, i ++"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 1809.305,
+      "end": 1871.3069999999998,
+      "text": " and this is printing hello. Very good.  Now, if we are sorting the array.  a.begin (), a.end (), the array length  is n. This is your program. You write a  program like we wrote before. Remember  in Two Sum. It was a similar, exact  same program in that. Was it or not?  Sort, loop, and the rest. Now tell me,  first identify the sections. Do the  first task. Is this section independent ? Is this section related to anything  else? No. So this is your section one.  Is this a section? Are the for loop and  sort related? They are not. The for  loop ran and finished. It finished  after printing. After that, sorting is  happening. This is your section two. Is  this sorting line related to anything?  No, it's its own line. This became your  three. Now, what did I say? Find the  time complexity of every section. What  is the time complexity of section one?  Print hello. Print hello is nothing."
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 1870.746,
+      "end": 1931.061,
+      "text": " Order of one. What is the complexity of  section two? We just learned it. i runs  n times, and each time one operation  happens. Order of n. What is section  three? Sort takes n log n. Remember it  for now. I will explain it gradually.  Now, sum the total time complexity. 1 +  n + n log n. What did I say? Now, if  someone asks where the power of n is  here. Then n log n is written as n*n  1/2. Okay? n/2, its power is n 3/2.  Those who don't know log n, n to the  power...wait, isn't that how it works?  Oh, I thought of a square root, no  problem, it's fine for understanding.  Now for this total program, the largest  element, what is the largest? Is one  the largest? No. n, n log n, what is  the largest? n log n is the largest  because this is just n, here you are  multiplying something by n, n log n, so  the time complexity of this total"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 1930.118,
+      "end": 1990.61,
+      "text": " program is n log n. This is how we,  should I revise it again? We took three  sections, wrote all three, summed them  up, and took the maximum. So, this is  what time complexity is, my friend. Do  you understand what it means when  someone says Order of n, m, n log n, or  n squared? Now you know enough about  time complexity that you could teach  the teacher at whatever college you are  attending. None of the teachers at your  college would know this much. That is  my guarantee. Everyone just makes you  memorize that Order of n means Big O,  or Big Omega. Not the mathematical  derivation or how to understand it like  this. Today, you have understood time  complexity. Whenever we talk about it  in the future, you will understand why  someone is saying n squared. If they  say n squared and n log n, how the  total time complexity became n squared.  n squared and n log n, sometimes yes.  Sometimes it might not be obvious to  you just by looking which one is larger"
+    },
+    {
+      "videoId": "oFwHwCkSoGw",
+      "start": 1989.61,
+      "end": 2044.584,
+      "text": ". The best example for this is to take  the value of n as three. Calculate the  value for both. How much is 3 squared?  9, and n log n means 3*log 3, log 3 is  always base 2. The answer to this will  be 3. So which one of the two is bigger ? Nine is bigger. n squared is bigger.  So choose n squared. Whenever you don't  understand, just take a value and see.  Do you understand? If you don't  understand what the difference is  between n and n squared? Just take a  value. It's two, its value will come  out to be two. Its value will come out  to be four. So this one is bigger.  Simply take a value and check. Did you  understand? So I hope you guys liked  this a lot. This was a very important  video. And an announcement that  tomorrow is Diwali, so I am traveling  tomorrow, and the video for tomorrow  might not come. I am making this video  one day before Diwali. I don't know  when it will go live or if it won't.  But I won't make a video on the day of  Diwali. However it comes, that is  enough for today."
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "videoId": "2HZ12B2ZPAQ",
+  "channel": "Padho with Pratyush",
+  "chunks": [
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 0.1,
+      "end": 60.515,
+      "text": "Today is the last day of the Sliding  Window pattern. After this, Sliding  Window will be finished. But before  that, listen to something important. It  will only take two minutes. We uploaded  a video 30 minutes ago. It wasn't a DSA  lecture. It was a different type of  video. It wasn't different because I  was dancing in it. But it was about how  you should study and why you are  wasting time on topics. You should go  and watch it. There was nothing wrong  with it. Now, two things happened with  that video. First, that video got a lot  of views. If I have a screenshot, I  will show it to you. It's performing as  the best out of the last 10 videos.  There were many comments like, \"Brother , you said it was a DSA video, what are  you doing?\" and \"Upload DSA videos  daily.\"\"Don't make videos like this.\"  Which is a good thing, because I said  in the previous video that you can  comment whatever you feel like. But the  problem arises here. It's important to  say these things because you might be  young and might not understand. There  is a person named Arvind Yadav. You can"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 59.557,
+      "end": 119.858,
+      "text": " look at his comment. The comment is  still there. His comment said, \"Teach  DSA, what is this nonsense you keep  talking about?\" If you start commenting  like that, asking \"What nonsense are  you talking?\"\"Teach DSA.\" Then see,  whatever I teach you, you have to trust  that if I said I will teach, I will  teach. I am uploading study material to  the channel. Apart from that, I upload  other videos too. This is my channel,  right? I might feel like dancing. I  might feel like singing, so I upload it . The study videos are coming. If from  the next day you start saying things  like, \"Teach DSA, man.\"\"What nonsense  are you talking?\"\"Why are you  blabbering such useless things?\" Then  nothing will come of these comments.  Nothing. These comments will just  affect me because I don't teach from a  script. There is no script in front of  me that I am reading. Whenever I teach,  I look at the question and teach  whatever comes to mind, and you guys  say I teach well. So, making such  comments will only cause irritation;  don't be thankless. You know the  meaning of thankless, in Hindi we call"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 118.905,
+      "end": 179.00699999999998,
+      "text": " it ungrateful, like thankless, that we  just don't care about it. Whatever I  want must happen. Otherwise, everything  is wrong. Please don't make such  comments. And there are very few kids  who comment like this. I mean, if most  of you are commenting like, \"Brother,  please upload DSA, what are you doing  with all this?\" That is a very good  comment. I have never said anything  about that, nor will I ever. But when  you post a comment like, \"Oh, what  nonsense are you blabbering?\" Then  there are very few such kids. So that  is a good thing. But I don't like such  kids. Now, this is a public channel, so  I cannot say that you shouldn't watch  my videos. But if this were my home or  if this were my private batch, I would  have told you to leave. I mean, I don't  want you here. And I can see the entire  comment history of this Arvind Yadav  guy. Okay? YouTube Studio lets me know  what comments he has made so far.  Ironically, the four comments he has  made so far are all on these types of  videos. The ones where something other  than the lecture is being discussed.  But he likes to comment. However, there  isn't a single comment from him on any  lecture saying he studied today, or had"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 178.051,
+      "end": 239.403,
+      "text": " a doubt, or understood something, or  didn't understand something. He hasn't  commented on any of those. Meaning, he  is only watching such videos and  commenting that I shouldn't make such  videos. This guy isn't even watching  the DSA videos. So, the ones you aren't  even watching, you are only watching  the motivational videos, so  motivational videos will be made. So  you can comment on them, but please  keep it in mind. Right? It doesn't cost  anyone anything. It doesn't cost me  anything either. And yours, I mean, I  don't know you. You don't know me. So,  it doesn't cost anything. It definitely  doesn't cost me anything. That's a good  thing. So, it was just a small thing.  Keep in mind a little that this is  online. Okay? Do you think that you can  say anything or write anything online,  and no one can do anything? No one can  do anything, but it doesn't feel good,  right! So, be a little mindful, and  what will happen is that the more you  irritate me, my teaching quality will  keep going down. Right? Alright, enough  of this preaching for now. Right now,  many kids only watch for three minutes,  then comment, \"Oh, you're just giving  advice again, you should be teaching  DSA.\" So, please have some patience."
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 238.812,
+      "end": 300.598,
+      "text": " You guys are at that age, but it's okay . The two questions we are going to do  today are very, very important. My  sincere request to you is that once I  solve a question, pause the video right  there. Try to solve the second question  yourself. For example, what happened  yesterday? Yesterday, I solved three  questions. 80%of the comments said, \" Brother, you did one.\"\"We learned one  from you, and we did the second and  third questions ourselves.\" This is  exactly what I want: you learn one  question. That's a good thing. It's  something new, and you should learn it.  But the second, third, and fourth  questions—which are the same—just  needing one or two lines changed, you  should do those yourself. We will do  the same today. Today, we are doing two  questions. I will explain the first  question because it's a bit new. It's  not very likely that you will be able  to do it yourself; the probability is  very low. However, for the second  question, if you've done the first one,  the second one is as easy as a basic  question. You should do the second  question yourself. I will teach that  one too, but try to do it yourself,  okay? Alright, the two questions we are  doing today are \"Longest Substring with  Same Letters after Replacement\" and \""
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 299.598,
+      "end": 361.488,
+      "text": "Longest Subarray with Ones after  Replacement.\" The pattern sheet is in  the description; go check it out, rows  29 and 30 in the Sliding Window pattern . That's what we're going to cover. Now , let's get to our question. Longest  Substring with Same Letters after  Replacement. Just hearing the question  makes it sound quite intimidating, but  it's not that scary. It is a little  tricky, so open your minds, open your  notebooks, open your ears and eyes, and  listen carefully. You are told that you  have a string. And an integer K. Very  good. Now, what does this question say  in simple terms? Read the question. It  says that in this string, you can  choose any character and replace it  with any other character. Meaning, you  can change it as you wish. So, if it's  an 'A', you can make it a 'B', 'C', 'D' , or anything. You can change it to any  character. Very good. But, but, but  this operation, this change operation,  you can only do it K times. K times,"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 360.545,
+      "end": 421.382,
+      "text": " that's the twist here. Meaning, if K is  two. If K is two, then you can swap two  characters in the string. Meaning, if  there is an A here and a B here, you  can make this a C. Make this a D. You  can do it twice. Okay? Or not more than  two, meaning whatever K is, you can do  it that many times. Okay? So that was  the introduction to the question. What  do you have to do in the question? You,  sorry, you have to find the length.  Find the length of what? Not mine. You  have to find the length of the longest  substring. You have to find the longest  substring. Okay? Containing, containing , containing the same letters, same  letters, meaning, meaning, meaning the  same letters, provided that you perform  this operation. Let's understand the  question again, look. The question is  complex. This is not a traditional  question that you see and it just  clicks for you to do it this way."
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 421.418,
+      "end": 483.165,
+      "text": " That's why this is a hard question. It  is even written as \"Hard\" on the sheet.  What is it saying? If you have this  string, the string will have characters . You have to find the longest  substring anywhere in the string that  has the same letters. That has the same  letters. And to make them same, you can  use the facility given to change, that  you can change characters. You can use  that too. Using it K times, you have to  provide the largest substring that can  be formed. Okay? Meaning, suppose there  is A B C, like this, A B A, suppose it  is like this, and there is C D E here.  You are told that you can change one  letter. So logically speaking, looking  at it, if we make this an A, then look  at this substring, this one, it has all  A's, except there's one B, but we are  told that we can make it. You can make  B an A. How many times? Once. Can you  make this one an A too? No. Not at the  same time, you have to make only one,  so either make B an A or make this one  an A. So if you make this an A, this an"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 482.212,
+      "end": 544.109,
+      "text": " A, then you would have to take this  substring which will have a length of  two. But this substring here had a  length of three. You have to return  three. That is the question. Alright,  first of all, let's come to what we  always do—keep the pattern, flowchart , and everything ready in your mind.  Whose question is this? What needs to  be done here? I mean, I've never heard  of a question where you have to flip  characters and can only do it K times.  You have to change it. But is this a  string question? Array or string,  whatever it is. A string is also a type  of array. Whenever I say string, you  should understand it as an array. Yes.  Do you need to find a window or a  substring in this? Do you need to find  any substring or subarray in this? Yes.  Need to find a substring. Do you need  to find the longest substring? Need to  find the longest substring? Yes. Is  there any condition given that the  longest substring must have this or  that? Yes, it is given. What is the  condition? That whatever letters are in"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 543.154,
+      "end": 605.02,
+      "text": " the substring, they should either be  the same or already be the same. Or, if  they are different, you can change them  K times. Even if they are different,  you can make them the same by changing  them K times. So, this is our question.  Those who don't remember the flowchart,  please watch the previous ones. Those  who don't understand the flowchart,  please watch the previous ones. Those  who know the flowchart must have  realized this is a sliding window  question. It is a sliding window  question. Okay? This is the easy part.  It has become easy for you now that it  is a sliding window question. How many  steps did I tell you for sliding window ? There were four steps. Step one. Step  one was just checking if it is a  sliding window question or not. Yes, it  is, so very good. What was step two,  brother? Is it fixed or variable? Is it  fixed or variable? Is it written  anywhere in the question that the  substring you find must be of length  three or? Or of length four. It is said  longest substring, brother. Extend it  as much as you want. Provided this  condition is met. Whenever such a case  arises, it is variable. Very good. What"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 604.07,
+      "end": 664.1080000000001,
+      "text": " was step three? Information,  information, what is the information?  Whatever window you create, whatever  window is formed from low to high, what  is the information for that? Now, what  is the information? I mean, what do you  need to check in it? You need to check  if all characters are the same or not.  So, it could be one, just like we did  in the previous question. In the  previous question too, we had to check  something similar, whether it is unique  or not. Uh, is it this or is it like  that? Isn't it? So, what is its  information? We can also store the  frequency of characters in a hash map  to extract this information. You need  to check if this substring consists  only of A's. Now, what would an all-A  substring look like? Recall from last  time, its length is four and the  frequency of A is four. Right? So, if  the size of this hash map is one. What  is the size of this hash map? It is one . That means there is only one element.  If the size of this hash map were two,"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 663.153,
+      "end": 723.997,
+      "text": " it would mean two elements. If three,  then three elements. Three unique  elements. Meaning all elements should  be the same. You can also think of it  as, there should be one unique element.  One unique element should be present.  That is the point, isn't it? A is  unique, and no matter how many times it  appears, it's correct. Step three,  sorry, step four, how to move the  information forward? The same way,  remove the low and include the high.  When removing the low, if any frequency  becomes zero, it should be erased. This  is a dictionary problem. There is no  need for unnecessary complexity here.  You guys understood this. Now, the most  important part of the question has  arrived. There is a template for the  sliding window variable. Does everyone  remember the template? If you don't  remember, please go and watch it. Right ? What is the template? low = 0. high =  0. If it's the longest, the result is  int min. If it were the shortest, it  would be int max. Very good. What"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 723.048,
+      "end": 783.304,
+      "text": " happens first? The loop runs. Okay,  where does the loop run from and to?  And what runs? The high pointer runs.  We increment high in the loop. Okay, so  write it down. Look, the template will  remain the same, brother. Look, 70-80% of the template remains the same. I  keep saying, watch the template video  from the beginning. If you miss one  video, you won't enjoy it. Those who  have watched the whole thing must be  enjoying it. We are using the same  template question after question, same  written here. Okay, what was after that ? What was after that? After that, it  was to take the information of high  first. You are incrementing high, right ? First, include high inside. So come  on, take it. Take high inside. How to  take it inside? We will do it like this . What happened? Increased the  frequency of the character at high.  Very good. Now what was next? Now, what  was the part where as long as this  information is wrong, as long as this  information is wrong, as long as this  information is wrong, you keep  increasing the low. Increase the low  and decrease the window. That is what  we have been doing since yesterday."
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 782.404,
+      "end": 844.204,
+      "text": " What were we doing here in this box?  Look, the whole game is about this box.  The top and bottom will remain the same . It changes a little bit in the box.  What was it? That as long as the  information, as long as what is it? The  information is wrong. Wrong. Keep  increasing the low. Keep doing what to  the low? Keep increasing it. And once  you reach here and increase the low,  check it. If the information is correct , if the information becomes correct,  then extract the length. How to extract  the length? High minus low + 1, and  update the length with your result.  This is what we have been seeing since  yesterday. This is the same thing we  have been seeing since yesterday. We  have been seeing the same pattern. So,  the whole game is about these two boxes . The whole game is about this part.  Everything else before and after  remains the same. Let's go. Now come  here. Now look. Now look at what the"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 843.242,
+      "end": 903.842,
+      "text": " question wants to tell you. Let's go. A  A B A B B A N Wait, man, I'm just not  in the mood to teach today. Okay. a  example is. Okay? 0 1 2 3 4 5 6, this  is given to you. The value of k is  given as one. Very good. Now we have to  do this. Look, suppose k wasn't there.  Suppose the question didn't mention K.  It asked to find such a substring, find  a substring in which all letters are  the same. If K wasn't given, then maybe  there is such a question. That if there  is no K, find a substring in which all  are same, then it was a very easy  question. It was a very easy question  that the hashmap size should be one.  That's correct. If the hashmap size is  not one, then it means the information  is wrong. If the hashmap size is not  one, if it has become more than one,  then it is wrong. It will be at least  one. If it is more than one, then keep"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 902.892,
+      "end": 963.999,
+      "text": " increasing the low, and keep increasing  it until the hashmap size becomes one.  As soon as it becomes one, come and  write it down. That is what it would be . But now you are given a K, it says  that K means you can swap any one  element. You can swap any one element.  Now don't think like a computer. Think  like a human. Think like who? Just like  a human. Suppose you have this window.  This window is currently running. You  are on this window right now. On which  one? Low is right here. High is here.  It is on this window. How many unique  elements are in this window? There are  two unique elements in this window. A  and B. So, is this assumption of yours  correct? It is not correct. If K wasn't  there, it would be wrong, and you'd  increase it. Now K is here. Think like  a human, what would you do in this case ? If you were told you could change one  thing to make all the information the  same, what would you do? What would you  do? What would we do? We would remove  this B and write A here. That's what we"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 963.044,
+      "end": 1023.754,
+      "text": " would do, right? Then it would all  become A, and the answer would be three . We would do just that. We could have  done something else too. There's no  benefit in turning B into C. There's no  benefit in turning B into D. There's no  benefit in turning B into anything else . There is a benefit in turning B into  A. Right? Okay. Would you try to turn A  into B? That wouldn't work, because  only one is allowed. Only one change is  allowed. Then this one would remain A,  and you'd get \"bab,\" so you'd be stuck.  So think right here, open your mind and  think. Why are we not turning A into B?  Look at what I am trying to say. Let's  make this bigger. You have three here,  right? A, a, B, okay? Now look, \"A a B\"  is your substring. What am I saying?  You have one change to make. K is given  as one. Right? So, either you make B  into A, or you make A into B. That's  how it works, brother. Look, there are  only two elements, A and B. You want to  make everything the same. So, either  make B into A so everything becomes A.  Or turn all A's into B so everything"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 1022.797,
+      "end": 1083.491,
+      "text": " becomes B. There are only two options.  There is no benefit in turning anyone  into C. Okay? Now, would you prefer to  turn both A's into B, or B into A? How  will we figure that out? Why am I  saying we should turn B into A? We  shouldn't turn both A's into B. So how  did you figure that out, that look, I  only have K equal to one. If there is  only one A, it is more beneficial to  turn B into A. That is what will give  the answer. If you try to turn A into B , one will get stuck. So look, A is  here twice, A is in the entire  substring. B is once, so if you have a  limitation where you are told you only  have K power, K times power to make  changes. Then what would any  intelligent person prefer to do? That  it is more beneficial to change the one  that is less, the one that is less.  Right? If K is just one, then if you  start with the greater...why would you  start with the greater? It is not like  we have to do everything, we just have  to make B, right. So change the thing  that is less; why change the thing that"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 1082.537,
+      "end": 1143.9750000000001,
+      "text": " is more? Now look, consider one more  thing here. Suppose there was also 'C'  here, and 'C' was also there once. Now  what will you do? Now what will you do?  Now there are three options in this.  Now, now look, A, B, C, three letters  have come. So either you make A into C,  make both A's into C, make B into C too , and let C remain C. Or you make both  A's into B, let B remain B, and make C  into B. Very good! Or you let A remain  A, make B into A, and make C into A. In  this also, what are you doing? In this  also, you will feel that this one is  better. Why is this one better? Because  the one that is more, A is the maximum,  A is the maximum, so let A remain A.  Change everything else that is left  into A. What does that mean? Suppose  there was a very large substring where  you know 70%is already A. 30%is  anything. Anything at all, B, C, Z, P,  anything. So will you change 70%to make  it into the 30%? Or will it be easier"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 1143.029,
+      "end": 1204.9740000000002,
+      "text": " to change the 30%to make it the 70%?  The 30, because it is less. It is  already less. So if everything in the  30%is different. If we make everyone A,  it will take us 30 operations. But if  you try to change A, it will take at  least 70 operations here. It's like  having two parties in the country. One  is BJP, and the other is the entire  INDIA Alliance. The entire INDIA  Alliance. So, the BJP is in the  majority. The BJP is in the majority.  And the INDIA Alliance is made up of  many small parties. Many small parties,  totaling 30%. So, if you want to change  someone, changing the INDIA Alliance  into the BJP would result in one party  in the whole country—one party, one  rule. But if you try to change the BJP  into the others. Then you would have to  reach at least 70%, the votes the BJP  has. And there are many parties in the  INDIA Alliance that would also need to  be changed. So, it would take a lot  more. That is why, whatever is the most  frequent in the substring, leave it as  it is. Change everything else to match  that maximum. That should be your"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 1204.017,
+      "end": 1264.453,
+      "text": " algorithmic approach. Alright? Now,  what did you understand from this? What  did you understand from this? Look, it  will gradually become clearer. I am  telling you the question is hard. I am  the one saying the question itself is  hard. Even I took half an hour  yesterday. Alright? I hadn't solved it  in a long time. So, it took time.  That's why I am explaining it slowly.  Okay, let's see, maybe I won't explain  the next question today. Let's spend  some time on this question properly.  Right? So, we will do it with time.  Alright? Let's assume this is your low.  This is your high. Sometimes you might  have to do this. Your A is there two  times. B is there one time. You have a  certain power. Now, this is also  possible. Check if, with the power you  have, you can improve this substring or  not. That is what you need to find in  this question: if you have K power, can  you find the power of K and improve the  current substring or not? So, you have  to think about this. Can we do it here?  Yes, we can. Why? Because looking at it"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 1263.453,
+      "end": 1324.71,
+      "text": ", we know K is one. A is in the  majority. A is the maximum, so leave A  as it is and change B, which appears  once. Meaning, if it is less than or  equal to K, you can do it. But suppose  there was a C here. If there was a C  here. Where? Right here. Now your \"high \" isn't here. Your \"high\" is here.  Meaning, your hash map looks like this.  A2, B1, and C1. Now, look, your K is 1.  Can you make this substring valid?  Let's see. A is in majority, leave it,  it's BJP. How much is in the rest of  the India alliance? Two. So, you  definitely have to change two. Either  you make B an A, or make C an A as well . Only then will it become A four times . Otherwise, it's stuck. So, you can do  whatever you want. You cannot make this  substring valid. You cannot make this  substring valid, and that is our check;  is this information correct? Is it"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 1323.763,
+      "end": 1384.213,
+      "text": " right or wrong? Which substring is  valid? If K wasn't given, it would be  simple—only the substring with all  identical characters is valid. But if  there's a substring where you can use K  to change it, it's valid. If there's a  substring where you can't make it valid  using K, it's invalid. This is our  entire algorithm. Now look at how  beautifully we'll solve this. We'll  solve it with love. First of all, let's  start. First of all, let's start. Write  the format again. Your template. Write  it repeatedly to practice. i < n. Right , i plus plus, get it? Okay. First,  take i inside; take it, got it? Okay.  Now, now, now you need to find out if  it's all unique or not? Is it unique or  not? We need to find two things:  uniqueness and which character has the  maximum frequency. For this, what we"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 1383.265,
+      "end": 1444.085,
+      "text": " can do is, instead of a hash map, it's  better to create a large array. Why am  I not suggesting a hash map? Because  it's hard to find the majority from a  hash map. How will the map know whose  frequency is the majority? It won't  know. What should you do instead? Look,  whenever there is a string question,  you can use extra space. It is constant . Why is it constant? I'll explain.  Create an array of size 26. What should  you create? A size 26......array. 0, 1,  2, 3, up to 25; create this array. Name  it. This will become your hash map.  Whenever you see a capital A. Initially , keep everything at zero. Keep  everything at what? At zero. Whenever  you see a capital A, it starts from the  first. So, change it to one. Whenever  you see a capital B, change the one to  one. If you see B again, change this  one to two. If you see C, change the  next two to three, one. This will  become your hash map. Now, the benefit  is that if you need to find the maximum"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 1443.085,
+      "end": 1503.8509999999999,
+      "text": ", iterate through the array. Return  whichever is the maximum. This will  take constant time because there are  only 26 alphabets. So, the array size  will also be 26. So, even if you  iterate through 26 repeatedly, it won't  matter. Okay? Now, let's see. Oh, you  had already written this. Anyway, no  problem. You guys should watch this at  a higher speed. Watch at 1.2 x, it's  more fun. I also watch mine at 1.2 x.  First, whatever the index of high is.  Okay? So, FS. One more thing, one more  thing, if you make an array of size 26,  how will you know to keep A at zero, B  at one, and C at two? ASCII value. The  ASCII value of A is 65. The ASCII value  of A is 65. Since I don't want you to  study that at the time, don't create an  array of 26. Create an array of 256.  How much? 256. Because all the types of  characters in computer science, there"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 1502.907,
+      "end": 1563.491,
+      "text": " are 256 of them. Space bar, inverted  commas, A B C D, small a b c d, numbers , all together make 256. So, if you do  that, you won't need to adjust the  index. Your A will go to 65 in that  array. So, you don't need to do  anything. Just do it the way you do in  a hash map. So, create an array of 256  and set it to zero. Come, do a  plus-plus. That character will have  gone somewhere. Very good. Now what?  Now what? Is this information right or  wrong? How will we know that? How were  we finding out that first is the  frequency of that hash map? Okay? So,  what does this tell you? What this  tells you is, what this tells you is,  how many letters are in it. Not unique  letters, total letters. So, you can  even figure that out from the length.  What is length? Length is high minus  low plus 1; that is what length is.  Length means this many total characters . Now, there will be two things in the"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 1562.537,
+      "end": 1624.9470000000001,
+      "text": " total characters. One will be the  maximum, the one with the maximum  frequency. So, for example, in this  case, in this case, the total character  length that comes out will be four. The  maximum count frequency that comes out,  how much will that be? Two. How much is  left? The difference. The difference is  4-2. There are 100 crore people in all  of India. If 70 crore are voting for  BJP, then how many are left? 30 crore.  The difference is two. And this is the  difference you have to change. This  difference is what messes things up;  this difference causes so much trouble  that there are two differences. You  will have to change two. So, if we  calculate the difference, we will know  how many need to be changed. And if  that change is less than or equal to k,  then it is fine. Meaning, if these two,  if you are given k = 2, then very good.  You change two. But if your k is 1,  then this won't be possible. Then you  will have to slide the window. Slide it . Very good. So, this is it. What  should you do first? Calculate the  length. What? Length is very simple."
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 1624.461,
+      "end": 1686.377,
+      "text": " High minus low plus 1. Okay? Calculate  the max count. Write a function for max  count that traverses the array. It  should give you the maximum frequency.  It should give you the maximum  frequency. Okay? So, I will show you by  writing a find function. Pass this  array into it. What will it give you?  It will give you the maximum frequency.  If 'a' is two, then it will give you  two. Your length has become 4.  Calculate the difference. Calculate the  difference. What will the difference be ? Length contains the total characters.  Since the maximum is the maximum one,  it can be length minus max count. This  difference can also come out to be zero . If 100%of the country's people voted  for BJP, then the India alliance (this  is the India alliance, let me write it,  what this is, this is India and this is  BJP), if 100%of the country's people  vote for BJP, then how many will India  get? Zero. So it can be zero too, there  is nothing to worry about. That is a  good thing. Now, is this information  correct or incorrect? How were we"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 1685.428,
+      "end": 1746.4989999999998,
+      "text": " deciding this? If this difference is  less than k, it's fine. If this  difference is equal to k, it's also  fine, but as long as this difference is  greater than k, our information is  wrong. That is exactly what we have  been explaining so far. So the while  loop we used to run will now run like  this. How will it run? While, who is  this while for? For the low. Keep  shifting the window until the  information is wrong. Come on. As long  as it is greater than k, there is no  scope. What did we use to do in this?  First, remove the low. We used to  remove the low. Done removing.  Increment the low. Increment the low.  Now you don't need to erase anything  because this isn't a hash map. F is an  array, so it would have already become  zero. Right? Now, look, what was max  count dependent on? Max count was  dependent on F. You changed F here. You  subtracted something from F, so you  have to find the max count again. You  have to find it again, right? Go ahead  and find it. Nothing is happening to  max count. Whichever frequency is the"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 1745.549,
+      "end": 1807.422,
+      "text": " maximum in the entire array is the  maximum of F. I am writing it as find,  you might be writing it as max. Right?  What is the length dependent on? On  high and low. Are we changing the low?  Yes, we are changing the low. Will the  length have to be calculated again?  Won't the length have to be calculated  again? Calculate it, and what was the  difference based on? The difference was  length minus max. Now both length and  max have changed. The difference will  also change. The difference will also  change. What will the difference be? It  will change. Go ahead and change it.  Closed the for loop. Close the while  loop. Now we have come here. What can  happen here? How long are you running  the while loop? As long as the  difference is greater than k, so if  this while loop breaks and comes here,  it means that either my difference is  less than k or my difference is equal  to k. Both conditions are correct. In  both conditions, you can proceed freely . That is correct information. It is a  valid window. There is nothing else to  do. Come. Calculate the length again."
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 1806.696,
+      "end": 1867.159,
+      "text": " What was it? If you have found the  right information, then why worry? And  set res equals to max of res and length . Close the high for-loop and return  res. Take a look. Same pattern as  yesterday, but what changed in the  question? Something did change. These  three lines had to be added. These  three lines had to be added. We had to  think of this logic here and add it.  The concept is the same. You have to  process the information. You need to  identify when the information is  correct or incorrect, the rest is  automatic. It's the same, it just needs  to be put into the format. And as long  as the information is invalid, keep  increasing the low pointer. Keep  increasing the low pointer. As soon as  valid information arrives, write it in  the result. It's the same question.  Okay? I don't think there should be any  doubt here. But it's possible since  it's a hard question. Okay? That's why  I'm not teaching the next one today.  The next question, see, the next Max"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 1866.212,
+      "end": 1927.79,
+      "text": " Consecutive Ones III; I think if you  understood this well, you'll be able to  do that in 2 minutes. That's what  happened to me yesterday. This question  took me 15-20 minutes. Looked at the  Max Consecutive Ones question, coded it  in 2 minutes, submitted it, done. It's  the same question. Almost the same  question. I mean, not even almost, it  is the same. It's actually even easier.  If this question was 8 out of 10 in  difficulty, that one is 6 out of 10. So  if you understood this, that will be  solved. So go and submit it, try  submitting that as well. Let me know in  the comments if it worked or not, then  I'll explain it tomorrow. If it worked,  that's good. We'll leave it at that.  We'll start a new pattern from tomorrow . Okay? So that was today's class, and  look, don't take what I said the wrong  way. But you all also need to  understand a little. Right? You all  should also have a little patience.  Don't panic. Don't create a fuss like,  \"Oh, he didn't teach, my whole career  is ruined.\"\"My whole life is ruined now .\" Don't create such a fuss. It will  happen, everything will be done.  Whatever I've said will be done, and it  will be done well. It's not like I'll  just come and do formalities, writing  something on the board and saying \"do"
+    },
+    {
+      "videoId": "2HZ12B2ZPAQ",
+      "start": 1926.837,
+      "end": 1944.611,
+      "text": " it this way or that\"—I don't do that.  So you guys also cooperate a little. If  I am taking nine steps forward. You  guys should also take one step. Some  decorum should be maintained, right?  Alright, I will upload this video. It  might get a bit late at night. Those  who can't watch today can watch  tomorrow. And let's meet in the next  one. Right?"
+    }
+  ]
+}
