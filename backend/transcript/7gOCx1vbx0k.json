@@ -1,0 +1,6779 @@
+{
+  "language": "English (United States) (auto-generated)",
+  "language_code": "en-US",
+  "is_generated": true,
+  "videoId": "7gOCx1vbx0k",
+  "channel": "Padho with Pratyush",
+  "segments": [
+    {
+      "text": "How are you guys doing? You are",
+      "start": 0.1,
+      "duration": 2.079
+    },
+    {
+      "text": " watching Padho with Pratyush. My name",
+      "start": 1.214,
+      "duration": 2.414
+    },
+    {
+      "text": " is Pratyush Narayan and before today,",
+      "start": 2.672,
+      "duration": 2.628
+    },
+    {
+      "text": " you must have studied linked list",
+      "start": 4.344,
+      "duration": 2.452
+    },
+    {
+      "text": " reversal many times. But many people",
+      "start": 5.84,
+      "duration": 2.761
+    },
+    {
+      "text": " just make you memorize it—do this, do",
+      "start": 7.653,
+      "duration": 3.028
+    },
+    {
+      "text": " that, do this. You don't need to",
+      "start": 9.733,
+      "duration": 2.636
+    },
+    {
+      "text": " memorize this reversal; you need to",
+      "start": 11.413,
+      "duration": 2.54
+    },
+    {
+      "text": " understand it really well. I will",
+      "start": 12.997,
+      "duration": 2.447
+    },
+    {
+      "text": " explain it with such an example that",
+      "start": 14.478,
+      "duration": 2.224
+    },
+    {
+      "text": " you will never forget it in your life.",
+      "start": 15.736,
+      "duration": 2.292
+    },
+    {
+      "text": " Even if you want to, you won't be able",
+      "start": 17.128,
+      "duration": 2.389
+    },
+    {
+      "text": " to forget it. Before starting, for",
+      "start": 18.554,
+      "duration": 2.631
+    },
+    {
+      "text": " those who are here for the first time,",
+      "start": 20.238,
+      "duration": 3.006
+    },
+    {
+      "text": " check the description. Uh, if you watch",
+      "start": 22.296,
+      "duration": 3.13
+    },
+    {
+      "text": " the video, please watch it in full. I",
+      "start": 24.48,
+      "duration": 3.034
+    },
+    {
+      "text": " keep saying, don't just watch half the",
+      "start": 26.549,
+      "duration": 2.333
+    },
+    {
+      "text": " video and increase my view count. I",
+      "start": 27.917,
+      "duration": 2.288
+    },
+    {
+      "text": " mean, what will you gain by increasing",
+      "start": 29.235,
+      "duration": 2.151
+    },
+    {
+      "text": " my views? If you watch for 2 minutes",
+      "start": 30.416,
+      "duration": 2.247
+    },
+    {
+      "text": " and my view count goes up, nothing much",
+      "start": 31.696,
+      "duration": 2.311
+    },
+    {
+      "text": " will happen from that. I mean, I don't",
+      "start": 33.041,
+      "duration": 3.048
+    },
+    {
+      "text": " get paid enough for one view, so don't",
+      "start": 35.139,
+      "duration": 2.9
+    },
+    {
+      "text": " waste your 2 minutes. You could watch",
+      "start": 37.089,
+      "duration": 3.206
+    },
+    {
+      "text": " four reels in those 2 minutes. You",
+      "start": 39.333,
+      "duration": 2.367
+    },
+    {
+      "text": " could watch something from a good web",
+      "start": 40.748,
+      "duration": 2.79
+    },
+    {
+      "text": " series in 5 minutes. I mean, don't",
+      "start": 42.587,
+      "duration": 2.892
+    },
+    {
+      "text": " waste your time because I don't",
+      "start": 44.542,
+      "duration": 2.966
+    },
+    {
+      "text": " understand the reason for it. There",
+      "start": 46.572,
+      "duration": 3.102
+    },
+    {
+      "text": " shouldn't be a reason to watch it",
+      "start": 48.706,
+      "duration": 2.077
+    },
+    {
+      "text": " halfway, right? Either it's possible",
+      "start": 49.815,
+      "duration": 2.313
+    },
+    {
+      "text": " that you are very busy. You are very",
+      "start": 51.164,
+      "duration": 2.396
+    },
+    {
+      "text": " busy—it's not like B.Tech students",
+      "start": 52.599,
+      "duration": 2.392
+    },
+    {
+      "text": " are that busy. Because I have also done",
+      "start": 54.029,
+      "duration": 2.513
+    },
+    {
+      "text": " B.Tech. It's not like we came directly",
+      "start": 55.578,
+      "duration": 2.675
+    },
+    {
+      "text": " to a job. You all have come after doing",
+      "start": 57.297,
+      "duration": 2.346
+    },
+    {
+      "text": " B.Tech. You know that no one is",
+      "start": 58.672,
+      "duration": 2.356
+    },
+    {
+      "text": " actually busy. And if you think that",
+      "start": 60.073,
+      "duration": 3.172
+    },
+    {
+      "text": " spending two-three hours a day going to",
+      "start": 62.298,
+      "duration": 3.054
+    },
+    {
+      "text": " class and making notes makes you very",
+      "start": 64.405,
+      "duration": 2.95
+    },
+    {
+      "text": " busy, then don't study, and a year",
+      "start": 66.407,
+      "duration": 2.792
+    },
+    {
+      "text": " later, you will end up with a job at a",
+      "start": 68.251,
+      "duration": 3.003
+    },
+    {
+      "text": " call center. Your shift at the call",
+      "start": 70.306,
+      "duration": 3.534
+    },
+    {
+      "text": " center will be 15 hours a day and the",
+      "start": 72.895,
+      "duration": 3.022
+    },
+    {
+      "text": " salary is ₹ 12,000. So, I work 15",
+      "start": 74.971,
+      "duration": 3.178
+    },
+    {
+      "text": " hours a day. I get ₹ 3 lakhs a month.",
+      "start": 77.22,
+      "duration": 4.189
+    },
+    {
+      "text": " You will go and work 15 hours. You will",
+      "start": 80.521,
+      "duration": 3.099
+    },
+    {
+      "text": " get ₹ 12,000 a month. So, you will",
+      "start": 82.665,
+      "duration": 2.752
+    },
+    {
+      "text": " become very cheap. Your time will",
+      "start": 84.468,
+      "duration": 2.675
+    },
+    {
+      "text": " become cheaper than that of a rickshaw",
+      "start": 86.18,
+      "duration": 2.42
+    },
+    {
+      "text": " puller. If a rickshaw puller pulls a",
+      "start": 87.638,
+      "duration": 2.611
+    },
+    {
+      "text": " rickshaw for 15 hours, he will earn",
+      "start": 89.29,
+      "duration": 2.434
+    },
+    {
+      "text": " more than 12,000. So you will become a",
+      "start": 90.765,
+      "duration": 2.633
+    },
+    {
+      "text": " very cheap person. So if you want to do",
+      "start": 92.44,
+      "duration": 2.51
+    },
+    {
+      "text": " that, you can do that too. That is also",
+      "start": 93.983,
+      "duration": 2.501
+    },
+    {
+      "text": " a way of life. Millions of people do it",
+      "start": 95.53,
+      "duration": 2.612
+    },
+    {
+      "text": ". It's not like there are no jobs in",
+      "start": 97.142,
+      "duration": 2.405
+    },
+    {
+      "text": " BPOs. Millions of people are working in",
+      "start": 98.584,
+      "duration": 2.546
+    },
+    {
+      "text": " BPOs. In call centers and things like",
+      "start": 100.168,
+      "duration": 2.658
+    },
+    {
+      "text": " selling credit cards and all that. So",
+      "start": 101.87,
+      "duration": 2.686
+    },
+    {
+      "text": " fine, you can do all that. So, why is",
+      "start": 103.598,
+      "duration": 2.897
+    },
+    {
+      "text": " reversal a separate pattern of its own?",
+      "start": 105.563,
+      "duration": 3.684
+    },
+    {
+      "text": " Reversal is a distinct pattern because",
+      "start": 108.659,
+      "duration": 2.999
+    },
+    {
+      "text": " once you learn it, many related",
+      "start": 110.71,
+      "duration": 2.631
+    },
+    {
+      "text": " problems become easy. Meaning, in all",
+      "start": 112.394,
+      "duration": 2.966
+    },
+    {
+      "text": " of them, you have to perform a reversal",
+      "start": 114.4,
+      "duration": 2.56
+    },
+    {
+      "text": ". But different conditions will be",
+      "start": 115.96,
+      "duration": 2.691
+    },
+    {
+      "text": " given, like reverse this way or that",
+      "start": 117.697,
+      "duration": 2.634
+    },
+    {
+      "text": " way. Break it from here and reverse it,",
+      "start": 119.377,
+      "duration": 2.826
+    },
+    {
+      "text": " which means it will be complex. Its",
+      "start": 121.246,
+      "duration": 2.635
+    },
+    {
+      "text": " questions can be complex. They will not",
+      "start": 122.947,
+      "duration": 3.329
+    },
+    {
+      "text": " be difficult. You will never feel that",
+      "start": 125.321,
+      "duration": 3.099
+    },
+    {
+      "text": " you don't understand what needs to be",
+      "start": 127.48,
+      "duration": 3.198
+    },
+    {
+      "text": " done. You will always feel that you",
+      "start": 129.737,
+      "duration": 2.922
+    },
+    {
+      "text": " understand what needs to be done. The",
+      "start": 131.711,
+      "duration": 2.969
+    },
+    {
+      "text": " problem is in how to do it. There is a",
+      "start": 133.73,
+      "duration": 2.774
+    },
+    {
+      "text": " difficulty in writing the code. What to",
+      "start": 135.535,
+      "duration": 2.419
+    },
+    {
+      "text": " do? So, its questions will always be",
+      "start": 137.001,
+      "duration": 2.851
+    },
+    {
+      "text": " complex. They will not be difficult. It",
+      "start": 138.901,
+      "duration": 2.7
+    },
+    {
+      "text": " will never be difficult. LeetCode hard",
+      "start": 140.659,
+      "duration": 3.38
+    },
+    {
+      "text": " questions are also complex. They are",
+      "start": 143.109,
+      "duration": 3.338
+    },
+    {
+      "text": " not difficult. If someone asks you to",
+      "start": 145.492,
+      "duration": 2.522
+    },
+    {
+      "text": " explain in words what you would do, you",
+      "start": 147.051,
+      "duration": 2.405
+    },
+    {
+      "text": " would tell them immediately. But how to",
+      "start": 148.492,
+      "duration": 2.885
+    },
+    {
+      "text": " implement it becomes hard. That is why",
+      "start": 150.439,
+      "duration": 3.204
+    },
+    {
+      "text": " it is complex. Okay. So, what does",
+      "start": 152.686,
+      "duration": 3.381
+    },
+    {
+      "text": " reversal mean? See, a linked list is",
+      "start": 155.134,
+      "duration": 2.772
+    },
+    {
+      "text": " like a train. A linked list is like a",
+      "start": 156.941,
+      "duration": 2.364
+    },
+    {
+      "text": " train. So, suppose the engine is",
+      "start": 158.34,
+      "duration": 2.383
+    },
+    {
+      "text": " attached at the start. After that,",
+      "start": 159.766,
+      "duration": 2.544
+    },
+    {
+      "text": " there is an AC coach. Then the sleeper,",
+      "start": 161.355,
+      "duration": 2.746
+    },
+    {
+      "text": " and finally the general coach. Someone",
+      "start": 163.142,
+      "duration": 2.664
+    },
+    {
+      "text": " tells you, \"Hey, reverse this whole",
+      "start": 164.853,
+      "duration": 2.647
+    },
+    {
+      "text": " train.\" What should you do to this",
+      "start": 166.547,
+      "duration": 2.217
+    },
+    {
+      "text": " train? Reverse it completely. Meaning,",
+      "start": 167.795,
+      "duration": 3.08
+    },
+    {
+      "text": " turn this arrow this way. Turn this",
+      "start": 169.958,
+      "duration": 3.647
+    },
+    {
+      "text": " arrow this way. Turn this arrow this",
+      "start": 172.659,
+      "duration": 2.711
+    },
+    {
+      "text": " way and bring the general coach to the",
+      "start": 174.409,
+      "duration": 2.513
+    },
+    {
+      "text": " front. Meaning, write the whole thing",
+      "start": 175.962,
+      "duration": 2.684
+    },
+    {
+      "text": " in reverse. So, there is a very simple",
+      "start": 177.69,
+      "duration": 3.542
+    },
+    {
+      "text": " algorithm to reverse it. You all can",
+      "start": 180.307,
+      "duration": 3.26
+    },
+    {
+      "text": " even memorize it. But there is no need",
+      "start": 182.6,
+      "duration": 2.308
+    },
+    {
+      "text": " to memorize it. Just understand it like",
+      "start": 183.94,
+      "duration": 2.397
+    },
+    {
+      "text": " this. What should you do? Understand it",
+      "start": 185.372,
+      "duration": 2.725
+    },
+    {
+      "text": ". See, now you have to go and change",
+      "start": 187.097,
+      "duration": 3.339
+    },
+    {
+      "text": " the arrow of every coach. Every coach's",
+      "start": 189.501,
+      "duration": 3.19
+    },
+    {
+      "text": " arrow, meaning every coach's connection",
+      "start": 191.728,
+      "duration": 2.424
+    },
+    {
+      "text": " needs to be changed. So, first of all,",
+      "start": 193.188,
+      "duration": 3.126
+    },
+    {
+      "text": " you need a mechanic. You need a",
+      "start": 195.39,
+      "duration": 3.681
+    },
+    {
+      "text": " mechanic. You need a what? A mechanic",
+      "start": 198.176,
+      "duration": 3.803
+    },
+    {
+      "text": " or technician who actually has to",
+      "start": 201.024,
+      "duration": 2.506
+    },
+    {
+      "text": " change the coach's wiring. Okay. Keep",
+      "start": 202.576,
+      "duration": 3.728
+    },
+    {
+      "text": " one more helper with you. A helper for",
+      "start": 205.359,
+      "duration": 3.24
+    },
+    {
+      "text": " this. A helper. He doesn't know much.",
+      "start": 207.663,
+      "duration": 5.293
+    },
+    {
+      "text": " He doesn't know much. But he has a very",
+      "start": 212.056,
+      "duration": 2.816
+    },
+    {
+      "text": " special task. What is his special task?",
+      "start": 213.914,
+      "duration": 2.548
+    },
+    {
+      "text": " Let's see. Let's start. First of all,",
+      "start": 215.562,
+      "duration": 3.311
+    },
+    {
+      "text": " what will happen? Your mechanic will go",
+      "start": 217.916,
+      "duration": 2.765
+    },
+    {
+      "text": " and stand right here. Your mechanic",
+      "start": 219.725,
+      "duration": 2.635
+    },
+    {
+      "text": " will go where? He will stand on the",
+      "start": 221.406,
+      "duration": 2.46
+    },
+    {
+      "text": " engine, the first one. Okay. Now its",
+      "start": 222.902,
+      "duration": 3.419
+    },
+    {
+      "text": " job, its job now is this arrow, you see",
+      "start": 225.384,
+      "duration": 3.465
+    },
+    {
+      "text": ", it has to be turned to the back. It",
+      "start": 227.849,
+      "duration": 3.881
+    },
+    {
+      "text": " has to be turned to the back. Back",
+      "start": 230.779,
+      "duration": 2.762
+    },
+    {
+      "text": " towards whom? Towards the helper. Yes.",
+      "start": 232.604,
+      "duration": 3.855
+    },
+    {
+      "text": " So what is the helper's job? The helper",
+      "start": 235.559,
+      "duration": 3.432
+    },
+    {
+      "text": " will always stand on the rear bogie.",
+      "start": 238.087,
+      "duration": 4.463
+    },
+    {
+      "text": " Will stand on the rear bogie. What is",
+      "start": 241.65,
+      "duration": 3.87
+    },
+    {
+      "text": " the mechanic's job? To lift the arrow",
+      "start": 244.565,
+      "duration": 2.749
+    },
+    {
+      "text": " of the bogie he is standing on and turn",
+      "start": 246.361,
+      "duration": 2.816
+    },
+    {
+      "text": " it towards the helper. So what will",
+      "start": 248.224,
+      "duration": 2.737
+    },
+    {
+      "text": " your mechanic do? He will lift this",
+      "start": 250.012,
+      "duration": 3.02
+    },
+    {
+      "text": " arrow and what will he do with it? Turn",
+      "start": 252.093,
+      "duration": 3.412
+    },
+    {
+      "text": " it towards the back. Turn it towards",
+      "start": 254.558,
+      "duration": 2.773
+    },
+    {
+      "text": " whom? Towards the back. Is it okay now?",
+      "start": 256.373,
+      "duration": 2.714
+    },
+    {
+      "text": " This task is done. Okay, this arrow has",
+      "start": 258.187,
+      "duration": 2.479
+    },
+    {
+      "text": " turned. Very good. Move the helper",
+      "start": 259.698,
+      "duration": 2.941
+    },
+    {
+      "text": " forward. Move the helper forward. Bring",
+      "start": 261.692,
+      "duration": 3.052
+    },
+    {
+      "text": " the helper to the AC bogie. Sorry, not",
+      "start": 263.797,
+      "duration": 2.936
+    },
+    {
+      "text": " the helper, move the mechanic forward.",
+      "start": 265.772,
+      "duration": 2.507
+    },
+    {
+      "text": " Now because the mechanic has moved",
+      "start": 267.379,
+      "duration": 2.669
+    },
+    {
+      "text": " forward, what about the helper? The",
+      "start": 269.097,
+      "duration": 2.808
+    },
+    {
+      "text": " helper's job is to stay on the rear",
+      "start": 270.953,
+      "duration": 2.705
+    },
+    {
+      "text": " bogie. So you will have to pick up the",
+      "start": 272.706,
+      "duration": 3.18
+    },
+    {
+      "text": " helper and where will you have to bring",
+      "start": 274.941,
+      "duration": 3.155
+    },
+    {
+      "text": " him? You will have to bring him to the",
+      "start": 277.151,
+      "duration": 2.879
+    },
+    {
+      "text": " engine. Look, where is the mechanic",
+      "start": 279.077,
+      "duration": 2.706
+    },
+    {
+      "text": " still standing? Where is the mechanic",
+      "start": 280.83,
+      "duration": 2.711
+    },
+    {
+      "text": " standing? On the bogie whose wire needs",
+      "start": 282.584,
+      "duration": 2.632
+    },
+    {
+      "text": " to be changed, whose connection needs",
+      "start": 284.256,
+      "duration": 2.461
+    },
+    {
+      "text": " to be changed. Where is the helper",
+      "start": 285.757,
+      "duration": 2.268
+    },
+    {
+      "text": " standing? The helper is standing on the",
+      "start": 287.057,
+      "duration": 2.369
+    },
+    {
+      "text": " rear one. The helper was standing on",
+      "start": 288.46,
+      "duration": 2.28
+    },
+    {
+      "text": " the rear one earlier too. That is why",
+      "start": 289.774,
+      "duration": 2.413
+    },
+    {
+      "text": " we turned it here. You can consider",
+      "start": 291.23,
+      "duration": 2.416
+    },
+    {
+      "text": " this null because there was nothing in",
+      "start": 292.68,
+      "duration": 2.299
+    },
+    {
+      "text": " front of the engine. So okay, we had",
+      "start": 294.013,
+      "duration": 2.319
+    },
+    {
+      "text": " turned it to the back. Okay. Same task,",
+      "start": 295.368,
+      "duration": 3.267
+    },
+    {
+      "text": " the mechanic will do the same task",
+      "start": 297.683,
+      "duration": 2.622
+    },
+    {
+      "text": " again. What will he do? This AC wire",
+      "start": 299.352,
+      "duration": 4.25
+    },
+    {
+      "text": " that was connected to the sleeper here,",
+      "start": 302.649,
+      "duration": 2.831
+    },
+    {
+      "text": " he will turn it and connect it to what?",
+      "start": 304.527,
+      "duration": 2.832
+    },
+    {
+      "text": " He will connect it to the engine. Why?",
+      "start": 306.936,
+      "duration": 2.408
+    },
+    {
+      "text": " Because the helper was standing there.",
+      "start": 308.444,
+      "duration": 2.205
+    },
+    {
+      "text": " So wherever the helper is standing, he",
+      "start": 309.749,
+      "duration": 2.346
+    },
+    {
+      "text": " will tell him, \"Here, you connect your",
+      "start": 311.13,
+      "duration": 2.347
+    },
+    {
+      "text": " wire there.\" Now what does the mechanic",
+      "start": 312.512,
+      "duration": 2.3
+    },
+    {
+      "text": " have to do? The mechanic has to move",
+      "start": 313.842,
+      "duration": 2.229
+    },
+    {
+      "text": " forward. The mechanic simply has to",
+      "start": 315.104,
+      "duration": 2.699
+    },
+    {
+      "text": " move forward. The mechanic simply has",
+      "start": 316.855,
+      "duration": 2.829
+    },
+    {
+      "text": " to move forward. And come and stand on",
+      "start": 318.73,
+      "duration": 2.668
+    },
+    {
+      "text": " the sleeper. But the helper also has to",
+      "start": 320.438,
+      "duration": 2.63
+    },
+    {
+      "text": " move forward. The helper also forward",
+      "start": 322.109,
+      "duration": 2.508
+    },
+    {
+      "text": " because the helper is standing on the",
+      "start": 323.655,
+      "duration": 2.415
+    },
+    {
+      "text": " rear bogie. The helper is standing on",
+      "start": 325.108,
+      "duration": 2.731
+    },
+    {
+      "text": " the rear bogie. So where will the",
+      "start": 326.888,
+      "duration": 2.69
+    },
+    {
+      "text": " helper come now? He will come to the AC",
+      "start": 328.628,
+      "duration": 3.07
+    },
+    {
+      "text": ". What will the mechanic do? The",
+      "start": 330.698,
+      "duration": 2.506
+    },
+    {
+      "text": " mechanic will just remove the sleeper",
+      "start": 332.267,
+      "duration": 3.343
+    },
+    {
+      "text": " wire. And where will he connect it? He",
+      "start": 334.674,
+      "duration": 3.149
+    },
+    {
+      "text": " will connect it to the AC one because",
+      "start": 336.863,
+      "duration": 2.482
+    },
+    {
+      "text": " the helper is standing there. Now what",
+      "start": 338.385,
+      "duration": 2.568
+    },
+    {
+      "text": " will the mechanic do? The mechanic will",
+      "start": 339.991,
+      "duration": 2.48
+    },
+    {
+      "text": " just move forward. The mechanic will",
+      "start": 341.506,
+      "duration": 2.687
+    },
+    {
+      "text": " move forward. The mechanic will move",
+      "start": 343.25,
+      "duration": 2.876
+    },
+    {
+      "text": " forward and come to the general. Okay?",
+      "start": 345.173,
+      "duration": 3.153
+    },
+    {
+      "text": " What will the helper do? The helper",
+      "start": 347.426,
+      "duration": 2.278
+    },
+    {
+      "text": " will also move forward. The helper has",
+      "start": 348.731,
+      "duration": 2.242
+    },
+    {
+      "text": " also moved because their job is to stay",
+      "start": 350.009,
+      "duration": 2.407
+    },
+    {
+      "text": " on the previous bogey. You always have",
+      "start": 351.452,
+      "duration": 2.754
+    },
+    {
+      "text": " to help it. Always keep helping it.",
+      "start": 353.263,
+      "duration": 3.523
+    },
+    {
+      "text": " Come over here. What to do? Now look,",
+      "start": 355.886,
+      "duration": 3.211
+    },
+    {
+      "text": " there was no wire connected ahead of",
+      "start": 358.137,
+      "duration": 2.407
+    },
+    {
+      "text": " the general bogey. So fine, no wire was",
+      "start": 359.584,
+      "duration": 2.711
+    },
+    {
+      "text": " connected ahead of it. But we have to",
+      "start": 361.34,
+      "duration": 2.694
+    },
+    {
+      "text": " connect the wire to what? To the rear",
+      "start": 363.075,
+      "duration": 3.329
+    },
+    {
+      "text": " sleeper. To the rear sleeper. So let's",
+      "start": 365.51,
+      "duration": 3.824
+    },
+    {
+      "text": " connect it. To the rear sleeper. That's",
+      "start": 368.401,
+      "duration": 3.628
+    },
+    {
+      "text": " it. Now the mechanic will move further",
+      "start": 371.084,
+      "duration": 3.091
+    },
+    {
+      "text": " ahead. The mechanic will move further",
+      "start": 373.229,
+      "duration": 2.453
+    },
+    {
+      "text": " ahead. But as soon as the mechanic",
+      "start": 374.716,
+      "duration": 2.574
+    },
+    {
+      "text": " moves ahead, he has gone out of the",
+      "start": 376.332,
+      "duration": 2.467
+    },
+    {
+      "text": " train. Now no bogies are left. And the",
+      "start": 377.841,
+      "duration": 2.782
+    },
+    {
+      "text": " helper must have also moved ahead. The",
+      "start": 379.656,
+      "duration": 2.354
+    },
+    {
+      "text": " helper must have also moved ahead.",
+      "start": 381.051,
+      "duration": 2.39
+    },
+    {
+      "text": " Having moved ahead, the helper must",
+      "start": 382.541,
+      "duration": 2.425
+    },
+    {
+      "text": " have reached what? It must have reached",
+      "start": 384.007,
+      "duration": 2.391
+    },
+    {
+      "text": " the general bogey. Now the mechanic is",
+      "start": 385.426,
+      "duration": 2.783
+    },
+    {
+      "text": " done. No bogies left, so the mechanic",
+      "start": 387.271,
+      "duration": 2.798
+    },
+    {
+      "text": " won't do anything alone. Alright, so",
+      "start": 389.114,
+      "duration": 2.731
+    },
+    {
+      "text": " things are finished. But look closely",
+      "start": 390.896,
+      "duration": 3.29
+    },
+    {
+      "text": " at what happened here. Look at what",
+      "start": 393.26,
+      "duration": 3.454
+    },
+    {
+      "text": " happened to this train. The engine has",
+      "start": 395.775,
+      "duration": 3.507
+    },
+    {
+      "text": " turned and gone to the back. Which was",
+      "start": 398.351,
+      "duration": 3.403
+    },
+    {
+      "text": " null at the back, or whatever, empty",
+      "start": 400.796,
+      "duration": 2.501
+    },
+    {
+      "text": " space, whatever it was. AC used to",
+      "start": 402.339,
+      "duration": 3.073
+    },
+    {
+      "text": " point to sleeper, but who does AC point",
+      "start": 404.489,
+      "duration": 4.013
+    },
+    {
+      "text": " to now? It points to your engine.",
+      "start": 407.579,
+      "duration": 3.201
+    },
+    {
+      "text": " Sleeper used to point to general, but",
+      "start": 409.88,
+      "duration": 2.883
+    },
+    {
+      "text": " now sleeper has started pointing to AC.",
+      "start": 411.814,
+      "duration": 2.986
+    },
+    {
+      "text": " General was pointing to no one, meaning",
+      "start": 413.9,
+      "duration": 2.544
+    },
+    {
+      "text": " general was at null. General was the",
+      "start": 415.484,
+      "duration": 2.678
+    },
+    {
+      "text": " last bogey, but now general has started",
+      "start": 417.215,
+      "duration": 3.045
+    },
+    {
+      "text": " pointing to sleeper. Okay. Now if",
+      "start": 419.313,
+      "duration": 3.916
+    },
+    {
+      "text": " someone tells you to draw this linked",
+      "start": 422.281,
+      "duration": 2.939
+    },
+    {
+      "text": " list, you can draw it like this. How",
+      "start": 424.272,
+      "duration": 2.913
+    },
+    {
+      "text": " would you draw this linked list? First",
+      "start": 426.23,
+      "duration": 2.985
+    },
+    {
+      "text": " of all, first of all, your general,",
+      "start": 428.283,
+      "duration": 3.358
+    },
+    {
+      "text": " your general, who has your general",
+      "start": 430.709,
+      "duration": 3.291
+    },
+    {
+      "text": " started pointing to now? To the sleeper",
+      "start": 433.067,
+      "duration": 3.57
+    },
+    {
+      "text": ". The general has started pointing to",
+      "start": 435.637,
+      "duration": 2.497
+    },
+    {
+      "text": " the sleeper. Yes. Who has the sleeper",
+      "start": 437.172,
+      "duration": 3.226
+    },
+    {
+      "text": " started pointing to? To the AC. The",
+      "start": 439.435,
+      "duration": 2.796
+    },
+    {
+      "text": " sleeper has started pointing to the AC.",
+      "start": 441.267,
+      "duration": 2.409
+    },
+    {
+      "text": " Very good. Who has the AC started",
+      "start": 442.776,
+      "duration": 2.77
+    },
+    {
+      "text": " pointing to? To the engine. To the",
+      "start": 444.59,
+      "duration": 3.082
+    },
+    {
+      "text": " engine. To the engine. Who has the",
+      "start": 446.748,
+      "duration": 3.772
+    },
+    {
+      "text": " engine started pointing to? To no one.",
+      "start": 449.563,
+      "duration": 2.915
+    },
+    {
+      "text": " Behind, meaning to the empty space. To",
+      "start": 451.578,
+      "duration": 2.361
+    },
+    {
+      "text": " null. To null. So pointing to no one.",
+      "start": 452.996,
+      "duration": 2.923
+    },
+    {
+      "text": " Now look, the linked list has turned",
+      "start": 455.019,
+      "duration": 2.399
+    },
+    {
+      "text": " around. It’s completely reversed,",
+      "start": 456.456,
+      "duration": 2.105
+    },
+    {
+      "text": " right? How did it look before? Engine,",
+      "start": 457.589,
+      "duration": 3.185
+    },
+    {
+      "text": " AC, Sleeper, General. How does it look",
+      "start": 459.863,
+      "duration": 3.68
+    },
+    {
+      "text": " now? General, Sleeper, AC, Engine. Now,",
+      "start": 462.589,
+      "duration": 4.434
+    },
+    {
+      "text": " who was the head of this linked list",
+      "start": 466.085,
+      "duration": 3.204
+    },
+    {
+      "text": " before? The head was here. The engine",
+      "start": 468.35,
+      "duration": 3.429
+    },
+    {
+      "text": " was its head. Now who should be its",
+      "start": 470.836,
+      "duration": 3.112
+    },
+    {
+      "text": " head? The general should be its head",
+      "start": 473.009,
+      "duration": 2.803
+    },
+    {
+      "text": " because the linked list started from",
+      "start": 474.858,
+      "duration": 2.672
+    },
+    {
+      "text": " the general, right? Obviously, there",
+      "start": 476.576,
+      "duration": 2.728
+    },
+    {
+      "text": " were many starting from the head. You",
+      "start": 478.346,
+      "duration": 2.666
+    },
+    {
+      "text": " said to reverse the whole thing, so the",
+      "start": 480.057,
+      "duration": 2.741
+    },
+    {
+      "text": " last carriage that was at the end",
+      "start": 481.843,
+      "duration": 2.473
+    },
+    {
+      "text": " earlier will come to the front, and it",
+      "start": 483.36,
+      "duration": 2.696
+    },
+    {
+      "text": " will become the head. But how will you",
+      "start": 485.101,
+      "duration": 3.205
+    },
+    {
+      "text": " get this head? Look, your mechanic has",
+      "start": 487.36,
+      "duration": 3.477
+    },
+    {
+      "text": " already gone outside the carriage.",
+      "start": 489.904,
+      "duration": 3.275
+    },
+    {
+      "text": " Meaning your mechanic has become null",
+      "start": 492.279,
+      "duration": 2.637
+    },
+    {
+      "text": " in a way. But what is your helper",
+      "start": 493.96,
+      "duration": 2.889
+    },
+    {
+      "text": " standing on? Standing on the general.",
+      "start": 495.903,
+      "duration": 2.712
+    },
+    {
+      "text": " What is your helper standing on?",
+      "start": 497.715,
+      "duration": 2.356
+    },
+    {
+      "text": " Standing on the general. That is why,",
+      "start": 499.171,
+      "duration": 4.149
+    },
+    {
+      "text": " if we do this, return my helper, what",
+      "start": 502.416,
+      "duration": 4.518
+    },
+    {
+      "text": " do we get? It is the new head, or the",
+      "start": 506.029,
+      "duration": 5.015
+    },
+    {
+      "text": " new carriage, whatever came to the head",
+      "start": 510.088,
+      "duration": 2.719
+    },
+    {
+      "text": "; look, because the helper is standing",
+      "start": 511.807,
+      "duration": 2.674
+    },
+    {
+      "text": " exactly on the general. No matter how",
+      "start": 513.525,
+      "duration": 3.426
+    },
+    {
+      "text": " many times you do this, or how big the",
+      "start": 515.992,
+      "duration": 2.558
+    },
+    {
+      "text": " train is, it doesn't matter. But where",
+      "start": 517.591,
+      "duration": 2.74
+    },
+    {
+      "text": " will the helper always be standing? On",
+      "start": 519.374,
+      "duration": 2.756
+    },
+    {
+      "text": " the general, and the whole list will",
+      "start": 521.165,
+      "duration": 2.283
+    },
+    {
+      "text": " have been turned around. That is the",
+      "start": 522.484,
+      "duration": 2.51
+    },
+    {
+      "text": " only logic for reversing. That is the",
+      "start": 524.043,
+      "duration": 2.918
+    },
+    {
+      "text": " only logic for reversing. This was",
+      "start": 526.014,
+      "duration": 2.89
+    },
+    {
+      "text": " about the train. But these things are",
+      "start": 527.952,
+      "duration": 3.157
+    },
+    {
+      "text": " not called mechanic and helper. They",
+      "start": 530.17,
+      "duration": 3.102
+    },
+    {
+      "text": " are called something else. So let us",
+      "start": 532.301,
+      "duration": 2.258
+    },
+    {
+      "text": " tell you how it actually works in",
+      "start": 533.602,
+      "duration": 2.425
+    },
+    {
+      "text": " English; this was just an example I",
+      "start": 535.07,
+      "duration": 2.511
+    },
+    {
+      "text": " gave for explanation. Come, let's",
+      "start": 536.624,
+      "duration": 2.981
+    },
+    {
+      "text": " create a linked list. Created a small,",
+      "start": 538.677,
+      "duration": 4.099
+    },
+    {
+      "text": " sweet little linked list of our own.",
+      "start": 541.858,
+      "duration": 3.962
+    },
+    {
+      "text": " See, that's why I really like all the",
+      "start": 545.16,
+      "duration": 2.48
+    },
+    {
+      "text": " linked list questions because no",
+      "start": 546.68,
+      "duration": 2.28
+    },
+    {
+      "text": " question in it is hard. Meaning,",
+      "start": 548.0,
+      "duration": 2.649
+    },
+    {
+      "text": " everything is simple. You just have to",
+      "start": 549.714,
+      "duration": 2.998
+    },
+    {
+      "text": " change the addresses here and there.",
+      "start": 551.746,
+      "duration": 2.206
+    },
+    {
+      "text": " How complex can it really get with",
+      "start": 553.052,
+      "duration": 2.601
+    },
+    {
+      "text": " addresses? So, you should remember the",
+      "start": 554.7,
+      "duration": 4.202
+    },
+    {
+      "text": " 1 2 3 4 linked list. If you don't",
+      "start": 557.99,
+      "duration": 3.428
+    },
+    {
+      "text": " remember the linked list, go and revise",
+      "start": 560.446,
+      "duration": 2.098
+    },
+    {
+      "text": " the previous ones. I have already",
+      "start": 561.572,
+      "duration": 2.319
+    },
+    {
+      "text": " taught you once what a linked list is",
+      "start": 562.936,
+      "duration": 2.671
+    },
+    {
+      "text": " and how it works. Introduction. Okay?",
+      "start": 564.652,
+      "duration": 3.51
+    },
+    {
+      "text": " This means null. Alright, what did we",
+      "start": 567.262,
+      "duration": 3.982
+    },
+    {
+      "text": " need to take? You have to reverse this",
+      "start": 570.338,
+      "duration": 3.362
+    },
+    {
+      "text": " and return the new head. You will",
+      "start": 572.743,
+      "duration": 2.459
+    },
+    {
+      "text": " always get a new head. Because right",
+      "start": 574.242,
+      "duration": 2.512
+    },
+    {
+      "text": " now, the head is here. Right now, the",
+      "start": 575.795,
+      "duration": 2.9
+    },
+    {
+      "text": " head is here at one. But when you",
+      "start": 577.759,
+      "duration": 2.851
+    },
+    {
+      "text": " reverse it, this will become your head.",
+      "start": 579.649,
+      "duration": 2.512
+    },
+    {
+      "text": " That will happen, right? Obviously, if",
+      "start": 581.261,
+      "duration": 2.399
+    },
+    {
+      "text": " you reverse 1 2 3 4, will it become 4 3",
+      "start": 582.702,
+      "duration": 2.644
+    },
+    {
+      "text": " 2 1? So, four will become the head.",
+      "start": 584.388,
+      "duration": 2.058
+    },
+    {
+      "text": " Okay? What did you need to take?",
+      "start": 585.546,
+      "duration": 2.596
+    },
+    {
+      "text": " Mechanic and helper. You can call them",
+      "start": 587.242,
+      "duration": 3.502
+    },
+    {
+      "text": " anything. You can name them mechanic or",
+      "start": 589.802,
+      "duration": 2.863
+    },
+    {
+      "text": " helper. But what is their standard name",
+      "start": 591.708,
+      "duration": 2.751
+    },
+    {
+      "text": ", the standard name? You need to take a",
+      "start": 593.459,
+      "duration": 3.143
+    },
+    {
+      "text": " curr variable. What? Curr. Curr means",
+      "start": 595.667,
+      "duration": 4.366
+    },
+    {
+      "text": " current. Current variable. And you need",
+      "start": 599.092,
+      "duration": 3.184
+    },
+    {
+      "text": " to take another variable, which is",
+      "start": 601.324,
+      "duration": 2.642
+    },
+    {
+      "text": " previous. Previous. Okay? What do you",
+      "start": 603.014,
+      "duration": 3.248
+    },
+    {
+      "text": " need to put into current? The head.",
+      "start": 605.301,
+      "duration": 2.579
+    },
+    {
+      "text": " Because where will you start from?",
+      "start": 606.98,
+      "duration": 2.196
+    },
+    {
+      "text": " Which bogey did the mechanic start from",
+      "start": 608.276,
+      "duration": 2.38
+    },
+    {
+      "text": "? From the very first bogey. So, head.",
+      "start": 609.656,
+      "duration": 2.775
+    },
+    {
+      "text": " And where was your helper standing",
+      "start": 611.531,
+      "duration": 2.804
+    },
+    {
+      "text": " initially, previous? Where was your",
+      "start": 613.388,
+      "duration": 2.691
+    },
+    {
+      "text": " helper standing initially? Where was",
+      "start": 615.117,
+      "duration": 2.56
+    },
+    {
+      "text": " your helper standing initially? In an",
+      "start": 616.722,
+      "duration": 2.702
+    },
+    {
+      "text": " empty space. That's why the engine",
+      "start": 618.466,
+      "duration": 2.3
+    },
+    {
+      "text": " turned around and went to the empty",
+      "start": 619.799,
+      "duration": 2.16
+    },
+    {
+      "text": " space. So, initially, where will your",
+      "start": 620.992,
+      "duration": 3.058
+    },
+    {
+      "text": " previous be? At null. Okay? That much",
+      "start": 623.107,
+      "duration": 3.6
+    },
+    {
+      "text": " is clear. Now, let's proceed the same",
+      "start": 625.751,
+      "duration": 3.335
+    },
+    {
+      "text": " way you moved the mechanic. So, first",
+      "start": 628.155,
+      "duration": 3.7
+    },
+    {
+      "text": " of all, curr equals head. Okay? Now",
+      "start": 630.939,
+      "duration": 4.47
+    },
+    {
+      "text": " look, there are two things. Curr means",
+      "start": 634.466,
+      "duration": 3.237
+    },
+    {
+      "text": " your mechanic. Previous means your",
+      "start": 636.757,
+      "duration": 2.952
+    },
+    {
+      "text": " helper. So, what did you do in this?",
+      "start": 638.765,
+      "duration": 2.875
+    },
+    {
+      "text": " What were you doing in this? What did",
+      "start": 640.779,
+      "duration": 2.998
+    },
+    {
+      "text": " this mechanic do? First of all, on",
+      "start": 642.829,
+      "duration": 4.048
+    },
+    {
+      "text": " whichever bogey the mechanic stood, he",
+      "start": 645.927,
+      "duration": 2.897
+    },
+    {
+      "text": " would erase its wire and point it to",
+      "start": 647.874,
+      "duration": 2.797
+    },
+    {
+      "text": " the previous one, to the helper. So",
+      "start": 649.721,
+      "duration": 3.121
+    },
+    {
+      "text": " that is one thing. After that, after",
+      "start": 651.901,
+      "duration": 3.247
+    },
+    {
+      "text": " that, the mechanic had to move forward.",
+      "start": 654.211,
+      "duration": 3.488
+    },
+    {
+      "text": " The mechanic had to move forward. Now,",
+      "start": 656.799,
+      "duration": 2.513
+    },
+    {
+      "text": " how to move forward? One moves forward",
+      "start": 658.358,
+      "duration": 3.42
+    },
+    {
+      "text": " using next. But what are you doing? You",
+      "start": 660.86,
+      "duration": 3.218
+    },
+    {
+      "text": " are breaking this next and doing what?",
+      "start": 663.13,
+      "duration": 2.983
+    },
+    {
+      "text": " You are pointing it backwards. So, how",
+      "start": 665.213,
+      "duration": 2.228
+    },
+    {
+      "text": " will you move forward? How will you",
+      "start": 666.479,
+      "duration": 2.481
+    },
+    {
+      "text": " move forward? How will you jump onto",
+      "start": 668.006,
+      "duration": 2.783
+    },
+    {
+      "text": " the bogey? For this, for this, whatever",
+      "start": 669.839,
+      "duration": 4.151
+    },
+    {
+      "text": " the next bogey is, before touching this",
+      "start": 673.06,
+      "duration": 3.716
+    },
+    {
+      "text": " wire, before touching this next wire,",
+      "start": 675.846,
+      "duration": 3.577
+    },
+    {
+      "text": " store it. Because earlier AC was going",
+      "start": 678.493,
+      "duration": 3.882
+    },
+    {
+      "text": " to sleeper, so you know that we are",
+      "start": 681.425,
+      "duration": 2.746
+    },
+    {
+      "text": " currently at AC. We need to jump",
+      "start": 683.22,
+      "duration": 2.57
+    },
+    {
+      "text": " forward and go to the sleeper so that",
+      "start": 684.827,
+      "duration": 2.357
+    },
+    {
+      "text": " we can reverse the sleeper too. But you",
+      "start": 686.221,
+      "duration": 2.745
+    },
+    {
+      "text": " are planning to break the AC wire. You",
+      "start": 688.027,
+      "duration": 3.296
+    },
+    {
+      "text": " are planning to connect this AC to the",
+      "start": 690.364,
+      "duration": 2.587
+    },
+    {
+      "text": " engine. Then how will you jump? This",
+      "start": 691.992,
+      "duration": 2.703
+    },
+    {
+      "text": " place will become empty. This place",
+      "start": 693.734,
+      "duration": 2.387
+    },
+    {
+      "text": " will become empty. That's why store the",
+      "start": 695.156,
+      "duration": 2.927
+    },
+    {
+      "text": " next bogey so that we know we have to",
+      "start": 697.142,
+      "duration": 3.206
+    },
+    {
+      "text": " go there. Just store it, it's simple.",
+      "start": 699.408,
+      "duration": 4.471
+    },
+    {
+      "text": " Take a variable, let's say, star next,",
+      "start": 704.379,
+      "duration": 4.081
+    },
+    {
+      "text": " not next, you can give it any name you",
+      "start": 707.541,
+      "duration": 4.082
+    },
+    {
+      "text": " want, which is current dot next. Okay?",
+      "start": 710.704,
+      "duration": 5.14
+    },
+    {
+      "text": " Meaning, the node that is next to",
+      "start": 714.944,
+      "duration": 2.427
+    },
+    {
+      "text": " current, we have stored it in one place",
+      "start": 716.414,
+      "duration": 2.687
+    },
+    {
+      "text": ". Okay? Now do your work. What to do?",
+      "start": 718.101,
+      "duration": 3.283
+    },
+    {
+      "text": " First of all, reverse the wire of this",
+      "start": 720.484,
+      "duration": 2.754
+    },
+    {
+      "text": " bogey and point it backwards. How to do",
+      "start": 722.284,
+      "duration": 3.205
+    },
+    {
+      "text": " it? curr dot next equals prev. Meaning",
+      "start": 724.574,
+      "duration": 4.775
+    },
+    {
+      "text": " wherever the helper is standing, turn",
+      "start": 728.402,
+      "duration": 2.973
+    },
+    {
+      "text": " the prev all the way back. So what",
+      "start": 730.428,
+      "duration": 2.667
+    },
+    {
+      "text": " happened because of this? What happened",
+      "start": 732.121,
+      "duration": 2.031
+    },
+    {
+      "text": " because of this? One thing happened.",
+      "start": 733.174,
+      "duration": 2.335
+    },
+    {
+      "text": " See, your curr is currently here at 100",
+      "start": 734.609,
+      "duration": 3.723
+    },
+    {
+      "text": ". What did you do? You turned curr.next",
+      "start": 737.332,
+      "duration": 3.667
+    },
+    {
+      "text": " to point backwards. Where is backwards?",
+      "start": 740.064,
+      "duration": 3.785
+    },
+    {
+      "text": " At null. This became null. Now, advance",
+      "start": 742.949,
+      "duration": 4.569
+    },
+    {
+      "text": " both of them. So first of all, advance",
+      "start": 746.609,
+      "duration": 3.536
+    },
+    {
+      "text": " the helper. So prev = curr. Because",
+      "start": 749.196,
+      "duration": 4.912
+    },
+    {
+      "text": " where does the helper need to come?",
+      "start": 753.154,
+      "duration": 2.594
+    },
+    {
+      "text": " Come to the bogie where the mechanic is",
+      "start": 754.848,
+      "duration": 2.452
+    },
+    {
+      "text": " currently standing and move the",
+      "start": 756.337,
+      "duration": 2.155
+    },
+    {
+      "text": " mechanic forward. So the same work will",
+      "start": 757.529,
+      "duration": 2.376
+    },
+    {
+      "text": " be done. And curr = next, why curr =",
+      "start": 758.936,
+      "duration": 4.694
+    },
+    {
+      "text": " next? Because it will go to the next",
+      "start": 762.729,
+      "duration": 3.233
+    },
+    {
+      "text": " one. It will go to the next one. So",
+      "start": 764.996,
+      "duration": 2.381
+    },
+    {
+      "text": " look, 200 must have come onto your curr",
+      "start": 766.461,
+      "duration": 4.3
+    },
+    {
+      "text": " now. This is exactly what the program",
+      "start": 769.846,
+      "duration": 2.533
+    },
+    {
+      "text": " is. If you guys are wondering, this is",
+      "start": 771.413,
+      "duration": 3.532
+    },
+    {
+      "text": " the program, these four lines 1, 2, 3,",
+      "start": 774.014,
+      "duration": 3.604
+    },
+    {
+      "text": " 4, okay. Come on, run it once. Right?",
+      "start": 776.686,
+      "duration": 4.187
+    },
+    {
+      "text": " Now, what must have come onto your prev",
+      "start": 780.619,
+      "duration": 2.989
+    },
+    {
+      "text": "? Uh, 100, okay. Alright, come, do the",
+      "start": 782.608,
+      "duration": 3.826
+    },
+    {
+      "text": " same thing. Let's see at curr = 200.",
+      "start": 785.475,
+      "duration": 3.604
+    },
+    {
+      "text": " For curr = 200, first of all, get the",
+      "start": 788.226,
+      "duration": 3.065
+    },
+    {
+      "text": " next. What is the next of 200? 300,",
+      "start": 790.346,
+      "duration": 2.916
+    },
+    {
+      "text": " very good. After that, erase its wire.",
+      "start": 792.331,
+      "duration": 3.928
+    },
+    {
+      "text": " Turn its wire backwards, meaning",
+      "start": 795.419,
+      "duration": 2.541
+    },
+    {
+      "text": " completely. Where will this go? What to",
+      "start": 797.009,
+      "duration": 3.571
+    },
+    {
+      "text": " point the next of 200 to? To 100.",
+      "start": 799.636,
+      "duration": 3.091
+    },
+    {
+      "text": " Meaning it will become something like",
+      "start": 801.827,
+      "duration": 2.346
+    },
+    {
+      "text": " this. Done. Very good. After that, move",
+      "start": 803.21,
+      "duration": 3.702
+    },
+    {
+      "text": " the curr forward. Move the previous",
+      "start": 805.974,
+      "duration": 2.848
+    },
+    {
+      "text": " forward. Move the curr forward. So what",
+      "start": 807.863,
+      "duration": 2.761
+    },
+    {
+      "text": " will come into previous? The value of",
+      "start": 809.661,
+      "duration": 2.79
+    },
+    {
+      "text": " curr. 200. What will come into curr?",
+      "start": 811.516,
+      "duration": 3.262
+    },
+    {
+      "text": " The value of next. We will jump to",
+      "start": 813.878,
+      "duration": 2.881
+    },
+    {
+      "text": " whichever node is ahead. Very good. Now",
+      "start": 815.823,
+      "duration": 3.96
+    },
+    {
+      "text": " come here again and run it again. Curr",
+      "start": 818.841,
+      "duration": 3.483
+    },
+    {
+      "text": " = 300. First of all, take out the next",
+      "start": 821.447,
+      "duration": 2.969
+    },
+    {
+      "text": " and keep it because you have to go",
+      "start": 823.452,
+      "duration": 2.238
+    },
+    {
+      "text": " there, 400. Very good. Kept it. Now",
+      "start": 824.727,
+      "duration": 2.922
+    },
+    {
+      "text": " what to do? Turn the next of curr to",
+      "start": 826.707,
+      "duration": 2.948
+    },
+    {
+      "text": " previous. So turn it. Erasing this wire",
+      "start": 828.706,
+      "duration": 3.103
+    },
+    {
+      "text": ", where? Turned it to 200. Done. Just",
+      "start": 830.809,
+      "duration": 3.603
+    },
+    {
+      "text": " move the previous forward. Meaning",
+      "start": 833.466,
+      "duration": 2.841
+    },
+    {
+      "text": " previous equals curr. Make previous 300",
+      "start": 835.359,
+      "duration": 3.807
+    },
+    {
+      "text": ". Move the curr to next. Move the curr",
+      "start": 838.166,
+      "duration": 3.421
+    },
+    {
+      "text": " to next. Four. Okay? Reached 400. Curr",
+      "start": 840.648,
+      "duration": 5.7
+    },
+    {
+      "text": " = 400, next = null. Important, look:",
+      "start": 845.518,
+      "duration": 5.249
+    },
+    {
+      "text": " next = curr.next, it is currently null,",
+      "start": 849.825,
+      "duration": 3.242
+    },
+    {
+      "text": " okay? After that, where to turn the",
+      "start": 852.124,
+      "duration": 2.767
+    },
+    {
+      "text": " curr next? To the previous. So although",
+      "start": 853.939,
+      "duration": 2.862
+    },
+    {
+      "text": " there is no wire ahead of this, we will",
+      "start": 855.841,
+      "duration": 2.58
+    },
+    {
+      "text": " connect the wire where? To the previous",
+      "start": 857.461,
+      "duration": 2.77
+    },
+    {
+      "text": " one. So what will happen? This will",
+      "start": 859.28,
+      "duration": 3.662
+    },
+    {
+      "text": " come here. Oh sorry, let's change these",
+      "start": 862.024,
+      "duration": 4.397
+    },
+    {
+      "text": ", their next as well. This was at 100,",
+      "start": 865.421,
+      "duration": 3.943
+    },
+    {
+      "text": " this was at 200. Now this wire has come",
+      "start": 868.429,
+      "duration": 3.378
+    },
+    {
+      "text": " here so this is 300, we didn't change",
+      "start": 870.863,
+      "duration": 3.103
+    },
+    {
+      "text": " it, we just drew arrows. We couldn't",
+      "start": 873.023,
+      "duration": 2.878
+    },
+    {
+      "text": " change it. Okay, the work is done.",
+      "start": 874.938,
+      "duration": 2.684
+    },
+    {
+      "text": " Alright, what to do after that? Move",
+      "start": 876.722,
+      "duration": 2.901
+    },
+    {
+      "text": " the helper forward. Meaning move",
+      "start": 878.66,
+      "duration": 2.28
+    },
+    {
+      "text": " previous forward. So what will we write",
+      "start": 879.979,
+      "duration": 2.88
+    },
+    {
+      "text": " in previous? 400. And move curr forward",
+      "start": 881.912,
+      "duration": 3.72
+    },
+    {
+      "text": ". But next is null, so it doesn't",
+      "start": 884.632,
+      "duration": 2.203
+    },
+    {
+      "text": " matter. We had written curr equals to",
+      "start": 885.869,
+      "duration": 2.603
+    },
+    {
+      "text": " next, right? So curr became null. As",
+      "start": 887.516,
+      "duration": 4.162
+    },
+    {
+      "text": " soon as curr became null. It means your",
+      "start": 890.726,
+      "duration": 2.892
+    },
+    {
+      "text": " curr has arrived here. Who was curr?",
+      "start": 892.663,
+      "duration": 2.997
+    },
+    {
+      "text": " The mechanic. When the mechanic is at",
+      "start": 894.76,
+      "duration": 2.626
+    },
+    {
+      "text": " an empty space, it means the train is",
+      "start": 896.421,
+      "duration": 2.328
+    },
+    {
+      "text": " finished, right? Now the train is",
+      "start": 897.785,
+      "duration": 2.193
+    },
+    {
+      "text": " finished ahead, brother, there are no",
+      "start": 899.01,
+      "duration": 2.201
+    },
+    {
+      "text": " more bogies. So what wires will you",
+      "start": 900.243,
+      "duration": 2.255
+    },
+    {
+      "text": " connect or remove? That's it. So as",
+      "start": 901.532,
+      "duration": 2.502
+    },
+    {
+      "text": " soon as your curr is null, it means",
+      "start": 903.082,
+      "duration": 2.702
+    },
+    {
+      "text": " your program is completely finished. As",
+      "start": 904.832,
+      "duration": 2.935
+    },
+    {
+      "text": " soon as it is null, what has your",
+      "start": 906.81,
+      "duration": 2.399
+    },
+    {
+      "text": " program become? Completely finished.",
+      "start": 908.251,
+      "duration": 3.291
+    },
+    {
+      "text": " Now you have to return the head of the",
+      "start": 910.642,
+      "duration": 3.311
+    },
+    {
+      "text": " new list. But how will you return the",
+      "start": 913.014,
+      "duration": 2.951
+    },
+    {
+      "text": " head? Where is its head? This is its",
+      "start": 915.012,
+      "duration": 3.55
+    },
+    {
+      "text": " head. Because earlier it was 1 2 3 4,",
+      "start": 917.611,
+      "duration": 3.426
+    },
+    {
+      "text": " we reversed it. 4 3 2 1, the last node",
+      "start": 920.101,
+      "duration": 3.665
+    },
+    {
+      "text": " became the head. Which person is",
+      "start": 922.833,
+      "duration": 3.052
+    },
+    {
+      "text": " standing on the last node? Previous is",
+      "start": 924.928,
+      "duration": 2.741
+    },
+    {
+      "text": " standing there. Previous is standing",
+      "start": 926.714,
+      "duration": 2.461
+    },
+    {
+      "text": " there. So what will you do? Return,",
+      "start": 928.208,
+      "duration": 4.172
+    },
+    {
+      "text": " return previous. Not curr, curr has",
+      "start": 931.512,
+      "duration": 4.911
+    },
+    {
+      "text": " become null. Curr became null, then you",
+      "start": 935.464,
+      "duration": 2.723
+    },
+    {
+      "text": " realized the train is over. Previous",
+      "start": 937.23,
+      "duration": 2.627
+    },
+    {
+      "text": " helper, where was the helper standing?",
+      "start": 938.903,
+      "duration": 2.745
+    },
+    {
+      "text": " On the last bogie, so you returned that",
+      "start": 940.779,
+      "duration": 3.067
+    },
+    {
+      "text": ". So this is its code. Let's see its",
+      "start": 942.846,
+      "duration": 4.557
+    },
+    {
+      "text": " code formally once. You will have a '",
+      "start": 946.482,
+      "duration": 4.652
+    },
+    {
+      "text": "node star', the function name will be",
+      "start": 950.134,
+      "duration": 4.43
+    },
+    {
+      "text": " reverse. You will be given a head. Okay",
+      "start": 953.657,
+      "duration": 5.583
+    },
+    {
+      "text": ", you need two or three things. First",
+      "start": 958.24,
+      "duration": 3.256
+    },
+    {
+      "text": " of all, you only need two things. First",
+      "start": 960.538,
+      "duration": 2.789
+    },
+    {
+      "text": ", you need a curr that is at the head.",
+      "start": 962.327,
+      "duration": 3.298
+    },
+    {
+      "text": " Very good. After that, you need a",
+      "start": 964.779,
+      "duration": 3.775
+    },
+    {
+      "text": " previous which is our helper. You can",
+      "start": 967.613,
+      "duration": 3.06
+    },
+    {
+      "text": " name it according to your preference,",
+      "start": 969.708,
+      "duration": 2.282
+    },
+    {
+      "text": " whatever you understand. It is at the",
+      "start": 971.025,
+      "duration": 2.272
+    },
+    {
+      "text": " beginning, so it will be null because",
+      "start": 972.325,
+      "duration": 2.05
+    },
+    {
+      "text": " there is nothing there at the start.",
+      "start": 973.403,
+      "duration": 2.022
+    },
+    {
+      "text": " There is nothing in previous. Okay?",
+      "start": 974.525,
+      "duration": 2.448
+    },
+    {
+      "text": " Until when do we have to run it? Until",
+      "start": 976.122,
+      "duration": 2.783
+    },
+    {
+      "text": " curr becomes null. While curr not equal",
+      "start": 977.979,
+      "duration": 3.831
+    },
+    {
+      "text": " to null. Very good. First of all, you",
+      "start": 980.878,
+      "duration": 3.803
+    },
+    {
+      "text": " need to extract and save the next of",
+      "start": 983.722,
+      "duration": 2.486
+    },
+    {
+      "text": " current. Go ahead and save the next of",
+      "start": 985.249,
+      "duration": 2.699
+    },
+    {
+      "text": " current. Because you are going to",
+      "start": 986.991,
+      "duration": 2.251
+    },
+    {
+      "text": " change the current next, how will you",
+      "start": 988.276,
+      "duration": 2.241
+    },
+    {
+      "text": " move to the next carriage? When you",
+      "start": 989.551,
+      "duration": 2.36
+    },
+    {
+      "text": " make the change. After that, turn the",
+      "start": 990.959,
+      "duration": 3.306
+    },
+    {
+      "text": " wire. Turn the wire. Grab the wire and",
+      "start": 993.337,
+      "duration": 2.867
+    },
+    {
+      "text": " turn it backwards. Where? How will you",
+      "start": 995.237,
+      "duration": 2.695
+    },
+    {
+      "text": " turn it back? To the previous. Now move",
+      "start": 996.976,
+      "duration": 3.013
+    },
+    {
+      "text": " both previous and current forward. So",
+      "start": 999.037,
+      "duration": 2.845
+    },
+    {
+      "text": " first, move the previous forward. Bring",
+      "start": 1000.937,
+      "duration": 3.351
+    },
+    {
+      "text": " it to current, and bring current to",
+      "start": 1003.374,
+      "duration": 4.009
+    },
+    {
+      "text": " next. Your while loop is finished. What",
+      "start": 1006.469,
+      "duration": 3.484
+    },
+    {
+      "text": " will you return at the end? Previous.",
+      "start": 1009.0,
+      "duration": 3.057
+    },
+    {
+      "text": " Not current, previous. Because previous",
+      "start": 1011.157,
+      "duration": 3.268
+    },
+    {
+      "text": " will be standing on your last node.",
+      "start": 1013.47,
+      "duration": 2.589
+    },
+    {
+      "text": " This program is just this small. Of",
+      "start": 1015.619,
+      "duration": 2.824
+    },
+    {
+      "text": " what? Reverse? Its time complexity is",
+      "start": 1017.497,
+      "duration": 3.584
+    },
+    {
+      "text": " order of n. Its space complexity is",
+      "start": 1020.149,
+      "duration": 3.754
+    },
+    {
+      "text": " order of one. You have already done the",
+      "start": 1022.986,
+      "duration": 3.235
+    },
+    {
+      "text": " first question of the pattern sheet.",
+      "start": 1025.262,
+      "duration": 2.487
+    },
+    {
+      "text": " Linked list reversal, which is what? If",
+      "start": 1026.849,
+      "duration": 3.812
+    },
+    {
+      "text": " we look at its description, 206 asks",
+      "start": 1029.733,
+      "duration": 3.583
+    },
+    {
+      "text": " you to do exactly this: Reverse Linked",
+      "start": 1032.388,
+      "duration": 3.727
+    },
+    {
+      "text": " List. So this you have already done.",
+      "start": 1035.187,
+      "duration": 2.687
+    },
+    {
+      "text": " Okay? The next question is going to be",
+      "start": 1036.974,
+      "duration": 2.619
+    },
+    {
+      "text": " a bit harder. So listen with an open",
+      "start": 1038.623,
+      "duration": 2.344
+    },
+    {
+      "text": " mind. Right? So listen to this question",
+      "start": 1040.006,
+      "duration": 3.014
+    },
+    {
+      "text": " very carefully because it might seem",
+      "start": 1042.066,
+      "duration": 2.649
+    },
+    {
+      "text": " like a very different type of question.",
+      "start": 1043.761,
+      "duration": 2.788
+    },
+    {
+      "text": " It will feel like it. Look, you are",
+      "start": 1045.649,
+      "duration": 2.258
+    },
+    {
+      "text": " given a list like this. I haven't made",
+      "start": 1046.957,
+      "duration": 2.829
+    },
+    {
+      "text": " the whole list, but for explanation,",
+      "start": 1048.827,
+      "duration": 2.477
+    },
+    {
+      "text": " first understand what exactly you have",
+      "start": 1050.345,
+      "duration": 2.56
+    },
+    {
+      "text": " to do and how to do it. Okay? This is",
+      "start": 1051.946,
+      "duration": 2.981
+    },
+    {
+      "text": " the linked list given to you. Okay, 1 2",
+      "start": 1053.963,
+      "duration": 2.783
+    },
+    {
+      "text": " 3 4 5, it has five nodes. But you have",
+      "start": 1055.814,
+      "duration": 3.66
+    },
+    {
+      "text": " to reverse it. But you don't have to",
+      "start": 1058.539,
+      "duration": 2.621
+    },
+    {
+      "text": " reverse the whole thing. If you were",
+      "start": 1060.189,
+      "duration": 2.235
+    },
+    {
+      "text": " reversing the whole thing, it would",
+      "start": 1061.463,
+      "duration": 2.38
+    },
+    {
+      "text": " have been very easy to just take",
+      "start": 1062.882,
+      "duration": 2.262
+    },
+    {
+      "text": " current here and prev there. Like we",
+      "start": 1064.183,
+      "duration": 2.5
+    },
+    {
+      "text": " did last time, it would have turned",
+      "start": 1065.725,
+      "duration": 2.481
+    },
+    {
+      "text": " around like this and returned five.",
+      "start": 1067.248,
+      "duration": 2.481
+    },
+    {
+      "text": " Very good. But there is a small catch",
+      "start": 1068.829,
+      "duration": 2.726
+    },
+    {
+      "text": " in this. What is the catch in this? You",
+      "start": 1070.598,
+      "duration": 2.689
+    },
+    {
+      "text": " are given two numbers. What? Left = 2,",
+      "start": 1072.339,
+      "duration": 4.855
+    },
+    {
+      "text": " right = 4. Okay, what are these numbers",
+      "start": 1076.349,
+      "duration": 4.206
+    },
+    {
+      "text": "? These numbers do not represent 1 2 3",
+      "start": 1079.555,
+      "duration": 3.33
+    },
+    {
+      "text": " 4 5. What are these numbers? Both these",
+      "start": 1081.945,
+      "duration": 2.851
+    },
+    {
+      "text": " numbers are positions. What? Positions.",
+      "start": 1083.844,
+      "duration": 3.418
+    },
+    {
+      "text": " Yes. Confusion. They don't represent 1",
+      "start": 1086.362,
+      "duration": 3.922
+    },
+    {
+      "text": " 2 3 4 5. What are these two numbers?",
+      "start": 1089.341,
+      "duration": 2.443
+    },
+    {
+      "text": " Positions. Positions. To explain it to",
+      "start": 1090.884,
+      "duration": 3.818
+    },
+    {
+      "text": " you better, I'll just erase this,",
+      "start": 1093.762,
+      "duration": 2.998
+    },
+    {
+      "text": " because I saw that many people had",
+      "start": 1095.82,
+      "duration": 3.058
+    },
+    {
+      "text": " problems with this LeetCode description",
+      "start": 1097.939,
+      "duration": 3.36
+    },
+    {
+      "text": ". Assume your list is like this: 10, 20",
+      "start": 1100.299,
+      "duration": 4.687
+    },
+    {
+      "text": ", 30, 40, and 50. Okay, now there won't",
+      "start": 1103.986,
+      "duration": 4.718
+    },
+    {
+      "text": " be any confusion. Your left is two and",
+      "start": 1107.799,
+      "duration": 3.717
+    },
+    {
+      "text": " four and the position, the position is",
+      "start": 1110.559,
+      "duration": 2.627
+    },
+    {
+      "text": " stated to start from one. It starts",
+      "start": 1112.229,
+      "duration": 3.214
+    },
+    {
+      "text": " from one, meaning if you look at it",
+      "start": 1114.511,
+      "duration": 3.352
+    },
+    {
+      "text": " from one, it's 1, 2, 3, 4, 5. This is",
+      "start": 1116.93,
+      "duration": 5.353
+    },
+    {
+      "text": " your left, this is your right. You have",
+      "start": 1121.351,
+      "duration": 3.411
+    },
+    {
+      "text": " been given both these numbers. The node",
+      "start": 1123.795,
+      "duration": 2.361
+    },
+    {
+      "text": " is not given. Just the integer number",
+      "start": 1125.19,
+      "duration": 2.474
+    },
+    {
+      "text": " is given. So you figured out the left",
+      "start": 1126.705,
+      "duration": 2.756
+    },
+    {
+      "text": " and right, that 20 and 40. What do you",
+      "start": 1128.509,
+      "duration": 2.897
+    },
+    {
+      "text": " need to do? You need to reverse this",
+      "start": 1130.457,
+      "duration": 3.838
+    },
+    {
+      "text": " part from here to here, from left to",
+      "start": 1133.361,
+      "duration": 3.393
+    },
+    {
+      "text": " right. Just reverse the part from left",
+      "start": 1135.821,
+      "duration": 3.198
+    },
+    {
+      "text": " to right, not the entire linked list,",
+      "start": 1138.059,
+      "duration": 2.48
+    },
+    {
+      "text": " just the middle part. And the rest of",
+      "start": 1139.579,
+      "duration": 3.097
+    },
+    {
+      "text": " the linked list will remain as it is.",
+      "start": 1141.752,
+      "duration": 3.81
+    },
+    {
+      "text": " So look at what its answer will be.",
+      "start": 1144.662,
+      "duration": 2.747
+    },
+    {
+      "text": " First of all, this middle part will get",
+      "start": 1146.509,
+      "duration": 2.948
+    },
+    {
+      "text": " reversed. When it gets reversed, how",
+      "start": 1148.507,
+      "duration": 2.704
+    },
+    {
+      "text": " will it look? Look. 40 30 20, it will",
+      "start": 1150.255,
+      "duration": 7.953
+    },
+    {
+      "text": " look like this after reversing, but",
+      "start": 1157.261,
+      "duration": 2.839
+    },
+    {
+      "text": " don't touch the rest of the linked list",
+      "start": 1159.152,
+      "duration": 3.049
+    },
+    {
+      "text": ". The 10 that was there, it will stay",
+      "start": 1161.201,
+      "duration": 2.723
+    },
+    {
+      "text": " 10 right there. The 50 was there, it",
+      "start": 1162.969,
+      "duration": 2.623
+    },
+    {
+      "text": " will stay 50 right there. And the arrow",
+      "start": 1164.634,
+      "duration": 3.224
+    },
+    {
+      "text": " should also be like this. This is yours",
+      "start": 1166.94,
+      "duration": 4.206
+    },
+    {
+      "text": ". You have to return this. Meaning,",
+      "start": 1170.146,
+      "duration": 3.022
+    },
+    {
+      "text": " reverse the middle part. The rest of",
+      "start": 1172.235,
+      "duration": 3.888
+    },
+    {
+      "text": " the linked list, the left and right",
+      "start": 1175.163,
+      "duration": 2.414
+    },
+    {
+      "text": " parts that haven't been reversed, will",
+      "start": 1176.617,
+      "duration": 2.535
+    },
+    {
+      "text": " remain the same. They will keep",
+      "start": 1178.192,
+      "duration": 3.145
+    },
+    {
+      "text": " pointing exactly where they were",
+      "start": 1180.378,
+      "duration": 2.322
+    },
+    {
+      "text": " pointing. Your answer should be this.",
+      "start": 1181.741,
+      "duration": 2.692
+    },
+    {
+      "text": " What do you need to return? Head. You",
+      "start": 1183.533,
+      "duration": 2.944
+    },
+    {
+      "text": " need to return the head. What to return",
+      "start": 1185.572,
+      "duration": 4.146
+    },
+    {
+      "text": "? Head. So this is your question. And",
+      "start": 1188.718,
+      "duration": 3.084
+    },
+    {
+      "text": " if you are a beginner, it is a fairly",
+      "start": 1190.854,
+      "duration": 2.93
+    },
+    {
+      "text": " complex question. Meaning, it is not",
+      "start": 1192.836,
+      "duration": 2.549
+    },
+    {
+      "text": " that easy of a question. That is why",
+      "start": 1194.416,
+      "duration": 2.305
+    },
+    {
+      "text": " you can see it is a medium-level",
+      "start": 1195.763,
+      "duration": 2.326
+    },
+    {
+      "text": " question. Let's think a little about",
+      "start": 1197.131,
+      "duration": 2.942
+    },
+    {
+      "text": " what to do in this. I mean, what is",
+      "start": 1199.125,
+      "duration": 2.867
+    },
+    {
+      "text": " this about reversing from left to right",
+      "start": 1201.039,
+      "duration": 2.822
+    },
+    {
+      "text": " and doing something like this? We",
+      "start": 1202.907,
+      "duration": 2.551
+    },
+    {
+      "text": " hadn't learned anything like that. We",
+      "start": 1204.482,
+      "duration": 2.036
+    },
+    {
+      "text": " had learned. How the entire linked list",
+      "start": 1205.568,
+      "duration": 2.83
+    },
+    {
+      "text": " gets reversed. Let's think about it a",
+      "start": 1207.441,
+      "duration": 4.263
+    },
+    {
+      "text": " little. Let's think about this a little",
+      "start": 1210.793,
+      "duration": 3.492
+    },
+    {
+      "text": ". So look, reversing from left to right",
+      "start": 1213.285,
+      "duration": 3.288
+    },
+    {
+      "text": " is not a big deal. Reversing from left",
+      "start": 1215.631,
+      "duration": 3.011
+    },
+    {
+      "text": " to right is not a big deal. Why is it",
+      "start": 1217.688,
+      "duration": 2.658
+    },
+    {
+      "text": " not a big deal? Look, when you had to",
+      "start": 1219.383,
+      "duration": 3.041
+    },
+    {
+      "text": " reverse the whole thing, when you had",
+      "start": 1221.489,
+      "duration": 3.405
+    },
+    {
+      "text": " to reverse it entirely, you used to set",
+      "start": 1223.959,
+      "duration": 3.535
+    },
+    {
+      "text": " current to the head. Right, and this",
+      "start": 1226.559,
+      "duration": 3.748
+    },
+    {
+      "text": " while loop! Now until, look, until you",
+      "start": 1229.38,
+      "duration": 2.892
+    },
+    {
+      "text": " run your while loop, until then you",
+      "start": 1231.31,
+      "duration": 2.327
+    },
+    {
+      "text": " reverse...what does reverse mean?",
+      "start": 1232.675,
+      "duration": 2.252
+    },
+    {
+      "text": " Picking up that wire and connecting it",
+      "start": 1234.027,
+      "duration": 2.245
+    },
+    {
+      "text": " to the back, the back one to the front,",
+      "start": 1235.305,
+      "duration": 2.278
+    },
+    {
+      "text": " the front one to the front, this is",
+      "start": 1236.616,
+      "duration": 2.148
+    },
+    {
+      "text": " what reversing is. So, as many times as",
+      "start": 1237.796,
+      "duration": 2.49
+    },
+    {
+      "text": " you ran that while loop, it reversed",
+      "start": 1239.326,
+      "duration": 2.44
+    },
+    {
+      "text": " that many times. So, what did we use to",
+      "start": 1240.806,
+      "duration": 2.429
+    },
+    {
+      "text": " write in the while loop? 'While curr",
+      "start": 1242.265,
+      "duration": 3.353
+    },
+    {
+      "text": " not equal to null'. Okay, that's what",
+      "start": 1244.747,
+      "duration": 5.343
+    },
+    {
+      "text": " it was. Alright, suppose, suppose you",
+      "start": 1249.163,
+      "duration": 3.618
+    },
+    {
+      "text": " have a linked list like this, suppose",
+      "start": 1251.85,
+      "duration": 3.554
+    },
+    {
+      "text": " you have a linked list like this,",
+      "start": 1254.473,
+      "duration": 3.278
+    },
+    {
+      "text": " suppose we. We are trying to tell you",
+      "start": 1256.82,
+      "duration": 2.92
+    },
+    {
+      "text": " that the problem in your mind is not",
+      "start": 1258.781,
+      "duration": 2.5
+    },
+    {
+      "text": " the real problem of this question. You",
+      "start": 1260.322,
+      "duration": 2.777
+    },
+    {
+      "text": " might be thinking how can someone",
+      "start": 1262.139,
+      "duration": 2.32
+    },
+    {
+      "text": " reverse from left to right. Look here,",
+      "start": 1263.499,
+      "duration": 3.833
+    },
+    {
+      "text": " 100, 200, 300, 400, suppose here is one",
+      "start": 1266.484,
+      "duration": 6.903
+    },
+    {
+      "text": ". And this points to this. This to this",
+      "start": 1272.387,
+      "duration": 5.42
+    },
+    {
+      "text": ", this to this, and this doesn't point",
+      "start": 1276.807,
+      "duration": 3.97
+    },
+    {
+      "text": " to anyone, it's null. Okay? This is",
+      "start": 1279.855,
+      "duration": 3.597
+    },
+    {
+      "text": " your linked list. Very good. Now, if",
+      "start": 1282.488,
+      "duration": 2.796
+    },
+    {
+      "text": " you are told to reverse the whole",
+      "start": 1284.325,
+      "duration": 2.336
+    },
+    {
+      "text": " linked list, you know how to do that",
+      "start": 1285.702,
+      "duration": 2.458
+    },
+    {
+      "text": " normally. I just taught you 5 minutes",
+      "start": 1287.201,
+      "duration": 2.587
+    },
+    {
+      "text": " ago how it is done. But I say, do one",
+      "start": 1288.83,
+      "duration": 3.988
+    },
+    {
+      "text": " thing, reverse it twice. Do it twice,",
+      "start": 1291.893,
+      "duration": 4.64
+    },
+    {
+      "text": " brother. Just reverse it twice. You",
+      "start": 1295.617,
+      "duration": 3.198
+    },
+    {
+      "text": " start reversing from the beginning. But",
+      "start": 1297.848,
+      "duration": 2.383
+    },
+    {
+      "text": " stop once it is done twice. Stop once",
+      "start": 1299.268,
+      "duration": 2.551
+    },
+    {
+      "text": " it is done twice. Let's see what it",
+      "start": 1300.869,
+      "duration": 3.161
+    },
+    {
+      "text": " means to reverse twice. First of all,",
+      "start": 1303.101,
+      "duration": 3.774
+    },
+    {
+      "text": " what will your curr be? 100. What will",
+      "start": 1305.919,
+      "duration": 3.776
+    },
+    {
+      "text": " your prev be? Null. You have to do it",
+      "start": 1308.749,
+      "duration": 3.595
+    },
+    {
+      "text": " twice. So, let's do it the first time.",
+      "start": 1311.389,
+      "duration": 2.729
+    },
+    {
+      "text": " First, extract its next and keep it as",
+      "start": 1313.239,
+      "duration": 3.191
+    },
+    {
+      "text": " 200. Curr's 100 one...oh sorry. Turn",
+      "start": 1315.488,
+      "duration": 6.379
+    },
+    {
+      "text": " the 100's next, the 100 one's next.",
+      "start": 1320.975,
+      "duration": 4.786
+    },
+    {
+      "text": " Where should you turn it? Turn it to",
+      "start": 1324.861,
+      "duration": 2.571
+    },
+    {
+      "text": " null. This has become null. Right? It",
+      "start": 1326.504,
+      "duration": 3.843
+    },
+    {
+      "text": " doesn't point to anyone. Okay? This is",
+      "start": 1329.421,
+      "duration": 4.11
+    },
+    {
+      "text": " done once. Remember, it's done once. It",
+      "start": 1332.579,
+      "duration": 2.731
+    },
+    {
+      "text": " is done once. Now move curr forward. To",
+      "start": 1334.362,
+      "duration": 3.365
+    },
+    {
+      "text": " 200 and we would have moved previous to",
+      "start": 1336.78,
+      "duration": 3.089
+    },
+    {
+      "text": " curr, at 100. Very good. Do it one more",
+      "start": 1338.922,
+      "duration": 3.963
+    },
+    {
+      "text": " time. Next is 300. Now turn the curr's",
+      "start": 1341.965,
+      "duration": 4.467
+    },
+    {
+      "text": " next. Turn the curr's next. Where",
+      "start": 1345.487,
+      "duration": 2.936
+    },
+    {
+      "text": " should you turn it? To previous. To",
+      "start": 1347.46,
+      "duration": 3.717
+    },
+    {
+      "text": " previous, to previous, that's it. After",
+      "start": 1350.256,
+      "duration": 4.413
+    },
+    {
+      "text": " that, move curr and prev forward. Move",
+      "start": 1353.74,
+      "duration": 3.665
+    },
+    {
+      "text": " curr to 300. Move this to 200. Just",
+      "start": 1356.459,
+      "duration": 2.793
+    },
+    {
+      "text": " stop now because you have done it twice",
+      "start": 1358.295,
+      "duration": 2.662
+    },
+    {
+      "text": ". Connecting two links means it has",
+      "start": 1359.957,
+      "duration": 2.651
+    },
+    {
+      "text": " been reversed twice. Stop. So look, it",
+      "start": 1361.654,
+      "duration": 4.827
+    },
+    {
+      "text": " is reversed. Meaning somehow you",
+      "start": 1365.559,
+      "duration": 4.327
+    },
+    {
+      "text": " reversed two nodes, and if someone",
+      "start": 1368.953,
+      "duration": 3.304
+    },
+    {
+      "text": " asked you to return its head, you would",
+      "start": 1371.325,
+      "duration": 3.642
+    },
+    {
+      "text": " return this one. We return this because",
+      "start": 1374.035,
+      "duration": 3.347
+    },
+    {
+      "text": " your prev is sitting here, so you would",
+      "start": 1376.426,
+      "duration": 2.707
+    },
+    {
+      "text": " do it here. So the rest of the linked",
+      "start": 1378.177,
+      "duration": 2.706
+    },
+    {
+      "text": " list broke, but you reversed it twice,",
+      "start": 1379.927,
+      "duration": 2.67
+    },
+    {
+      "text": " right? You reversed two nodes and made",
+      "start": 1381.641,
+      "duration": 2.769
+    },
+    {
+      "text": " it like this. So you can reverse it a",
+      "start": 1383.453,
+      "duration": 3.421
+    },
+    {
+      "text": " number of times. You can reverse it up",
+      "start": 1385.939,
+      "duration": 3.623
+    },
+    {
+      "text": " to any number of times you feel like.",
+      "start": 1388.63,
+      "duration": 3.509
+    },
+    {
+      "text": " You can reverse it as far as you want",
+      "start": 1391.239,
+      "duration": 2.919
+    },
+    {
+      "text": " or as many times as you want; it’s",
+      "start": 1393.21,
+      "duration": 2.867
+    },
+    {
+      "text": " not necessary that if you know how to",
+      "start": 1395.129,
+      "duration": 2.919
+    },
+    {
+      "text": " reverse, you must reverse the whole",
+      "start": 1397.1,
+      "duration": 2.815
+    },
+    {
+      "text": " thing. No, if we want to reverse twice,",
+      "start": 1398.967,
+      "duration": 2.997
+    },
+    {
+      "text": " we will do two nodes. If we want to do",
+      "start": 1401.013,
+      "duration": 2.712
+    },
+    {
+      "text": " it three times, we will do three times.",
+      "start": 1402.753,
+      "duration": 2.083
+    },
+    {
+      "text": " If we want to do it four times, we will",
+      "start": 1403.936,
+      "duration": 2.118
+    },
+    {
+      "text": " do four times. Suppose we want to",
+      "start": 1405.082,
+      "duration": 2.48
+    },
+    {
+      "text": " reverse up to a particular node. Then",
+      "start": 1406.617,
+      "duration": 3.02
+    },
+    {
+      "text": " instead of \"while current not equal to",
+      "start": 1408.682,
+      "duration": 2.713
+    },
+    {
+      "text": " null,\" we will write something else. We",
+      "start": 1410.44,
+      "duration": 2.893
+    },
+    {
+      "text": " will write something like, \"while",
+      "start": 1412.39,
+      "duration": 2.884
+    },
+    {
+      "text": " current not equal to 400.\" What will",
+      "start": 1414.331,
+      "duration": 3.056
+    },
+    {
+      "text": " happen with this is that the linked",
+      "start": 1416.444,
+      "duration": 2.999
+    },
+    {
+      "text": " list will reverse up to 400. That’s",
+      "start": 1418.5,
+      "duration": 3.155
+    },
+    {
+      "text": " what it means, right? So you can",
+      "start": 1420.687,
+      "duration": 2.505
+    },
+    {
+      "text": " reverse as far as you like, you can,",
+      "start": 1422.261,
+      "duration": 3.494
+    },
+    {
+      "text": " you can. Okay, now. Now let's come to",
+      "start": 1424.824,
+      "duration": 4.747
+    },
+    {
+      "text": " this question; in this question, if you",
+      "start": 1428.629,
+      "duration": 3.278
+    },
+    {
+      "text": " are given left and right, how many",
+      "start": 1430.965,
+      "duration": 2.985
+    },
+    {
+      "text": " times will you have to reverse? Let's",
+      "start": 1433.009,
+      "duration": 3.432
+    },
+    {
+      "text": " see how many times we have to do it: 10",
+      "start": 1435.537,
+      "duration": 4.756
+    },
+    {
+      "text": ", 20, 30, 40, 50, going five by five.",
+      "start": 1439.293,
+      "duration": 7.63
+    },
+    {
+      "text": " Okay? This is your one, two, four, five",
+      "start": 1446.023,
+      "duration": 4.545
+    },
+    {
+      "text": ". What have you been told? Left and",
+      "start": 1449.568,
+      "duration": 2.731
+    },
+    {
+      "text": " right are two and four. What does that",
+      "start": 1451.356,
+      "duration": 3.387
+    },
+    {
+      "text": " mean? Which ones do you have to? This,",
+      "start": 1453.789,
+      "duration": 3.241
+    },
+    {
+      "text": " this, and this. You will have to change",
+      "start": 1456.148,
+      "duration": 3.789
+    },
+    {
+      "text": " the wires of three nodes, three nodes.",
+      "start": 1458.973,
+      "duration": 2.378
+    },
+    {
+      "text": " What do you have to change for three",
+      "start": 1460.451,
+      "duration": 2.111
+    },
+    {
+      "text": " nodes? You have to change the wires.",
+      "start": 1461.593,
+      "duration": 2.298
+    },
+    {
+      "text": " You have to change the wires of three",
+      "start": 1462.991,
+      "duration": 2.279
+    },
+    {
+      "text": " nodes. Yes. So, how much? Right. Minus",
+      "start": 1464.305,
+      "duration": 5.406
+    },
+    {
+      "text": " left. Yes. +1, +1; this many times you",
+      "start": 1468.806,
+      "duration": 4.484
+    },
+    {
+      "text": " will have to mess with the wires.",
+      "start": 1472.37,
+      "duration": 3.64
+    },
+    {
+      "text": " Reverse means messing with the wires.",
+      "start": 1475.219,
+      "duration": 3.12
+    },
+    {
+      "text": " We will look at the rest later. What",
+      "start": 1477.46,
+      "duration": 2.629
+    },
+    {
+      "text": " will it be? 4-2 + 1, three times. You",
+      "start": 1479.132,
+      "duration": 5.521
+    },
+    {
+      "text": " can see you have to reverse at three",
+      "start": 1483.692,
+      "duration": 2.379
+    },
+    {
+      "text": " nodes. Two to four means three times.",
+      "start": 1485.11,
+      "duration": 2.629
+    },
+    {
+      "text": " So, this is one thing, that you have to",
+      "start": 1486.919,
+      "duration": 3.236
+    },
+    {
+      "text": " reverse three times. Starting from",
+      "start": 1489.212,
+      "duration": 2.995
+    },
+    {
+      "text": " where? Starting from left and going up",
+      "start": 1491.263,
+      "duration": 2.847
+    },
+    {
+      "text": " to right. Okay. Now, there is a very",
+      "start": 1493.155,
+      "duration": 4.777
+    },
+    {
+      "text": " easy case here: if left equals right.",
+      "start": 1497.001,
+      "duration": 3.578
+    },
+    {
+      "text": " If left equals right, then what will",
+      "start": 1501.053,
+      "duration": 2.633
+    },
+    {
+      "text": " you have to do? You won't have to do",
+      "start": 1502.732,
+      "duration": 2.607
+    },
+    {
+      "text": " anything. Look: 10, 20, 30, 40, suppose",
+      "start": 1504.38,
+      "duration": 6.979
+    },
+    {
+      "text": " it is of four. This is one, two, three,",
+      "start": 1510.459,
+      "duration": 4.332
+    },
+    {
+      "text": " four. Suppose it says left = 2, brother",
+      "start": 1513.861,
+      "duration": 4.722
+    },
+    {
+      "text": ", and right = 2. Do this. So what is it",
+      "start": 1517.583,
+      "duration": 4.293
+    },
+    {
+      "text": "? It means you have to reverse this.",
+      "start": 1520.876,
+      "duration": 2.451
+    },
+    {
+      "text": " How many times? 2-2 + 1, one time, you",
+      "start": 1522.427,
+      "duration": 3.277
+    },
+    {
+      "text": " have to reverse one node. What does",
+      "start": 1524.77,
+      "duration": 3.134
+    },
+    {
+      "text": " reversing one node mean? Reversing one",
+      "start": 1526.948,
+      "duration": 2.788
+    },
+    {
+      "text": " node has no meaning. When you write it,",
+      "start": 1528.784,
+      "duration": 3.088
+    },
+    {
+      "text": " if you reverse just one node, it stays",
+      "start": 1530.923,
+      "duration": 2.928
+    },
+    {
+      "text": " as that one node, right? And you have",
+      "start": 1532.901,
+      "duration": 2.969
+    },
+    {
+      "text": " to leave the rest of the linked list as",
+      "start": 1534.91,
+      "duration": 2.533
+    },
+    {
+      "text": " it is. You have to write this as it is.",
+      "start": 1536.483,
+      "duration": 3.376
+    },
+    {
+      "text": " So like this, like this, like this.",
+      "start": 1539.525,
+      "duration": 2.8
+    },
+    {
+      "text": " This is the same linked list, right?",
+      "start": 1541.425,
+      "duration": 2.227
+    },
+    {
+      "text": " Are these two linked lists the same?",
+      "start": 1542.752,
+      "duration": 2.212
+    },
+    {
+      "text": " There is no difference, right? So, one",
+      "start": 1544.064,
+      "duration": 2.526
+    },
+    {
+      "text": " thing you understood is that if left",
+      "start": 1545.636,
+      "duration": 2.679
+    },
+    {
+      "text": " equals right. What to do immediately?",
+      "start": 1547.361,
+      "duration": 2.561
+    },
+    {
+      "text": " Return head. Return head. There is no",
+      "start": 1549.022,
+      "duration": 3.264
+    },
+    {
+      "text": " need to do anything because what are",
+      "start": 1551.316,
+      "duration": 2.08
+    },
+    {
+      "text": " you reversing by reversing one node? A",
+      "start": 1552.426,
+      "duration": 2.223
+    },
+    {
+      "text": " node in the middle gets reversed, what",
+      "start": 1553.692,
+      "duration": 2.644
+    },
+    {
+      "text": " is that? It's nothing. Alright, so that",
+      "start": 1555.379,
+      "duration": 3.37
+    },
+    {
+      "text": " was an easy case, an easy case. Now",
+      "start": 1557.824,
+      "duration": 3.552
+    },
+    {
+      "text": " let's come to the main program, now",
+      "start": 1560.417,
+      "duration": 2.423
+    },
+    {
+      "text": " that you have understood the times, how",
+      "start": 1561.88,
+      "duration": 2.586
+    },
+    {
+      "text": " many times it is, and what it is. How",
+      "start": 1563.506,
+      "duration": 2.567
+    },
+    {
+      "text": " it happens. We can do it if we want.",
+      "start": 1565.115,
+      "duration": 2.907
+    },
+    {
+      "text": " Now let's see. Now let's try to see if,",
+      "start": 1567.122,
+      "duration": 6.028
+    },
+    {
+      "text": " I mean, one possible answer is that you",
+      "start": 1572.257,
+      "duration": 5.147
+    },
+    {
+      "text": " know the left. You know left is two.",
+      "start": 1576.51,
+      "duration": 5.339
+    },
+    {
+      "text": " You know right is four. You will know",
+      "start": 1580.949,
+      "duration": 3.953
+    },
+    {
+      "text": " the times from this. You will know the",
+      "start": 1583.956,
+      "duration": 2.743
+    },
+    {
+      "text": " times from this. What will you know?",
+      "start": 1585.732,
+      "duration": 2.382
+    },
+    {
+      "text": " That you have to do it three times. So",
+      "start": 1587.214,
+      "duration": 3.109
+    },
+    {
+      "text": " one thing you can do is, when you see,",
+      "start": 1589.395,
+      "duration": 3.734
+    },
+    {
+      "text": " left equals, meaning when you reach the",
+      "start": 1592.201,
+      "duration": 3.805
+    },
+    {
+      "text": " second node, you have to reverse how",
+      "start": 1595.078,
+      "duration": 3.59
+    },
+    {
+      "text": " many? Three times. Three times. One",
+      "start": 1597.74,
+      "duration": 4.921
+    },
+    {
+      "text": " thing you can do is that you count it.",
+      "start": 1601.716,
+      "duration": 3.063
+    },
+    {
+      "text": " You, you reverse the linked list. Count",
+      "start": 1603.879,
+      "duration": 3.191
+    },
+    {
+      "text": " it as you reach the second node. When",
+      "start": 1606.118,
+      "duration": 2.979
+    },
+    {
+      "text": " you reach the second node, reach, reach",
+      "start": 1608.18,
+      "duration": 4.215
+    },
+    {
+      "text": ". Start reversing. How many times?",
+      "start": 1611.395,
+      "duration": 3.27
+    },
+    {
+      "text": " Three times. So let's see what happens",
+      "start": 1613.765,
+      "duration": 3.12
+    },
+    {
+      "text": " with that. Let's see what will happen",
+      "start": 1615.936,
+      "duration": 2.334
+    },
+    {
+      "text": " with that. Let's see what will happen",
+      "start": 1617.298,
+      "duration": 3.006
+    },
+    {
+      "text": " with that. 10 20 30 40 50 is your",
+      "start": 1619.366,
+      "duration": 10.177
+    },
+    {
+      "text": " linked list. Okay. We said that 1 2 3 4",
+      "start": 1628.609,
+      "duration": 3.788
+    },
+    {
+      "text": " 5, that when you reach the second node,",
+      "start": 1631.46,
+      "duration": 3.443
+    },
+    {
+      "text": " then write your reverse program. How",
+      "start": 1633.966,
+      "duration": 3.221
+    },
+    {
+      "text": " many times? Three times. The whole",
+      "start": 1636.226,
+      "duration": 2.568
+    },
+    {
+      "text": " program is the same. Just instead of '",
+      "start": 1637.825,
+      "duration": 2.415
+    },
+    {
+      "text": "while curr not equal to null'. 'While",
+      "start": 1639.24,
+      "duration": 2.624
+    },
+    {
+      "text": " times minus minus', so that it happens",
+      "start": 1640.913,
+      "duration": 2.862
+    },
+    {
+      "text": " three times. Let's see. When you reach",
+      "start": 1642.824,
+      "duration": 3.158
+    },
+    {
+      "text": " here, you will know that you have",
+      "start": 1645.027,
+      "duration": 2.484
+    },
+    {
+      "text": " arrived at the second node. How? We",
+      "start": 1646.556,
+      "duration": 2.923
+    },
+    {
+      "text": " will take a variable, a count variable,",
+      "start": 1648.519,
+      "duration": 2.56
+    },
+    {
+      "text": " to show that you have reached the",
+      "start": 1650.119,
+      "duration": 2.319
+    },
+    {
+      "text": " second node. So let us now begin our",
+      "start": 1651.478,
+      "duration": 2.688
+    },
+    {
+      "text": " reverse program three times, exactly",
+      "start": 1653.214,
+      "duration": 2.734
+    },
+    {
+      "text": " three times. So look, when we come here",
+      "start": 1654.996,
+      "duration": 3.587
+    },
+    {
+      "text": " first, what will our 'curr' be? 'curr'",
+      "start": 1657.655,
+      "duration": 3.739
+    },
+    {
+      "text": " will be equal to 200. Okay? And 'prev'",
+      "start": 1660.45,
+      "duration": 3.307
+    },
+    {
+      "text": " will be equal to null. That's how we",
+      "start": 1662.803,
+      "duration": 2.47
+    },
+    {
+      "text": " write the reverse, right? That's how we",
+      "start": 1664.301,
+      "duration": 2.322
+    },
+    {
+      "text": " start the reverse program. So, first of",
+      "start": 1665.663,
+      "duration": 2.705
+    },
+    {
+      "text": " all, this will be erased. Okay? And",
+      "start": 1667.415,
+      "duration": 3.365
+    },
+    {
+      "text": " this will start pointing to null. Right",
+      "start": 1669.871,
+      "duration": 4.44
+    },
+    {
+      "text": ", that was once; the next one gets",
+      "start": 1673.311,
+      "duration": 3.257
+    },
+    {
+      "text": " erased and starts pointing here. That's",
+      "start": 1675.635,
+      "duration": 5.008
+    },
+    {
+      "text": " twice. The one after that also gets",
+      "start": 1679.714,
+      "duration": 3.33
+    },
+    {
+      "text": " erased and starts pointing here. That's",
+      "start": 1682.106,
+      "duration": 3.344
+    },
+    {
+      "text": " three times. That's three times. Now,",
+      "start": 1684.49,
+      "duration": 2.818
+    },
+    {
+      "text": " when you do this, when you have done it",
+      "start": 1686.39,
+      "duration": 4.212
+    },
+    {
+      "text": " three times, your 'curr' will be at 500",
+      "start": 1689.684,
+      "duration": 4.212
+    },
+    {
+      "text": ". At 500, meaning the fifth node or",
+      "start": 1692.896,
+      "duration": 3.661
+    },
+    {
+      "text": " whatever its address is. Your 'prev'",
+      "start": 1695.627,
+      "duration": 3.53
+    },
+    {
+      "text": " will be one step behind it at 400. Here",
+      "start": 1698.22,
+      "duration": 3.837
+    },
+    {
+      "text": ", and look, your reversal is done. Your",
+      "start": 1701.057,
+      "duration": 3.379
+    },
+    {
+      "text": " reversal is done. Your reversal is done",
+      "start": 1703.487,
+      "duration": 2.995
+    },
+    {
+      "text": ". But what does your entire linked list",
+      "start": 1705.482,
+      "duration": 3.295
+    },
+    {
+      "text": ", your entire linked list, look like?",
+      "start": 1707.777,
+      "duration": 3.08
+    },
+    {
+      "text": " Let's see. What does your entire linked",
+      "start": 1709.957,
+      "duration": 2.553
+    },
+    {
+      "text": " list look like? Let's see. At the very",
+      "start": 1711.546,
+      "duration": 2.835
+    },
+    {
+      "text": " beginning, there is 10. We did not",
+      "start": 1713.416,
+      "duration": 2.716
+    },
+    {
+      "text": " touch 10. So 10 is pointing to 20. 20",
+      "start": 1715.213,
+      "duration": 5.078
+    },
+    {
+      "text": " is pointing to null. 20 is pointing to",
+      "start": 1719.357,
+      "duration": 3.634
+    },
+    {
+      "text": " null. 20 is pointing to null, so",
+      "start": 1722.062,
+      "duration": 2.635
+    },
+    {
+      "text": " nothing. Okay. Let's see further. 30,",
+      "start": 1723.742,
+      "duration": 4.741
+    },
+    {
+      "text": " 30 is pointing to 20. It is, isn't it?",
+      "start": 1727.629,
+      "duration": 4.916
+    },
+    {
+      "text": " Right, 40 is pointing to 30. Yes, okay.",
+      "start": 1731.645,
+      "duration": 5.436
+    },
+    {
+      "text": " And 50 is alone. 40 is no longer",
+      "start": 1736.181,
+      "duration": 3.01
+    },
+    {
+      "text": " pointing to 50. So your linked list has",
+      "start": 1738.236,
+      "duration": 2.53
+    },
+    {
+      "text": " become like this. Your linked list has",
+      "start": 1739.799,
+      "duration": 2.268
+    },
+    {
+      "text": " become like this. But this is not what",
+      "start": 1741.097,
+      "duration": 2.472
+    },
+    {
+      "text": " you wanted. This is very absurd, what",
+      "start": 1742.611,
+      "duration": 2.755
+    },
+    {
+      "text": " has this linked list become? I mean,",
+      "start": 1744.402,
+      "duration": 2.586
+    },
+    {
+      "text": " look. From here to here it is correct.",
+      "start": 1746.046,
+      "duration": 2.941
+    },
+    {
+      "text": " 40, 30, very good. Very good, very good",
+      "start": 1748.087,
+      "duration": 3.576
+    },
+    {
+      "text": ". But you did not want this. What did",
+      "start": 1750.663,
+      "duration": 3.204
+    },
+    {
+      "text": " you want? You wanted this; let's write",
+      "start": 1752.919,
+      "duration": 3.087
+    },
+    {
+      "text": " down what you actually wanted. You",
+      "start": 1755.054,
+      "duration": 3.318
+    },
+    {
+      "text": " wanted this, if you don't remember, you",
+      "start": 1757.417,
+      "duration": 2.739
+    },
+    {
+      "text": " wanted the reversed portion to be in",
+      "start": 1759.2,
+      "duration": 2.606
+    },
+    {
+      "text": " the middle, we have no problem with",
+      "start": 1760.85,
+      "duration": 2.561
+    },
+    {
+      "text": " that. What should be in the middle? 40,",
+      "start": 1762.456,
+      "duration": 3.925
+    },
+    {
+      "text": " 30, 20; after that, the remaining",
+      "start": 1765.576,
+      "duration": 5.493
+    },
+    {
+      "text": " portion will stay as it is. So look,",
+      "start": 1770.137,
+      "duration": 3.419
+    },
+    {
+      "text": " what changes...how will you get the",
+      "start": 1772.616,
+      "duration": 3.106
+    },
+    {
+      "text": " above linked list? Once you perform a",
+      "start": 1774.782,
+      "duration": 3.198
+    },
+    {
+      "text": " normal reverse, what changes will you",
+      "start": 1777.037,
+      "duration": 3.086
+    },
+    {
+      "text": " need to make? Look, what is 10 pointing",
+      "start": 1779.179,
+      "duration": 3.558
+    },
+    {
+      "text": " to? To 40, not to 20. In the one above,",
+      "start": 1781.806,
+      "duration": 3.633
+    },
+    {
+      "text": " it was pointing to 20 because we hadn't",
+      "start": 1784.48,
+      "duration": 2.606
+    },
+    {
+      "text": " changed 10. So if you remove 10 and",
+      "start": 1786.127,
+      "duration": 4.233
+    },
+    {
+      "text": " make it point to what? If you somehow",
+      "start": 1789.44,
+      "duration": 4.781
+    },
+    {
+      "text": " make it point to 40, it's done. 40 is",
+      "start": 1793.302,
+      "duration": 3.902
+    },
+    {
+      "text": " pointing to 30. Above, 40 is also",
+      "start": 1796.263,
+      "duration": 2.738
+    },
+    {
+      "text": " pointing to 30. 30 to 20, and above, 30",
+      "start": 1798.044,
+      "duration": 2.714
+    },
+    {
+      "text": " is also pointing to 20. But 20 is",
+      "start": 1799.799,
+      "duration": 2.742
+    },
+    {
+      "text": " pointing to 50. In the one above, 20 is",
+      "start": 1801.615,
+      "duration": 3.034
+    },
+    {
+      "text": " pointing to null. Because you reversed",
+      "start": 1803.685,
+      "duration": 2.654
+    },
+    {
+      "text": " it, you had made it null. If we remove",
+      "start": 1805.386,
+      "duration": 3.438
+    },
+    {
+      "text": " 20 and make the next of 20 point to 50.",
+      "start": 1807.92,
+      "duration": 4.72
+    },
+    {
+      "text": " Okay. And what is the head? Your head",
+      "start": 1812.199,
+      "duration": 3.734
+    },
+    {
+      "text": " should still be 10. 10, now let's see",
+      "start": 1814.976,
+      "duration": 2.68
+    },
+    {
+      "text": " how the linked list looks. First comes",
+      "start": 1816.7,
+      "duration": 2.987
+    },
+    {
+      "text": " 10. Okay? After 10 comes 40, very good.",
+      "start": 1818.753,
+      "duration": 3.934
+    },
+    {
+      "text": " After 40 comes 30, very good. After 30",
+      "start": 1821.787,
+      "duration": 3.005
+    },
+    {
+      "text": " comes 20, very good. After 20 comes 50.",
+      "start": 1823.836,
+      "duration": 2.936
+    },
+    {
+      "text": " Yes, exactly the same linked list.",
+      "start": 1825.872,
+      "duration": 2.671
+    },
+    {
+      "text": " Exactly the same linked list. So you",
+      "start": 1827.643,
+      "duration": 2.774
+    },
+    {
+      "text": " will have to change a few things. You",
+      "start": 1829.473,
+      "duration": 3.063
+    },
+    {
+      "text": " will have to change a few things. What?",
+      "start": 1831.569,
+      "duration": 2.72
+    },
+    {
+      "text": " You will have to adjust some",
+      "start": 1833.389,
+      "duration": 2.246
+    },
+    {
+      "text": " connections. Let's see what needs to be",
+      "start": 1834.679,
+      "duration": 3.053
+    },
+    {
+      "text": " done. What needs to be done? Let's see.",
+      "start": 1836.787,
+      "duration": 2.989
+    },
+    {
+      "text": " So, this is what makes this question",
+      "start": 1838.876,
+      "duration": 2.511
+    },
+    {
+      "text": " hard. This is what makes this question",
+      "start": 1840.429,
+      "duration": 2.223
+    },
+    {
+      "text": " hard. What do you need to do? See 10 20",
+      "start": 1841.681,
+      "duration": 5.279
+    },
+    {
+      "text": " 30 40 50, right? When you reverse it,",
+      "start": 1847.599,
+      "duration": 7.984
+    },
+    {
+      "text": " it will look like this. 20, sorry, when",
+      "start": 1854.631,
+      "duration": 3.394
+    },
+    {
+      "text": " you reverse it, the upper part will be",
+      "start": 1857.099,
+      "duration": 3.802
+    },
+    {
+      "text": " reversed. 40, 30 Well, your 10 is still",
+      "start": 1859.975,
+      "duration": 8.512
+    },
+    {
+      "text": " here and 50 is here. Both of these were",
+      "start": 1867.584,
+      "duration": 3.73
+    },
+    {
+      "text": " not reversed. Both of these, meaning",
+      "start": 1870.351,
+      "duration": 2.423
+    },
+    {
+      "text": " the reversal happened between them.",
+      "start": 1871.812,
+      "duration": 2.328
+    },
+    {
+      "text": " Everything between 10 and 50 has been",
+      "start": 1873.319,
+      "duration": 2.952
+    },
+    {
+      "text": " reversed. Now, where do you need to",
+      "start": 1875.324,
+      "duration": 2.72
+    },
+    {
+      "text": " make a connection? One more thing, when",
+      "start": 1877.086,
+      "duration": 3.369
+    },
+    {
+      "text": " you reversed it above, after reversing,",
+      "start": 1879.527,
+      "duration": 3.84
+    },
+    {
+      "text": " your previous will be at 40. Because 40",
+      "start": 1882.44,
+      "duration": 3.824
+    },
+    {
+      "text": " is your new head; since 20, 30, 40",
+      "start": 1885.316,
+      "duration": 2.785
+    },
+    {
+      "text": " reversed, 40 becomes the new head. Your",
+      "start": 1887.154,
+      "duration": 4.285
+    },
+    {
+      "text": " curr will be at 50. Your curr will be",
+      "start": 1890.489,
+      "duration": 3.601
+    },
+    {
+      "text": " at what? 50. Okay? So one thing we need",
+      "start": 1893.138,
+      "duration": 3.958
+    },
+    {
+      "text": " to do is what? This 10, what is this 10",
+      "start": 1896.151,
+      "duration": 3.515
+    },
+    {
+      "text": "? What is this 10? This 10 is the",
+      "start": 1898.666,
+      "duration": 3.884
+    },
+    {
+      "text": " previous node. Meaning, it is the node",
+      "start": 1901.647,
+      "duration": 3.56
+    },
+    {
+      "text": " just before the reversal. If, if you",
+      "start": 1904.255,
+      "duration": 3.155
+    },
+    {
+      "text": " are told to reverse from two. Left",
+      "start": 1906.489,
+      "duration": 3.774
+    },
+    {
+      "text": " equals 2. Then this 10 is actually left",
+      "start": 1909.346,
+      "duration": 3.607
+    },
+    {
+      "text": "-1. This is the one node. Meaning, it",
+      "start": 1911.953,
+      "duration": 2.732
+    },
+    {
+      "text": " hasn't been reversed up to this point.",
+      "start": 1913.726,
+      "duration": 2.536
+    },
+    {
+      "text": " It must have been reversed after this.",
+      "start": 1915.362,
+      "duration": 2.346
+    },
+    {
+      "text": " If we call this 'before'. Let's say we",
+      "start": 1916.808,
+      "duration": 4.022
+    },
+    {
+      "text": " call it 'before', assume you have it.",
+      "start": 1919.908,
+      "duration": 3.872
+    },
+    {
+      "text": " Okay, what exactly do you have to do?",
+      "start": 1923.219,
+      "duration": 3.6
+    },
+    {
+      "text": " It should go from 10 to 140. Meaning",
+      "start": 1925.959,
+      "duration": 3.565
+    },
+    {
+      "text": " that 'before', 'before' means the node",
+      "start": 1928.574,
+      "duration": 2.877
+    },
+    {
+      "text": " before which no reversal has happened.",
+      "start": 1930.501,
+      "duration": 2.878
+    },
+    {
+      "text": " Reversal started after that. Before dot",
+      "start": 1932.739,
+      "duration": 3.656
+    },
+    {
+      "text": " next is equal to what? 40. Where is 40?",
+      "start": 1935.445,
+      "duration": 3.904
+    },
+    {
+      "text": " Prev, prev. This is done. This will be",
+      "start": 1938.449,
+      "duration": 4.944
+    },
+    {
+      "text": " formed. The rest is the same, and 20,",
+      "start": 1942.438,
+      "duration": 3.887
+    },
+    {
+      "text": " 20. Which node is it? Which 20? 20 is",
+      "start": 1945.409,
+      "duration": 4.991
+    },
+    {
+      "text": " nowhere to be found. So far, 20 isn't",
+      "start": 1949.446,
+      "duration": 3.02
+    },
+    {
+      "text": " anywhere. But where should 20's pointer",
+      "start": 1951.529,
+      "duration": 5.727
+    },
+    {
+      "text": " go? Where should the stuff for 20 go?",
+      "start": 1956.392,
+      "duration": 6.448
+    },
+    {
+      "text": " 20's stuff should go to 50. What was 20",
+      "start": 1962.199,
+      "duration": 4.223
+    },
+    {
+      "text": "? 20 was your left node. 20 was your",
+      "start": 1965.422,
+      "duration": 4.737
+    },
+    {
+      "text": " left node. The one you were standing on",
+      "start": 1969.23,
+      "duration": 3.414
+    },
+    {
+      "text": ", the one where you started reversing,",
+      "start": 1971.644,
+      "duration": 2.962
+    },
+    {
+      "text": " so let's assume we do this too, we give",
+      "start": 1973.658,
+      "duration": 3.013
+    },
+    {
+      "text": " this a name, let's call it 'last'. This",
+      "start": 1975.723,
+      "duration": 3.919
+    },
+    {
+      "text": " is 'last', because it can be extracted,",
+      "start": 1978.658,
+      "duration": 1.618
+    },
+    {
+      "text": " it is 'last'. So what happens? Last dot",
+      "start": 1979.292,
+      "duration": 3.619
+    },
+    {
+      "text": " next is equal to, where should it go?",
+      "start": 1981.993,
+      "duration": 4.039
+    },
+    {
+      "text": " To 50. Where is 50? At current. If you",
+      "start": 1985.132,
+      "duration": 4.358
+    },
+    {
+      "text": " do these two things and then return",
+      "start": 1988.572,
+      "duration": 3.865
+    },
+    {
+      "text": " head, return head, you will get the",
+      "start": 1991.519,
+      "duration": 3.865
+    },
+    {
+      "text": " answer. Your linked list is ready",
+      "start": 1994.465,
+      "duration": 2.847
+    },
+    {
+      "text": " because you started from the left and",
+      "start": 1996.357,
+      "duration": 2.648
+    },
+    {
+      "text": " reversed how many times? Three. After",
+      "start": 1998.049,
+      "duration": 3.486
+    },
+    {
+      "text": " that, you connected the remaining",
+      "start": 2000.587,
+      "duration": 2.694
+    },
+    {
+      "text": " broken and damaged connections like",
+      "start": 2002.333,
+      "duration": 2.797
+    },
+    {
+      "text": " this. So your linked list can be formed",
+      "start": 2004.182,
+      "duration": 3.442
+    },
+    {
+      "text": ". Your linked list can be formed. Let's",
+      "start": 2006.624,
+      "duration": 3.696
+    },
+    {
+      "text": " see how we will do it. So that's why,",
+      "start": 2009.364,
+      "duration": 3.086
+    },
+    {
+      "text": " look, you must have understood. You",
+      "start": 2011.489,
+      "duration": 2.416
+    },
+    {
+      "text": " must have understood what needs to be",
+      "start": 2012.94,
+      "duration": 2.322
+    },
+    {
+      "text": " done. You might not have understood how",
+      "start": 2014.298,
+      "duration": 2.753
+    },
+    {
+      "text": " to do it; sure, these stories are fine.",
+      "start": 2016.093,
+      "duration": 2.646
+    },
+    {
+      "text": " But now, you say we'll keep this here,",
+      "start": 2018.053,
+      "duration": 2.86
+    },
+    {
+      "text": " we'll keep that there. You'll find out",
+      "start": 2019.962,
+      "duration": 2.714
+    },
+    {
+      "text": " here. How will you find out? Let's see",
+      "start": 2021.712,
+      "duration": 2.747
+    },
+    {
+      "text": " how you'll find out. This is a very",
+      "start": 2023.519,
+      "duration": 2.803
+    },
+    {
+      "text": " important question. Okay? Okay? First",
+      "start": 2025.358,
+      "duration": 4.628
+    },
+    {
+      "text": " of all, your linked list will look like",
+      "start": 2029.021,
+      "duration": 2.377
+    },
+    {
+      "text": " this. 10 20 30 40, let's just make it a",
+      "start": 2030.433,
+      "duration": 7.925
+    },
+    {
+      "text": " proper linked list. You won't enjoy it",
+      "start": 2037.417,
+      "duration": 3.131
+    },
+    {
+      "text": " otherwise. Right? It feels much better",
+      "start": 2039.598,
+      "duration": 3.811
+    },
+    {
+      "text": " to make a proper linked list. One, two,",
+      "start": 2042.488,
+      "duration": 8.96
+    },
+    {
+      "text": " three, four, five; 20, 30, 40, 50, this",
+      "start": 2050.682,
+      "duration": 10.138
+    },
+    {
+      "text": " is 100, 200, 300, 400, 500. This points",
+      "start": 2060.054,
+      "duration": 8.827
+    },
+    {
+      "text": " to 200, this points to 300, this points",
+      "start": 2067.956,
+      "duration": 3.916
+    },
+    {
+      "text": " to 400, this points to 500, and this",
+      "start": 2070.946,
+      "duration": 3.692
+    },
+    {
+      "text": " points to nothing. Okay, you are given",
+      "start": 2073.713,
+      "duration": 5.186
+    },
+    {
+      "text": " a left value. One, sorry, two. The",
+      "start": 2078.043,
+      "duration": 6.891
+    },
+    {
+      "text": " right value is given as four. Very good",
+      "start": 2083.988,
+      "duration": 3.105
+    },
+    {
+      "text": ", alright. There is an edge case here,",
+      "start": 2086.093,
+      "duration": 2.468
+    },
+    {
+      "text": " we will come to that later. Okay?",
+      "start": 2087.593,
+      "duration": 2.228
+    },
+    {
+      "text": " Otherwise, look at the normal case",
+      "start": 2088.921,
+      "duration": 2.156
+    },
+    {
+      "text": " first. There is a small edge case. Left",
+      "start": 2090.111,
+      "duration": 3.48
+    },
+    {
+      "text": " is two, right is four. Which means you",
+      "start": 2092.659,
+      "duration": 3.729
+    },
+    {
+      "text": " need to start from the second node.",
+      "start": 2095.454,
+      "duration": 3.306
+    },
+    {
+      "text": " Start from the second node. You need to",
+      "start": 2098.499,
+      "duration": 6.561
+    },
+    {
+      "text": " reverse three times. You need to",
+      "start": 2104.12,
+      "duration": 2.659
+    },
+    {
+      "text": " reverse three times. How did three",
+      "start": 2105.81,
+      "duration": 2.056
+    },
+    {
+      "text": " times come about? You do it by doing",
+      "start": 2106.892,
+      "duration": 2.756
+    },
+    {
+      "text": " 4-2 + 1. So you have reached the second",
+      "start": 2108.716,
+      "duration": 3.061
+    },
+    {
+      "text": " node. You have reached the second node.",
+      "start": 2110.824,
+      "duration": 2.92
+    },
+    {
+      "text": " How will you know that? You have",
+      "start": 2112.844,
+      "duration": 3.02
+    },
+    {
+      "text": " reached the second node. How will you",
+      "start": 2114.927,
+      "duration": 3.382
+    },
+    {
+      "text": " know that? How will you know that? So",
+      "start": 2117.368,
+      "duration": 3.238
+    },
+    {
+      "text": " we will tell you how to know. t = 100,",
+      "start": 2119.68,
+      "duration": 3.786
+    },
+    {
+      "text": " a temporary variable to traverse",
+      "start": 2122.53,
+      "duration": 3.069
+    },
+    {
+      "text": " because only then will we know. Okay.",
+      "start": 2124.664,
+      "duration": 4.465
+    },
+    {
+      "text": " And remember one more thing. Reversing",
+      "start": 2128.579,
+      "duration": 3.324
+    },
+    {
+      "text": " from the second node is fine. But you",
+      "start": 2130.95,
+      "duration": 3.242
+    },
+    {
+      "text": " also needed this node. You also needed",
+      "start": 2133.271,
+      "duration": 3.612
+    },
+    {
+      "text": " this node. You needed this node too,",
+      "start": 2135.935,
+      "duration": 2.483
+    },
+    {
+      "text": " right? Who was this? This was the first",
+      "start": 2137.453,
+      "duration": 2.774
+    },
+    {
+      "text": " node. You have to reverse from the",
+      "start": 2139.277,
+      "duration": 2.742
+    },
+    {
+      "text": " second node. You have to reverse from",
+      "start": 2141.059,
+      "duration": 2.517
+    },
+    {
+      "text": " the second node. But you also need this",
+      "start": 2142.615,
+      "duration": 3.066
+    },
+    {
+      "text": " node. Why? Because you will have to",
+      "start": 2144.739,
+      "duration": 2.886
+    },
+    {
+      "text": " connect this later. This 'before',",
+      "start": 2146.665,
+      "duration": 2.717
+    },
+    {
+      "text": " before dot next equals tree. You will",
+      "start": 2148.443,
+      "duration": 3.117
+    },
+    {
+      "text": " have to do this later. You need 'before",
+      "start": 2150.599,
+      "duration": 2.825
+    },
+    {
+      "text": "'. You need 'before'. Okay? For this,",
+      "start": 2152.424,
+      "duration": 4.251
+    },
+    {
+      "text": " what is coming to my mind, you might",
+      "start": 2155.717,
+      "duration": 2.507
+    },
+    {
+      "text": " have a different algorithm in your mind",
+      "start": 2157.265,
+      "duration": 2.633
+    },
+    {
+      "text": ". So look. If you find the first node.",
+      "start": 2158.898,
+      "duration": 4.121
+    },
+    {
+      "text": " If you know that currently we are",
+      "start": 2162.36,
+      "duration": 2.555
+    },
+    {
+      "text": " standing on the first. What are we",
+      "start": 2163.962,
+      "duration": 2.655
+    },
+    {
+      "text": " standing on right now? We are standing",
+      "start": 2165.652,
+      "duration": 2.472
+    },
+    {
+      "text": " on the first node. Then you will know",
+      "start": 2167.164,
+      "duration": 2.962
+    },
+    {
+      "text": " that the next node is the second node.",
+      "start": 2169.19,
+      "duration": 3.416
+    },
+    {
+      "text": " What is the next node? It is the second",
+      "start": 2171.706,
+      "duration": 3.006
+    },
+    {
+      "text": " node. Or you can also do it like this,",
+      "start": 2173.773,
+      "duration": 4.358
+    },
+    {
+      "text": " take a 'before' first. Take a 'before'",
+      "start": 2177.179,
+      "duration": 4.707
+    },
+    {
+      "text": " first. Before = null. Okay? Every time,",
+      "start": 2180.948,
+      "duration": 6.636
+    },
+    {
+      "text": " every time t arrives, every time t =",
+      "start": 2186.647,
+      "duration": 3.276
+    },
+    {
+      "text": " 100 arrives, what should you do? And",
+      "start": 2188.986,
+      "duration": 3.288
+    },
+    {
+      "text": " take one position variable. Take what?",
+      "start": 2191.33,
+      "duration": 3.27
+    },
+    {
+      "text": " Position. Position = 0, okay? Okay,",
+      "start": 2193.7,
+      "duration": 5.638
+    },
+    {
+      "text": " let's come to t = 100, let's take it as",
+      "start": 2198.403,
+      "duration": 3.531
+    },
+    {
+      "text": " one because the position is going to",
+      "start": 2200.999,
+      "duration": 3.336
+    },
+    {
+      "text": " start from one. The position is going",
+      "start": 2203.4,
+      "duration": 2.891
+    },
+    {
+      "text": " to start from one. Let's see, if...",
+      "start": 2205.33,
+      "duration": 3.155
+    },
+    {
+      "text": "sorry, t arrived, we will check what,",
+      "start": 2207.485,
+      "duration": 4.129
+    },
+    {
+      "text": " look. You can check the position in a",
+      "start": 2210.699,
+      "duration": 3.015
+    },
+    {
+      "text": " linked list like this. Whatever comes",
+      "start": 2212.762,
+      "duration": 2.657
+    },
+    {
+      "text": " to your mind, you can check it like",
+      "start": 2214.451,
+      "duration": 2.15
+    },
+    {
+      "text": " this. But what do you have to check? If",
+      "start": 2215.634,
+      "duration": 3.386
+    },
+    {
+      "text": " equal equal to two. Because left is two",
+      "start": 2220.04,
+      "duration": 3.671
+    },
+    {
+      "text": ". Left is two. Position two means you",
+      "start": 2222.711,
+      "duration": 3.026
+    },
+    {
+      "text": " had to start from here. You had to",
+      "start": 2224.782,
+      "duration": 2.569
+    },
+    {
+      "text": " start from here. So you started from",
+      "start": 2226.395,
+      "duration": 2.836
+    },
+    {
+      "text": " here. But until it is two. Until it is",
+      "start": 2228.285,
+      "duration": 4.191
+    },
+    {
+      "text": " two. Suppose we don't write like this,",
+      "start": 2231.539,
+      "duration": 4.6
+    },
+    {
+      "text": " until it is two. Less than two, less",
+      "start": 2235.237,
+      "duration": 5.239
+    },
+    {
+      "text": " than two means you have never reached",
+      "start": 2239.526,
+      "duration": 2.862
+    },
+    {
+      "text": " two. So what should you do? before = t,",
+      "start": 2241.438,
+      "duration": 3.989
+    },
+    {
+      "text": " before = t = t.next, and continue, and",
+      "start": 2244.526,
+      "duration": 4.758
+    },
+    {
+      "text": " continue; this will ensure that until",
+      "start": 2248.383,
+      "duration": 4.659
+    },
+    {
+      "text": " you reach left, until you reach left,",
+      "start": 2252.141,
+      "duration": 4.659
+    },
+    {
+      "text": " this before = t will keep happening.",
+      "start": 2255.899,
+      "duration": 4.561
+    },
+    {
+      "text": " What is the benefit of this? Now",
+      "start": 2260.04,
+      "duration": 2.487
+    },
+    {
+      "text": " suppose you write here that when your",
+      "start": 2261.576,
+      "duration": 2.816
+    },
+    {
+      "text": " position has become two. So look, let's",
+      "start": 2263.441,
+      "duration": 3.145
+    },
+    {
+      "text": " see first when it is not. What is your",
+      "start": 2265.647,
+      "duration": 3.235
+    },
+    {
+      "text": " position right now? One. Is one less",
+      "start": 2267.933,
+      "duration": 3.468
+    },
+    {
+      "text": " than two? Yes. It is less than two. So",
+      "start": 2270.459,
+      "duration": 3.196
+    },
+    {
+      "text": " what did your before become? t. So what",
+      "start": 2272.695,
+      "duration": 2.828
+    },
+    {
+      "text": " did your before become after erasing",
+      "start": 2274.557,
+      "duration": 2.224
+    },
+    {
+      "text": " from here? 100. What did your before",
+      "start": 2275.815,
+      "duration": 3.34
+    },
+    {
+      "text": " become? 100. Okay? t = 200. Yes, sorry.",
+      "start": 2278.216,
+      "duration": 5.304
+    },
+    {
+      "text": " One thing was left. Now you are using",
+      "start": 2282.62,
+      "duration": 3.263
+    },
+    {
+      "text": " position, so you will also do that. And",
+      "start": 2284.952,
+      "duration": 3.806
+    },
+    {
+      "text": " pos plus plus. Then continue. Then what",
+      "start": 2287.858,
+      "duration": 4.467
+    },
+    {
+      "text": " will you do? Continue. Yes. Now see",
+      "start": 2291.366,
+      "duration": 3.191
+    },
+    {
+      "text": " what happens. Initially pos was one. Is",
+      "start": 2293.611,
+      "duration": 2.929
+    },
+    {
+      "text": " one less than two? Yes. One is less",
+      "start": 2295.586,
+      "duration": 2.881
+    },
+    {
+      "text": " than two. Meaning you haven't reached",
+      "start": 2297.501,
+      "duration": 2.338
+    },
+    {
+      "text": " left yet. You are still at the first",
+      "start": 2298.874,
+      "duration": 2.113
+    },
+    {
+      "text": " one. So you kept the first one at",
+      "start": 2300.014,
+      "duration": 2.864
+    },
+    {
+      "text": " before = t, so before = 100. t = t.next",
+      "start": 2301.937,
+      "duration": 3.403
+    },
+    {
+      "text": ", so t will become 200 in the while",
+      "start": 2304.34,
+      "duration": 3.264
+    },
+    {
+      "text": " loop. pos plus plus, pos plus plus, so",
+      "start": 2306.668,
+      "duration": 3.178
+    },
+    {
+      "text": " what did pos become? Two. Now next time",
+      "start": 2308.901,
+      "duration": 4.316
+    },
+    {
+      "text": " when you check if pos is less than two?",
+      "start": 2312.278,
+      "duration": 3.385
+    },
+    {
+      "text": " No. Pos is not less than two. Pos has",
+      "start": 2314.763,
+      "duration": 2.813
+    },
+    {
+      "text": " become two. Now you need to start your",
+      "start": 2316.64,
+      "duration": 3.256
+    },
+    {
+      "text": " reverse. Now you need to start your",
+      "start": 2318.952,
+      "duration": 3.043
+    },
+    {
+      "text": " reverse. And look, very magically or",
+      "start": 2321.051,
+      "duration": 3.846
+    },
+    {
+      "text": " very importantly, when your t = 200",
+      "start": 2323.976,
+      "duration": 3.746
+    },
+    {
+      "text": " happened here. At that moment, you are",
+      "start": 2326.801,
+      "duration": 4.215
+    },
+    {
+      "text": " here. What did you need at that time?",
+      "start": 2330.078,
+      "duration": 3.046
+    },
+    {
+      "text": " You needed this 10. Not now, but you",
+      "start": 2332.224,
+      "duration": 3.03
+    },
+    {
+      "text": " will need it later. And see, 100 has",
+      "start": 2334.292,
+      "duration": 2.406
+    },
+    {
+      "text": " come into your before. 100 has come",
+      "start": 2335.735,
+      "duration": 2.306
+    },
+    {
+      "text": " into your before. Because what were you",
+      "start": 2337.074,
+      "duration": 2.324
+    },
+    {
+      "text": " doing? Until you reached the left, you",
+      "start": 2338.429,
+      "duration": 2.865
+    },
+    {
+      "text": " kept setting before equal to t. Meaning",
+      "start": 2340.344,
+      "duration": 3.0
+    },
+    {
+      "text": ", before is in a way where you will",
+      "start": 2342.344,
+      "duration": 2.424
+    },
+    {
+      "text": " know at which t you are standing that",
+      "start": 2343.809,
+      "duration": 2.505
+    },
+    {
+      "text": " we need to reverse from here, right?",
+      "start": 2345.354,
+      "duration": 2.465
+    },
+    {
+      "text": " Your t, your before will stay at the",
+      "start": 2347.059,
+      "duration": 2.773
+    },
+    {
+      "text": " previous node because you will need it",
+      "start": 2348.881,
+      "duration": 2.873
+    },
+    {
+      "text": " later. So now you find out that count =",
+      "start": 2350.803,
+      "duration": 3.476
+    },
+    {
+      "text": " 2, meaning this one became false. Okay,",
+      "start": 2353.342,
+      "duration": 3.467
+    },
+    {
+      "text": " this became false, meaning count must",
+      "start": 2355.869,
+      "duration": 3.221
+    },
+    {
+      "text": " have become 2. Now you need to start",
+      "start": 2358.15,
+      "duration": 3.135
+    },
+    {
+      "text": " doing it. What do you need to do? Start",
+      "start": 2360.342,
+      "duration": 2.649
+    },
+    {
+      "text": " reversing. How do you reverse? How many",
+      "start": 2362.062,
+      "duration": 3.448
+    },
+    {
+      "text": " times do you need to reverse from this",
+      "start": 2364.559,
+      "duration": 2.864
+    },
+    {
+      "text": " node? Three times. So first of all, a",
+      "start": 2366.472,
+      "duration": 2.969
+    },
+    {
+      "text": " curr equals, where did curr used to be?",
+      "start": 2368.487,
+      "duration": 2.794
+    },
+    {
+      "text": " At the head. But we don't have to keep",
+      "start": 2370.381,
+      "duration": 2.25
+    },
+    {
+      "text": " it at the head. We need to reverse from",
+      "start": 2371.657,
+      "duration": 2.233
+    },
+    {
+      "text": " this node. This is your head. Curr =",
+      "start": 2372.922,
+      "duration": 2.997
+    },
+    {
+      "text": " 200. Meaning curr = t, prev = null. And",
+      "start": 2375.029,
+      "duration": 6.59
+    },
+    {
+      "text": " what will we do? While yes. We will",
+      "start": 2380.679,
+      "duration": 4.016
+    },
+    {
+      "text": " calculate an int. Times equals what?",
+      "start": 2383.758,
+      "duration": 5.041
+    },
+    {
+      "text": " Right-Left + 1, these many times. So",
+      "start": 2387.969,
+      "duration": 5.312
+    },
+    {
+      "text": " while times minus minus yes, after that",
+      "start": 2392.368,
+      "duration": 4.37
+    },
+    {
+      "text": " we do the same reversal we used to do.",
+      "start": 2395.825,
+      "duration": 4.284
+    },
+    {
+      "text": " Next equals curr dot next, uh, curr dot",
+      "start": 2400.099,
+      "duration": 5.196
+    },
+    {
+      "text": " next equals prev, turn it back. Bring",
+      "start": 2404.403,
+      "duration": 6.288
+    },
+    {
+      "text": " prev to curr and move curr forward.",
+      "start": 2409.793,
+      "duration": 4.586
+    },
+    {
+      "text": " Close this. What will happen with this?",
+      "start": 2414.467,
+      "duration": 2.965
+    },
+    {
+      "text": " See what will happen with this. First",
+      "start": 2416.532,
+      "duration": 2.663
+    },
+    {
+      "text": " of all, curr = 200. Your curr will be",
+      "start": 2418.271,
+      "duration": 3.527
+    },
+    {
+      "text": " here. First of all, this will turn.",
+      "start": 2420.855,
+      "duration": 2.895
+    },
+    {
+      "text": " This will turn and what will this",
+      "start": 2422.85,
+      "duration": 2.441
+    },
+    {
+      "text": " become? Null. So it will be nowhere.",
+      "start": 2424.335,
+      "duration": 3.049
+    },
+    {
+      "text": " Okay. After that, it happened once.",
+      "start": 2426.484,
+      "duration": 2.814
+    },
+    {
+      "text": " Remember this once. Remember once. What",
+      "start": 2428.398,
+      "duration": 3.348
+    },
+    {
+      "text": " will happen next time? The 300 one will",
+      "start": 2430.79,
+      "duration": 2.941
+    },
+    {
+      "text": " turn. The 300 one will turn and where",
+      "start": 2432.785,
+      "duration": 2.559
+    },
+    {
+      "text": " will it reach? To 200. To 200. This",
+      "start": 2434.383,
+      "duration": 3.916
+    },
+    {
+      "text": " became 200. This happened twice,",
+      "start": 2437.364,
+      "duration": 4.125
+    },
+    {
+      "text": " remember. What will happen next time?",
+      "start": 2440.541,
+      "duration": 2.568
+    },
+    {
+      "text": " The 400 one will also turn. The 400 one",
+      "start": 2442.309,
+      "duration": 2.788
+    },
+    {
+      "text": " will also turn and where will it reach?",
+      "start": 2444.134,
+      "duration": 2.476
+    },
+    {
+      "text": " To 300. To which? To 300. So it reached",
+      "start": 2445.71,
+      "duration": 4.451
+    },
+    {
+      "text": " here. It happened three times. It",
+      "start": 2449.225,
+      "duration": 2.411
+    },
+    {
+      "text": " happened three times. It happened three",
+      "start": 2450.669,
+      "duration": 2.406
+    },
+    {
+      "text": " times. But when you went out of the",
+      "start": 2452.112,
+      "duration": 2.92
+    },
+    {
+      "text": " three times, where would your curr be",
+      "start": 2454.087,
+      "duration": 3.052
+    },
+    {
+      "text": " sitting? At 500. Curr is always ahead.",
+      "start": 2456.195,
+      "duration": 4.374
+    },
+    {
+      "text": " Where would your prev be sitting? 400.",
+      "start": 2459.709,
+      "duration": 3.5
+    },
+    {
+      "text": " Okay? Where would curr be sitting? Now",
+      "start": 2463.537,
+      "duration": 2.516
+    },
+    {
+      "text": " your linked list looks like this. Your",
+      "start": 2465.095,
+      "duration": 2.637
+    },
+    {
+      "text": " linked list looks like this. Now what",
+      "start": 2466.773,
+      "duration": 2.629
+    },
+    {
+      "text": " do you need? You need to connect some",
+      "start": 2468.451,
+      "duration": 3.207
+    },
+    {
+      "text": " wires. What wires need to be connected?",
+      "start": 2470.721,
+      "duration": 3.048
+    },
+    {
+      "text": " 10. What should 10 point to? 40.",
+      "start": 2472.869,
+      "duration": 3.604
+    },
+    {
+      "text": " Meaning the node that was last in the",
+      "start": 2475.573,
+      "duration": 2.838
+    },
+    {
+      "text": " linked list must have come first in the",
+      "start": 2477.461,
+      "duration": 2.937
+    },
+    {
+      "text": " reversed part. So 10 should point to",
+      "start": 2479.448,
+      "duration": 2.737
+    },
+    {
+      "text": " that. Where is that? In Prev. Where is",
+      "start": 2481.23,
+      "duration": 3.943
+    },
+    {
+      "text": " 10? In Before. So after everything is",
+      "start": 2484.247,
+      "duration": 4.876
+    },
+    {
+      "text": " done, Before dot next. Actually, let's",
+      "start": 2488.239,
+      "duration": 4.777
+    },
+    {
+      "text": " connect the other wire first. Let's do",
+      "start": 2492.059,
+      "duration": 2.636
+    },
+    {
+      "text": " one thing. Look, let's connect the",
+      "start": 2493.733,
+      "duration": 2.585
+    },
+    {
+      "text": " other one. Right now, the current two",
+      "start": 2495.366,
+      "duration": 3.051
+    },
+    {
+      "text": " is pointing to null. But where was it",
+      "start": 2497.456,
+      "duration": 2.995
+    },
+    {
+      "text": " actually supposed to point? To five.",
+      "start": 2499.492,
+      "duration": 3.056
+    },
+    {
+      "text": " Where was it supposed to point? To 50",
+      "start": 2501.648,
+      "duration": 3.257
+    },
+    {
+      "text": " or 500. The later node, the later node.",
+      "start": 2504.009,
+      "duration": 4.011
+    },
+    {
+      "text": " Later node means the one that wasn't",
+      "start": 2507.152,
+      "duration": 2.533
+    },
+    {
+      "text": " reversed. The one that wasn't reversed.",
+      "start": 2508.728,
+      "duration": 2.395
+    },
+    {
+      "text": " See, there is a Before node after which",
+      "start": 2510.223,
+      "duration": 3.011
+    },
+    {
+      "text": " it was reversed. There is an After node",
+      "start": 2512.285,
+      "duration": 2.896
+    },
+    {
+      "text": " before which the nodes are on either",
+      "start": 2514.225,
+      "duration": 2.588
+    },
+    {
+      "text": " side. So what is it? Where is that node",
+      "start": 2515.857,
+      "duration": 2.714
+    },
+    {
+      "text": "? That node is in curr. Where is that",
+      "start": 2517.571,
+      "duration": 2.771
+    },
+    {
+      "text": " node? In curr. Where is 200? Where is",
+      "start": 2519.39,
+      "duration": 5.453
+    },
+    {
+      "text": " 200? 200 is in T. 200 is in T. Hey, we",
+      "start": 2523.938,
+      "duration": 4.171
+    },
+    {
+      "text": " only started reversing because T",
+      "start": 2527.189,
+      "duration": 3.56
+    },
+    {
+      "text": " arrived at 200. So T will stay at 200,",
+      "start": 2529.829,
+      "duration": 3.574
+    },
+    {
+      "text": " right? So what can we do? T dot next",
+      "start": 2532.461,
+      "duration": 4.826
+    },
+    {
+      "text": " equals curr. Meaning, where will T dot",
+      "start": 2536.468,
+      "duration": 5.333
+    },
+    {
+      "text": " next, the next of 200, go? To 500. To",
+      "start": 2540.879,
+      "duration": 4.486
+    },
+    {
+      "text": " 500. Where? To 500. It went to 500. I'm",
+      "start": 2544.495,
+      "duration": 4.984
+    },
+    {
+      "text": " not drawing an arrow because it will",
+      "start": 2548.514,
+      "duration": 2.274
+    },
+    {
+      "text": " just get messy. After that, after that,",
+      "start": 2549.823,
+      "duration": 3.119
+    },
+    {
+      "text": " one task is done. One task is done.",
+      "start": 2552.006,
+      "duration": 2.783
+    },
+    {
+      "text": " Meaning, this one is connected. This",
+      "start": 2553.889,
+      "duration": 2.477
+    },
+    {
+      "text": " one is connected. Very good. Let's",
+      "start": 2555.416,
+      "duration": 2.83
+    },
+    {
+      "text": " connect this one. From 10 to 40, where",
+      "start": 2557.285,
+      "duration": 2.743
+    },
+    {
+      "text": " will you find 10? Before, Before. That",
+      "start": 2559.078,
+      "duration": 3.073
+    },
+    {
+      "text": " is why we extracted Before. That is why",
+      "start": 2561.196,
+      "duration": 2.83
+    },
+    {
+      "text": " Before was extracted. Before dot next",
+      "start": 2563.072,
+      "duration": 3.714
+    },
+    {
+      "text": " dot next is equal to where? Previous.",
+      "start": 2565.895,
+      "duration": 4.769
+    },
+    {
+      "text": " Yes. Before dot next is equal to",
+      "start": 2569.859,
+      "duration": 3.24
+    },
+    {
+      "text": " Previous. Before dot next is equal to",
+      "start": 2572.162,
+      "duration": 3.858
+    },
+    {
+      "text": " Previous. What is Previous? 400, 400,",
+      "start": 2575.101,
+      "duration": 3.651
+    },
+    {
+      "text": " that's it, your job is done. The job is",
+      "start": 2577.856,
+      "duration": 4.437
+    },
+    {
+      "text": " done. See, it has been reversed. The",
+      "start": 2581.334,
+      "duration": 3.017
+    },
+    {
+      "text": " wires on either side have been",
+      "start": 2583.383,
+      "duration": 1.957
+    },
+    {
+      "text": " connected. Now, no matter how big the",
+      "start": 2584.372,
+      "duration": 2.407
+    },
+    {
+      "text": " linked list is, there's no need, right?",
+      "start": 2585.817,
+      "duration": 2.481
+    },
+    {
+      "text": " It's done. We did as much reversing as",
+      "start": 2587.398,
+      "duration": 2.587
+    },
+    {
+      "text": " was needed. Return head. Now see how",
+      "start": 2589.025,
+      "duration": 6.384
+    },
+    {
+      "text": " your linked list is formed. See how",
+      "start": 2594.448,
+      "duration": 2.461
+    },
+    {
+      "text": " your linked list is. It starts with 10",
+      "start": 2595.953,
+      "duration": 3.252
+    },
+    {
+      "text": " first. So first is 10. 10 goes to 400,",
+      "start": 2598.279,
+      "duration": 4.056
+    },
+    {
+      "text": " so it becomes 40. 40 goes to 300, it",
+      "start": 2601.404,
+      "duration": 3.592
+    },
+    {
+      "text": " becomes 30. 30 goes, it forms at 200,",
+      "start": 2604.061,
+      "duration": 3.547
+    },
+    {
+      "text": " 20 goes, it forms at 500, see 50, it is",
+      "start": 2606.676,
+      "duration": 3.664
+    },
+    {
+      "text": " reversed, right! This middle part has",
+      "start": 2609.408,
+      "duration": 3.459
+    },
+    {
+      "text": " reversed, very good. So you can write",
+      "start": 2611.931,
+      "duration": 3.172
+    },
+    {
+      "text": " this. So how can you write this? Come,",
+      "start": 2614.154,
+      "duration": 2.939
+    },
+    {
+      "text": " this is its dry run. Let's see the code",
+      "start": 2616.177,
+      "duration": 3.575
+    },
+    {
+      "text": " too, the code isn't that special either",
+      "start": 2618.796,
+      "duration": 2.718
+    },
+    {
+      "text": ". First of all, you will get a head and",
+      "start": 2620.514,
+      "duration": 3.472
+    },
+    {
+      "text": " you will have to return a head. So you",
+      "start": 2623.029,
+      "duration": 2.77
+    },
+    {
+      "text": "...if you guys didn't understand,",
+      "start": 2624.799,
+      "duration": 2.76
+    },
+    {
+      "text": " please tell in the comments, I will",
+      "start": 2626.612,
+      "duration": 2.867
+    },
+    {
+      "text": " explain it again. It was a very good",
+      "start": 2628.532,
+      "duration": 2.735
+    },
+    {
+      "text": " question. So now, for a fun, you got a",
+      "start": 2630.305,
+      "duration": 4.025
+    },
+    {
+      "text": " head, you got a head. Right, there is",
+      "start": 2633.418,
+      "duration": 5.98
+    },
+    {
+      "text": " an edge case in this. I keep mentioning",
+      "start": 2638.465,
+      "duration": 3.196
+    },
+    {
+      "text": " there is an edge case. I will tell you,",
+      "start": 2640.702,
+      "duration": 2.569
+    },
+    {
+      "text": " if some people have thought of it, then",
+      "start": 2642.307,
+      "duration": 2.391
+    },
+    {
+      "text": " that's very good. First of all, if head",
+      "start": 2643.734,
+      "duration": 4.547
+    },
+    {
+      "text": " is equal to null, meaning the linked",
+      "start": 2647.326,
+      "duration": 2.639
+    },
+    {
+      "text": " list is empty, then return null, you",
+      "start": 2649.01,
+      "duration": 2.639
+    },
+    {
+      "text": " don't need to do anything. Very good.",
+      "start": 2650.694,
+      "duration": 3.117
+    },
+    {
+      "text": " What other easy case did we see? If",
+      "start": 2652.911,
+      "duration": 2.893
+    },
+    {
+      "text": " left is equal to right. Then what will",
+      "start": 2654.893,
+      "duration": 3.697
+    },
+    {
+      "text": " we do? Reverse one by one. It won't",
+      "start": 2657.629,
+      "duration": 2.904
+    },
+    {
+      "text": " make any difference. Return head. Now",
+      "start": 2659.58,
+      "duration": 4.771
+    },
+    {
+      "text": " your main program has started. So node",
+      "start": 2663.409,
+      "duration": 3.83
+    },
+    {
+      "text": " t = head, we need to keep a 'before'",
+      "start": 2669.179,
+      "duration": 4.424
+    },
+    {
+      "text": " with us. Initially, take before as null",
+      "start": 2672.698,
+      "duration": 4.674
+    },
+    {
+      "text": ". We also have to keep a 'pos' with us.",
+      "start": 2676.372,
+      "duration": 3.907
+    },
+    {
+      "text": " For the position, because we have to",
+      "start": 2679.399,
+      "duration": 2.841
+    },
+    {
+      "text": " find out where to do it. An int, we",
+      "start": 2681.291,
+      "duration": 2.891
+    },
+    {
+      "text": " will make this later. Alright, that's",
+      "start": 2683.238,
+      "duration": 4.043
+    },
+    {
+      "text": " enough. Let's start our loop. Start our",
+      "start": 2686.396,
+      "duration": 5.027
+    },
+    {
+      "text": " loop. While t not equal to null. What",
+      "start": 2690.545,
+      "duration": 8.457
+    },
+    {
+      "text": " was checked first? If my pos is less",
+      "start": 2698.056,
+      "duration": 4.018
+    },
+    {
+      "text": " than left. Meaning you haven't reached",
+      "start": 2701.188,
+      "duration": 3.331
+    },
+    {
+      "text": " that left yet. Haven't reached that",
+      "start": 2703.559,
+      "duration": 2.417
+    },
+    {
+      "text": " left. Then what did we do? Before = t =",
+      "start": 2705.014,
+      "duration": 3.72
+    },
+    {
+      "text": " t.next, pos ++, meaning you haven't",
+      "start": 2707.866,
+      "duration": 5.625
+    },
+    {
+      "text": " reached there. So keep updating before.",
+      "start": 2712.624,
+      "duration": 4.253
+    },
+    {
+      "text": " And wait until you reach there. You",
+      "start": 2715.977,
+      "duration": 2.551
+    },
+    {
+      "text": " haven't even reached left, so why would",
+      "start": 2717.562,
+      "duration": 2.353
+    },
+    {
+      "text": " you reverse? Very good. And continue",
+      "start": 2718.95,
+      "duration": 3.751
+    },
+    {
+      "text": " and continue if that is not the case.",
+      "start": 2721.758,
+      "duration": 3.102
+    },
+    {
+      "text": " If that is not the case then come down",
+      "start": 2724.579,
+      "duration": 2.126
+    },
+    {
+      "text": " to the while loop. Its continuation is",
+      "start": 2725.734,
+      "duration": 2.453
+    },
+    {
+      "text": " below. What is its continuation?",
+      "start": 2727.231,
+      "duration": 2.133
+    },
+    {
+      "text": " Continuation is below. If that is not",
+      "start": 2728.464,
+      "duration": 2.489
+    },
+    {
+      "text": " the case. If your pos has become two,",
+      "start": 2729.988,
+      "duration": 2.677
+    },
+    {
+      "text": " meaning you have come here. Meaning",
+      "start": 2731.712,
+      "duration": 2.904
+    },
+    {
+      "text": " your pos = 2 or pos has become equal to",
+      "start": 2733.694,
+      "duration": 4.062
+    },
+    {
+      "text": " left. Very good. It is stored in before",
+      "start": 2736.834,
+      "duration": 4.051
+    },
+    {
+      "text": ". Okay? So perform your reverse. Node*",
+      "start": 2739.885,
+      "duration": 4.432
+    },
+    {
+      "text": "curr = t, okay? Node*prev = NULL, same",
+      "start": 2743.317,
+      "duration": 6.405
+    },
+    {
+      "text": " as how reversal happens, and int how",
+      "start": 2748.84,
+      "duration": 5.276
+    },
+    {
+      "text": " many times, times = right-left + 1,",
+      "start": 2753.235,
+      "duration": 5.157
+    },
+    {
+      "text": " right and left are given in input. Okay",
+      "start": 2757.511,
+      "duration": 6.244
+    },
+    {
+      "text": "? While times minus minus, what did we",
+      "start": 2762.755,
+      "duration": 6.687
+    },
+    {
+      "text": " use to do? Node*x = curr.next, because",
+      "start": 2768.531,
+      "duration": 6.093
+    },
+    {
+      "text": " you had to go forward. curr.next = prev",
+      "start": 2773.717,
+      "duration": 6.837
+    },
+    {
+      "text": ", very good. prev = curr Very good.",
+      "start": 2779.554,
+      "duration": 9.854
+    },
+    {
+      "text": " This while loop has run. It got",
+      "start": 2788.508,
+      "duration": 2.474
+    },
+    {
+      "text": " reversed. It got reversed. You are",
+      "start": 2790.024,
+      "duration": 2.421
+    },
+    {
+      "text": " still in the same place. It got",
+      "start": 2791.471,
+      "duration": 1.974
+    },
+    {
+      "text": " reversed. It got reversed. But now what",
+      "start": 2792.483,
+      "duration": 2.742
+    },
+    {
+      "text": " do you have to do? Now you don't have",
+      "start": 2794.266,
+      "duration": 2.34
+    },
+    {
+      "text": " to do anything. You need to connect",
+      "start": 2795.634,
+      "duration": 2.238
+    },
+    {
+      "text": " some wires. What wires did we connect?",
+      "start": 2796.91,
+      "duration": 2.478
+    },
+    {
+      "text": " See, first of all, t.next = curr. Why?",
+      "start": 2798.488,
+      "duration": 4.9
+    },
+    {
+      "text": " Because t was standing at 200. t was",
+      "start": 2802.488,
+      "duration": 2.703
+    },
+    {
+      "text": " standing at 200. Where does it need to",
+      "start": 2804.24,
+      "duration": 2.647
+    },
+    {
+      "text": " go? It needs to go to curr. It needs to",
+      "start": 2805.923,
+      "duration": 2.534
+    },
+    {
+      "text": " go to 500. So we had already seen that",
+      "start": 2807.495,
+      "duration": 2.602
+    },
+    {
+      "text": " this will work. So wherever t was",
+      "start": 2809.139,
+      "duration": 4.766
+    },
+    {
+      "text": " standing, first of all, t.next = curr.",
+      "start": 2813.037,
+      "duration": 6.022
+    },
+    {
+      "text": " Right? After that, before.next = prev.",
+      "start": 2819.419,
+      "duration": 4.96
+    },
+    {
+      "text": " before.next = prev and return head,",
+      "start": 2824.399,
+      "duration": 8.404
+    },
+    {
+      "text": " close the while loop, and after that,",
+      "start": 2831.903,
+      "duration": 4.7
+    },
+    {
+      "text": " you close the function too. There is",
+      "start": 2835.703,
+      "duration": 4.196
+    },
+    {
+      "text": " nothing much to return, so this is done",
+      "start": 2838.949,
+      "duration": 2.933
+    },
+    {
+      "text": ". Okay, so this is done, this will work",
+      "start": 2840.882,
+      "duration": 4.626
+    },
+    {
+      "text": ", very good. This is absolutely the",
+      "start": 2844.508,
+      "duration": 2.778
+    },
+    {
+      "text": " correct program. t.next = curr, meaning",
+      "start": 2846.311,
+      "duration": 2.576
+    },
+    {
+      "text": " what are you doing? In a way, what are",
+      "start": 2847.936,
+      "duration": 2.83
+    },
+    {
+      "text": " you doing? This is your before node,",
+      "start": 2849.811,
+      "duration": 2.561
+    },
+    {
+      "text": " this is your after node, the middle",
+      "start": 2851.412,
+      "duration": 2.422
+    },
+    {
+      "text": " part was reversed. Now you are",
+      "start": 2852.874,
+      "duration": 2.28
+    },
+    {
+      "text": " connecting this wire and then this wire",
+      "start": 2854.195,
+      "duration": 2.59
+    },
+    {
+      "text": ". So that is what you are doing. Okay.",
+      "start": 2855.785,
+      "duration": 3.146
+    },
+    {
+      "text": " But, but, but what is the edge case in",
+      "start": 2858.06,
+      "duration": 3.452
+    },
+    {
+      "text": " this? What if, by mistake, left = 1 is",
+      "start": 2860.577,
+      "duration": 5.077
+    },
+    {
+      "text": " given? What if, by mistake, left = 1 is",
+      "start": 2864.758,
+      "duration": 4.219
+    },
+    {
+      "text": " given? Now what does left = 1 mean?",
+      "start": 2868.049,
+      "duration": 3.731
+    },
+    {
+      "text": " Suppose it is like this: one, two,",
+      "start": 2870.939,
+      "duration": 5.253
+    },
+    {
+      "text": " three, four. Suppose here left = 1.",
+      "start": 2875.317,
+      "duration": 5.283
+    },
+    {
+      "text": " Right = and it is like one is here. 2,",
+      "start": 2879.816,
+      "duration": 4.662
+    },
+    {
+      "text": " 3, 4, right = let's say is two. Right =",
+      "start": 2883.584,
+      "duration": 4.784
+    },
+    {
+      "text": " 2, you have to reverse from one to two.",
+      "start": 2887.421,
+      "duration": 3.058
+    },
+    {
+      "text": " You have to reverse from one to two. So",
+      "start": 2889.679,
+      "duration": 3.677
+    },
+    {
+      "text": " when you reverse this, it will look",
+      "start": 2892.404,
+      "duration": 2.686
+    },
+    {
+      "text": " like this. When you reverse this, it",
+      "start": 2894.138,
+      "duration": 2.572
+    },
+    {
+      "text": " will start looking like this. Two will",
+      "start": 2895.746,
+      "duration": 2.862
+    },
+    {
+      "text": " start pointing to one and the rest will",
+      "start": 2897.694,
+      "duration": 4.36
+    },
+    {
+      "text": " remain the same. Now, at this time,",
+      "start": 2901.14,
+      "duration": 4.721
+    },
+    {
+      "text": " this is fine. This was your t, so you",
+      "start": 2904.952,
+      "duration": 4.549
+    },
+    {
+      "text": " do t.next = curr. Your curr will be",
+      "start": 2908.584,
+      "duration": 3.384
+    },
+    {
+      "text": " here. So the wire is connected. But the",
+      "start": 2911.02,
+      "duration": 4.456
+    },
+    {
+      "text": " next connection you used to make,",
+      "start": 2914.541,
+      "duration": 3.149
+    },
+    {
+      "text": " before.next = prev, when you reverse it",
+      "start": 2916.756,
+      "duration": 3.54
+    },
+    {
+      "text": ", prev will stay at two. You will try",
+      "start": 2919.296,
+      "duration": 4.605
+    },
+    {
+      "text": " before.next = prev. Where is before?",
+      "start": 2922.984,
+      "duration": 3.686
+    },
+    {
+      "text": " Where is before? What did we call",
+      "start": 2925.77,
+      "duration": 2.838
+    },
+    {
+      "text": " before? The part of the linked list",
+      "start": 2927.659,
+      "duration": 3.067
+    },
+    {
+      "text": " that wasn't reversed, but here there is",
+      "start": 2929.775,
+      "duration": 2.918
+    },
+    {
+      "text": " no part that isn't reversed. It",
+      "start": 2931.742,
+      "duration": 2.634
+    },
+    {
+      "text": " reversed from the start because left",
+      "start": 2933.414,
+      "duration": 2.388
+    },
+    {
+      "text": " was one, right? Left one means the",
+      "start": 2934.841,
+      "duration": 2.822
+    },
+    {
+      "text": " initial part got reversed. Technically,",
+      "start": 2936.719,
+      "duration": 3.148
+    },
+    {
+      "text": " what should the head be here? Prev,",
+      "start": 2938.913,
+      "duration": 2.734
+    },
+    {
+      "text": " what should the new head of the linked",
+      "start": 2940.701,
+      "duration": 3.036
+    },
+    {
+      "text": " list be? Prev, because it reversed from",
+      "start": 2942.791,
+      "duration": 3.023
+    },
+    {
+      "text": " the start. Why did we return the head",
+      "start": 2944.861,
+      "duration": 3.019
+    },
+    {
+      "text": " earlier? Because the initial part",
+      "start": 2946.933,
+      "duration": 2.644
+    },
+    {
+      "text": " wasn't reversed. One wasn't reversed.",
+      "start": 2948.624,
+      "duration": 3.009
+    },
+    {
+      "text": " Some part in the middle was reversed.",
+      "start": 2950.733,
+      "duration": 2.44
+    },
+    {
+      "text": " Here, the starting part got reversed.",
+      "start": 2952.459,
+      "duration": 2.56
+    },
+    {
+      "text": " So at the head it is prev, and when you",
+      "start": 2954.339,
+      "duration": 3.18
+    },
+    {
+      "text": " do before.next = prev, what is before?",
+      "start": 2956.574,
+      "duration": 3.125
+    },
+    {
+      "text": " Before is nothing, before will be null,",
+      "start": 2958.879,
+      "duration": 2.702
+    },
+    {
+      "text": " man. Hey, its before will be null. Why",
+      "start": 2960.625,
+      "duration": 3.416
+    },
+    {
+      "text": " will it be null? Because look at how",
+      "start": 2963.085,
+      "duration": 2.724
+    },
+    {
+      "text": " you create before. How did you check",
+      "start": 2964.857,
+      "duration": 3.273
+    },
+    {
+      "text": " before? If pos is less than left. How",
+      "start": 2967.203,
+      "duration": 4.436
+    },
+    {
+      "text": " did pos start? Where did pos start from",
+      "start": 2970.732,
+      "duration": 4.528
+    },
+    {
+      "text": "? From one. So as soon as you start the",
+      "start": 2974.26,
+      "duration": 4.466
+    },
+    {
+      "text": " program, is one less than one? No. No,",
+      "start": 2977.79,
+      "duration": 3.811
+    },
+    {
+      "text": " no. You will directly come here to",
+      "start": 2980.714,
+      "duration": 2.694
+    },
+    {
+      "text": " reverse. And where did you start before",
+      "start": 2982.45,
+      "duration": 2.553
+    },
+    {
+      "text": " from? From null. So before is null. You",
+      "start": 2984.04,
+      "duration": 3.12
+    },
+    {
+      "text": " are saying null.next = prev. That is",
+      "start": 2986.22,
+      "duration": 3.116
+    },
+    {
+      "text": " why, that is why you should not do that",
+      "start": 2988.383,
+      "duration": 2.82
+    },
+    {
+      "text": ". You need t.next = curr. Okay? t.next,",
+      "start": 2990.203,
+      "duration": 4.858
+    },
+    {
+      "text": " okay? What was t? t was the node from",
+      "start": 2994.131,
+      "duration": 3.602
+    },
+    {
+      "text": " which you started reversing, so that",
+      "start": 2996.777,
+      "duration": 2.581
+    },
+    {
+      "text": " node automatically went to the end.",
+      "start": 2998.402,
+      "duration": 2.537
+    },
+    {
+      "text": " That node should point to the next one",
+      "start": 3000.135,
+      "duration": 3.307
+    },
+    {
+      "text": " where curr is. So if curr is also null,",
+      "start": 3002.502,
+      "duration": 2.959
+    },
+    {
+      "text": " then it will point to null. Okay? If",
+      "start": 3004.503,
+      "duration": 2.844
+    },
+    {
+      "text": " curr is some node, it will point to",
+      "start": 3006.386,
+      "duration": 2.361
+    },
+    {
+      "text": " that. Okay? But, but, but, you have to",
+      "start": 3007.786,
+      "duration": 4.545
+    },
+    {
+      "text": " be careful about before. What do you",
+      "start": 3011.433,
+      "duration": 3.938
+    },
+    {
+      "text": " need to keep in mind? Look, you have to",
+      "start": 3014.407,
+      "duration": 3.15
+    },
+    {
+      "text": " check if, If before, meaning if there",
+      "start": 3016.626,
+      "duration": 6.367
+    },
+    {
+      "text": " is a value in before, that is, if there",
+      "start": 3022.054,
+      "duration": 3.389
+    },
+    {
+      "text": " is a part that hasn't been reversed,",
+      "start": 3024.504,
+      "duration": 3.206
+    },
+    {
+      "text": " then it's fine, then it's fine,",
+      "start": 3026.771,
+      "duration": 2.899
+    },
+    {
+      "text": " before.next = prev, and the head will",
+      "start": 3028.731,
+      "duration": 3.267
+    },
+    {
+      "text": " remain the same because a part wasn't",
+      "start": 3031.059,
+      "duration": 3.267
+    },
+    {
+      "text": " reversed, so its head will remain",
+      "start": 3033.387,
+      "duration": 3.021
+    },
+    {
+      "text": " normal. So what were you supposed to",
+      "start": 3035.47,
+      "duration": 3.016
+    },
+    {
+      "text": " return? The head. But if that's not the",
+      "start": 3037.524,
+      "duration": 5.525
+    },
+    {
+      "text": " case, if it's not the case, else,",
+      "start": 3042.107,
+      "duration": 2.902
+    },
+    {
+      "text": " there's no need for else, that will",
+      "start": 3044.067,
+      "duration": 3.017
+    },
+    {
+      "text": " just return, if it's not the case then",
+      "start": 3046.142,
+      "duration": 3.191
+    },
+    {
+      "text": " it's fine, nothing, return prev because",
+      "start": 3048.39,
+      "duration": 3.249
+    },
+    {
+      "text": " this will become your new head, this",
+      "start": 3050.696,
+      "duration": 3.075
+    },
+    {
+      "text": " will become your new head, look, this",
+      "start": 3052.829,
+      "duration": 3.133
+    },
+    {
+      "text": " will become your new head. Take a very",
+      "start": 3055.02,
+      "duration": 4.673
+    },
+    {
+      "text": " large linked list too, 1 2 3 4 5 6,",
+      "start": 3058.8,
+      "duration": 4.733
+    },
+    {
+      "text": " suppose someone tells you that, uh,",
+      "start": 3062.64,
+      "duration": 4.733
+    },
+    {
+      "text": " left equals 1, right equals 4. Meaning",
+      "start": 3066.48,
+      "duration": 5.08
+    },
+    {
+      "text": " this is your left. 2 3 4, these need to",
+      "start": 3070.66,
+      "duration": 4.99
+    },
+    {
+      "text": " be reversed. So if you reverse them, it",
+      "start": 3074.753,
+      "duration": 3.204
+    },
+    {
+      "text": " will become like this. 4 3 2 1 and",
+      "start": 3076.99,
+      "duration": 2.861
+    },
+    {
+      "text": " these ones on this side will stay as",
+      "start": 3078.944,
+      "duration": 4.36
+    },
+    {
+      "text": " they are. Five and six need to be kept",
+      "start": 3082.398,
+      "duration": 2.94
+    },
+    {
+      "text": " as they are. Okay. What will you do",
+      "start": 3084.374,
+      "duration": 3.125
+    },
+    {
+      "text": " first? t will be here because you",
+      "start": 3086.558,
+      "duration": 2.838
+    },
+    {
+      "text": " started reversing from here. So t dot",
+      "start": 3088.449,
+      "duration": 2.989
+    },
+    {
+      "text": " next is equal to curr. So this will",
+      "start": 3090.487,
+      "duration": 2.631
+    },
+    {
+      "text": " become correct. But there is no before.",
+      "start": 3092.155,
+      "duration": 2.882
+    },
+    {
+      "text": " So what is the head of this linked list",
+      "start": 3094.137,
+      "duration": 3.007
+    },
+    {
+      "text": "? The head of this linked list is four.",
+      "start": 3096.144,
+      "duration": 2.648
+    },
+    {
+      "text": " Where did you get four from? Four will",
+      "start": 3097.892,
+      "duration": 2.864
+    },
+    {
+      "text": " be on prev, man. We saw that four was",
+      "start": 3099.816,
+      "duration": 3.001
+    },
+    {
+      "text": " on prev. You will have to return prev",
+      "start": 3101.864,
+      "duration": 2.955
+    },
+    {
+      "text": " here, that when there is no before,",
+      "start": 3103.87,
+      "duration": 2.8
+    },
+    {
+      "text": " return prev. So this was a small edge",
+      "start": 3105.721,
+      "duration": 2.721
+    },
+    {
+      "text": " case in this, when? When left was equal",
+      "start": 3107.484,
+      "duration": 2.993
+    },
+    {
+      "text": " to one. How did we know? If there is a",
+      "start": 3109.535,
+      "duration": 3.301
+    },
+    {
+      "text": " before. If there is some before. If",
+      "start": 3111.891,
+      "duration": 2.863
+    },
+    {
+      "text": " before is not null, then left will not",
+      "start": 3113.797,
+      "duration": 2.631
+    },
+    {
+      "text": " be one. Because there will be something",
+      "start": 3115.471,
+      "duration": 2.621
+    },
+    {
+      "text": " ahead, since before gets updated. If",
+      "start": 3117.132,
+      "duration": 2.478
+    },
+    {
+      "text": " before is null, it means left will be",
+      "start": 3118.649,
+      "duration": 2.447
+    },
+    {
+      "text": " one. So this is your small code. Uh,",
+      "start": 3120.135,
+      "duration": 4.839
+    },
+    {
+      "text": " try to code this by yourself. If you",
+      "start": 3124.064,
+      "duration": 3.954
+    },
+    {
+      "text": " understand some other algorithm, you",
+      "start": 3127.058,
+      "duration": 2.454
+    },
+    {
+      "text": " can do that too. There is no hard and",
+      "start": 3128.552,
+      "duration": 2.385
+    },
+    {
+      "text": " fast rule that you have to do just this",
+      "start": 3129.969,
+      "duration": 2.245
+    },
+    {
+      "text": ". But do code it for sure. It was a",
+      "start": 3131.214,
+      "duration": 2.859
+    },
+    {
+      "text": " very good question. It was a complex",
+      "start": 3133.111,
+      "duration": 2.523
+    },
+    {
+      "text": " question. It wasn't hard. I mean, it's",
+      "start": 3134.677,
+      "duration": 2.739
+    },
+    {
+      "text": " alright. I mean, we can't call it hard.",
+      "start": 3136.452,
+      "duration": 3.023
+    },
+    {
+      "text": " It can be complex. Right? So, thank you",
+      "start": 3138.575,
+      "duration": 3.118
+    },
+    {
+      "text": " very much for coming. Keep moving along",
+      "start": 3140.731,
+      "duration": 2.604
+    },
+    {
+      "text": ".",
+      "start": 3142.335,
+      "duration": 1.042
+    }
+  ]
+}
