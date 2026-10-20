@@ -163,8 +163,9 @@ def get_video_id(url):
 
 
 def Transcript():
-    
-     for url in urls:
+    failed_video_ids = []
+
+    for url in urls:
 
         # Get video ID
         video_id = get_video_id(url)
@@ -230,7 +231,15 @@ def Transcript():
 
         except Exception as e:
             print(f"Failed for {video_id}: {e}")
-            break
+            failed_video_ids.append(video_id)
+            continue
+
+    if failed_video_ids:
+        print("Transcripts not downloaded for these video IDs:")
+        for video_id in failed_video_ids:
+            print(video_id)
+    else:
+        print("All requested transcripts are downloaded or already existed.")
 
     
 

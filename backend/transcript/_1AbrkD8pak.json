@@ -1,0 +1,4639 @@
+{
+  "language": "English (United States) (auto-generated)",
+  "language_code": "en-US",
+  "is_generated": true,
+  "videoId": "_1AbrkD8pak",
+  "channel": "Padho with Pratyush",
+  "segments": [
+    {
+      "text": "If someone asks us, what are the most",
+      "start": 0.279,
+      "duration": 2.863
+    },
+    {
+      "text": " important topics for interviews these",
+      "start": 2.193,
+      "duration": 2.863
+    },
+    {
+      "text": " days? Many would think, okay, the most",
+      "start": 4.107,
+      "duration": 3.235
+    },
+    {
+      "text": " important must be the hardest ones,",
+      "start": 6.392,
+      "duration": 2.754
+    },
+    {
+      "text": " like Graphs or DP. Many people have",
+      "start": 8.196,
+      "duration": 2.533
+    },
+    {
+      "text": " been commenting to just leave",
+      "start": 9.76,
+      "duration": 1.897
+    },
+    {
+      "text": " everything else. And just teach DP",
+      "start": 10.688,
+      "duration": 2.318
+    },
+    {
+      "text": " directly. No. The most important topics",
+      "start": 12.049,
+      "duration": 3.328
+    },
+    {
+      "text": " are Binary Search and Heaps. Why are",
+      "start": 14.441,
+      "duration": 3.162
+    },
+    {
+      "text": " they important? Because look, only 10%",
+      "start": 16.643,
+      "duration": 3.528
+    },
+    {
+      "text": "or 5%of companies ask about DP and",
+      "start": 19.171,
+      "duration": 3.827
+    },
+    {
+      "text": " Graphs. The very simple topics you have",
+      "start": 22.081,
+      "duration": 2.82
+    },
+    {
+      "text": " been studying, like patterns. Two",
+      "start": 23.938,
+      "duration": 2.985
+    },
+    {
+      "text": " pointers, sliding window, Kadane's—",
+      "start": 25.971,
+      "duration": 2.778
+    },
+    {
+      "text": "these can be kept in the easy-to-medium",
+      "start": 27.749,
+      "duration": 2.874
+    },
+    {
+      "text": " category, but these topics, Stack,",
+      "start": 29.671,
+      "duration": 2.633
+    },
+    {
+      "text": " Binary Search, and Heap, are in the",
+      "start": 31.352,
+      "duration": 2.682
+    },
+    {
+      "text": " middle. They are the foundation of the",
+      "start": 33.082,
+      "duration": 3.222
+    },
+    {
+      "text": " entire DSA. They come right in the",
+      "start": 35.345,
+      "duration": 2.633
+    },
+    {
+      "text": " middle, after you have studied all the",
+      "start": 37.027,
+      "duration": 2.853
+    },
+    {
+      "text": " easy stuff. After that, you reached the",
+      "start": 38.929,
+      "duration": 2.497
+    },
+    {
+      "text": " middle, and now you will move on to the",
+      "start": 40.458,
+      "duration": 2.244
+    },
+    {
+      "text": " hard stuff. After Heaps, you go",
+      "start": 41.734,
+      "duration": 2.547
+    },
+    {
+      "text": " directly into hard levels like Trees,",
+      "start": 43.33,
+      "duration": 2.797
+    },
+    {
+      "text": " Graphs, DP, and Recursion. This is the",
+      "start": 45.176,
+      "duration": 3.149
+    },
+    {
+      "text": " central part. In 60 to 70%of interviews",
+      "start": 47.381,
+      "duration": 3.568
+    },
+    {
+      "text": ", Binary Search, Heaps, and Stacks are",
+      "start": 49.949,
+      "duration": 3.645
+    },
+    {
+      "text": " asked. So it is very important that you",
+      "start": 52.664,
+      "duration": 2.768
+    },
+    {
+      "text": " study the Heap data structure and study",
+      "start": 54.471,
+      "duration": 2.524
+    },
+    {
+      "text": " it carefully. I don't want you to just",
+      "start": 56.034,
+      "duration": 3.056
+    },
+    {
+      "text": " memorize what a heap is, no. I will",
+      "start": 58.15,
+      "duration": 3.119
+    },
+    {
+      "text": " tell you exactly what we will cover in",
+      "start": 60.32,
+      "duration": 2.958
+    },
+    {
+      "text": " this lecture. At the end, I will teach",
+      "start": 62.33,
+      "duration": 2.857
+    },
+    {
+      "text": " you pattern recognition. But before",
+      "start": 64.227,
+      "duration": 2.474
+    },
+    {
+      "text": " that, you need to understand what a",
+      "start": 65.74,
+      "duration": 2.384
+    },
+    {
+      "text": " heap is. What is a heap in the real",
+      "start": 67.163,
+      "duration": 2.62
+    },
+    {
+      "text": " world? Everyone must have had a pyramid",
+      "start": 68.83,
+      "duration": 2.704
+    },
+    {
+      "text": " in school. I will explain using that",
+      "start": 70.576,
+      "duration": 2.53
+    },
+    {
+      "text": " example. Why? Why is it important to",
+      "start": 72.147,
+      "duration": 2.66
+    },
+    {
+      "text": " understand? Because although heaps",
+      "start": 73.839,
+      "duration": 2.823
+    },
+    {
+      "text": " exist in Python, C ++, and Java, and",
+      "start": 75.724,
+      "duration": 3.243
+    },
+    {
+      "text": " are already built-in. But you need to",
+      "start": 78.029,
+      "duration": 3.131
+    },
+    {
+      "text": " understand how a heap actually works.",
+      "start": 80.204,
+      "duration": 2.649
+    },
+    {
+      "text": " They ask, okay, you are using a heap.",
+      "start": 81.952,
+      "duration": 3.241
+    },
+    {
+      "text": " How does the heap work? What is a heap?",
+      "start": 84.292,
+      "duration": 3.107
+    },
+    {
+      "text": " Why does it exist? Why is it used? What",
+      "start": 86.499,
+      "duration": 3.008
+    },
+    {
+      "text": " is the power of a heap? So, we will",
+      "start": 88.541,
+      "duration": 2.502
+    },
+    {
+      "text": " discuss all of that in this. So, watch",
+      "start": 90.096,
+      "duration": 2.932
+    },
+    {
+      "text": " the video until the end. At the end, I",
+      "start": 92.064,
+      "duration": 2.604
+    },
+    {
+      "text": " will teach you the pattern recognition.",
+      "start": 93.71,
+      "duration": 2.649
+    },
+    {
+      "text": " And in the next five or six lectures, I",
+      "start": 96.099,
+      "duration": 2.772
+    },
+    {
+      "text": " will try to ensure you can solve all",
+      "start": 97.916,
+      "duration": 2.636
+    },
+    {
+      "text": " heap questions and recognize, \"Okay,",
+      "start": 99.598,
+      "duration": 2.635
+    },
+    {
+      "text": " this was asked in this question.\" This",
+      "start": 101.279,
+      "duration": 3.354
+    },
+    {
+      "text": " is what a heap offers us. That is why a",
+      "start": 103.685,
+      "duration": 2.902
+    },
+    {
+      "text": " heap was used here. It's not that the",
+      "start": 105.626,
+      "duration": 2.615
+    },
+    {
+      "text": " topic title says \"Heap,\" so we just",
+      "start": 107.287,
+      "duration": 2.603
+    },
+    {
+      "text": " applied a heap. No. Why apply a heap?",
+      "start": 108.936,
+      "duration": 3.026
+    },
+    {
+      "text": " And you will realize how powerful a",
+      "start": 111.062,
+      "duration": 2.444
+    },
+    {
+      "text": " data structure the heap is. So, let's",
+      "start": 112.547,
+      "duration": 2.607
+    },
+    {
+      "text": " get started. Right? You must have all",
+      "start": 114.198,
+      "duration": 3.306
+    },
+    {
+      "text": " seen those pyramids in your schools,",
+      "start": 116.547,
+      "duration": 2.534
+    },
+    {
+      "text": " right? Pyramids were made in PT class",
+      "start": 118.124,
+      "duration": 2.823
+    },
+    {
+      "text": " or in groups where people would form a",
+      "start": 119.993,
+      "duration": 2.757
+    },
+    {
+      "text": " pyramid with four people at the bottom.",
+      "start": 121.796,
+      "duration": 2.804
+    },
+    {
+      "text": " Two people above them, and one at the",
+      "start": 123.76,
+      "duration": 2.51
+    },
+    {
+      "text": " very top. In that, what used to happen",
+      "start": 125.311,
+      "duration": 2.992
+    },
+    {
+      "text": " was that the lightest child in the",
+      "start": 127.356,
+      "duration": 2.827
+    },
+    {
+      "text": " class. The child who remained a bit",
+      "start": 129.236,
+      "duration": 2.67
+    },
+    {
+      "text": " small, whose development didn't happen",
+      "start": 130.95,
+      "duration": 2.665
+    },
+    {
+      "text": " much. Who didn't get enough to eat.",
+      "start": 132.659,
+      "duration": 2.62
+    },
+    {
+      "text": " That child would stay at the very top.",
+      "start": 134.399,
+      "duration": 2.36
+    },
+    {
+      "text": " The lightest, smallest child at the top",
+      "start": 135.919,
+      "duration": 2.794
+    },
+    {
+      "text": ". And where would the fattest,",
+      "start": 137.713,
+      "duration": 2.974
+    },
+    {
+      "text": " chubbiest kids stay? At the bottom,",
+      "start": 139.747,
+      "duration": 3.043
+    },
+    {
+      "text": " they would form a base with their backs",
+      "start": 141.835,
+      "duration": 2.758
+    },
+    {
+      "text": ". So how was it formed? See, who would",
+      "start": 143.593,
+      "duration": 3.454
+    },
+    {
+      "text": " be at the top? The lightest child.",
+      "start": 146.113,
+      "duration": 2.945
+    },
+    {
+      "text": " Let's assume the lightest child in the",
+      "start": 148.158,
+      "duration": 2.788
+    },
+    {
+      "text": " class, whose weight is the least. His",
+      "start": 149.993,
+      "duration": 2.794
+    },
+    {
+      "text": " weight would be, let's say, 40 kilos.",
+      "start": 151.835,
+      "duration": 2.75
+    },
+    {
+      "text": " So this child is at the top. Okay.",
+      "start": 153.685,
+      "duration": 3.043
+    },
+    {
+      "text": " Below him, below him, whose back would",
+      "start": 155.828,
+      "duration": 2.72
+    },
+    {
+      "text": " he be standing on? He would be standing",
+      "start": 157.593,
+      "duration": 2.456
+    },
+    {
+      "text": " on the backs of two children. So let's",
+      "start": 159.076,
+      "duration": 2.438
+    },
+    {
+      "text": " assume he is standing on their backs.",
+      "start": 160.581,
+      "duration": 3.478
+    },
+    {
+      "text": " Now, it is obvious that those whose",
+      "start": 163.259,
+      "duration": 3.283
+    },
+    {
+      "text": " backs he is standing on must weigh more",
+      "start": 165.607,
+      "duration": 3.544
+    },
+    {
+      "text": " than 40. If their weight was 20, then",
+      "start": 168.217,
+      "duration": 2.694
+    },
+    {
+      "text": " he would have been sent to the top",
+      "start": 169.947,
+      "duration": 2.228
+    },
+    {
+      "text": " instead. The lightest child in the",
+      "start": 171.211,
+      "duration": 2.893
+    },
+    {
+      "text": " class weighs 40. Let's assume their",
+      "start": 173.16,
+      "duration": 3.811
+    },
+    {
+      "text": " weights are 45 and 50. Right? He is",
+      "start": 176.03,
+      "duration": 3.616
+    },
+    {
+      "text": " standing on their backs. Whose backs",
+      "start": 178.685,
+      "duration": 2.488
+    },
+    {
+      "text": " are those two on? Those two would also",
+      "start": 180.213,
+      "duration": 2.608
+    },
+    {
+      "text": " be standing on the backs of two boys,",
+      "start": 181.862,
+      "duration": 2.515
+    },
+    {
+      "text": " and those boys would be the fattest in",
+      "start": 183.418,
+      "duration": 2.556
+    },
+    {
+      "text": " the class. So, let's assume this one",
+      "start": 185.015,
+      "duration": 3.366
+    },
+    {
+      "text": " fat kid weighs 70 kilos, and he is",
+      "start": 187.441,
+      "duration": 3.069
+    },
+    {
+      "text": " standing on the back of another who",
+      "start": 189.571,
+      "duration": 3.129
+    },
+    {
+      "text": " weighs, say, 80 kilos. Similarly, this",
+      "start": 191.761,
+      "duration": 3.331
+    },
+    {
+      "text": " 50-kilo child would be standing on the",
+      "start": 194.136,
+      "duration": 2.654
+    },
+    {
+      "text": " backs of two. So those two must also be",
+      "start": 195.834,
+      "duration": 2.776
+    },
+    {
+      "text": " bigger than him. If the two children",
+      "start": 197.653,
+      "duration": 2.883
+    },
+    {
+      "text": " the 50-kilo child was standing on",
+      "start": 199.589,
+      "duration": 2.768
+    },
+    {
+      "text": " weighed less than 50, then that child",
+      "start": 201.41,
+      "duration": 2.981
+    },
+    {
+      "text": " would have been sent to the top. So",
+      "start": 203.445,
+      "duration": 3.188
+    },
+    {
+      "text": " let's assume he is standing on their",
+      "start": 205.691,
+      "duration": 3.066
+    },
+    {
+      "text": " backs. His weight would be, let's say,",
+      "start": 207.814,
+      "duration": 3.047
+    },
+    {
+      "text": " 60 kilos. It could be anything, but it",
+      "start": 209.908,
+      "duration": 2.463
+    },
+    {
+      "text": " must be more than 50, right? And his",
+      "start": 211.404,
+      "duration": 2.52
+    },
+    {
+      "text": " weight should be, let's say, 90 kilos.",
+      "start": 212.976,
+      "duration": 2.983
+    },
+    {
+      "text": " Right? So the pyramid was formed like",
+      "start": 215.1,
+      "duration": 2.87
+    },
+    {
+      "text": " this, and we would say that this child",
+      "start": 217.017,
+      "duration": 2.762
+    },
+    {
+      "text": " at the top is the lightest, and the",
+      "start": 218.825,
+      "duration": 2.623
+    },
+    {
+      "text": " pyramid would be complete. This is what",
+      "start": 220.494,
+      "duration": 3.465
+    },
+    {
+      "text": " \"cheap\" is. Now look. You are sitting",
+      "start": 223.027,
+      "duration": 3.733
+    },
+    {
+      "text": " in the audience. Suppose you are",
+      "start": 225.799,
+      "duration": 2.717
+    },
+    {
+      "text": " sitting here in the audience, far away.",
+      "start": 227.577,
+      "duration": 3.383
+    },
+    {
+      "text": " Right? You are sitting here as an",
+      "start": 230.119,
+      "duration": 3.324
+    },
+    {
+      "text": " audience. Okay? Now, you have no idea",
+      "start": 232.509,
+      "duration": 3.907
+    },
+    {
+      "text": " how this pyramid was built. This",
+      "start": 235.463,
+      "duration": 2.51
+    },
+    {
+      "text": " pyramid was built by the PE teacher.",
+      "start": 237.006,
+      "duration": 2.186
+    },
+    {
+      "text": " Okay? The PE teacher made them build it",
+      "start": 238.292,
+      "duration": 2.576
+    },
+    {
+      "text": " by force, saying, \"Come on, you four,",
+      "start": 239.906,
+      "duration": 2.387
+    },
+    {
+      "text": " stand here.\"\"You stay there, and you",
+      "start": 241.331,
+      "duration": 2.659
+    },
+    {
+      "text": " stay there.\" You don't know anything.",
+      "start": 243.033,
+      "duration": 3.366
+    },
+    {
+      "text": " If I were to ask you one question, tell",
+      "start": 245.62,
+      "duration": 2.677
+    },
+    {
+      "text": " me one thing. Just look at the pyramid.",
+      "start": 247.34,
+      "duration": 2.859
+    },
+    {
+      "text": " Just look at the pyramid and tell me",
+      "start": 250.059,
+      "duration": 2.534
+    },
+    {
+      "text": " which is the lightest kid in the class?",
+      "start": 251.636,
+      "duration": 2.663
+    },
+    {
+      "text": " Which is the lightest or the smallest",
+      "start": 254.339,
+      "duration": 3.29
+    },
+    {
+      "text": " kid? Which is the smallest kid? Which",
+      "start": 256.691,
+      "duration": 3.152
+    },
+    {
+      "text": " is the lightest kid? Well, it's very",
+      "start": 258.89,
+      "duration": 2.656
+    },
+    {
+      "text": " easy for you to say. Why? Because you",
+      "start": 260.587,
+      "duration": 3.001
+    },
+    {
+      "text": " know that this pyramid is built in such",
+      "start": 262.638,
+      "duration": 2.934
+    },
+    {
+      "text": " a way that the light kid stands on the",
+      "start": 264.622,
+      "duration": 2.884
+    },
+    {
+      "text": " backs of the heavier kids. So, the",
+      "start": 266.556,
+      "duration": 2.805
+    },
+    {
+      "text": " lightest kid will be at the very top of",
+      "start": 268.42,
+      "duration": 3.314
+    },
+    {
+      "text": " the pyramid. So you will say, \"Yeah,",
+      "start": 270.794,
+      "duration": 2.788
+    },
+    {
+      "text": " the lightest kid is this one, the 40-",
+      "start": 272.618,
+      "duration": 2.355
+    },
+    {
+      "text": "kilo one.\" Very good, you can tell",
+      "start": 273.973,
+      "duration": 2.563
+    },
+    {
+      "text": " immediately. Okay? But if I ask you to",
+      "start": 275.58,
+      "duration": 4.759
+    },
+    {
+      "text": " tell me, who is the heaviest kid in the",
+      "start": 279.403,
+      "duration": 3.506
+    },
+    {
+      "text": " class? Heaviest, meaning which kid is",
+      "start": 281.973,
+      "duration": 3.799
+    },
+    {
+      "text": " the fattest? You won't be able to tell.",
+      "start": 284.826,
+      "duration": 2.971
+    },
+    {
+      "text": " You won't be able to tell. Why won't",
+      "start": 286.897,
+      "duration": 2.279
+    },
+    {
+      "text": " you be able to tell? See, how is this",
+      "start": 288.206,
+      "duration": 2.652
+    },
+    {
+      "text": " pyramid built? The light kid stays on",
+      "start": 289.917,
+      "duration": 3.318
+    },
+    {
+      "text": " top. Each light kid stands on the backs",
+      "start": 292.296,
+      "duration": 3.137
+    },
+    {
+      "text": " of two kids. Right. But look at this",
+      "start": 294.485,
+      "duration": 4.436
+    },
+    {
+      "text": " kid, the 40-kilo one. He is standing on",
+      "start": 298.027,
+      "duration": 3.93
+    },
+    {
+      "text": " the backs of these two. Obviously. It",
+      "start": 300.992,
+      "duration": 3.315
+    },
+    {
+      "text": " is also obvious that the weight of",
+      "start": 303.361,
+      "duration": 2.826
+    },
+    {
+      "text": " these two is less than this one. Only",
+      "start": 305.241,
+      "duration": 3.112
+    },
+    {
+      "text": " then is this kid on top; otherwise,",
+      "start": 307.381,
+      "duration": 1.97
+    },
+    {
+      "text": " they would have swapped places. Right.",
+      "start": 308.379,
+      "duration": 2.558
+    },
+    {
+      "text": " But, but, but, I have written 45 here.",
+      "start": 310.12,
+      "duration": 4.24
+    },
+    {
+      "text": " I have written 50 here. If we even",
+      "start": 313.46,
+      "duration": 2.802
+    },
+    {
+      "text": " reverse these two like this. Suppose",
+      "start": 315.316,
+      "duration": 3.128
+    },
+    {
+      "text": " you see the 45-kilo kid on the left",
+      "start": 317.496,
+      "duration": 2.829
+    },
+    {
+      "text": " side. And you see the 50-kilo kid on",
+      "start": 319.377,
+      "duration": 2.692
+    },
+    {
+      "text": " the right side. If we were to reverse",
+      "start": 321.113,
+      "duration": 3.35
+    },
+    {
+      "text": " them. What does reversing mean? Suppose",
+      "start": 323.536,
+      "duration": 4.129
+    },
+    {
+      "text": " I say, no, no, do one thing, send the",
+      "start": 326.745,
+      "duration": 3.946
+    },
+    {
+      "text": " 50-kilo kid here and the 45-kilo kid",
+      "start": 329.77,
+      "duration": 3.867
+    },
+    {
+      "text": " there. Then see, there is no difference",
+      "start": 332.717,
+      "duration": 2.703
+    },
+    {
+      "text": " in the pyramid. The pyramid will still",
+      "start": 334.455,
+      "duration": 2.306
+    },
+    {
+      "text": " stand; it won't collapse. It still",
+      "start": 335.792,
+      "duration": 2.233
+    },
+    {
+      "text": " won't fall. It's still a very good",
+      "start": 337.07,
+      "duration": 2.698
+    },
+    {
+      "text": " pyramid. So, whether 50 and 45—is 50",
+      "start": 338.818,
+      "duration": 3.776
+    },
+    {
+      "text": " on the left or is 50 on the right? It",
+      "start": 341.662,
+      "duration": 4.094
+    },
+    {
+      "text": " doesn't matter. What matters? That both",
+      "start": 344.825,
+      "duration": 5.241
+    },
+    {
+      "text": " 50 and 45 must be less than the kid",
+      "start": 349.149,
+      "duration": 3.907
+    },
+    {
+      "text": " above them, the one standing on their",
+      "start": 352.139,
+      "duration": 4.072
+    },
+    {
+      "text": " backs with both feet. That's how it",
+      "start": 355.295,
+      "duration": 4.401
+    },
+    {
+      "text": " works in a pyramid, right? There aren't",
+      "start": 358.727,
+      "duration": 2.311
+    },
+    {
+      "text": " any other rules. Similarly, look at the",
+      "start": 360.069,
+      "duration": 2.899
+    },
+    {
+      "text": " end; the heaviest kids in the class are",
+      "start": 362.027,
+      "duration": 3.289
+    },
+    {
+      "text": " at the bottom. 70, 80, 60, 90—even if",
+      "start": 364.375,
+      "duration": 3.662
+    },
+    {
+      "text": " we swap their positions. Suppose we",
+      "start": 367.108,
+      "duration": 3.608
+    },
+    {
+      "text": " write 60 here, 70 here, 80 here, and 90",
+      "start": 369.795,
+      "duration": 4.057
+    },
+    {
+      "text": " here. It won't make any difference. Why",
+      "start": 372.931,
+      "duration": 2.721
+    },
+    {
+      "text": " won't it make a difference? Because",
+      "start": 374.687,
+      "duration": 2.469
+    },
+    {
+      "text": " this 50-kilo kid is standing on the",
+      "start": 376.215,
+      "duration": 3.07
+    },
+    {
+      "text": " backs of these two. So, what matters?",
+      "start": 378.344,
+      "duration": 3.575
+    },
+    {
+      "text": " That the weight of these two kids must",
+      "start": 381.42,
+      "duration": 3.267
+    },
+    {
+      "text": " be more than this one. Meaning, it must",
+      "start": 383.747,
+      "duration": 3.356
+    },
+    {
+      "text": " be greater than 50. See, it is greater",
+      "start": 386.14,
+      "duration": 2.503
+    },
+    {
+      "text": " than 50. Similarly, the 45-kilo kid is",
+      "start": 387.681,
+      "duration": 3.195
+    },
+    {
+      "text": " standing on the backs of these two. So,",
+      "start": 389.937,
+      "duration": 3.405
+    },
+    {
+      "text": " their combined weight must be more than",
+      "start": 392.39,
+      "duration": 2.898
+    },
+    {
+      "text": " 45, which it is. Now, if we write 90",
+      "start": 394.337,
+      "duration": 2.979
+    },
+    {
+      "text": " here and 60 here, what difference would",
+      "start": 396.369,
+      "duration": 3.088
+    },
+    {
+      "text": " it make? Well, your right foot is here",
+      "start": 398.51,
+      "duration": 2.929
+    },
+    {
+      "text": " and your left foot is there. Does it",
+      "start": 400.485,
+      "duration": 2.716
+    },
+    {
+      "text": " matter to anyone if the 60-kilo kid is",
+      "start": 402.247,
+      "duration": 2.749
+    },
+    {
+      "text": " on this side or that side? In a pyramid",
+      "start": 404.042,
+      "duration": 3.05
+    },
+    {
+      "text": ", the two kids you are standing on must",
+      "start": 406.092,
+      "duration": 3.318
+    },
+    {
+      "text": " weigh more than you. That’s all that",
+      "start": 408.47,
+      "duration": 3.258
+    },
+    {
+      "text": " matters. So, if I ask you who the",
+      "start": 410.78,
+      "duration": 3.252
+    },
+    {
+      "text": " heaviest kid in the class is? You won't",
+      "start": 413.087,
+      "duration": 3.601
+    },
+    {
+      "text": " be able to tell. You see, you might",
+      "start": 415.735,
+      "duration": 2.978
+    },
+    {
+      "text": " have an intuition that the heaviest",
+      "start": 417.773,
+      "duration": 3.128
+    },
+    {
+      "text": " means the biggest kid. So the biggest",
+      "start": 419.961,
+      "duration": 3.199
+    },
+    {
+      "text": " kid will be in the last layer. This",
+      "start": 422.212,
+      "duration": 2.877
+    },
+    {
+      "text": " last layer, meaning those on the ground",
+      "start": 424.145,
+      "duration": 3.184
+    },
+    {
+      "text": ". These four kids, look, they aren't",
+      "start": 426.329,
+      "duration": 3.34
+    },
+    {
+      "text": " standing on anyone's back. They aren't",
+      "start": 428.733,
+      "duration": 3.045
+    },
+    {
+      "text": " standing on anyone's back. They are on",
+      "start": 430.803,
+      "duration": 2.187
+    },
+    {
+      "text": " the ground. So, in a way, you'd know",
+      "start": 432.029,
+      "duration": 3.081
+    },
+    {
+      "text": " that yes, the biggest kid will be at",
+      "start": 434.155,
+      "duration": 2.638
+    },
+    {
+      "text": " the bottom. But which one is the",
+      "start": 435.838,
+      "duration": 3.551
+    },
+    {
+      "text": " biggest among them? For that, you'd",
+      "start": 438.445,
+      "duration": 2.751
+    },
+    {
+      "text": " have to weigh them to find out. You",
+      "start": 440.235,
+      "duration": 2.583
+    },
+    {
+      "text": " can't just say, \"Yes, that third kid",
+      "start": 441.871,
+      "duration": 2.912
+    },
+    {
+      "text": " looks the heaviest.\" You can't say, why",
+      "start": 443.836,
+      "duration": 3.313
+    },
+    {
+      "text": "? Because you don't know how it was set",
+      "start": 446.149,
+      "duration": 2.565
+    },
+    {
+      "text": " up, right? I might be the PE teacher. I",
+      "start": 447.752,
+      "duration": 2.932
+    },
+    {
+      "text": " can arrange them however I want. I",
+      "start": 449.738,
+      "duration": 2.858
+    },
+    {
+      "text": " could write 80 here. And write 90 here,",
+      "start": 451.641,
+      "duration": 2.836
+    },
+    {
+      "text": " so what would happen? Then you wouldn't",
+      "start": 453.523,
+      "duration": 3.029
+    },
+    {
+      "text": " be able to answer this question. But",
+      "start": 455.608,
+      "duration": 3.212
+    },
+    {
+      "text": " who is the lightest kid in the class?",
+      "start": 457.878,
+      "duration": 3.13
+    },
+    {
+      "text": " Anyone can answer that. Why? Because",
+      "start": 460.108,
+      "duration": 3.338
+    },
+    {
+      "text": " everyone knows which is the lightest",
+      "start": 462.502,
+      "duration": 3.011
+    },
+    {
+      "text": " kid in this pyramid. The one visible at",
+      "start": 464.569,
+      "duration": 3.04
+    },
+    {
+      "text": " the very top. Since this kid is visible",
+      "start": 466.654,
+      "duration": 2.895
+    },
+    {
+      "text": " at the very top, you'll immediately say",
+      "start": 468.595,
+      "duration": 2.764
+    },
+    {
+      "text": ", \"Yeah, the 40-kilo kid is the",
+      "start": 470.359,
+      "duration": 2.402
+    },
+    {
+      "text": " lightest.\" If I ask you the question,",
+      "start": 471.806,
+      "duration": 3.755
+    },
+    {
+      "text": " who is the second smallest? Second",
+      "start": 474.639,
+      "duration": 3.842
+    },
+    {
+      "text": " smallest means, after 40, what is the",
+      "start": 477.571,
+      "duration": 4.343
+    },
+    {
+      "text": " smallest one? You'll have an intuition",
+      "start": 481.004,
+      "duration": 4.488
+    },
+    {
+      "text": " that after 40, the smallest is either",
+      "start": 484.554,
+      "duration": 3.302
+    },
+    {
+      "text": " 50 or 45. But whether 50 is on the",
+      "start": 486.919,
+      "duration": 3.965
+    },
+    {
+      "text": " right or 50 is on the left, you don't",
+      "start": 489.944,
+      "duration": 3.198
+    },
+    {
+      "text": " know. You cannot answer this question",
+      "start": 492.201,
+      "duration": 3.282
+    },
+    {
+      "text": " either. Which one is the third smallest",
+      "start": 494.542,
+      "duration": 2.934
+    },
+    {
+      "text": "? Can't say. You will know that it is",
+      "start": 496.476,
+      "duration": 3.338
+    },
+    {
+      "text": " here. But which one is here? Between 50",
+      "start": 498.871,
+      "duration": 3.529
+    },
+    {
+      "text": " and 45, which child is where? Can't",
+      "start": 501.464,
+      "duration": 3.484
+    },
+    {
+      "text": " tell. You can only answer one question:",
+      "start": 504.049,
+      "duration": 3.806
+    },
+    {
+      "text": " who is the lightest, meaning the",
+      "start": 506.918,
+      "duration": 3.014
+    },
+    {
+      "text": " smallest child? The one at the top. You",
+      "start": 508.995,
+      "duration": 3.333
+    },
+    {
+      "text": " can say that yes, the child visible at",
+      "start": 511.375,
+      "duration": 2.786
+    },
+    {
+      "text": " the top of the pyramid is the lightest",
+      "start": 513.208,
+      "duration": 2.786
+    },
+    {
+      "text": " child. Everyone in the world can answer",
+      "start": 515.041,
+      "duration": 2.795
+    },
+    {
+      "text": " this. But other than that, any question",
+      "start": 516.88,
+      "duration": 3.078
+    },
+    {
+      "text": " like which is the second smallest?",
+      "start": 519.012,
+      "duration": 2.811
+    },
+    {
+      "text": " Which is the third smallest? Heaviest,",
+      "start": 520.923,
+      "duration": 2.768
+    },
+    {
+      "text": " no, no, it's not possible. It is not",
+      "start": 522.745,
+      "duration": 2.935
+    },
+    {
+      "text": " possible without looking at them one by",
+      "start": 524.728,
+      "duration": 2.878
+    },
+    {
+      "text": " one. What kind of questions are you",
+      "start": 526.654,
+      "duration": 4.111
+    },
+    {
+      "text": " able to answer here with this? The",
+      "start": 529.834,
+      "duration": 3.576
+    },
+    {
+      "text": " lightest, smallest child in the class",
+      "start": 532.481,
+      "duration": 3.609
+    },
+    {
+      "text": "—this is what we call a Min Heap.",
+      "start": 535.09,
+      "duration": 3.469
+    },
+    {
+      "text": " This is a Min Heap. What does a Min",
+      "start": 537.74,
+      "duration": 3.884
+    },
+    {
+      "text": " Heap say? Min Heap. I haven't taught",
+      "start": 540.697,
+      "duration": 3.331
+    },
+    {
+      "text": " you trees yet. That is why I am giving",
+      "start": 543.069,
+      "duration": 2.592
+    },
+    {
+      "text": " you the example of a pyramid. When I",
+      "start": 544.7,
+      "duration": 2.487
+    },
+    {
+      "text": " teach trees, all these things will",
+      "start": 546.225,
+      "duration": 2.311
+    },
+    {
+      "text": " become clear. A Min Heap is a data",
+      "start": 547.574,
+      "duration": 3.021
+    },
+    {
+      "text": " structure, a Min Heap is a data",
+      "start": 549.662,
+      "duration": 3.071
+    },
+    {
+      "text": " structure in which you can insert",
+      "start": 551.8,
+      "duration": 3.205
+    },
+    {
+      "text": " things. You will insert. We will tell",
+      "start": 554.072,
+      "duration": 3.108
+    },
+    {
+      "text": " you how this pyramid will do it later.",
+      "start": 556.218,
+      "duration": 2.461
+    },
+    {
+      "text": " But you can put things into it. You can",
+      "start": 557.78,
+      "duration": 3.219
+    },
+    {
+      "text": " say, \"Hey, I have these seven children.",
+      "start": 560.053,
+      "duration": 3.112
+    },
+    {
+      "text": "\" Their weights are this much. Insert",
+      "start": 562.165,
+      "duration": 3.341
+    },
+    {
+      "text": " them all and make a Min Heap. Meaning,",
+      "start": 564.557,
+      "duration": 3.026
+    },
+    {
+      "text": " build a pyramid. That pyramid will be",
+      "start": 566.631,
+      "duration": 3.143
+    },
+    {
+      "text": " built. After that, if you ask it which",
+      "start": 568.837,
+      "duration": 3.978
+    },
+    {
+      "text": " one is the smallest? Which one is the",
+      "start": 571.875,
+      "duration": 3.493
+    },
+    {
+      "text": " smallest? Then it will tell you",
+      "start": 574.408,
+      "duration": 2.423
+    },
+    {
+      "text": " immediately. Just like you, an audience",
+      "start": 575.877,
+      "duration": 2.637
+    },
+    {
+      "text": " member, can see it immediately. The top",
+      "start": 577.552,
+      "duration": 2.665
+    },
+    {
+      "text": " one is the smallest. It will tell you",
+      "start": 579.272,
+      "duration": 3.338
+    },
+    {
+      "text": " immediately. Besides this, if you ask",
+      "start": 581.68,
+      "duration": 3.961
+    },
+    {
+      "text": " any question like, tell me which one is",
+      "start": 584.687,
+      "duration": 2.824
+    },
+    {
+      "text": " the biggest? Don't know. It could be",
+      "start": 586.557,
+      "duration": 3.395
+    },
+    {
+      "text": " anyone. Any one of the ones at the",
+      "start": 588.995,
+      "duration": 2.287
+    },
+    {
+      "text": " bottom. Which is the second smallest?",
+      "start": 590.316,
+      "duration": 2.629
+    },
+    {
+      "text": " Don't know. Third smallest? Don't know.",
+      "start": 592.045,
+      "duration": 2.979
+    },
+    {
+      "text": " Second biggest? Any other question is",
+      "start": 594.124,
+      "duration": 3.061
+    },
+    {
+      "text": " useless. It cannot tell you that. Does",
+      "start": 596.243,
+      "duration": 3.258
+    },
+    {
+      "text": " this make sense? So what is this? This",
+      "start": 598.56,
+      "duration": 3.135
+    },
+    {
+      "text": " is a Min Heap. Why is it a Min Heap?",
+      "start": 600.737,
+      "duration": 2.461
+    },
+    {
+      "text": " Because this pyramid is such that we",
+      "start": 602.298,
+      "duration": 2.398
+    },
+    {
+      "text": " will discuss Max Heap right now. But",
+      "start": 603.735,
+      "duration": 2.499
+    },
+    {
+      "text": " this is a Min Heap. So, there are two",
+      "start": 605.286,
+      "duration": 2.879
+    },
+    {
+      "text": " types of heaps. Min and Max. There is",
+      "start": 607.211,
+      "duration": 2.852
+    },
+    {
+      "text": " Min and there is also Max. In Max, you",
+      "start": 609.1,
+      "duration": 2.579
+    },
+    {
+      "text": " must have guessed it. Which is the",
+      "start": 610.726,
+      "duration": 2.591
+    },
+    {
+      "text": " biggest child? You can tell that",
+      "start": 612.359,
+      "duration": 2.372
+    },
+    {
+      "text": " immediately. In Min, which is the",
+      "start": 613.771,
+      "duration": 2.461
+    },
+    {
+      "text": " smallest child? You can tell that",
+      "start": 615.276,
+      "duration": 2.275
+    },
+    {
+      "text": " immediately. Okay. Now, that’s just",
+      "start": 616.582,
+      "duration": 3.717
+    },
+    {
+      "text": " what you can tell. But what all can you",
+      "start": 619.35,
+      "duration": 2.759
+    },
+    {
+      "text": " do in a heap? You can do three types of",
+      "start": 621.145,
+      "duration": 2.993
+    },
+    {
+      "text": " things in a heap. First, one is asking,",
+      "start": 623.189,
+      "duration": 3.005
+    },
+    {
+      "text": " asking which is the smallest; we are",
+      "start": 625.243,
+      "duration": 2.741
+    },
+    {
+      "text": " talking about Min Heap, don't worry",
+      "start": 627.032,
+      "duration": 2.693
+    },
+    {
+      "text": " about Max Heap. I will explain Max Heap",
+      "start": 628.773,
+      "duration": 3.043
+    },
+    {
+      "text": " later. One is that you can ask. You can",
+      "start": 630.868,
+      "duration": 3.71
+    },
+    {
+      "text": " ask which one is the smallest. It will",
+      "start": 633.627,
+      "duration": 3.048
+    },
+    {
+      "text": " be told immediately, meaning in order",
+      "start": 635.728,
+      "duration": 2.983
+    },
+    {
+      "text": " of one. Now, can you also insert",
+      "start": 637.764,
+      "duration": 3.397
+    },
+    {
+      "text": " something? Suppose a new child arrives.",
+      "start": 640.236,
+      "duration": 3.183
+    },
+    {
+      "text": " Suppose a new child arrives. For",
+      "start": 642.559,
+      "duration": 2.715
+    },
+    {
+      "text": " example, if in this pyramid we assume",
+      "start": 644.339,
+      "duration": 3.395
+    },
+    {
+      "text": " that this 90 kg child wasn't there at",
+      "start": 646.799,
+      "duration": 3.396
+    },
+    {
+      "text": " all. It wasn't there; a PT teacher was",
+      "start": 649.26,
+      "duration": 3.321
+    },
+    {
+      "text": " just creating it. Your pyramid was",
+      "start": 651.632,
+      "duration": 2.625
+    },
+    {
+      "text": " looking like this. Okay, you need to",
+      "start": 653.298,
+      "duration": 3.534
+    },
+    {
+      "text": " insert a child whose weight is 35 kilos",
+      "start": 655.909,
+      "duration": 4.012
+    },
+    {
+      "text": ". Is it possible? If a 35 kg child",
+      "start": 658.921,
+      "duration": 2.848
+    },
+    {
+      "text": " comes at the end saying \"I also want to",
+      "start": 660.809,
+      "duration": 2.56
+    },
+    {
+      "text": " join the pyramid,\" then how will it be",
+      "start": 662.409,
+      "duration": 2.52
+    },
+    {
+      "text": " inserted? Look, first of all, look at",
+      "start": 663.969,
+      "duration": 3.19
+    },
+    {
+      "text": " how the insertion happens. What will",
+      "start": 666.219,
+      "duration": 3.261
+    },
+    {
+      "text": " the PT teacher do? The space empty at",
+      "start": 668.536,
+      "duration": 2.923
+    },
+    {
+      "text": " the end of the pyramid; which space is",
+      "start": 670.504,
+      "duration": 2.732
+    },
+    {
+      "text": " empty in the pyramid? You can see in",
+      "start": 672.282,
+      "duration": 2.691
+    },
+    {
+      "text": " the pyramid that this spot is empty.",
+      "start": 674.017,
+      "duration": 2.582
+    },
+    {
+      "text": " The last one, this is the last spot,",
+      "start": 675.82,
+      "duration": 2.714
+    },
+    {
+      "text": " everything else is filled. What does",
+      "start": 677.581,
+      "duration": 3.62
+    },
+    {
+      "text": " the last mean? It starts from here.",
+      "start": 680.251,
+      "duration": 2.907
+    },
+    {
+      "text": " This will be one, then two, three, four",
+      "start": 682.258,
+      "duration": 3.399
+    },
+    {
+      "text": ", five, six, seven, the seventh",
+      "start": 684.657,
+      "duration": 2.907
+    },
+    {
+      "text": " position is empty. The last position is",
+      "start": 686.625,
+      "duration": 2.973
+    },
+    {
+      "text": " empty. So what will the PT teacher do?",
+      "start": 688.636,
+      "duration": 2.806
+    },
+    {
+      "text": " First, he will make the 35 kg child",
+      "start": 690.542,
+      "duration": 2.846
+    },
+    {
+      "text": " stand at the end. What does standing at",
+      "start": 692.441,
+      "duration": 2.858
+    },
+    {
+      "text": " the end mean? He will tell him to come",
+      "start": 694.34,
+      "duration": 3.063
+    },
+    {
+      "text": " here. He will tell him to come here. So",
+      "start": 696.463,
+      "duration": 3.132
+    },
+    {
+      "text": " he has arrived. Now the 35 kg child is",
+      "start": 698.637,
+      "duration": 2.928
+    },
+    {
+      "text": " in the pyramid. But now your pyramid",
+      "start": 700.62,
+      "duration": 2.927
+    },
+    {
+      "text": " will break. Why will it break? Because",
+      "start": 702.597,
+      "duration": 2.921
+    },
+    {
+      "text": " this is a 35 kg child. Above him, you",
+      "start": 704.579,
+      "duration": 3.057
+    },
+    {
+      "text": " have a 45 kg person standing. Above",
+      "start": 706.68,
+      "duration": 2.589
+    },
+    {
+      "text": " that, there were 40 kilos, so the 35",
+      "start": 708.307,
+      "duration": 2.391
+    },
+    {
+      "text": " one will gradually get crushed. Okay.",
+      "start": 709.737,
+      "duration": 2.808
+    },
+    {
+      "text": " So the PT teacher feels that the heap,",
+      "start": 711.645,
+      "duration": 3.179
+    },
+    {
+      "text": " your pyramid hasn't become interesting",
+      "start": 713.882,
+      "duration": 3.18
+    },
+    {
+      "text": " yet. Now, what will the PT teacher do?",
+      "start": 716.119,
+      "duration": 2.556
+    },
+    {
+      "text": " Look, there's a rule for this pyramid,",
+      "start": 717.775,
+      "duration": 2.511
+    },
+    {
+      "text": " what is the rule? What is the rule for",
+      "start": 719.326,
+      "duration": 2.577
+    },
+    {
+      "text": " this pyramid? That if a child is here",
+      "start": 720.943,
+      "duration": 4.148
+    },
+    {
+      "text": " and stands on the backs of two people,",
+      "start": 724.162,
+      "duration": 3.696
+    },
+    {
+      "text": " then if their weight is, say, 40 kg,",
+      "start": 726.929,
+      "duration": 3.554
+    },
+    {
+      "text": " the child standing on top of any two",
+      "start": 729.554,
+      "duration": 3.555
+    },
+    {
+      "text": " children. Both these children, on whose",
+      "start": 732.18,
+      "duration": 4.622
+    },
+    {
+      "text": " backs he is standing. Their weight",
+      "start": 735.86,
+      "duration": 3.632
+    },
+    {
+      "text": " should be more than 40. Their weight",
+      "start": 738.556,
+      "duration": 3.091
+    },
+    {
+      "text": " should be more than 40. Otherwise, this",
+      "start": 740.686,
+      "duration": 2.53
+    },
+    {
+      "text": " pyramid will collapse. If you have a 40",
+      "start": 742.251,
+      "duration": 2.694
+    },
+    {
+      "text": " kg child and you put him on top of, say",
+      "start": 743.996,
+      "duration": 2.971
+    },
+    {
+      "text": ", a 20 kg child, then the 20 kg child",
+      "start": 745.967,
+      "duration": 2.87
+    },
+    {
+      "text": " will get crushed and won't survive. So",
+      "start": 747.888,
+      "duration": 3.174
+    },
+    {
+      "text": " the PT teacher checks, is my heap",
+      "start": 750.145,
+      "duration": 3.721
+    },
+    {
+      "text": " correct now? He says, no, it's not",
+      "start": 752.948,
+      "duration": 2.948
+    },
+    {
+      "text": " correct. Why is it not correct? Because",
+      "start": 754.937,
+      "duration": 2.825
+    },
+    {
+      "text": " look, this is 35. This is 45. According",
+      "start": 756.818,
+      "duration": 3.491
+    },
+    {
+      "text": " to the rule, what should it have been?",
+      "start": 759.343,
+      "duration": 2.299
+    },
+    {
+      "text": " The two children whose backs the 45 kg",
+      "start": 760.742,
+      "duration": 3.022
+    },
+    {
+      "text": " child is standing on should have been",
+      "start": 762.817,
+      "duration": 2.97
+    },
+    {
+      "text": " more than 45, so 60 is fine. But the 35",
+      "start": 764.84,
+      "duration": 3.2
+    },
+    {
+      "text": " is the problem. Now, what will the PT",
+      "start": 767.092,
+      "duration": 2.845
+    },
+    {
+      "text": " teacher do? What is the problem? What",
+      "start": 768.983,
+      "duration": 2.766
+    },
+    {
+      "text": " is wrong in the first instance? Look at",
+      "start": 770.798,
+      "duration": 2.828
+    },
+    {
+      "text": " this one, this is the problem. The rest",
+      "start": 772.66,
+      "duration": 2.48
+    },
+    {
+      "text": " of the heap will be correct. He will",
+      "start": 774.187,
+      "duration": 3.13
+    },
+    {
+      "text": " swap 45 and 35. What will a PT teacher",
+      "start": 776.417,
+      "duration": 3.609
+    },
+    {
+      "text": " say? 35 kg child, you go up. 45 kg",
+      "start": 779.071,
+      "duration": 3.04
+    },
+    {
+      "text": " chubby kid, you come down. So what will",
+      "start": 781.156,
+      "duration": 2.765
+    },
+    {
+      "text": " happen? It will be swapped. Look, look",
+      "start": 782.961,
+      "duration": 3.088
+    },
+    {
+      "text": " at how it swaps. 35 came here. 45 came",
+      "start": 785.12,
+      "duration": 4.18
+    },
+    {
+      "text": " here. Now look, is this part correct",
+      "start": 788.391,
+      "duration": 3.196
+    },
+    {
+      "text": " now? Look, this is 35 kg. What did we",
+      "start": 790.642,
+      "duration": 3.18
+    },
+    {
+      "text": " say? The weight of the two children he",
+      "start": 792.879,
+      "duration": 3.331
+    },
+    {
+      "text": " stands on must be more than 35. Yes, it",
+      "start": 795.271,
+      "duration": 3.271
+    },
+    {
+      "text": " is more than 35. Very good. But your",
+      "start": 797.583,
+      "duration": 2.819
+    },
+    {
+      "text": " pyramid is still messed up. Why is it",
+      "start": 799.448,
+      "duration": 2.787
+    },
+    {
+      "text": " messed up? This 35 has come here. But",
+      "start": 801.279,
+      "duration": 3.728
+    },
+    {
+      "text": " what about the child at the top? The",
+      "start": 804.057,
+      "duration": 2.832
+    },
+    {
+      "text": " child above this one. What is his",
+      "start": 805.925,
+      "duration": 2.37
+    },
+    {
+      "text": " weight? 40 kg. What is his weight? 40",
+      "start": 807.342,
+      "duration": 3.392
+    },
+    {
+      "text": " kg. What did it say? The two we stand",
+      "start": 809.85,
+      "duration": 3.766
+    },
+    {
+      "text": " on must weigh more than 40. But here it",
+      "start": 812.69,
+      "duration": 3.85
+    },
+    {
+      "text": " is 35 kg. Still, the pyramid won't be",
+      "start": 815.61,
+      "duration": 2.778
+    },
+    {
+      "text": " able to sustain the 40 kg chubby kid on",
+      "start": 817.427,
+      "duration": 2.518
+    },
+    {
+      "text": " top of this 35 kg one. What will the PT",
+      "start": 818.984,
+      "duration": 2.642
+    },
+    {
+      "text": " teacher say? 35 kg one, you go up. 40",
+      "start": 820.669,
+      "duration": 3.09
+    },
+    {
+      "text": " kg chubby one, you come down. What will",
+      "start": 822.806,
+      "duration": 2.801
+    },
+    {
+      "text": " happen? They will both swap again. They",
+      "start": 824.646,
+      "duration": 2.98
+    },
+    {
+      "text": " will both swap again. 35, 40. Yes, now",
+      "start": 826.703,
+      "duration": 4.153
+    },
+    {
+      "text": " there is no one left above 35. Now",
+      "start": 829.942,
+      "duration": 3.821
+    },
+    {
+      "text": " where has 35 reached? 35 has reached",
+      "start": 832.811,
+      "duration": 2.703
+    },
+    {
+      "text": " the top of the pyramid, which it should",
+      "start": 834.556,
+      "duration": 2.655
+    },
+    {
+      "text": " have, because whose weight is the",
+      "start": 836.253,
+      "duration": 2.401
+    },
+    {
+      "text": " lowest among all the kids? 35, so it",
+      "start": 837.696,
+      "duration": 2.658
+    },
+    {
+      "text": " had to reach the top, and look, it's at",
+      "start": 839.402,
+      "duration": 2.883
+    },
+    {
+      "text": " the top. Let's see if this pyramid is",
+      "start": 841.333,
+      "duration": 2.677
+    },
+    {
+      "text": " correct or not. Start from the top",
+      "start": 843.052,
+      "duration": 2.948
+    },
+    {
+      "text": " first. The kid who is 35, standing on",
+      "start": 845.065,
+      "duration": 3.255
+    },
+    {
+      "text": " the backs of two others, their weight",
+      "start": 847.374,
+      "duration": 3.023
+    },
+    {
+      "text": " must be more than 35. Yes, 50 is more",
+      "start": 849.452,
+      "duration": 3.105
+    },
+    {
+      "text": " than 35, and 40 is also more than 35.",
+      "start": 851.615,
+      "duration": 3.116
+    },
+    {
+      "text": " Very good. The kid who is 50, standing",
+      "start": 853.831,
+      "duration": 2.995
+    },
+    {
+      "text": " on the backs of two others, their",
+      "start": 855.87,
+      "duration": 2.446
+    },
+    {
+      "text": " weight should have been more than 50.",
+      "start": 857.36,
+      "duration": 2.621
+    },
+    {
+      "text": " 70, 80, very good. The kid who is 40,",
+      "start": 859.081,
+      "duration": 3.637
+    },
+    {
+      "text": " standing on the backs of two others,",
+      "start": 861.761,
+      "duration": 2.557
+    },
+    {
+      "text": " their weight should have been more than",
+      "start": 863.362,
+      "duration": 2.686
+    },
+    {
+      "text": " 40, and it is more than 40. What is",
+      "start": 865.092,
+      "duration": 2.596
+    },
+    {
+      "text": " your entire pyramid like? It is very",
+      "start": 866.729,
+      "duration": 2.695
+    },
+    {
+      "text": " nice. So you can insert anything into a",
+      "start": 868.476,
+      "duration": 3.157
+    },
+    {
+      "text": " heap. You can insert anything. What",
+      "start": 870.688,
+      "duration": 2.997
+    },
+    {
+      "text": " does insert mean? You will tell your PT",
+      "start": 872.741,
+      "duration": 3.757
+    },
+    {
+      "text": " teacher, \"Hey, keep the pyramid as it",
+      "start": 875.559,
+      "duration": 3.259
+    },
+    {
+      "text": " is.\"\"A new kid has arrived, please",
+      "start": 877.879,
+      "duration": 2.865
+    },
+    {
+      "text": " include them in the pyramid.\" The PT",
+      "start": 879.794,
+      "duration": 2.895
+    },
+    {
+      "text": " teacher will include them like this and",
+      "start": 881.743,
+      "duration": 3.113
+    },
+    {
+      "text": " will also fix the pyramid and keep it",
+      "start": 883.911,
+      "duration": 3.005
+    },
+    {
+      "text": " correct. So, when we study trees, you",
+      "start": 885.97,
+      "duration": 3.103
+    },
+    {
+      "text": " will understand the time complexity of",
+      "start": 888.123,
+      "duration": 2.919
+    },
+    {
+      "text": " this better. For now, for now, just",
+      "start": 890.093,
+      "duration": 3.417
+    },
+    {
+      "text": " assume that for inserting any number,",
+      "start": 892.57,
+      "duration": 3.206
+    },
+    {
+      "text": " or anything, any number, the time",
+      "start": 894.836,
+      "duration": 2.968
+    },
+    {
+      "text": " complexity is log n, where n means how",
+      "start": 896.863,
+      "duration": 3.266
+    },
+    {
+      "text": " many things are in the pyramid; so",
+      "start": 899.189,
+      "duration": 3.027
+    },
+    {
+      "text": " suppose there are seven things, then",
+      "start": 901.276,
+      "duration": 3.147
+    },
+    {
+      "text": " log seven. Why is that? When you study",
+      "start": 903.482,
+      "duration": 3.335
+    },
+    {
+      "text": " trees, I will explain it very well.",
+      "start": 905.87,
+      "duration": 2.857
+    },
+    {
+      "text": " What is insert? log n. What is insert?",
+      "start": 907.827,
+      "duration": 3.871
+    },
+    {
+      "text": " log n. Okay? Now, that was about",
+      "start": 910.798,
+      "duration": 3.57
+    },
+    {
+      "text": " insertion. That was about insertion.",
+      "start": 913.42,
+      "duration": 2.82
+    },
+    {
+      "text": " Now, suppose your pyramid looks like",
+      "start": 915.419,
+      "duration": 2.337
+    },
+    {
+      "text": " this. How was your pyramid looking? 35",
+      "start": 916.793,
+      "duration": 3.232
+    },
+    {
+      "text": " was here. 50 and 40, 50 and 50 were",
+      "start": 919.139,
+      "duration": 6.596
+    },
+    {
+      "text": " here. 40 was here, and 70, 80, 60, and",
+      "start": 924.875,
+      "duration": 6.217
+    },
+    {
+      "text": " 45, 70. 80. This one was standing on 60",
+      "start": 930.213,
+      "duration": 7.235
+    },
+    {
+      "text": ". This became 45. It was looking like",
+      "start": 936.448,
+      "duration": 3.182
+    },
+    {
+      "text": " this because you had inserted 35. 35",
+      "start": 938.677,
+      "duration": 2.768
+    },
+    {
+      "text": " was at the very top. We are talking",
+      "start": 940.496,
+      "duration": 2.657
+    },
+    {
+      "text": " about a min-heap. Now you feel like",
+      "start": 942.19,
+      "duration": 2.97
+    },
+    {
+      "text": " deleting something. Now you feel like",
+      "start": 944.213,
+      "duration": 3.531
+    },
+    {
+      "text": " deleting something. So in a heap, you",
+      "start": 946.807,
+      "duration": 3.677
+    },
+    {
+      "text": " see, you can insert anything. In insert",
+      "start": 949.563,
+      "duration": 3.869
+    },
+    {
+      "text": ", you can give a number, like, \"insert",
+      "start": 952.432,
+      "duration": 2.833
+    },
+    {
+      "text": " 35,\" and it will be done. But in delete",
+      "start": 954.313,
+      "duration": 3.292
+    },
+    {
+      "text": ", you cannot give a number. In delete,",
+      "start": 956.605,
+      "duration": 4.187
+    },
+    {
+      "text": " you cannot provide any number; you",
+      "start": 959.842,
+      "duration": 2.679
+    },
+    {
+      "text": " cannot say, \"Hey, do one thing, delete",
+      "start": 961.57,
+      "duration": 2.876
+    },
+    {
+      "text": " the child with 50.\" No, you cannot",
+      "start": 963.496,
+      "duration": 2.679
+    },
+    {
+      "text": " delete the child with 50. Deletion in a",
+      "start": 965.224,
+      "duration": 3.947
+    },
+    {
+      "text": " heap is just like in a stack. Remember",
+      "start": 968.217,
+      "duration": 2.947
+    },
+    {
+      "text": " in a stack? While popping, could you",
+      "start": 970.222,
+      "duration": 3.313
+    },
+    {
+      "text": " say that a particular value should be",
+      "start": 972.599,
+      "duration": 3.368
+    },
+    {
+      "text": " popped? No, you couldn't pop a",
+      "start": 975.031,
+      "duration": 2.924
+    },
+    {
+      "text": " particular value. What does delete mean",
+      "start": 977.013,
+      "duration": 3.716
+    },
+    {
+      "text": "? If this is a min-heap, the top child",
+      "start": 979.729,
+      "duration": 3.346
+    },
+    {
+      "text": " will always be deleted. The top child",
+      "start": 982.134,
+      "duration": 3.253
+    },
+    {
+      "text": " will always be deleted. The top child",
+      "start": 984.44,
+      "duration": 3.124
+    },
+    {
+      "text": " will always be deleted. You cannot",
+      "start": 986.621,
+      "duration": 3.167
+    },
+    {
+      "text": " pin-point and delete, like \"delete the",
+      "start": 988.857,
+      "duration": 3.616
+    },
+    {
+      "text": " 40 kg one.\" No. Delete means the child",
+      "start": 991.542,
+      "duration": 3.906
+    },
+    {
+      "text": " at the very top, the smallest child,",
+      "start": 994.524,
+      "duration": 3.757
+    },
+    {
+      "text": " should be deleted. So, it will just get",
+      "start": 997.358,
+      "duration": 3.331
+    },
+    {
+      "text": " deleted. Now see how deletion happens.",
+      "start": 999.732,
+      "duration": 2.554
+    },
+    {
+      "text": " There is a trick involved in deletion",
+      "start": 1001.386,
+      "duration": 2.19
+    },
+    {
+      "text": " too. Now you can't just say, \"delete it",
+      "start": 1002.608,
+      "duration": 3.163
+    },
+    {
+      "text": ",\" right? Okay? Who will be deleted? 35",
+      "start": 1004.771,
+      "duration": 3.304
+    },
+    {
+      "text": " will be. Why? Because it is at the top.",
+      "start": 1007.144,
+      "duration": 3.173
+    },
+    {
+      "text": " You cannot pin-point and target, \"",
+      "start": 1009.417,
+      "duration": 2.785
+    },
+    {
+      "text": "brother, delete this.\" No, that's not",
+      "start": 1011.202,
+      "duration": 2.784
+    },
+    {
+      "text": " possible. Only the one at the top can",
+      "start": 1013.023,
+      "duration": 2.519
+    },
+    {
+      "text": " be deleted. Now suppose we delete 35",
+      "start": 1014.582,
+      "duration": 2.564
+    },
+    {
+      "text": " from here; we can't do that, right?",
+      "start": 1016.188,
+      "duration": 2.494
+    },
+    {
+      "text": " Then the pyramid will break, right? If",
+      "start": 1017.799,
+      "duration": 2.607
+    },
+    {
+      "text": " you send the top child home, how will",
+      "start": 1019.459,
+      "duration": 2.963
+    },
+    {
+      "text": " it work? The pyramid will break. Okay.",
+      "start": 1021.475,
+      "duration": 3.591
+    },
+    {
+      "text": " What does the PT teacher do? See, the",
+      "start": 1024.166,
+      "duration": 2.734
+    },
+    {
+      "text": " PT teacher plays a very smart game.",
+      "start": 1025.953,
+      "duration": 2.846
+    },
+    {
+      "text": " First of all, he looks at both ends;",
+      "start": 1028.139,
+      "duration": 3.16
+    },
+    {
+      "text": " see, where did the insert happen?",
+      "start": 1030.359,
+      "duration": 2.98
+    },
+    {
+      "text": " Remember what happened during insert?",
+      "start": 1032.579,
+      "duration": 2.24
+    },
+    {
+      "text": " At the last, because it's easy to",
+      "start": 1033.979,
+      "duration": 2.343
+    },
+    {
+      "text": " arrange from the last. It's easy to",
+      "start": 1035.363,
+      "duration": 2.493
+    },
+    {
+      "text": " arrange from the last. What does the PT",
+      "start": 1036.891,
+      "duration": 2.587
+    },
+    {
+      "text": " teacher do? First of all, he swaps.",
+      "start": 1038.522,
+      "duration": 2.746
+    },
+    {
+      "text": " Between whom? The root one. Root means",
+      "start": 1040.368,
+      "duration": 3.581
+    },
+    {
+      "text": " the first, the top child, and the last",
+      "start": 1043.005,
+      "duration": 3.163
+    },
+    {
+      "text": " child, which is here. He swaps 45 and",
+      "start": 1045.225,
+      "duration": 4.211
+    },
+    {
+      "text": " 35. See how it will be swapped. Go",
+      "start": 1048.552,
+      "duration": 3.336
+    },
+    {
+      "text": " ahead and swap. 45 came here. 35 came",
+      "start": 1050.963,
+      "duration": 4.129
+    },
+    {
+      "text": " here. Okay? Now what to do? Send 35",
+      "start": 1054.172,
+      "duration": 3.881
+    },
+    {
+      "text": " home. It is easy to delete from the",
+      "start": 1057.156,
+      "duration": 2.931
+    },
+    {
+      "text": " last. If you cut off the head of the",
+      "start": 1059.133,
+      "duration": 2.574
+    },
+    {
+      "text": " pyramid, then where did the top child",
+      "start": 1060.749,
+      "duration": 2.538
+    },
+    {
+      "text": " go? Who will go to the top? It is easy",
+      "start": 1062.329,
+      "duration": 2.799
+    },
+    {
+      "text": " to send this child home from the last.",
+      "start": 1064.168,
+      "duration": 2.516
+    },
+    {
+      "text": " Tell him, \"Yes brother, you go home.\"",
+      "start": 1065.784,
+      "duration": 2.432
+    },
+    {
+      "text": " It has come to the ground, right? Go",
+      "start": 1067.316,
+      "duration": 2.124
+    },
+    {
+      "text": " home, brother. Delete this. Delete this",
+      "start": 1068.494,
+      "duration": 3.743
+    },
+    {
+      "text": " and make 35 run away. Make 35 run away.",
+      "start": 1071.301,
+      "duration": 4.009
+    },
+    {
+      "text": " Now you will have to check because it",
+      "start": 1074.41,
+      "duration": 3.008
+    },
+    {
+      "text": " is possible that your heap has been",
+      "start": 1076.472,
+      "duration": 2.9
+    },
+    {
+      "text": " disturbed. And look, start checking.",
+      "start": 1078.427,
+      "duration": 4.253
+    },
+    {
+      "text": " The person 45 is standing on, their",
+      "start": 1082.439,
+      "duration": 3.45
+    },
+    {
+      "text": " weight must be more than 45. But is",
+      "start": 1084.959,
+      "duration": 3.789
+    },
+    {
+      "text": " that the case? It is not. It is not",
+      "start": 1087.791,
+      "duration": 2.921
+    },
+    {
+      "text": " like that. You have placed 45 on top of",
+      "start": 1089.756,
+      "duration": 3.604
+    },
+    {
+      "text": " 40. What will you do? We will swap them",
+      "start": 1092.433,
+      "duration": 3.473
+    },
+    {
+      "text": ". Look, all these things are not",
+      "start": 1094.906,
+      "duration": 2.525
+    },
+    {
+      "text": " important. You will never need to do",
+      "start": 1096.476,
+      "duration": 2.601
+    },
+    {
+      "text": " all these things. But it is necessary",
+      "start": 1098.119,
+      "duration": 2.566
+    },
+    {
+      "text": " to know. If someone asks how it happens",
+      "start": 1099.725,
+      "duration": 2.696
+    },
+    {
+      "text": ", then it is necessary to know. What to",
+      "start": 1101.421,
+      "duration": 2.942
+    },
+    {
+      "text": " do? Swap them. How? Check 40 and 45",
+      "start": 1103.435,
+      "duration": 5.231
+    },
+    {
+      "text": " again. Now what came from the top? 45,",
+      "start": 1107.793,
+      "duration": 3.902
+    },
+    {
+      "text": " what? Is the weight of the person 45 is",
+      "start": 1110.797,
+      "duration": 3.16
+    },
+    {
+      "text": " standing on more than 45? Yes, there is",
+      "start": 1113.003,
+      "duration": 2.81
+    },
+    {
+      "text": " no one else besides 60, so it is fine.",
+      "start": 1114.853,
+      "duration": 2.55
+    },
+    {
+      "text": " 60 is more than 45. And now check again",
+      "start": 1116.503,
+      "duration": 3.855
+    },
+    {
+      "text": ". 40, 50, and 45 will work. 50, 70, and",
+      "start": 1119.358,
+      "duration": 4.062
+    },
+    {
+      "text": " 80 will work. See, your pyramid is",
+      "start": 1122.486,
+      "duration": 3.716
+    },
+    {
+      "text": " intact again and your 40kg kid is back",
+      "start": 1125.256,
+      "duration": 3.021
+    },
+    {
+      "text": " on top once you deleted the 35kg one.",
+      "start": 1127.33,
+      "duration": 2.969
+    },
+    {
+      "text": " So this happens. This is the game. So",
+      "start": 1129.991,
+      "duration": 3.71
+    },
+    {
+      "text": " remember one thing, in delete, you will",
+      "start": 1132.753,
+      "duration": 3.006
+    },
+    {
+      "text": " never target and delete like, \"Hey,",
+      "start": 1134.81,
+      "duration": 2.8
+    },
+    {
+      "text": " delete the 50 one.\" No, no. So, what is",
+      "start": 1136.661,
+      "duration": 3.948
+    },
+    {
+      "text": " the time complexity of delete? log n.",
+      "start": 1139.668,
+      "duration": 3.69
+    },
+    {
+      "text": " log n. Okay? So, what did you learn",
+      "start": 1142.636,
+      "duration": 3.291
+    },
+    {
+      "text": " about the heap now? Especially in a",
+      "start": 1144.973,
+      "duration": 2.854
+    },
+    {
+      "text": " min-heap, you can do three things. One,",
+      "start": 1146.886,
+      "duration": 3.363
+    },
+    {
+      "text": " you can ask who is at the top. One, you",
+      "start": 1149.317,
+      "duration": 3.717
+    },
+    {
+      "text": " can ask what is at the top. What is it?",
+      "start": 1152.099,
+      "duration": 4.177
+    },
+    {
+      "text": " If it is a min-heap, you will know that",
+      "start": 1155.376,
+      "duration": 2.962
+    },
+    {
+      "text": " the smallest kid is at the top. Second,",
+      "start": 1157.388,
+      "duration": 2.982
+    },
+    {
+      "text": " its time complexity is order of one.",
+      "start": 1159.416,
+      "duration": 2.653
+    },
+    {
+      "text": " Why? Because you can look and tell that",
+      "start": 1161.169,
+      "duration": 2.622
+    },
+    {
+      "text": " the topmost one will be at the top.",
+      "start": 1162.824,
+      "duration": 2.162
+    },
+    {
+      "text": " Very good. You can insert any number.",
+      "start": 1164.086,
+      "duration": 3.393
+    },
+    {
+      "text": " Insert anything, anything means any",
+      "start": 1166.579,
+      "duration": 3.126
+    },
+    {
+      "text": " number, if it is an integer heap, then",
+      "start": 1168.766,
+      "duration": 3.309
+    },
+    {
+      "text": " you can do anything. Its time",
+      "start": 1171.136,
+      "duration": 3.03
+    },
+    {
+      "text": " complexity is order of log n, and you",
+      "start": 1173.255,
+      "duration": 4.305
+    },
+    {
+      "text": " can delete. You can delete. Its time",
+      "start": 1176.649,
+      "duration": 3.515
+    },
+    {
+      "text": " complexity is order of log n. Remember,",
+      "start": 1179.211,
+      "duration": 2.908
+    },
+    {
+      "text": " you cannot delete any particular number",
+      "start": 1181.169,
+      "duration": 2.931
+    },
+    {
+      "text": ". You cannot say, \"Hey, delete 60.\" No.",
+      "start": 1183.1,
+      "duration": 3.448
+    },
+    {
+      "text": " No, no, it is not possible. Only the",
+      "start": 1185.61,
+      "duration": 3.115
+    },
+    {
+      "text": " one on top will be deleted. You keep",
+      "start": 1187.767,
+      "duration": 2.787
+    },
+    {
+      "text": " deleting. It depends on your luck what",
+      "start": 1189.623,
+      "duration": 3.111
+    },
+    {
+      "text": " you get. Apart from these three things,",
+      "start": 1191.784,
+      "duration": 3.603
+    },
+    {
+      "text": " you cannot do anything else. You cannot",
+      "start": 1194.442,
+      "duration": 3.521
+    },
+    {
+      "text": " search. You cannot determine if",
+      "start": 1197.047,
+      "duration": 2.869
+    },
+    {
+      "text": " something is in the heap or not, it's",
+      "start": 1198.961,
+      "duration": 2.667
+    },
+    {
+      "text": " not possible to find out. You cannot",
+      "start": 1200.673,
+      "duration": 2.841
+    },
+    {
+      "text": " perform targeted deletions. I mean, you",
+      "start": 1202.565,
+      "duration": 2.935
+    },
+    {
+      "text": " cannot perform a targeted delete. All",
+      "start": 1204.541,
+      "duration": 2.575
+    },
+    {
+      "text": " these things are not allowed. Nothing",
+      "start": 1206.163,
+      "duration": 2.873
+    },
+    {
+      "text": " is allowed apart from these three",
+      "start": 1208.095,
+      "duration": 2.957
+    },
+    {
+      "text": " things. Nothing is allowed. Whose talk",
+      "start": 1210.111,
+      "duration": 4.054
+    },
+    {
+      "text": " was this? Min-heap's. Min-heap's.",
+      "start": 1213.233,
+      "duration": 4.244
+    },
+    {
+      "text": " Min-heap. Max-heap is just the opposite",
+      "start": 1216.577,
+      "duration": 2.906
+    },
+    {
+      "text": " of this. Max-heap is just the opposite",
+      "start": 1218.526,
+      "duration": 2.635
+    },
+    {
+      "text": " of this. Take an example of an office.",
+      "start": 1220.202,
+      "duration": 3.277
+    },
+    {
+      "text": " What is the highest post in an office?",
+      "start": 1222.659,
+      "duration": 3.12
+    },
+    {
+      "text": " CEO. This is the highest one. The CEO",
+      "start": 1225.019,
+      "duration": 4.112
+    },
+    {
+      "text": " has two, uh, subordinates. One is their",
+      "start": 1228.196,
+      "duration": 4.038
+    },
+    {
+      "text": " CFO and one is their COO. This is how",
+      "start": 1231.338,
+      "duration": 4.24
+    },
+    {
+      "text": " it is. There will be many things under",
+      "start": 1234.629,
+      "duration": 2.785
+    },
+    {
+      "text": " the CFO. One will be some director. One",
+      "start": 1236.459,
+      "duration": 4.032
+    },
+    {
+      "text": " will be some senior director. There",
+      "start": 1239.582,
+      "duration": 4.428
+    },
+    {
+      "text": " will also be a lot under the COO. One",
+      "start": 1243.056,
+      "duration": 2.886
+    },
+    {
+      "text": " will be their VP. And one will be an",
+      "start": 1245.03,
+      "duration": 4.59
+    },
+    {
+      "text": " AVP. Now look, what has this become?",
+      "start": 1248.716,
+      "duration": 3.843
+    },
+    {
+      "text": " This has become a max-heap of a company",
+      "start": 1251.793,
+      "duration": 3.535
+    },
+    {
+      "text": ". Now, the same thing applies here. If",
+      "start": 1254.328,
+      "duration": 2.898
+    },
+    {
+      "text": " someone asks you what the biggest post",
+      "start": 1256.291,
+      "duration": 3.473
+    },
+    {
+      "text": " in the company is? Which is the biggest",
+      "start": 1258.829,
+      "duration": 3.423
+    },
+    {
+      "text": " post? Where is it? What will you say?",
+      "start": 1261.31,
+      "duration": 2.803
+    },
+    {
+      "text": " The one sitting at the very top is the",
+      "start": 1263.213,
+      "duration": 2.427
+    },
+    {
+      "text": " biggest. Because this is a max-heap.",
+      "start": 1264.677,
+      "duration": 2.931
+    },
+    {
+      "text": " What is its condition? The two people",
+      "start": 1266.708,
+      "duration": 4.009
+    },
+    {
+      "text": " the CEO stands upon must be lower than",
+      "start": 1269.785,
+      "duration": 3.585
+    },
+    {
+      "text": " them. What was it in a min-heap? They",
+      "start": 1272.438,
+      "duration": 2.744
+    },
+    {
+      "text": " had to be greater than 40. Those",
+      "start": 1274.225,
+      "duration": 2.405
+    },
+    {
+      "text": " children had to be bigger/heavier than",
+      "start": 1275.667,
+      "duration": 2.398
+    },
+    {
+      "text": " that. The people below must be lower",
+      "start": 1277.102,
+      "duration": 3.149
+    },
+    {
+      "text": " than them. Only then will this person",
+      "start": 1279.313,
+      "duration": 2.531
+    },
+    {
+      "text": " come to the very top, right? The most",
+      "start": 1280.875,
+      "duration": 2.725
+    },
+    {
+      "text": " powerful person will come to the top",
+      "start": 1282.652,
+      "duration": 2.895
+    },
+    {
+      "text": " only when everyone below them is lower",
+      "start": 1284.6,
+      "duration": 3.0
+    },
+    {
+      "text": " than them. Similarly, the posts of the",
+      "start": 1286.652,
+      "duration": 3.531
+    },
+    {
+      "text": " two people the CFO is above must be",
+      "start": 1289.237,
+      "duration": 2.872
+    },
+    {
+      "text": " lower than them. Yes, the posts of both",
+      "start": 1291.163,
+      "duration": 3.087
+    },
+    {
+      "text": " people the CEO is above must be lower",
+      "start": 1293.3,
+      "duration": 2.834
+    },
+    {
+      "text": " than them. So what can you ask? Which",
+      "start": 1295.184,
+      "duration": 2.9
+    },
+    {
+      "text": " is the biggest post? What will you",
+      "start": 1297.127,
+      "duration": 2.494
+    },
+    {
+      "text": " always find out? The CEO is the biggest",
+      "start": 1298.662,
+      "duration": 3.621
+    },
+    {
+      "text": " post and you can insert any post. You",
+      "start": 1301.368,
+      "duration": 4.05
+    },
+    {
+      "text": " can insert any post. You insert HR. The",
+      "start": 1304.47,
+      "duration": 3.764
+    },
+    {
+      "text": " company itself will take care of what",
+      "start": 1307.293,
+      "duration": 3.166
+    },
+    {
+      "text": " happens when you insert HR. The third",
+      "start": 1309.518,
+      "duration": 3.261
+    },
+    {
+      "text": " thing is that you can delete. I mean,",
+      "start": 1311.819,
+      "duration": 2.65
+    },
+    {
+      "text": " and who can you delete? You can only",
+      "start": 1313.522,
+      "duration": 2.741
+    },
+    {
+      "text": " delete the one who is currently at the",
+      "start": 1315.299,
+      "duration": 2.345
+    },
+    {
+      "text": " very top. You cannot delete anything",
+      "start": 1316.68,
+      "duration": 2.856
+    },
+    {
+      "text": " else. For these two, it's log n; for",
+      "start": 1318.59,
+      "duration": 3.237
+    },
+    {
+      "text": " this, it's order of one. So, what did",
+      "start": 1320.886,
+      "duration": 3.054
+    },
+    {
+      "text": " this become? Max-heap. Max-heap means",
+      "start": 1322.981,
+      "duration": 3.597
+    },
+    {
+      "text": " there will be two types of heaps. First",
+      "start": 1325.648,
+      "duration": 4.552
+    },
+    {
+      "text": ", min-heap and max-heap. First,",
+      "start": 1329.2,
+      "duration": 5.589
+    },
+    {
+      "text": " min-heap and max-heap. What is the",
+      "start": 1333.861,
+      "duration": 3.009
+    },
+    {
+      "text": " difference between min-heap and both of",
+      "start": 1335.901,
+      "duration": 2.176
+    },
+    {
+      "text": " them? In this, when you do the top one,",
+      "start": 1337.108,
+      "duration": 3.342
+    },
+    {
+      "text": " you will get the smallest. Because this",
+      "start": 1339.493,
+      "duration": 3.349
+    },
+    {
+      "text": " is a min-heap. In this, when you ask",
+      "start": 1341.888,
+      "duration": 2.846
+    },
+    {
+      "text": " for the top one, you will get the",
+      "start": 1343.786,
+      "duration": 2.735
+    },
+    {
+      "text": " biggest answer. And everything else is",
+      "start": 1345.574,
+      "duration": 2.668
+    },
+    {
+      "text": " the same. Both can perform insertions.",
+      "start": 1347.278,
+      "duration": 2.473
+    },
+    {
+      "text": " Both can perform deletions. So, these",
+      "start": 1348.851,
+      "duration": 2.632
+    },
+    {
+      "text": " are two types of heaps. And remember",
+      "start": 1350.524,
+      "duration": 2.571
+    },
+    {
+      "text": " both in this way. The first example is",
+      "start": 1352.14,
+      "duration": 2.767
+    },
+    {
+      "text": " a pyramid where the smallest child is",
+      "start": 1353.948,
+      "duration": 2.509
+    },
+    {
+      "text": " at the top and heavier children are",
+      "start": 1355.498,
+      "duration": 2.428
+    },
+    {
+      "text": " below. The second example is a company",
+      "start": 1356.967,
+      "duration": 2.564
+    },
+    {
+      "text": " where the CEO is at the top. Below them",
+      "start": 1358.57,
+      "duration": 2.717
+    },
+    {
+      "text": " are their subordinates. Below them are",
+      "start": 1360.339,
+      "duration": 2.817
+    },
+    {
+      "text": " their own subordinates. If you remember",
+      "start": 1362.194,
+      "duration": 2.747
+    },
+    {
+      "text": " it this way, you won't need to memorize",
+      "start": 1363.992,
+      "duration": 2.983
+    },
+    {
+      "text": " it. So that was the introduction to",
+      "start": 1366.026,
+      "duration": 2.943
+    },
+    {
+      "text": " heaps; let's move forward. Now let's",
+      "start": 1368.014,
+      "duration": 2.917
+    },
+    {
+      "text": " see how to write this in a program. Now",
+      "start": 1369.974,
+      "duration": 2.884
+    },
+    {
+      "text": " the question arises, how is a heap",
+      "start": 1371.904,
+      "duration": 2.568
+    },
+    {
+      "text": " written in C ++, Java, or Python? So,",
+      "start": 1373.518,
+      "duration": 2.758
+    },
+    {
+      "text": " you don't really need to implement a",
+      "start": 1375.322,
+      "duration": 2.642
+    },
+    {
+      "text": " heap like that. Heaps are already",
+      "start": 1377.009,
+      "duration": 2.854
+    },
+    {
+      "text": " inbuilt. You can just use the heap. In",
+      "start": 1378.925,
+      "duration": 3.071
+    },
+    {
+      "text": " Java, what is this heap generally",
+      "start": 1381.054,
+      "duration": 2.92
+    },
+    {
+      "text": " called? Priority Queue. Remember this",
+      "start": 1383.032,
+      "duration": 3.869
+    },
+    {
+      "text": " term. Priority Queue. Okay? Priority",
+      "start": 1385.987,
+      "duration": 5.018
+    },
+    {
+      "text": " Queue. This heap is called a Priority",
+      "start": 1390.077,
+      "duration": 3.171
+    },
+    {
+      "text": " Queue. So look, what did we say? How",
+      "start": 1392.301,
+      "duration": 2.891
+    },
+    {
+      "text": " many types of heaps are there? Is there",
+      "start": 1394.226,
+      "duration": 2.658
+    },
+    {
+      "text": " a max heap or min heap in Java? In Java",
+      "start": 1395.947,
+      "duration": 3.389
+    },
+    {
+      "text": ", when you write a Priority Queue, you",
+      "start": 1398.336,
+      "duration": 2.389
+    },
+    {
+      "text": " can create it like this. Suppose you",
+      "start": 1399.762,
+      "duration": 3.171
+    },
+    {
+      "text": " want to create a heap where you want to",
+      "start": 1402.002,
+      "duration": 3.675
+    },
+    {
+      "text": " store integers, you can do it like this",
+      "start": 1404.746,
+      "duration": 3.676
+    },
+    {
+      "text": ": Priority Queue—the syntax is a bit",
+      "start": 1407.422,
+      "duration": 3.607
+    },
+    {
+      "text": " difficult, you will remember it",
+      "start": 1410.097,
+      "duration": 3.127
+    },
+    {
+      "text": " gradually. int, What did this create?",
+      "start": 1412.292,
+      "duration": 5.157
+    },
+    {
+      "text": " Remember, you have to keep in mind that",
+      "start": 1416.549,
+      "duration": 3.606
+    },
+    {
+      "text": " by default, what is created is a max",
+      "start": 1419.222,
+      "duration": 3.406
+    },
+    {
+      "text": " heap. Meaning, whatever things you keep",
+      "start": 1421.694,
+      "duration": 3.07
+    },
+    {
+      "text": " inserting into it, what will you get at",
+      "start": 1423.814,
+      "duration": 2.921
+    },
+    {
+      "text": " the top? You will get the largest",
+      "start": 1425.784,
+      "duration": 2.425
+    },
+    {
+      "text": " element. This is a max heap. If you",
+      "start": 1427.248,
+      "duration": 3.578
+    },
+    {
+      "text": " want to create a min heap, the syntax",
+      "start": 1429.874,
+      "duration": 2.771
+    },
+    {
+      "text": " is a bit longer. Take a look at this.",
+      "start": 1431.693,
+      "duration": 3.134
+    },
+    {
+      "text": " Priority—even I don't remember this",
+      "start": 1433.927,
+      "duration": 3.447
+    },
+    {
+      "text": " by heart yet. You might also take some",
+      "start": 1436.44,
+      "duration": 2.998
+    },
+    {
+      "text": " time to remember it. That is no problem",
+      "start": 1438.481,
+      "duration": 2.754
+    },
+    {
+      "text": ". If you forget this syntax, there is",
+      "start": 1440.235,
+      "duration": 2.622
+    },
+    {
+      "text": " nothing to be embarrassed about. Right?",
+      "start": 1441.899,
+      "duration": 2.847
+    },
+    {
+      "text": " Even I forget it. Even I have to look",
+      "start": 1443.846,
+      "duration": 3.49
+    },
+    {
+      "text": " it up sometimes. What do you have to",
+      "start": 1446.398,
+      "duration": 2.771
+    },
+    {
+      "text": " write in this? int in. I don't know why",
+      "start": 1448.205,
+      "duration": 2.845
+    },
+    {
+      "text": " it is like that. But that is what you",
+      "start": 1450.088,
+      "duration": 2.662
+    },
+    {
+      "text": " have to write. After that, you have to",
+      "start": 1451.795,
+      "duration": 3.306
+    },
+    {
+      "text": " write vector int. After that, you have",
+      "start": 1454.158,
+      "duration": 5.573
+    },
+    {
+      "text": " to write greater greater int. This is",
+      "start": 1458.84,
+      "duration": 5.312
+    },
+    {
+      "text": " your pq. What is this? Min-heap.",
+      "start": 1463.249,
+      "duration": 4.11
+    },
+    {
+      "text": " Min-heap of integers. How do we know?",
+      "start": 1466.459,
+      "duration": 3.246
+    },
+    {
+      "text": " Because there is an integer here. See,",
+      "start": 1468.805,
+      "duration": 2.321
+    },
+    {
+      "text": " this is its data type. And you will",
+      "start": 1470.174,
+      "duration": 2.636
+    },
+    {
+      "text": " have to write all these extra things in",
+      "start": 1471.849,
+      "duration": 2.532
+    },
+    {
+      "text": " it. To make it a min-heap. So, this is",
+      "start": 1473.421,
+      "duration": 3.182
+    },
+    {
+      "text": " how you can create it in C ++. Now,",
+      "start": 1475.663,
+      "duration": 3.146
+    },
+    {
+      "text": " what are the general functions? You",
+      "start": 1477.87,
+      "duration": 3.144
+    },
+    {
+      "text": " want to insert something. Suppose you",
+      "start": 1480.059,
+      "duration": 2.891
+    },
+    {
+      "text": " want to insert something. How will you",
+      "start": 1482.01,
+      "duration": 3.362
+    },
+    {
+      "text": " do it? PQ dot push. What to push?",
+      "start": 1484.434,
+      "duration": 4.04
+    },
+    {
+      "text": " Anything, any number n. You want to",
+      "start": 1487.574,
+      "duration": 3.401
+    },
+    {
+      "text": " delete something. How will you do it?",
+      "start": 1490.041,
+      "duration": 3.295
+    },
+    {
+      "text": " PQ dot pop. You want to see the topmost",
+      "start": 1492.436,
+      "duration": 4.574
+    },
+    {
+      "text": " element. You want to see what the",
+      "start": 1496.1,
+      "duration": 2.893
+    },
+    {
+      "text": " largest element is. What will you do?",
+      "start": 1498.036,
+      "duration": 2.849
+    },
+    {
+      "text": " PQ dot top. Three functions: push, pop,",
+      "start": 1499.985,
+      "duration": 4.421
+    },
+    {
+      "text": " top, just like a stack, and a few more",
+      "start": 1503.47,
+      "duration": 3.428
+    },
+    {
+      "text": " functions. PQ empty. This tells you",
+      "start": 1505.962,
+      "duration": 6.19
+    },
+    {
+      "text": " whether it is empty or not. It tells",
+      "start": 1511.199,
+      "duration": 3.091
+    },
+    {
+      "text": " you empty in yes or no. PQ dot size,",
+      "start": 1513.333,
+      "duration": 2.864
+    },
+    {
+      "text": " this tells you how many elements are in",
+      "start": 1515.256,
+      "duration": 3.278
+    },
+    {
+      "text": " your heap. How many elements there are.",
+      "start": 1517.592,
+      "duration": 2.681
+    },
+    {
+      "text": " Other than these, you don't need to",
+      "start": 1519.373,
+      "duration": 2.304
+    },
+    {
+      "text": " remember any functions. Are there any",
+      "start": 1520.714,
+      "duration": 2.46
+    },
+    {
+      "text": " other functions? PQ dot search, that",
+      "start": 1522.213,
+      "duration": 2.643
+    },
+    {
+      "text": " doesn't exist. PQ dot iterate, that",
+      "start": 1523.904,
+      "duration": 2.867
+    },
+    {
+      "text": " doesn't exist. PQ dot delete a",
+      "start": 1525.824,
+      "duration": 2.54
+    },
+    {
+      "text": " particular number, that doesn't exist.",
+      "start": 1527.409,
+      "duration": 2.718
+    },
+    {
+      "text": " See, in PQ dot pop, we haven't given",
+      "start": 1529.227,
+      "duration": 2.838
+    },
+    {
+      "text": " any input. Pop means the top one, it",
+      "start": 1531.116,
+      "duration": 2.925
+    },
+    {
+      "text": " surely knows that. Let's move on. So,",
+      "start": 1533.094,
+      "duration": 2.86
+    },
+    {
+      "text": " this was for C ++. You will learn the",
+      "start": 1535.021,
+      "duration": 2.994
+    },
+    {
+      "text": " syntax once you write it a couple of",
+      "start": 1537.053,
+      "duration": 2.378
+    },
+    {
+      "text": " times. Okay? We will learn it anyway",
+      "start": 1538.47,
+      "duration": 2.923
+    },
+    {
+      "text": " when we write the code. Let's come to",
+      "start": 1540.44,
+      "duration": 3.094
+    },
+    {
+      "text": " Java. Let's come to Java. What is there",
+      "start": 1542.599,
+      "duration": 3.204
+    },
+    {
+      "text": " in Java? I don't remember the Java",
+      "start": 1544.852,
+      "duration": 2.707
+    },
+    {
+      "text": " syntax that well either. Come to Java,",
+      "start": 1546.605,
+      "duration": 3.342
+    },
+    {
+      "text": " remember, by default in C ++, what is",
+      "start": 1549.029,
+      "duration": 4.041
+    },
+    {
+      "text": " it? Max-heap. In Java, by default, it",
+      "start": 1552.152,
+      "duration": 3.313
+    },
+    {
+      "text": " is a min-heap. In Java, by default, it",
+      "start": 1554.516,
+      "duration": 3.15
+    },
+    {
+      "text": " is a min-heap. How do you write this?",
+      "start": 1556.717,
+      "duration": 3.661
+    },
+    {
+      "text": " PriorityQueue, look, its P and Q are",
+      "start": 1559.49,
+      "duration": 4.83
+    },
+    {
+      "text": " capital here. In C ++, P and Q were not",
+      "start": 1563.426,
+      "duration": 3.925
+    },
+    {
+      "text": " capital. What kind do you want? You",
+      "start": 1566.408,
+      "duration": 3.971
+    },
+    {
+      "text": " want an integer type. Okay? PQ = new",
+      "start": 1569.453,
+      "duration": 5.359
+    },
+    {
+      "text": " PriorityQueue, let's do it like this.",
+      "start": 1574.031,
+      "duration": 9.109
+    },
+    {
+      "text": " New PriorityQueue, doing it like this.",
+      "start": 1582.259,
+      "duration": 4.08
+    },
+    {
+      "text": " What did this create? Min-heap. What",
+      "start": 1585.466,
+      "duration": 2.935
+    },
+    {
+      "text": " did this create? By default, it is a",
+      "start": 1587.435,
+      "duration": 2.772
+    },
+    {
+      "text": " min-heap. If you want a max-heap, what",
+      "start": 1589.267,
+      "duration": 3.992
+    },
+    {
+      "text": " will you have to write? Write the same",
+      "start": 1592.309,
+      "duration": 3.236
+    },
+    {
+      "text": " thing. Priority. Queue, there is no",
+      "start": 1594.61,
+      "duration": 5.711
+    },
+    {
+      "text": " space in between, sorry, I made a",
+      "start": 1599.369,
+      "duration": 2.58
+    },
+    {
+      "text": " mistake. There should be no space,",
+      "start": 1600.997,
+      "duration": 3.207
+    },
+    {
+      "text": " there is no space in between, okay?",
+      "start": 1603.247,
+      "duration": 2.492
+    },
+    {
+      "text": " This is a mistake, no space, it is",
+      "start": 1605.519,
+      "duration": 2.673
+    },
+    {
+      "text": " written together. You can also check",
+      "start": 1607.242,
+      "duration": 2.593
+    },
+    {
+      "text": " the syntax from ChatGPT, alright. In",
+      "start": 1608.871,
+      "duration": 2.482
+    },
+    {
+      "text": " this, I don't know why its integer",
+      "start": 1610.45,
+      "duration": 4.299
+    },
+    {
+      "text": " syntax is so difficult. Integer pq =",
+      "start": 1613.846,
+      "duration": 5.293
+    },
+    {
+      "text": " New PriorityQueue, do it like this, and",
+      "start": 1620.82,
+      "duration": 5.993
+    },
+    {
+      "text": " inside here, where there was an empty",
+      "start": 1625.942,
+      "duration": 5.737
+    },
+    {
+      "text": " bracket, you need to write",
+      "start": 1630.807,
+      "duration": 4.33
+    },
+    {
+      "text": " Collections.reverseOrder, alright.",
+      "start": 1634.265,
+      "duration": 5.354
+    },
+    {
+      "text": " That's how it's done in Java. Uh, what",
+      "start": 1639.799,
+      "duration": 3.567
+    },
+    {
+      "text": " are its functions? If you want to",
+      "start": 1642.452,
+      "duration": 3.582
+    },
+    {
+      "text": " insert, if this, wait, what happened",
+      "start": 1645.092,
+      "duration": 3.097
+    },
+    {
+      "text": " here? This became a max heap. Remember,",
+      "start": 1647.247,
+      "duration": 4.46
+    },
+    {
+      "text": " in Java by default you get a min heap,",
+      "start": 1650.761,
+      "duration": 3.062
+    },
+    {
+      "text": " in C ++ by default you get a max heap,",
+      "start": 1652.877,
+      "duration": 3.062
+    },
+    {
+      "text": " you have to work hard to make a min",
+      "start": 1654.994,
+      "duration": 2.899
+    },
+    {
+      "text": " heap. So in this, if you want to insert",
+      "start": 1656.947,
+      "duration": 7.033
+    },
+    {
+      "text": ", do pq.add, pq.add some number, okay.",
+      "start": 1662.98,
+      "duration": 6.139
+    },
+    {
+      "text": " Uh, if you want to remove the top,",
+      "start": 1669.819,
+      "duration": 3.129
+    },
+    {
+      "text": " meaning to delete, then what will you",
+      "start": 1672.011,
+      "duration": 3.317
+    },
+    {
+      "text": " do? pq.poll, pq.poll, it will be",
+      "start": 1674.391,
+      "duration": 3.901
+    },
+    {
+      "text": " removed with poll. If you want to see",
+      "start": 1677.366,
+      "duration": 4.29
+    },
+    {
+      "text": " it, if you want to look at it, pq.peek,",
+      "start": 1680.758,
+      "duration": 4.982
+    },
+    {
+      "text": " pq.peek. So these are the three",
+      "start": 1684.842,
+      "duration": 3.325
+    },
+    {
+      "text": " functions for what? Inserting, deleting",
+      "start": 1687.206,
+      "duration": 2.968
+    },
+    {
+      "text": ", and viewing. And there are other",
+      "start": 1689.174,
+      "duration": 3.424
+    },
+    {
+      "text": " functions like pq.isEmpty, pq.isEmpty,",
+      "start": 1691.676,
+      "duration": 3.987
+    },
+    {
+      "text": " and there is also pq.size. Similarly,",
+      "start": 1694.741,
+      "duration": 3.719
+    },
+    {
+      "text": " besides these five functions, there is",
+      "start": 1697.508,
+      "duration": 2.828
+    },
+    {
+      "text": " no need to remember anything else.",
+      "start": 1699.384,
+      "duration": 2.635
+    },
+    {
+      "text": " Let's see in Python. Now look, in",
+      "start": 1701.199,
+      "duration": 6.122
+    },
+    {
+      "text": " Python, by default, it is a min heap.",
+      "start": 1706.376,
+      "duration": 3.043
+    },
+    {
+      "text": " First of all, what is it by default? A",
+      "start": 1709.039,
+      "duration": 3.664
+    },
+    {
+      "text": " min heap. So what will you have to do?",
+      "start": 1711.779,
+      "duration": 2.866
+    },
+    {
+      "text": " You need to import heapq, okay, so how",
+      "start": 1713.745,
+      "duration": 4.871
+    },
+    {
+      "text": " will you make a min heap? First, you",
+      "start": 1717.718,
+      "duration": 5.611
+    },
+    {
+      "text": " will make a heap equal to this, and in",
+      "start": 1722.392,
+      "duration": 3.394
+    },
+    {
+      "text": " this, what is heappush? So you will do",
+      "start": 1724.849,
+      "duration": 5.531
+    },
+    {
+      "text": " it like, heapq.heappush some. In this,",
+      "start": 1729.518,
+      "duration": 5.614
+    },
+    {
+      "text": " you will pass the heap and some number.",
+      "start": 1734.176,
+      "duration": 2.723
+    },
+    {
+      "text": " What is this? Insert? What is this?",
+      "start": 1736.086,
+      "duration": 4.839
+    },
+    {
+      "text": " Insert? If you want to see, if you want",
+      "start": 1740.025,
+      "duration": 4.084
+    },
+    {
+      "text": " to see, to view, what will you do?",
+      "start": 1743.174,
+      "duration": 3.206
+    },
+    {
+      "text": " heapq.heappop heap, it will do both",
+      "start": 1746.139,
+      "duration": 8.325
+    },
+    {
+      "text": " things. It will do both things. It will",
+      "start": 1753.673,
+      "duration": 4.424
+    },
+    {
+      "text": " view it as well. I mean, you can do",
+      "start": 1757.165,
+      "duration": 3.684
+    },
+    {
+      "text": " this. You can do C = this. It will view",
+      "start": 1759.93,
+      "duration": 5.754
+    },
+    {
+      "text": " it, and it will also remove it. It will",
+      "start": 1764.767,
+      "duration": 4.001
+    },
+    {
+      "text": " do both at once. It will also delete it",
+      "start": 1767.816,
+      "duration": 2.743
+    },
+    {
+      "text": ". Until now, what we saw was, when you",
+      "start": 1769.559,
+      "duration": 2.581
+    },
+    {
+      "text": " wanted to view, you could only view.",
+      "start": 1771.181,
+      "duration": 2.442
+    },
+    {
+      "text": " There was no need to pop. Like in",
+      "start": 1772.723,
+      "duration": 2.553
+    },
+    {
+      "text": " stacks, what happened? stack.top. This",
+      "start": 1774.314,
+      "duration": 3.071
+    },
+    {
+      "text": " will view it and also remove it. Then",
+      "start": 1776.425,
+      "duration": 2.538
+    },
+    {
+      "text": " the next time you look, you will get a",
+      "start": 1777.999,
+      "duration": 2.347
+    },
+    {
+      "text": " new answer. So keep that in mind. Now,",
+      "start": 1779.382,
+      "duration": 3.842
+    },
+    {
+      "text": " there is no max heap in this. That is",
+      "start": 1782.283,
+      "duration": 3.149
+    },
+    {
+      "text": " why I keep saying that Python is not a",
+      "start": 1784.481,
+      "duration": 2.864
+    },
+    {
+      "text": " good language to study DSA. Because",
+      "start": 1786.394,
+      "duration": 2.661
+    },
+    {
+      "text": " look, there is no max heap in it at all",
+      "start": 1788.089,
+      "duration": 2.32
+    },
+    {
+      "text": ". Now, there is no max-heap. So, you",
+      "start": 1789.409,
+      "duration": 2.608
+    },
+    {
+      "text": " will have to use a trick for this.",
+      "start": 1791.061,
+      "duration": 2.485
+    },
+    {
+      "text": " Whatever you want to store, you will",
+      "start": 1792.646,
+      "duration": 3.467
+    },
+    {
+      "text": " have to store it negatively. Okay?",
+      "start": 1795.181,
+      "duration": 3.457
+    },
+    {
+      "text": " That's why we don't like Python for DSA",
+      "start": 1797.738,
+      "duration": 4.581
+    },
+    {
+      "text": ", especially if you have to study a",
+      "start": 1801.319,
+      "duration": 4.215
+    },
+    {
+      "text": " max-heap, meaning write a max-heap. You",
+      "start": 1804.626,
+      "duration": 4.605
+    },
+    {
+      "text": " will have to store negative values.",
+      "start": 1808.275,
+      "duration": 2.544
+    },
+    {
+      "text": " Will the syntax for negative values be",
+      "start": 1809.939,
+      "duration": 2.868
+    },
+    {
+      "text": " the same? The heap will look the same,",
+      "start": 1811.856,
+      "duration": 2.565
+    },
+    {
+      "text": " but you have to store it negatively.",
+      "start": 1813.456,
+      "duration": 2.263
+    },
+    {
+      "text": " What do I mean? Let me explain. Suppose",
+      "start": 1814.819,
+      "duration": 3.052
+    },
+    {
+      "text": " you have to store three numbers. 1, 2,",
+      "start": 1816.927,
+      "duration": 3.239
+    },
+    {
+      "text": " 3; now you can't store these because",
+      "start": 1819.228,
+      "duration": 3.217
+    },
+    {
+      "text": " you need a max-heap, so you need 3 at",
+      "start": 1821.506,
+      "duration": 3.278
+    },
+    {
+      "text": " the top. But this will create a",
+      "start": 1823.846,
+      "duration": 2.45
+    },
+    {
+      "text": " min-heap. So, store -1, -2, and -3",
+      "start": 1825.332,
+      "duration": 4.142
+    },
+    {
+      "text": " instead. What will happen with this?",
+      "start": 1828.575,
+      "duration": 3.498
+    },
+    {
+      "text": " When you create a min-heap, it will",
+      "start": 1831.173,
+      "duration": 2.393
+    },
+    {
+      "text": " look something like this. -3 will be",
+      "start": 1832.605,
+      "duration": 2.792
+    },
+    {
+      "text": " here, -2 will be here. -1 will be here.",
+      "start": 1834.467,
+      "duration": 3.821
+    },
+    {
+      "text": " Now, when you extract it, suppose you",
+      "start": 1837.388,
+      "duration": 3.378
+    },
+    {
+      "text": " look at the top, you will get -3. Don't",
+      "start": 1839.831,
+      "duration": 3.565
+    },
+    {
+      "text": " just use -3. Multiply it by -1, and",
+      "start": 1842.465,
+      "duration": 3.352
+    },
+    {
+      "text": " your answer will be 3. So, by using",
+      "start": 1844.882,
+      "duration": 3.17
+    },
+    {
+      "text": " this trick, you can turn a min-heap",
+      "start": 1847.099,
+      "duration": 2.615
+    },
+    {
+      "text": " into a max-heap. I don't know why it is",
+      "start": 1848.76,
+      "duration": 2.909
+    },
+    {
+      "text": " like this, but it is. So, whenever you",
+      "start": 1850.711,
+      "duration": 2.643
+    },
+    {
+      "text": " need to build a max-heap, you have to",
+      "start": 1852.396,
+      "duration": 2.539
+    },
+    {
+      "text": " use negative values. Okay? Now, let's",
+      "start": 1853.977,
+      "duration": 3.11
+    },
+    {
+      "text": " move on to the most important part. If",
+      "start": 1856.125,
+      "duration": 2.472
+    },
+    {
+      "text": " you have been watching until now, you",
+      "start": 1857.631,
+      "duration": 2.249
+    },
+    {
+      "text": " must have understood what a heap is.",
+      "start": 1858.914,
+      "duration": 2.216
+    },
+    {
+      "text": " Now, let's come to pattern recognition",
+      "start": 1860.299,
+      "duration": 3.323
+    },
+    {
+      "text": " and templates. What to do? Don't worry",
+      "start": 1862.683,
+      "duration": 3.329
+    },
+    {
+      "text": " about that; we will talk about it in",
+      "start": 1865.061,
+      "duration": 2.779
+    },
+    {
+      "text": " great detail later. But let me just",
+      "start": 1866.89,
+      "duration": 3.155
+    },
+    {
+      "text": " tell you what it is. If you see these",
+      "start": 1869.11,
+      "duration": 4.32
+    },
+    {
+      "text": " things in a question. First of all, see",
+      "start": 1872.5,
+      "duration": 3.372
+    },
+    {
+      "text": ", you have to understand the heap. I",
+      "start": 1874.872,
+      "duration": 2.458
+    },
+    {
+      "text": " always say don't memorize that you will",
+      "start": 1876.372,
+      "duration": 2.619
+    },
+    {
+      "text": " only solve it if you see this specific",
+      "start": 1878.033,
+      "duration": 2.577
+    },
+    {
+      "text": " English in the question. No. What is a",
+      "start": 1879.652,
+      "duration": 2.945
+    },
+    {
+      "text": " heap? See, try to understand what a",
+      "start": 1881.662,
+      "duration": 4.014
+    },
+    {
+      "text": " heap offers; it can tell you at any",
+      "start": 1884.74,
+      "duration": 3.243
+    },
+    {
+      "text": " time what the minimum is or what the",
+      "start": 1887.047,
+      "duration": 3.306
+    },
+    {
+      "text": " maximum is; the heap has no other power",
+      "start": 1889.417,
+      "duration": 3.498
+    },
+    {
+      "text": ". If you ask how many times something",
+      "start": 1891.915,
+      "duration": 3.832
+    },
+    {
+      "text": " has appeared, it cannot tell you. It",
+      "start": 1894.805,
+      "duration": 3.125
+    },
+    {
+      "text": " cannot tell you which element is where.",
+      "start": 1896.976,
+      "duration": 2.783
+    },
+    {
+      "text": " What can it tell you? Out of everything",
+      "start": 1898.899,
+      "duration": 3.526
+    },
+    {
+      "text": " seen so far, either what the minimum is",
+      "start": 1901.479,
+      "duration": 3.125
+    },
+    {
+      "text": ". If you are building a min-heap. Or",
+      "start": 1903.604,
+      "duration": 2.624
+    },
+    {
+      "text": " what the maximum is if you are building",
+      "start": 1905.281,
+      "duration": 3.092
+    },
+    {
+      "text": " a max-heap. What was the power of a",
+      "start": 1907.427,
+      "duration": 2.605
+    },
+    {
+      "text": " stack? The stack tells you which is the",
+      "start": 1909.072,
+      "duration": 2.792
+    },
+    {
+      "text": " most recent one that was placed. What",
+      "start": 1910.91,
+      "duration": 2.714
+    },
+    {
+      "text": " is the power of a heap? Out of all we",
+      "start": 1912.664,
+      "duration": 2.559
+    },
+    {
+      "text": " have seen so far, which one is the",
+      "start": 1914.262,
+      "duration": 2.32
+    },
+    {
+      "text": " maximum or minimum? So, this is the",
+      "start": 1915.621,
+      "duration": 2.537
+    },
+    {
+      "text": " power of a heap. This is what a heap",
+      "start": 1917.201,
+      "duration": 2.658
+    },
+    {
+      "text": " offers you. A heap can only do this for",
+      "start": 1918.905,
+      "duration": 3.122
+    },
+    {
+      "text": " you. There is nothing else for which",
+      "start": 1921.083,
+      "duration": 2.885
+    },
+    {
+      "text": " you will get help from a heap. That is",
+      "start": 1923.018,
+      "duration": 3.008
+    },
+    {
+      "text": " why the first thing is if the question",
+      "start": 1925.08,
+      "duration": 3.069
+    },
+    {
+      "text": " says k-th smallest or largest. We will",
+      "start": 1927.203,
+      "duration": 2.961
+    },
+    {
+      "text": " look at all the questions. There is no",
+      "start": 1929.196,
+      "duration": 2.307
+    },
+    {
+      "text": " need to worry about memorizing this",
+      "start": 1930.536,
+      "duration": 2.157
+    },
+    {
+      "text": " right now. Just make a note and write",
+      "start": 1931.726,
+      "duration": 2.486
+    },
+    {
+      "text": " it down somewhere. Top k elements,",
+      "start": 1933.252,
+      "duration": 3.028
+    },
+    {
+      "text": " closest to this. Look, what is this?",
+      "start": 1935.319,
+      "duration": 3.319
+    },
+    {
+      "text": " Min-max at every step, what is this? Of",
+      "start": 1937.959,
+      "duration": 3.109
+    },
+    {
+      "text": " all the ones seen so far, which one is",
+      "start": 1940.113,
+      "duration": 2.687
+    },
+    {
+      "text": " the minimum or which one is the maximum",
+      "start": 1941.844,
+      "duration": 2.731
+    },
+    {
+      "text": "? Merge sorted things. Now you might",
+      "start": 1943.575,
+      "duration": 2.994
+    },
+    {
+      "text": " say, no, you said merge array is for",
+      "start": 1945.614,
+      "duration": 2.643
+    },
+    {
+      "text": " two pointers. Yes, what was two",
+      "start": 1947.302,
+      "duration": 2.636
+    },
+    {
+      "text": " pointers for? Merging two sorted arrays",
+      "start": 1948.994,
+      "duration": 3.012
+    },
+    {
+      "text": ". Suppose you are told to merge 10",
+      "start": 1951.006,
+      "duration": 2.313
+    },
+    {
+      "text": " sorted arrays, then what will you do?",
+      "start": 1952.355,
+      "duration": 2.348
+    },
+    {
+      "text": " Then you won't be able to do anything,",
+      "start": 1953.803,
+      "duration": 1.969
+    },
+    {
+      "text": " right? You aren't going to write 10",
+      "start": 1954.797,
+      "duration": 2.176
+    },
+    {
+      "text": " pointers, are you? I, J, K, L, M, N, O,",
+      "start": 1956.006,
+      "duration": 2.887
+    },
+    {
+      "text": " P, then you would just keep doing i ++",
+      "start": 1957.952,
+      "duration": 3.269
+    },
+    {
+      "text": " and j ++. So, merge two arrays, yes,",
+      "start": 1960.281,
+      "duration": 3.199
+    },
+    {
+      "text": " that was in two pointers. But suppose",
+      "start": 1962.537,
+      "duration": 3.15
+    },
+    {
+      "text": " you are told to merge 10 sorted arrays,",
+      "start": 1964.733,
+      "duration": 2.803
+    },
+    {
+      "text": " then a heap will be used. Stream of",
+      "start": 1966.583,
+      "duration": 2.691
+    },
+    {
+      "text": " data, stream of data means continuous",
+      "start": 1968.322,
+      "duration": 2.785
+    },
+    {
+      "text": " stream of data. Meaning, every time you",
+      "start": 1970.156,
+      "duration": 2.728
+    },
+    {
+      "text": " are getting data continuously. You have",
+      "start": 1971.923,
+      "duration": 2.643
+    },
+    {
+      "text": " to handle that data and tell who the",
+      "start": 1973.611,
+      "duration": 2.652
+    },
+    {
+      "text": " min and max is so far. So, what does a",
+      "start": 1975.309,
+      "duration": 2.756
+    },
+    {
+      "text": " heap do? There was a pyramid built.",
+      "start": 1977.105,
+      "duration": 2.657
+    },
+    {
+      "text": " Remember, a pyramid was built. A 35 kg",
+      "start": 1978.862,
+      "duration": 2.881
+    },
+    {
+      "text": " child arrived. The pyramid was rebuilt",
+      "start": 1980.806,
+      "duration": 3.012
+    },
+    {
+      "text": " and again you found out who the",
+      "start": 1982.863,
+      "duration": 2.399
+    },
+    {
+      "text": " smallest child was. 35 kg. So, stream",
+      "start": 1984.307,
+      "duration": 3.477
+    },
+    {
+      "text": " of data, rearrange while keeping best",
+      "start": 1986.852,
+      "duration": 3.493
+    },
+    {
+      "text": " elements. Again, where was rearrange?",
+      "start": 1989.412,
+      "duration": 3.032
+    },
+    {
+      "text": " In two pointers. But what was that?",
+      "start": 1991.544,
+      "duration": 2.547
+    },
+    {
+      "text": " Rearrange what? Into categories. Unique",
+      "start": 1993.191,
+      "duration": 3.47
+    },
+    {
+      "text": " ones on one side, duplicates on the",
+      "start": 1995.707,
+      "duration": 2.595
+    },
+    {
+      "text": " other. What does this rearrange say?",
+      "start": 1997.348,
+      "duration": 2.715
+    },
+    {
+      "text": " Rearrange while keeping best elements.",
+      "start": 1999.163,
+      "duration": 2.829
+    },
+    {
+      "text": " So, you will find out as we do the",
+      "start": 2001.092,
+      "duration": 2.692
+    },
+    {
+      "text": " questions. Overall, there are three",
+      "start": 2002.834,
+      "duration": 3.022
+    },
+    {
+      "text": " types of things. One is the top k. One",
+      "start": 2004.907,
+      "duration": 3.613
+    },
+    {
+      "text": " type of pattern is where two heaps are",
+      "start": 2007.573,
+      "duration": 3.027
+    },
+    {
+      "text": " used. One heap is not enough, two heaps",
+      "start": 2009.653,
+      "duration": 2.993
+    },
+    {
+      "text": " are used. And the third is where you",
+      "start": 2011.696,
+      "duration": 3.059
+    },
+    {
+      "text": " have to merge. So, watch all the",
+      "start": 2013.813,
+      "duration": 3.386
+    },
+    {
+      "text": " upcoming videos. In almost six or seven",
+      "start": 2016.283,
+      "duration": 3.459
+    },
+    {
+      "text": " videos, your heap concept will be",
+      "start": 2018.786,
+      "duration": 2.444
+    },
+    {
+      "text": " completely clear. You will be able to",
+      "start": 2020.274,
+      "duration": 2.85
+    },
+    {
+      "text": " solve 90%of heap questions, which is",
+      "start": 2022.172,
+      "duration": 2.73
+    },
+    {
+      "text": " very important and will become a great",
+      "start": 2023.951,
+      "duration": 2.826
+    },
+    {
+      "text": " strength of yours. Heap is a very",
+      "start": 2025.825,
+      "duration": 2.549
+    },
+    {
+      "text": " powerful data structure. You might be",
+      "start": 2027.416,
+      "duration": 2.413
+    },
+    {
+      "text": " looking at this and wondering, what",
+      "start": 2028.855,
+      "duration": 1.913
+    },
+    {
+      "text": " does it actually do? It finds the min",
+      "start": 2029.794,
+      "duration": 2.178
+    },
+    {
+      "text": " and max. No, a heap is a very powerful",
+      "start": 2031.007,
+      "duration": 2.89
+    },
+    {
+      "text": " data structure and it will be very",
+      "start": 2032.95,
+      "duration": 2.772
+    },
+    {
+      "text": " useful for you later on. All right? If",
+      "start": 2034.774,
+      "duration": 3.003
+    },
+    {
+      "text": " you understand heaps well, you'll see",
+      "start": 2036.815,
+      "duration": 2.417
+    },
+    {
+      "text": " that a heap is a very advanced topic.",
+      "start": 2038.271,
+      "duration": 2.417
+    },
+    {
+      "text": " Understanding heaps is a very good",
+      "start": 2039.788,
+      "duration": 2.354
+    },
+    {
+      "text": " thing. Please do not miss the upcoming",
+      "start": 2041.182,
+      "duration": 2.82
+    },
+    {
+      "text": " lectures. Sit down and study heaps, and",
+      "start": 2043.05,
+      "duration": 2.899
+    },
+    {
+      "text": " then we'll meet tomorrow. Right? Let's",
+      "start": 2044.996,
+      "duration": 3.096
+    },
+    {
+      "text": " go. Yeah.",
+      "start": 2047.159,
+      "duration": 1.6
+    }
+  ]
+}

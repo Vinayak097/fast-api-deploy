@@ -1,0 +1,318 @@
+{
+  "videoId": "7gOCx1vbx0k",
+  "channel": "Padho with Pratyush",
+  "chunks": [
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 0.1,
+      "end": 61.028,
+      "text": "How are you guys doing? You are  watching Padho with Pratyush. My name  is Pratyush Narayan and before today,  you must have studied linked list  reversal many times. But many people  just make you memorize it—do this, do  that, do this. You don't need to  memorize this reversal; you need to  understand it really well. I will  explain it with such an example that  you will never forget it in your life.  Even if you want to, you won't be able  to forget it. Before starting, for  those who are here for the first time,  check the description. Uh, if you watch  the video, please watch it in full. I  keep saying, don't just watch half the  video and increase my view count. I  mean, what will you gain by increasing  my views? If you watch for 2 minutes  and my view count goes up, nothing much  will happen from that. I mean, I don't  get paid enough for one view, so don't  waste your 2 minutes. You could watch  four reels in those 2 minutes. You  could watch something from a good web  series in 5 minutes. I mean, don't  waste your time because I don't  understand the reason for it. There  shouldn't be a reason to watch it  halfway, right? Either it's possible  that you are very busy. You are very  busy—it's not like B.Tech students  are that busy. Because I have also done  B.Tech. It's not like we came directly  to a job. You all have come after doing  B.Tech. You know that no one is"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 60.073,
+      "end": 120.331,
+      "text": " actually busy. And if you think that  spending two-three hours a day going to  class and making notes makes you very  busy, then don't study, and a year  later, you will end up with a job at a  call center. Your shift at the call  center will be 15 hours a day and the  salary is ₹ 12,000. So, I work 15  hours a day. I get ₹ 3 lakhs a month.  You will go and work 15 hours. You will  get ₹ 12,000 a month. So, you will  become very cheap. Your time will  become cheaper than that of a rickshaw  puller. If a rickshaw puller pulls a  rickshaw for 15 hours, he will earn  more than 12,000. So you will become a  very cheap person. So if you want to do  that, you can do that too. That is also  a way of life. Millions of people do it . It's not like there are no jobs in  BPOs. Millions of people are working in  BPOs. In call centers and things like  selling credit cards and all that. So  fine, you can do all that. So, why is  reversal a separate pattern of its own?  Reversal is a distinct pattern because  once you learn it, many related  problems become easy. Meaning, in all  of them, you have to perform a reversal . But different conditions will be  given, like reverse this way or that"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 119.377,
+      "end": 181.232,
+      "text": " way. Break it from here and reverse it,  which means it will be complex. Its  questions can be complex. They will not  be difficult. You will never feel that  you don't understand what needs to be  done. You will always feel that you  understand what needs to be done. The  problem is in how to do it. There is a  difficulty in writing the code. What to  do? So, its questions will always be  complex. They will not be difficult. It  will never be difficult. LeetCode hard  questions are also complex. They are  not difficult. If someone asks you to  explain in words what you would do, you  would tell them immediately. But how to  implement it becomes hard. That is why  it is complex. Okay. So, what does  reversal mean? See, a linked list is  like a train. A linked list is like a  train. So, suppose the engine is  attached at the start. After that,  there is an AC coach. Then the sleeper,  and finally the general coach. Someone  tells you, \"Hey, reverse this whole  train.\" What should you do to this  train? Reverse it completely. Meaning,  turn this arrow this way. Turn this  arrow this way. Turn this arrow this  way and bring the general coach to the  front. Meaning, write the whole thing  in reverse. So, there is a very simple"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 180.307,
+      "end": 242.54999999999998,
+      "text": " algorithm to reverse it. You all can  even memorize it. But there is no need  to memorize it. Just understand it like  this. What should you do? Understand it . See, now you have to go and change  the arrow of every coach. Every coach's  arrow, meaning every coach's connection  needs to be changed. So, first of all,  you need a mechanic. You need a  mechanic. You need a what? A mechanic  or technician who actually has to  change the coach's wiring. Okay. Keep  one more helper with you. A helper for  this. A helper. He doesn't know much.  He doesn't know much. But he has a very  special task. What is his special task?  Let's see. Let's start. First of all,  what will happen? Your mechanic will go  and stand right here. Your mechanic  will go where? He will stand on the  engine, the first one. Okay. Now its  job, its job now is this arrow, you see , it has to be turned to the back. It  has to be turned to the back. Back  towards whom? Towards the helper. Yes.  So what is the helper's job? The helper  will always stand on the rear bogie."
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 241.65,
+      "end": 303.602,
+      "text": " Will stand on the rear bogie. What is  the mechanic's job? To lift the arrow  of the bogie he is standing on and turn  it towards the helper. So what will  your mechanic do? He will lift this  arrow and what will he do with it? Turn  it towards the back. Turn it towards  whom? Towards the back. Is it okay now?  This task is done. Okay, this arrow has  turned. Very good. Move the helper  forward. Move the helper forward. Bring  the helper to the AC bogie. Sorry, not  the helper, move the mechanic forward.  Now because the mechanic has moved  forward, what about the helper? The  helper's job is to stay on the rear  bogie. So you will have to pick up the  helper and where will you have to bring  him? You will have to bring him to the  engine. Look, where is the mechanic  still standing? Where is the mechanic  standing? On the bogie whose wire needs  to be changed, whose connection needs  to be changed. Where is the helper  standing? The helper is standing on the  rear one. The helper was standing on  the rear one earlier too. That is why  we turned it here. You can consider  this null because there was nothing in  front of the engine. So okay, we had  turned it to the back. Okay. Same task,  the mechanic will do the same task  again. What will he do? This AC wire"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 302.649,
+      "end": 364.034,
+      "text": " that was connected to the sleeper here,  he will turn it and connect it to what?  He will connect it to the engine. Why?  Because the helper was standing there.  So wherever the helper is standing, he  will tell him, \"Here, you connect your  wire there.\" Now what does the mechanic  have to do? The mechanic has to move  forward. The mechanic simply has to  move forward. The mechanic simply has  to move forward. And come and stand on  the sleeper. But the helper also has to  move forward. The helper also forward  because the helper is standing on the  rear bogie. The helper is standing on  the rear bogie. So where will the  helper come now? He will come to the AC . What will the mechanic do? The  mechanic will just remove the sleeper  wire. And where will he connect it? He  will connect it to the AC one because  the helper is standing there. Now what  will the mechanic do? The mechanic will  just move forward. The mechanic will  move forward. The mechanic will move  forward and come to the general. Okay?  What will the helper do? The helper  will also move forward. The helper has  also moved because their job is to stay  on the previous bogey. You always have  to help it. Always keep helping it.  Come over here. What to do? Now look,  there was no wire connected ahead of  the general bogey. So fine, no wire was  connected ahead of it. But we have to"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 363.075,
+      "end": 423.229,
+      "text": " connect the wire to what? To the rear  sleeper. To the rear sleeper. So let's  connect it. To the rear sleeper. That's  it. Now the mechanic will move further  ahead. The mechanic will move further  ahead. But as soon as the mechanic  moves ahead, he has gone out of the  train. Now no bogies are left. And the  helper must have also moved ahead. The  helper must have also moved ahead.  Having moved ahead, the helper must  have reached what? It must have reached  the general bogey. Now the mechanic is  done. No bogies left, so the mechanic  won't do anything alone. Alright, so  things are finished. But look closely  at what happened here. Look at what  happened to this train. The engine has  turned and gone to the back. Which was  null at the back, or whatever, empty  space, whatever it was. AC used to  point to sleeper, but who does AC point  to now? It points to your engine.  Sleeper used to point to general, but  now sleeper has started pointing to AC.  General was pointing to no one, meaning  general was at null. General was the  last bogey, but now general has started  pointing to sleeper. Okay. Now if"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 422.281,
+      "end": 482.798,
+      "text": " someone tells you to draw this linked  list, you can draw it like this. How  would you draw this linked list? First  of all, first of all, your general,  your general, who has your general  started pointing to now? To the sleeper . The general has started pointing to  the sleeper. Yes. Who has the sleeper  started pointing to? To the AC. The  sleeper has started pointing to the AC.  Very good. Who has the AC started  pointing to? To the engine. To the  engine. To the engine. Who has the  engine started pointing to? To no one.  Behind, meaning to the empty space. To  null. To null. So pointing to no one.  Now look, the linked list has turned  around. It’s completely reversed,  right? How did it look before? Engine,  AC, Sleeper, General. How does it look  now? General, Sleeper, AC, Engine. Now,  who was the head of this linked list  before? The head was here. The engine  was its head. Now who should be its  head? The general should be its head  because the linked list started from  the general, right? Obviously, there  were many starting from the head. You  said to reverse the whole thing, so the"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 481.843,
+      "end": 542.7760000000001,
+      "text": " last carriage that was at the end  earlier will come to the front, and it  will become the head. But how will you  get this head? Look, your mechanic has  already gone outside the carriage.  Meaning your mechanic has become null  in a way. But what is your helper  standing on? Standing on the general.  What is your helper standing on?  Standing on the general. That is why,  if we do this, return my helper, what  do we get? It is the new head, or the  new carriage, whatever came to the head ; look, because the helper is standing  exactly on the general. No matter how  many times you do this, or how big the  train is, it doesn't matter. But where  will the helper always be standing? On  the general, and the whole list will  have been turned around. That is the  only logic for reversing. That is the  only logic for reversing. This was  about the train. But these things are  not called mechanic and helper. They  are called something else. So let us  tell you how it actually works in  English; this was just an example I  gave for explanation. Come, let's  create a linked list. Created a small,"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 541.858,
+      "end": 602.276,
+      "text": " sweet little linked list of our own.  See, that's why I really like all the  linked list questions because no  question in it is hard. Meaning,  everything is simple. You just have to  change the addresses here and there.  How complex can it really get with  addresses? So, you should remember the  1 2 3 4 linked list. If you don't  remember the linked list, go and revise  the previous ones. I have already  taught you once what a linked list is  and how it works. Introduction. Okay?  This means null. Alright, what did we  need to take? You have to reverse this  and return the new head. You will  always get a new head. Because right  now, the head is here. Right now, the  head is here at one. But when you  reverse it, this will become your head.  That will happen, right? Obviously, if  you reverse 1 2 3 4, will it become 4 3  2 1? So, four will become the head.  Okay? What did you need to take?  Mechanic and helper. You can call them  anything. You can name them mechanic or  helper. But what is their standard name , the standard name? You need to take a  curr variable. What? Curr. Curr means  current. Current variable. And you need"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 601.324,
+      "end": 661.7779999999999,
+      "text": " to take another variable, which is  previous. Previous. Okay? What do you  need to put into current? The head.  Because where will you start from?  Which bogey did the mechanic start from ? From the very first bogey. So, head.  And where was your helper standing  initially, previous? Where was your  helper standing initially? Where was  your helper standing initially? In an  empty space. That's why the engine  turned around and went to the empty  space. So, initially, where will your  previous be? At null. Okay? That much  is clear. Now, let's proceed the same  way you moved the mechanic. So, first  of all, curr equals head. Okay? Now  look, there are two things. Curr means  your mechanic. Previous means your  helper. So, what did you do in this?  What were you doing in this? What did  this mechanic do? First of all, on  whichever bogey the mechanic stood, he  would erase its wire and point it to  the previous one, to the helper. So  that is one thing. After that, after  that, the mechanic had to move forward.  The mechanic had to move forward. Now,  how to move forward? One moves forward"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 660.86,
+      "end": 721.384,
+      "text": " using next. But what are you doing? You  are breaking this next and doing what?  You are pointing it backwards. So, how  will you move forward? How will you  move forward? How will you jump onto  the bogey? For this, for this, whatever  the next bogey is, before touching this  wire, before touching this next wire,  store it. Because earlier AC was going  to sleeper, so you know that we are  currently at AC. We need to jump  forward and go to the sleeper so that  we can reverse the sleeper too. But you  are planning to break the AC wire. You  are planning to connect this AC to the  engine. Then how will you jump? This  place will become empty. This place  will become empty. That's why store the  next bogey so that we know we have to  go there. Just store it, it's simple.  Take a variable, let's say, star next,  not next, you can give it any name you  want, which is current dot next. Okay?  Meaning, the node that is next to  current, we have stored it in one place . Okay? Now do your work. What to do?"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 720.484,
+      "end": 780.873,
+      "text": " First of all, reverse the wire of this  bogey and point it backwards. How to do  it? curr dot next equals prev. Meaning  wherever the helper is standing, turn  the prev all the way back. So what  happened because of this? What happened  because of this? One thing happened.  See, your curr is currently here at 100 . What did you do? You turned curr.next  to point backwards. Where is backwards?  At null. This became null. Now, advance  both of them. So first of all, advance  the helper. So prev = curr. Because  where does the helper need to come?  Come to the bogie where the mechanic is  currently standing and move the  mechanic forward. So the same work will  be done. And curr = next, why curr =  next? Because it will go to the next  one. It will go to the next one. So  look, 200 must have come onto your curr  now. This is exactly what the program  is. If you guys are wondering, this is  the program, these four lines 1, 2, 3,  4, okay. Come on, run it once. Right?"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 780.619,
+      "end": 841.5870000000001,
+      "text": " Now, what must have come onto your prev ? Uh, 100, okay. Alright, come, do the  same thing. Let's see at curr = 200.  For curr = 200, first of all, get the  next. What is the next of 200? 300,  very good. After that, erase its wire.  Turn its wire backwards, meaning  completely. Where will this go? What to  point the next of 200 to? To 100.  Meaning it will become something like  this. Done. Very good. After that, move  the curr forward. Move the previous  forward. Move the curr forward. So what  will come into previous? The value of  curr. 200. What will come into curr?  The value of next. We will jump to  whichever node is ahead. Very good. Now  come here again and run it again. Curr  = 300. First of all, take out the next  and keep it because you have to go  there, 400. Very good. Kept it. Now  what to do? Turn the next of curr to  previous. So turn it. Erasing this wire , where? Turned it to 200. Done. Just  move the previous forward. Meaning  previous equals curr. Make previous 300 . Move the curr to next. Move the curr"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 840.648,
+      "end": 901.211,
+      "text": " to next. Four. Okay? Reached 400. Curr  = 400, next = null. Important, look:  next = curr.next, it is currently null,  okay? After that, where to turn the  curr next? To the previous. So although  there is no wire ahead of this, we will  connect the wire where? To the previous  one. So what will happen? This will  come here. Oh sorry, let's change these , their next as well. This was at 100,  this was at 200. Now this wire has come  here so this is 300, we didn't change  it, we just drew arrows. We couldn't  change it. Okay, the work is done.  Alright, what to do after that? Move  the helper forward. Meaning move  previous forward. So what will we write  in previous? 400. And move curr forward . But next is null, so it doesn't  matter. We had written curr equals to  next, right? So curr became null. As  soon as curr became null. It means your  curr has arrived here. Who was curr?  The mechanic. When the mechanic is at  an empty space, it means the train is  finished, right? Now the train is  finished ahead, brother, there are no"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 900.243,
+      "end": 961.496,
+      "text": " more bogies. So what wires will you  connect or remove? That's it. So as  soon as your curr is null, it means  your program is completely finished. As  soon as it is null, what has your  program become? Completely finished.  Now you have to return the head of the  new list. But how will you return the  head? Where is its head? This is its  head. Because earlier it was 1 2 3 4,  we reversed it. 4 3 2 1, the last node  became the head. Which person is  standing on the last node? Previous is  standing there. Previous is standing  there. So what will you do? Return,  return previous. Not curr, curr has  become null. Curr became null, then you  realized the train is over. Previous  helper, where was the helper standing?  On the last bogie, so you returned that . So this is its code. Let's see its  code formally once. You will have a ' node star', the function name will be  reverse. You will be given a head. Okay , you need two or three things. First"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 960.538,
+      "end": 1021.0809999999999,
+      "text": " of all, you only need two things. First , you need a curr that is at the head.  Very good. After that, you need a  previous which is our helper. You can  name it according to your preference,  whatever you understand. It is at the  beginning, so it will be null because  there is nothing there at the start.  There is nothing in previous. Okay?  Until when do we have to run it? Until  curr becomes null. While curr not equal  to null. Very good. First of all, you  need to extract and save the next of  current. Go ahead and save the next of  current. Because you are going to  change the current next, how will you  move to the next carriage? When you  make the change. After that, turn the  wire. Turn the wire. Grab the wire and  turn it backwards. Where? How will you  turn it back? To the previous. Now move  both previous and current forward. So  first, move the previous forward. Bring  it to current, and bring current to  next. Your while loop is finished. What  will you return at the end? Previous.  Not current, previous. Because previous  will be standing on your last node.  This program is just this small. Of  what? Reverse? Its time complexity is"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 1020.149,
+      "end": 1080.5549999999998,
+      "text": " order of n. Its space complexity is  order of one. You have already done the  first question of the pattern sheet.  Linked list reversal, which is what? If  we look at its description, 206 asks  you to do exactly this: Reverse Linked  List. So this you have already done.  Okay? The next question is going to be  a bit harder. So listen with an open  mind. Right? So listen to this question  very carefully because it might seem  like a very different type of question.  It will feel like it. Look, you are  given a list like this. I haven't made  the whole list, but for explanation,  first understand what exactly you have  to do and how to do it. Okay? This is  the linked list given to you. Okay, 1 2  3 4 5, it has five nodes. But you have  to reverse it. But you don't have to  reverse the whole thing. If you were  reversing the whole thing, it would  have been very easy to just take  current here and prev there. Like we  did last time, it would have turned  around like this and returned five.  Very good. But there is a small catch  in this. What is the catch in this? You  are given two numbers. What? Left = 2,  right = 4. Okay, what are these numbers"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 1079.555,
+      "end": 1140.539,
+      "text": "? These numbers do not represent 1 2 3  4 5. What are these numbers? Both these  numbers are positions. What? Positions.  Yes. Confusion. They don't represent 1  2 3 4 5. What are these two numbers?  Positions. Positions. To explain it to  you better, I'll just erase this,  because I saw that many people had  problems with this LeetCode description . Assume your list is like this: 10, 20 , 30, 40, and 50. Okay, now there won't  be any confusion. Your left is two and  four and the position, the position is  stated to start from one. It starts  from one, meaning if you look at it  from one, it's 1, 2, 3, 4, 5. This is  your left, this is your right. You have  been given both these numbers. The node  is not given. Just the integer number  is given. So you figured out the left  and right, that 20 and 40. What do you  need to do? You need to reverse this  part from here to here, from left to  right. Just reverse the part from left  to right, not the entire linked list,"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 1139.579,
+      "end": 1200.073,
+      "text": " just the middle part. And the rest of  the linked list will remain as it is.  So look at what its answer will be.  First of all, this middle part will get  reversed. When it gets reversed, how  will it look? Look. 40 30 20, it will  look like this after reversing, but  don't touch the rest of the linked list . The 10 that was there, it will stay  10 right there. The 50 was there, it  will stay 50 right there. And the arrow  should also be like this. This is yours . You have to return this. Meaning,  reverse the middle part. The rest of  the linked list, the left and right  parts that haven't been reversed, will  remain the same. They will keep  pointing exactly where they were  pointing. Your answer should be this.  What do you need to return? Head. You  need to return the head. What to return ? Head. So this is your question. And  if you are a beginner, it is a fairly  complex question. Meaning, it is not  that easy of a question. That is why  you can see it is a medium-level  question. Let's think a little about"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 1199.125,
+      "end": 1259.74,
+      "text": " what to do in this. I mean, what is  this about reversing from left to right  and doing something like this? We  hadn't learned anything like that. We  had learned. How the entire linked list  gets reversed. Let's think about it a  little. Let's think about this a little . So look, reversing from left to right  is not a big deal. Reversing from left  to right is not a big deal. Why is it  not a big deal? Look, when you had to  reverse the whole thing, when you had  to reverse it entirely, you used to set  current to the head. Right, and this  while loop! Now until, look, until you  run your while loop, until then you  reverse...what does reverse mean?  Picking up that wire and connecting it  to the back, the back one to the front,  the front one to the front, this is  what reversing is. So, as many times as  you ran that while loop, it reversed  that many times. So, what did we use to  write in the while loop? 'While curr  not equal to null'. Okay, that's what  it was. Alright, suppose, suppose you  have a linked list like this, suppose  you have a linked list like this,  suppose we. We are trying to tell you"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 1258.781,
+      "end": 1321.867,
+      "text": " that the problem in your mind is not  the real problem of this question. You  might be thinking how can someone  reverse from left to right. Look here,  100, 200, 300, 400, suppose here is one . And this points to this. This to this , this to this, and this doesn't point  to anyone, it's null. Okay? This is  your linked list. Very good. Now, if  you are told to reverse the whole  linked list, you know how to do that  normally. I just taught you 5 minutes  ago how it is done. But I say, do one  thing, reverse it twice. Do it twice,  brother. Just reverse it twice. You  start reversing from the beginning. But  stop once it is done twice. Stop once  it is done twice. Let's see what it  means to reverse twice. First of all,  what will your curr be? 100. What will  your prev be? Null. You have to do it  twice. So, let's do it the first time.  First, extract its next and keep it as  200. Curr's 100 one...oh sorry. Turn"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 1320.975,
+      "end": 1382.597,
+      "text": " the 100's next, the 100 one's next.  Where should you turn it? Turn it to  null. This has become null. Right? It  doesn't point to anyone. Okay? This is  done once. Remember, it's done once. It  is done once. Now move curr forward. To  200 and we would have moved previous to  curr, at 100. Very good. Do it one more  time. Next is 300. Now turn the curr's  next. Turn the curr's next. Where  should you turn it? To previous. To  previous, to previous, that's it. After  that, move curr and prev forward. Move  curr to 300. Move this to 200. Just  stop now because you have done it twice . Connecting two links means it has  been reversed twice. Stop. So look, it  is reversed. Meaning somehow you  reversed two nodes, and if someone  asked you to return its head, you would  return this one. We return this because  your prev is sitting here, so you would  do it here. So the rest of the linked  list broke, but you reversed it twice,"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 1381.641,
+      "end": 1446.923,
+      "text": " right? You reversed two nodes and made  it like this. So you can reverse it a  number of times. You can reverse it up  to any number of times you feel like.  You can reverse it as far as you want  or as many times as you want; it’s  not necessary that if you know how to  reverse, you must reverse the whole  thing. No, if we want to reverse twice,  we will do two nodes. If we want to do  it three times, we will do three times.  If we want to do it four times, we will  do four times. Suppose we want to  reverse up to a particular node. Then  instead of \"while current not equal to  null,\" we will write something else. We  will write something like, \"while  current not equal to 400.\" What will  happen with this is that the linked  list will reverse up to 400. That’s  what it means, right? So you can  reverse as far as you like, you can,  you can. Okay, now. Now let's come to  this question; in this question, if you  are given left and right, how many  times will you have to reverse? Let's  see how many times we have to do it: 10 , 20, 30, 40, 50, going five by five."
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 1446.023,
+      "end": 1511.3590000000002,
+      "text": " Okay? This is your one, two, four, five . What have you been told? Left and  right are two and four. What does that  mean? Which ones do you have to? This,  this, and this. You will have to change  the wires of three nodes, three nodes.  What do you have to change for three  nodes? You have to change the wires.  You have to change the wires of three  nodes. Yes. So, how much? Right. Minus  left. Yes. +1, +1; this many times you  will have to mess with the wires.  Reverse means messing with the wires.  We will look at the rest later. What  will it be? 4-2 + 1, three times. You  can see you have to reverse at three  nodes. Two to four means three times.  So, this is one thing, that you have to  reverse three times. Starting from  where? Starting from left and going up  to right. Okay. Now, there is a very  easy case here: if left equals right.  If left equals right, then what will  you have to do? You won't have to do  anything. Look: 10, 20, 30, 40, suppose"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 1510.459,
+      "end": 1573.15,
+      "text": " it is of four. This is one, two, three,  four. Suppose it says left = 2, brother , and right = 2. Do this. So what is it ? It means you have to reverse this.  How many times? 2-2 + 1, one time, you  have to reverse one node. What does  reversing one node mean? Reversing one  node has no meaning. When you write it,  if you reverse just one node, it stays  as that one node, right? And you have  to leave the rest of the linked list as  it is. You have to write this as it is.  So like this, like this, like this.  This is the same linked list, right?  Are these two linked lists the same?  There is no difference, right? So, one  thing you understood is that if left  equals right. What to do immediately?  Return head. Return head. There is no  need to do anything because what are  you reversing by reversing one node? A  node in the middle gets reversed, what  is that? It's nothing. Alright, so that  was an easy case, an easy case. Now  let's come to the main program, now  that you have understood the times, how  many times it is, and what it is. How  it happens. We can do it if we want.  Now let's see. Now let's try to see if,"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 1572.257,
+      "end": 1632.397,
+      "text": " I mean, one possible answer is that you  know the left. You know left is two.  You know right is four. You will know  the times from this. You will know the  times from this. What will you know?  That you have to do it three times. So  one thing you can do is, when you see,  left equals, meaning when you reach the  second node, you have to reverse how  many? Three times. Three times. One  thing you can do is that you count it.  You, you reverse the linked list. Count  it as you reach the second node. When  you reach the second node, reach, reach . Start reversing. How many times?  Three times. So let's see what happens  with that. Let's see what will happen  with that. Let's see what will happen  with that. 10 20 30 40 50 is your  linked list. Okay. We said that 1 2 3 4"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 1631.46,
+      "end": 1693.896,
+      "text": " 5, that when you reach the second node,  then write your reverse program. How  many times? Three times. The whole  program is the same. Just instead of ' while curr not equal to null'. 'While  times minus minus', so that it happens  three times. Let's see. When you reach  here, you will know that you have  arrived at the second node. How? We  will take a variable, a count variable,  to show that you have reached the  second node. So let us now begin our  reverse program three times, exactly  three times. So look, when we come here  first, what will our 'curr' be? 'curr'  will be equal to 200. Okay? And 'prev'  will be equal to null. That's how we  write the reverse, right? That's how we  start the reverse program. So, first of  all, this will be erased. Okay? And  this will start pointing to null. Right , that was once; the next one gets  erased and starts pointing here. That's  twice. The one after that also gets  erased and starts pointing here. That's  three times. That's three times. Now,  when you do this, when you have done it  three times, your 'curr' will be at 500"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 1692.896,
+      "end": 1753.867,
+      "text": ". At 500, meaning the fifth node or  whatever its address is. Your 'prev'  will be one step behind it at 400. Here , and look, your reversal is done. Your  reversal is done. Your reversal is done . But what does your entire linked list , your entire linked list, look like?  Let's see. What does your entire linked  list look like? Let's see. At the very  beginning, there is 10. We did not  touch 10. So 10 is pointing to 20. 20  is pointing to null. 20 is pointing to  null. 20 is pointing to null, so  nothing. Okay. Let's see further. 30,  30 is pointing to 20. It is, isn't it?  Right, 40 is pointing to 30. Yes, okay.  And 50 is alone. 40 is no longer  pointing to 50. So your linked list has  become like this. Your linked list has  become like this. But this is not what  you wanted. This is very absurd, what  has this linked list become? I mean,  look. From here to here it is correct.  40, 30, very good. Very good, very good . But you did not want this. What did"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 1752.919,
+      "end": 1815.933,
+      "text": " you want? You wanted this; let's write  down what you actually wanted. You  wanted this, if you don't remember, you  wanted the reversed portion to be in  the middle, we have no problem with  that. What should be in the middle? 40,  30, 20; after that, the remaining  portion will stay as it is. So look,  what changes...how will you get the  above linked list? Once you perform a  normal reverse, what changes will you  need to make? Look, what is 10 pointing  to? To 40, not to 20. In the one above,  it was pointing to 20 because we hadn't  changed 10. So if you remove 10 and  make it point to what? If you somehow  make it point to 40, it's done. 40 is  pointing to 30. Above, 40 is also  pointing to 30. 30 to 20, and above, 30  is also pointing to 20. But 20 is  pointing to 50. In the one above, 20 is  pointing to null. Because you reversed  it, you had made it null. If we remove  20 and make the next of 20 point to 50.  Okay. And what is the head? Your head"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 1814.976,
+      "end": 1876.271,
+      "text": " should still be 10. 10, now let's see  how the linked list looks. First comes  10. Okay? After 10 comes 40, very good.  After 40 comes 30, very good. After 30  comes 20, very good. After 20 comes 50.  Yes, exactly the same linked list.  Exactly the same linked list. So you  will have to change a few things. You  will have to change a few things. What?  You will have to adjust some  connections. Let's see what needs to be  done. What needs to be done? Let's see.  So, this is what makes this question  hard. This is what makes this question  hard. What do you need to do? See 10 20  30 40 50, right? When you reverse it,  it will look like this. 20, sorry, when  you reverse it, the upper part will be  reversed. 40, 30 Well, your 10 is still  here and 50 is here. Both of these were  not reversed. Both of these, meaning  the reversal happened between them.  Everything between 10 and 50 has been"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 1875.324,
+      "end": 1936.395,
+      "text": " reversed. Now, where do you need to  make a connection? One more thing, when  you reversed it above, after reversing,  your previous will be at 40. Because 40  is your new head; since 20, 30, 40  reversed, 40 becomes the new head. Your  curr will be at 50. Your curr will be  at what? 50. Okay? So one thing we need  to do is what? This 10, what is this 10 ? What is this 10? This 10 is the  previous node. Meaning, it is the node  just before the reversal. If, if you  are told to reverse from two. Left  equals 2. Then this 10 is actually left -1. This is the one node. Meaning, it  hasn't been reversed up to this point.  It must have been reversed after this.  If we call this 'before'. Let's say we  call it 'before', assume you have it.  Okay, what exactly do you have to do?  It should go from 10 to 140. Meaning  that 'before', 'before' means the node  before which no reversal has happened.  Reversal started after that. Before dot"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 1935.445,
+      "end": 1997.312,
+      "text": " next is equal to what? 40. Where is 40?  Prev, prev. This is done. This will be  formed. The rest is the same, and 20,  20. Which node is it? Which 20? 20 is  nowhere to be found. So far, 20 isn't  anywhere. But where should 20's pointer  go? Where should the stuff for 20 go?  20's stuff should go to 50. What was 20 ? 20 was your left node. 20 was your  left node. The one you were standing on , the one where you started reversing,  so let's assume we do this too, we give  this a name, let's call it 'last'. This  is 'last', because it can be extracted,  it is 'last'. So what happens? Last dot  next is equal to, where should it go?  To 50. Where is 50? At current. If you  do these two things and then return  head, return head, you will get the  answer. Your linked list is ready"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 1996.357,
+      "end": 2060.8199999999997,
+      "text": " because you started from the left and  reversed how many times? Three. After  that, you connected the remaining  broken and damaged connections like  this. So your linked list can be formed . Your linked list can be formed. Let's  see how we will do it. So that's why,  look, you must have understood. You  must have understood what needs to be  done. You might not have understood how  to do it; sure, these stories are fine.  But now, you say we'll keep this here,  we'll keep that there. You'll find out  here. How will you find out? Let's see  how you'll find out. This is a very  important question. Okay? Okay? First  of all, your linked list will look like  this. 10 20 30 40, let's just make it a  proper linked list. You won't enjoy it  otherwise. Right? It feels much better  to make a proper linked list. One, two,  three, four, five; 20, 30, 40, 50, this"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 2060.054,
+      "end": 2120.6059999999998,
+      "text": " is 100, 200, 300, 400, 500. This points  to 200, this points to 300, this points  to 400, this points to 500, and this  points to nothing. Okay, you are given  a left value. One, sorry, two. The  right value is given as four. Very good , alright. There is an edge case here,  we will come to that later. Okay?  Otherwise, look at the normal case  first. There is a small edge case. Left  is two, right is four. Which means you  need to start from the second node.  Start from the second node. You need to  reverse three times. You need to  reverse three times. How did three  times come about? You do it by doing  4-2 + 1. So you have reached the second  node. You have reached the second node.  How will you know that? You have  reached the second node. How will you  know that? How will you know that? So"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 2119.68,
+      "end": 2181.886,
+      "text": " we will tell you how to know. t = 100,  a temporary variable to traverse  because only then will we know. Okay.  And remember one more thing. Reversing  from the second node is fine. But you  also needed this node. You also needed  this node. You needed this node too,  right? Who was this? This was the first  node. You have to reverse from the  second node. You have to reverse from  the second node. But you also need this  node. Why? Because you will have to  connect this later. This 'before',  before dot next equals tree. You will  have to do this later. You need 'before '. You need 'before'. Okay? For this,  what is coming to my mind, you might  have a different algorithm in your mind . So look. If you find the first node.  If you know that currently we are  standing on the first. What are we  standing on right now? We are standing  on the first node. Then you will know  that the next node is the second node.  What is the next node? It is the second  node. Or you can also do it like this,  take a 'before' first. Take a 'before'"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 2180.948,
+      "end": 2242.388,
+      "text": " first. Before = null. Okay? Every time,  every time t arrives, every time t =  100 arrives, what should you do? And  take one position variable. Take what?  Position. Position = 0, okay? Okay,  let's come to t = 100, let's take it as  one because the position is going to  start from one. The position is going  to start from one. Let's see, if... sorry, t arrived, we will check what,  look. You can check the position in a  linked list like this. Whatever comes  to your mind, you can check it like  this. But what do you have to check? If  equal equal to two. Because left is two . Left is two. Position two means you  had to start from here. You had to  start from here. So you started from  here. But until it is two. Until it is  two. Suppose we don't write like this,  until it is two. Less than two, less  than two means you have never reached"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 2241.438,
+      "end": 2302.878,
+      "text": " two. So what should you do? before = t,  before = t = t.next, and continue, and  continue; this will ensure that until  you reach left, until you reach left,  this before = t will keep happening.  What is the benefit of this? Now  suppose you write here that when your  position has become two. So look, let's  see first when it is not. What is your  position right now? One. Is one less  than two? Yes. It is less than two. So  what did your before become? t. So what  did your before become after erasing  from here? 100. What did your before  become? 100. Okay? t = 200. Yes, sorry.  One thing was left. Now you are using  position, so you will also do that. And  pos plus plus. Then continue. Then what  will you do? Continue. Yes. Now see  what happens. Initially pos was one. Is  one less than two? Yes. One is less  than two. Meaning you haven't reached  left yet. You are still at the first  one. So you kept the first one at"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 2301.937,
+      "end": 2362.991,
+      "text": " before = t, so before = 100. t = t.next , so t will become 200 in the while  loop. pos plus plus, pos plus plus, so  what did pos become? Two. Now next time  when you check if pos is less than two?  No. Pos is not less than two. Pos has  become two. Now you need to start your  reverse. Now you need to start your  reverse. And look, very magically or  very importantly, when your t = 200  happened here. At that moment, you are  here. What did you need at that time?  You needed this 10. Not now, but you  will need it later. And see, 100 has  come into your before. 100 has come  into your before. Because what were you  doing? Until you reached the left, you  kept setting before equal to t. Meaning , before is in a way where you will  know at which t you are standing that  we need to reverse from here, right?  Your t, your before will stay at the  previous node because you will need it  later. So now you find out that count =  2, meaning this one became false. Okay,  this became false, meaning count must  have become 2. Now you need to start  doing it. What do you need to do? Start"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 2362.062,
+      "end": 2423.75,
+      "text": " reversing. How do you reverse? How many  times do you need to reverse from this  node? Three times. So first of all, a  curr equals, where did curr used to be?  At the head. But we don't have to keep  it at the head. We need to reverse from  this node. This is your head. Curr =  200. Meaning curr = t, prev = null. And  what will we do? While yes. We will  calculate an int. Times equals what?  Right-Left + 1, these many times. So  while times minus minus yes, after that  we do the same reversal we used to do.  Next equals curr dot next, uh, curr dot  next equals prev, turn it back. Bring  prev to curr and move curr forward.  Close this. What will happen with this?  See what will happen with this. First  of all, curr = 200. Your curr will be  here. First of all, this will turn."
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 2422.85,
+      "end": 2485.1730000000002,
+      "text": " This will turn and what will this  become? Null. So it will be nowhere.  Okay. After that, it happened once.  Remember this once. Remember once. What  will happen next time? The 300 one will  turn. The 300 one will turn and where  will it reach? To 200. To 200. This  became 200. This happened twice,  remember. What will happen next time?  The 400 one will also turn. The 400 one  will also turn and where will it reach?  To 300. To which? To 300. So it reached  here. It happened three times. It  happened three times. It happened three  times. But when you went out of the  three times, where would your curr be  sitting? At 500. Curr is always ahead.  Where would your prev be sitting? 400.  Okay? Where would curr be sitting? Now  your linked list looks like this. Your  linked list looks like this. Now what  do you need? You need to connect some  wires. What wires need to be connected?  10. What should 10 point to? 40.  Meaning the node that was last in the  linked list must have come first in the  reversed part. So 10 should point to  that. Where is that? In Prev. Where is"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 2484.247,
+      "end": 2545.365,
+      "text": " 10? In Before. So after everything is  done, Before dot next. Actually, let's  connect the other wire first. Let's do  one thing. Look, let's connect the  other one. Right now, the current two  is pointing to null. But where was it  actually supposed to point? To five.  Where was it supposed to point? To 50  or 500. The later node, the later node.  Later node means the one that wasn't  reversed. The one that wasn't reversed.  See, there is a Before node after which  it was reversed. There is an After node  before which the nodes are on either  side. So what is it? Where is that node ? That node is in curr. Where is that  node? In curr. Where is 200? Where is  200? 200 is in T. 200 is in T. Hey, we  only started reversing because T  arrived at 200. So T will stay at 200,  right? So what can we do? T dot next  equals curr. Meaning, where will T dot  next, the next of 200, go? To 500. To"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 2544.495,
+      "end": 2604.996,
+      "text": " 500. Where? To 500. It went to 500. I'm  not drawing an arrow because it will  just get messy. After that, after that,  one task is done. One task is done.  Meaning, this one is connected. This  one is connected. Very good. Let's  connect this one. From 10 to 40, where  will you find 10? Before, Before. That  is why we extracted Before. That is why  Before was extracted. Before dot next  dot next is equal to where? Previous.  Yes. Before dot next is equal to  Previous. Before dot next is equal to  Previous. What is Previous? 400, 400,  that's it, your job is done. The job is  done. See, it has been reversed. The  wires on either side have been  connected. Now, no matter how big the  linked list is, there's no need, right?  It's done. We did as much reversing as  was needed. Return head. Now see how  your linked list is formed. See how  your linked list is. It starts with 10  first. So first is 10. 10 goes to 400,  so it becomes 40. 40 goes to 300, it"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 2604.061,
+      "end": 2664.351,
+      "text": " becomes 30. 30 goes, it forms at 200,  20 goes, it forms at 500, see 50, it is  reversed, right! This middle part has  reversed, very good. So you can write  this. So how can you write this? Come,  this is its dry run. Let's see the code  too, the code isn't that special either . First of all, you will get a head and  you will have to return a head. So you ...if you guys didn't understand,  please tell in the comments, I will  explain it again. It was a very good  question. So now, for a fun, you got a  head, you got a head. Right, there is  an edge case in this. I keep mentioning  there is an edge case. I will tell you,  if some people have thought of it, then  that's very good. First of all, if head  is equal to null, meaning the linked  list is empty, then return null, you  don't need to do anything. Very good.  What other easy case did we see? If  left is equal to right. Then what will  we do? Reverse one by one. It won't  make any difference. Return head. Now"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 2663.409,
+      "end": 2724.8599999999997,
+      "text": " your main program has started. So node  t = head, we need to keep a 'before'  with us. Initially, take before as null . We also have to keep a 'pos' with us.  For the position, because we have to  find out where to do it. An int, we  will make this later. Alright, that's  enough. Let's start our loop. Start our  loop. While t not equal to null. What  was checked first? If my pos is less  than left. Meaning you haven't reached  that left yet. Haven't reached that  left. Then what did we do? Before = t =  t.next, pos ++, meaning you haven't  reached there. So keep updating before.  And wait until you reach there. You  haven't even reached left, so why would  you reverse? Very good. And continue  and continue if that is not the case."
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 2724.579,
+      "end": 2789.408,
+      "text": " If that is not the case then come down  to the while loop. Its continuation is  below. What is its continuation?  Continuation is below. If that is not  the case. If your pos has become two,  meaning you have come here. Meaning  your pos = 2 or pos has become equal to  left. Very good. It is stored in before . Okay? So perform your reverse. Node* curr = t, okay? Node*prev = NULL, same  as how reversal happens, and int how  many times, times = right-left + 1,  right and left are given in input. Okay ? While times minus minus, what did we  use to do? Node*x = curr.next, because  you had to go forward. curr.next = prev , very good. prev = curr Very good."
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 2788.508,
+      "end": 2848.887,
+      "text": " This while loop has run. It got  reversed. It got reversed. You are  still in the same place. It got  reversed. It got reversed. But now what  do you have to do? Now you don't have  to do anything. You need to connect  some wires. What wires did we connect?  See, first of all, t.next = curr. Why?  Because t was standing at 200. t was  standing at 200. Where does it need to  go? It needs to go to curr. It needs to  go to 500. So we had already seen that  this will work. So wherever t was  standing, first of all, t.next = curr.  Right? After that, before.next = prev.  before.next = prev and return head,  close the while loop, and after that,  you close the function too. There is  nothing much to return, so this is done . Okay, so this is done, this will work , very good. This is absolutely the  correct program. t.next = curr, meaning"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 2847.936,
+      "end": 2909.501,
+      "text": " what are you doing? In a way, what are  you doing? This is your before node,  this is your after node, the middle  part was reversed. Now you are  connecting this wire and then this wire . So that is what you are doing. Okay.  But, but, but what is the edge case in  this? What if, by mistake, left = 1 is  given? What if, by mistake, left = 1 is  given? Now what does left = 1 mean?  Suppose it is like this: one, two,  three, four. Suppose here left = 1.  Right = and it is like one is here. 2,  3, 4, right = let's say is two. Right =  2, you have to reverse from one to two.  You have to reverse from one to two. So  when you reverse this, it will look  like this. When you reverse this, it  will start looking like this. Two will  start pointing to one and the rest will  remain the same. Now, at this time,  this is fine. This was your t, so you"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 2908.584,
+      "end": 2971.639,
+      "text": " do t.next = curr. Your curr will be  here. So the wire is connected. But the  next connection you used to make,  before.next = prev, when you reverse it , prev will stay at two. You will try  before.next = prev. Where is before?  Where is before? What did we call  before? The part of the linked list  that wasn't reversed, but here there is  no part that isn't reversed. It  reversed from the start because left  was one, right? Left one means the  initial part got reversed. Technically,  what should the head be here? Prev,  what should the new head of the linked  list be? Prev, because it reversed from  the start. Why did we return the head  earlier? Because the initial part  wasn't reversed. One wasn't reversed.  Some part in the middle was reversed.  Here, the starting part got reversed.  So at the head it is prev, and when you  do before.next = prev, what is before?  Before is nothing, before will be null,  man. Hey, its before will be null. Why  will it be null? Because look at how  you create before. How did you check  before? If pos is less than left. How"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 2970.732,
+      "end": 3031.998,
+      "text": " did pos start? Where did pos start from ? From one. So as soon as you start the  program, is one less than one? No. No,  no. You will directly come here to  reverse. And where did you start before  from? From null. So before is null. You  are saying null.next = prev. That is  why, that is why you should not do that . You need t.next = curr. Okay? t.next,  okay? What was t? t was the node from  which you started reversing, so that  node automatically went to the end.  That node should point to the next one  where curr is. So if curr is also null,  then it will point to null. Okay? If  curr is some node, it will point to  that. Okay? But, but, but, you have to  be careful about before. What do you  need to keep in mind? Look, you have to  check if, If before, meaning if there  is a value in before, that is, if there  is a part that hasn't been reversed,  then it's fine, then it's fine,  before.next = prev, and the head will"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 3031.059,
+      "end": 3091.438,
+      "text": " remain the same because a part wasn't  reversed, so its head will remain  normal. So what were you supposed to  return? The head. But if that's not the  case, if it's not the case, else,  there's no need for else, that will  just return, if it's not the case then  it's fine, nothing, return prev because  this will become your new head, this  will become your new head, look, this  will become your new head. Take a very  large linked list too, 1 2 3 4 5 6,  suppose someone tells you that, uh,  left equals 1, right equals 4. Meaning  this is your left. 2 3 4, these need to  be reversed. So if you reverse them, it  will become like this. 4 3 2 1 and  these ones on this side will stay as  they are. Five and six need to be kept  as they are. Okay. What will you do  first? t will be here because you  started reversing from here. So t dot"
+    },
+    {
+      "videoId": "7gOCx1vbx0k",
+      "start": 3090.487,
+      "end": 3143.377,
+      "text": " next is equal to curr. So this will  become correct. But there is no before.  So what is the head of this linked list ? The head of this linked list is four.  Where did you get four from? Four will  be on prev, man. We saw that four was  on prev. You will have to return prev  here, that when there is no before,  return prev. So this was a small edge  case in this, when? When left was equal  to one. How did we know? If there is a  before. If there is some before. If  before is not null, then left will not  be one. Because there will be something  ahead, since before gets updated. If  before is null, it means left will be  one. So this is your small code. Uh,  try to code this by yourself. If you  understand some other algorithm, you  can do that too. There is no hard and  fast rule that you have to do just this . But do code it for sure. It was a  very good question. It was a complex  question. It wasn't hard. I mean, it's  alright. I mean, we can't call it hard.  It can be complex. Right? So, thank you  very much for coming. Keep moving along ."
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "videoId": "_1AbrkD8pak",
+  "channel": "Padho with Pratyush",
+  "chunks": [
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 0.279,
+      "end": 61.269,
+      "text": "If someone asks us, what are the most  important topics for interviews these  days? Many would think, okay, the most  important must be the hardest ones,  like Graphs or DP. Many people have  been commenting to just leave  everything else. And just teach DP  directly. No. The most important topics  are Binary Search and Heaps. Why are  they important? Because look, only 10% or 5%of companies ask about DP and  Graphs. The very simple topics you have  been studying, like patterns. Two  pointers, sliding window, Kadane's— these can be kept in the easy-to-medium  category, but these topics, Stack,  Binary Search, and Heap, are in the  middle. They are the foundation of the  entire DSA. They come right in the  middle, after you have studied all the  easy stuff. After that, you reached the  middle, and now you will move on to the  hard stuff. After Heaps, you go  directly into hard levels like Trees,  Graphs, DP, and Recursion. This is the  central part. In 60 to 70%of interviews , Binary Search, Heaps, and Stacks are  asked. So it is very important that you  study the Heap data structure and study  it carefully. I don't want you to just  memorize what a heap is, no. I will"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 60.32,
+      "end": 120.94699999999999,
+      "text": " tell you exactly what we will cover in  this lecture. At the end, I will teach  you pattern recognition. But before  that, you need to understand what a  heap is. What is a heap in the real  world? Everyone must have had a pyramid  in school. I will explain using that  example. Why? Why is it important to  understand? Because although heaps  exist in Python, C ++, and Java, and  are already built-in. But you need to  understand how a heap actually works.  They ask, okay, you are using a heap.  How does the heap work? What is a heap?  Why does it exist? Why is it used? What  is the power of a heap? So, we will  discuss all of that in this. So, watch  the video until the end. At the end, I  will teach you the pattern recognition.  And in the next five or six lectures, I  will try to ensure you can solve all  heap questions and recognize, \"Okay,  this was asked in this question.\" This  is what a heap offers us. That is why a  heap was used here. It's not that the  topic title says \"Heap,\" so we just  applied a heap. No. Why apply a heap?  And you will realize how powerful a  data structure the heap is. So, let's  get started. Right? You must have all  seen those pyramids in your schools,  right? Pyramids were made in PT class"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 119.993,
+      "end": 181.173,
+      "text": " or in groups where people would form a  pyramid with four people at the bottom.  Two people above them, and one at the  very top. In that, what used to happen  was that the lightest child in the  class. The child who remained a bit  small, whose development didn't happen  much. Who didn't get enough to eat.  That child would stay at the very top.  The lightest, smallest child at the top . And where would the fattest,  chubbiest kids stay? At the bottom,  they would form a base with their backs . So how was it formed? See, who would  be at the top? The lightest child.  Let's assume the lightest child in the  class, whose weight is the least. His  weight would be, let's say, 40 kilos.  So this child is at the top. Okay.  Below him, below him, whose back would  he be standing on? He would be standing  on the backs of two children. So let's  assume he is standing on their backs.  Now, it is obvious that those whose  backs he is standing on must weigh more  than 40. If their weight was 20, then  he would have been sent to the top  instead. The lightest child in the  class weighs 40. Let's assume their  weights are 45 and 50. Right? He is  standing on their backs. Whose backs"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 180.213,
+      "end": 240.868,
+      "text": " are those two on? Those two would also  be standing on the backs of two boys,  and those boys would be the fattest in  the class. So, let's assume this one  fat kid weighs 70 kilos, and he is  standing on the back of another who  weighs, say, 80 kilos. Similarly, this  50-kilo child would be standing on the  backs of two. So those two must also be  bigger than him. If the two children  the 50-kilo child was standing on  weighed less than 50, then that child  would have been sent to the top. So  let's assume he is standing on their  backs. His weight would be, let's say,  60 kilos. It could be anything, but it  must be more than 50, right? And his  weight should be, let's say, 90 kilos.  Right? So the pyramid was formed like  this, and we would say that this child  at the top is the lightest, and the  pyramid would be complete. This is what  \"cheap\" is. Now look. You are sitting  in the audience. Suppose you are  sitting here in the audience, far away.  Right? You are sitting here as an  audience. Okay? Now, you have no idea  how this pyramid was built. This  pyramid was built by the PE teacher.  Okay? The PE teacher made them build it"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 239.906,
+      "end": 301.957,
+      "text": " by force, saying, \"Come on, you four,  stand here.\"\"You stay there, and you  stay there.\" You don't know anything.  If I were to ask you one question, tell  me one thing. Just look at the pyramid.  Just look at the pyramid and tell me  which is the lightest kid in the class?  Which is the lightest or the smallest  kid? Which is the smallest kid? Which  is the lightest kid? Well, it's very  easy for you to say. Why? Because you  know that this pyramid is built in such  a way that the light kid stands on the  backs of the heavier kids. So, the  lightest kid will be at the very top of  the pyramid. So you will say, \"Yeah,  the lightest kid is this one, the 40- kilo one.\" Very good, you can tell  immediately. Okay? But if I ask you to  tell me, who is the heaviest kid in the  class? Heaviest, meaning which kid is  the fattest? You won't be able to tell.  You won't be able to tell. Why won't  you be able to tell? See, how is this  pyramid built? The light kid stays on  top. Each light kid stands on the backs  of two kids. Right. But look at this  kid, the 40-kilo one. He is standing on"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 300.992,
+      "end": 361.03799999999995,
+      "text": " the backs of these two. Obviously. It  is also obvious that the weight of  these two is less than this one. Only  then is this kid on top; otherwise,  they would have swapped places. Right.  But, but, but, I have written 45 here.  I have written 50 here. If we even  reverse these two like this. Suppose  you see the 45-kilo kid on the left  side. And you see the 50-kilo kid on  the right side. If we were to reverse  them. What does reversing mean? Suppose  I say, no, no, do one thing, send the  50-kilo kid here and the 45-kilo kid  there. Then see, there is no difference  in the pyramid. The pyramid will still  stand; it won't collapse. It still  won't fall. It's still a very good  pyramid. So, whether 50 and 45—is 50  on the left or is 50 on the right? It  doesn't matter. What matters? That both  50 and 45 must be less than the kid  above them, the one standing on their  backs with both feet. That's how it  works in a pyramid, right? There aren't"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 360.069,
+      "end": 420.901,
+      "text": " any other rules. Similarly, look at the  end; the heaviest kids in the class are  at the bottom. 70, 80, 60, 90—even if  we swap their positions. Suppose we  write 60 here, 70 here, 80 here, and 90  here. It won't make any difference. Why  won't it make a difference? Because  this 50-kilo kid is standing on the  backs of these two. So, what matters?  That the weight of these two kids must  be more than this one. Meaning, it must  be greater than 50. See, it is greater  than 50. Similarly, the 45-kilo kid is  standing on the backs of these two. So,  their combined weight must be more than  45, which it is. Now, if we write 90  here and 60 here, what difference would  it make? Well, your right foot is here  and your left foot is there. Does it  matter to anyone if the 60-kilo kid is  on this side or that side? In a pyramid , the two kids you are standing on must  weigh more than you. That’s all that  matters. So, if I ask you who the  heaviest kid in the class is? You won't  be able to tell. You see, you might  have an intuition that the heaviest"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 419.961,
+      "end": 481.91400000000004,
+      "text": " means the biggest kid. So the biggest  kid will be in the last layer. This  last layer, meaning those on the ground . These four kids, look, they aren't  standing on anyone's back. They aren't  standing on anyone's back. They are on  the ground. So, in a way, you'd know  that yes, the biggest kid will be at  the bottom. But which one is the  biggest among them? For that, you'd  have to weigh them to find out. You  can't just say, \"Yes, that third kid  looks the heaviest.\" You can't say, why ? Because you don't know how it was set  up, right? I might be the PE teacher. I  can arrange them however I want. I  could write 80 here. And write 90 here,  so what would happen? Then you wouldn't  be able to answer this question. But  who is the lightest kid in the class?  Anyone can answer that. Why? Because  everyone knows which is the lightest  kid in this pyramid. The one visible at  the very top. Since this kid is visible  at the very top, you'll immediately say , \"Yeah, the 40-kilo kid is the  lightest.\" If I ask you the question,  who is the second smallest? Second  smallest means, after 40, what is the"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 481.004,
+      "end": 541.624,
+      "text": " smallest one? You'll have an intuition  that after 40, the smallest is either  50 or 45. But whether 50 is on the  right or 50 is on the left, you don't  know. You cannot answer this question  either. Which one is the third smallest ? Can't say. You will know that it is  here. But which one is here? Between 50  and 45, which child is where? Can't  tell. You can only answer one question:  who is the lightest, meaning the  smallest child? The one at the top. You  can say that yes, the child visible at  the top of the pyramid is the lightest  child. Everyone in the world can answer  this. But other than that, any question  like which is the second smallest?  Which is the third smallest? Heaviest,  no, no, it's not possible. It is not  possible without looking at them one by  one. What kind of questions are you  able to answer here with this? The  lightest, smallest child in the class —this is what we call a Min Heap.  This is a Min Heap. What does a Min"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 540.697,
+      "end": 601.6949999999999,
+      "text": " Heap say? Min Heap. I haven't taught  you trees yet. That is why I am giving  you the example of a pyramid. When I  teach trees, all these things will  become clear. A Min Heap is a data  structure, a Min Heap is a data  structure in which you can insert  things. You will insert. We will tell  you how this pyramid will do it later.  But you can put things into it. You can  say, \"Hey, I have these seven children. \" Their weights are this much. Insert  them all and make a Min Heap. Meaning,  build a pyramid. That pyramid will be  built. After that, if you ask it which  one is the smallest? Which one is the  smallest? Then it will tell you  immediately. Just like you, an audience  member, can see it immediately. The top  one is the smallest. It will tell you  immediately. Besides this, if you ask  any question like, tell me which one is  the biggest? Don't know. It could be  anyone. Any one of the ones at the  bottom. Which is the second smallest?  Don't know. Third smallest? Don't know.  Second biggest? Any other question is  useless. It cannot tell you that. Does  this make sense? So what is this? This"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 600.737,
+      "end": 661.769,
+      "text": " is a Min Heap. Why is it a Min Heap?  Because this pyramid is such that we  will discuss Max Heap right now. But  this is a Min Heap. So, there are two  types of heaps. Min and Max. There is  Min and there is also Max. In Max, you  must have guessed it. Which is the  biggest child? You can tell that  immediately. In Min, which is the  smallest child? You can tell that  immediately. Okay. Now, that’s just  what you can tell. But what all can you  do in a heap? You can do three types of  things in a heap. First, one is asking,  asking which is the smallest; we are  talking about Min Heap, don't worry  about Max Heap. I will explain Max Heap  later. One is that you can ask. You can  ask which one is the smallest. It will  be told immediately, meaning in order  of one. Now, can you also insert  something? Suppose a new child arrives.  Suppose a new child arrives. For  example, if in this pyramid we assume  that this 90 kg child wasn't there at  all. It wasn't there; a PT teacher was  just creating it. Your pyramid was  looking like this. Okay, you need to  insert a child whose weight is 35 kilos . Is it possible? If a 35 kg child"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 660.809,
+      "end": 721.903,
+      "text": " comes at the end saying \"I also want to  join the pyramid,\" then how will it be  inserted? Look, first of all, look at  how the insertion happens. What will  the PT teacher do? The space empty at  the end of the pyramid; which space is  empty in the pyramid? You can see in  the pyramid that this spot is empty.  The last one, this is the last spot,  everything else is filled. What does  the last mean? It starts from here.  This will be one, then two, three, four , five, six, seven, the seventh  position is empty. The last position is  empty. So what will the PT teacher do?  First, he will make the 35 kg child  stand at the end. What does standing at  the end mean? He will tell him to come  here. He will tell him to come here. So  he has arrived. Now the 35 kg child is  in the pyramid. But now your pyramid  will break. Why will it break? Because  this is a 35 kg child. Above him, you  have a 45 kg person standing. Above  that, there were 40 kilos, so the 35  one will gradually get crushed. Okay.  So the PT teacher feels that the heap,  your pyramid hasn't become interesting  yet. Now, what will the PT teacher do?  Look, there's a rule for this pyramid,  what is the rule? What is the rule for"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 720.943,
+      "end": 782.111,
+      "text": " this pyramid? That if a child is here  and stands on the backs of two people,  then if their weight is, say, 40 kg,  the child standing on top of any two  children. Both these children, on whose  backs he is standing. Their weight  should be more than 40. Their weight  should be more than 40. Otherwise, this  pyramid will collapse. If you have a 40  kg child and you put him on top of, say , a 20 kg child, then the 20 kg child  will get crushed and won't survive. So  the PT teacher checks, is my heap  correct now? He says, no, it's not  correct. Why is it not correct? Because  look, this is 35. This is 45. According  to the rule, what should it have been?  The two children whose backs the 45 kg  child is standing on should have been  more than 45, so 60 is fine. But the 35  is the problem. Now, what will the PT  teacher do? What is the problem? What  is wrong in the first instance? Look at  this one, this is the problem. The rest  of the heap will be correct. He will  swap 45 and 35. What will a PT teacher  say? 35 kg child, you go up. 45 kg"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 781.156,
+      "end": 842.2850000000001,
+      "text": " chubby kid, you come down. So what will  happen? It will be swapped. Look, look  at how it swaps. 35 came here. 45 came  here. Now look, is this part correct  now? Look, this is 35 kg. What did we  say? The weight of the two children he  stands on must be more than 35. Yes, it  is more than 35. Very good. But your  pyramid is still messed up. Why is it  messed up? This 35 has come here. But  what about the child at the top? The  child above this one. What is his  weight? 40 kg. What is his weight? 40  kg. What did it say? The two we stand  on must weigh more than 40. But here it  is 35 kg. Still, the pyramid won't be  able to sustain the 40 kg chubby kid on  top of this 35 kg one. What will the PT  teacher say? 35 kg one, you go up. 40  kg chubby one, you come down. What will  happen? They will both swap again. They  will both swap again. 35, 40. Yes, now  there is no one left above 35. Now  where has 35 reached? 35 has reached  the top of the pyramid, which it should  have, because whose weight is the  lowest among all the kids? 35, so it  had to reach the top, and look, it's at"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 841.333,
+      "end": 902.216,
+      "text": " the top. Let's see if this pyramid is  correct or not. Start from the top  first. The kid who is 35, standing on  the backs of two others, their weight  must be more than 35. Yes, 50 is more  than 35, and 40 is also more than 35.  Very good. The kid who is 50, standing  on the backs of two others, their  weight should have been more than 50.  70, 80, very good. The kid who is 40,  standing on the backs of two others,  their weight should have been more than  40, and it is more than 40. What is  your entire pyramid like? It is very  nice. So you can insert anything into a  heap. You can insert anything. What  does insert mean? You will tell your PT  teacher, \"Hey, keep the pyramid as it  is.\"\"A new kid has arrived, please  include them in the pyramid.\" The PT  teacher will include them like this and  will also fix the pyramid and keep it  correct. So, when we study trees, you  will understand the time complexity of  this better. For now, for now, just  assume that for inserting any number,  or anything, any number, the time  complexity is log n, where n means how  many things are in the pyramid; so"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 901.276,
+      "end": 962.521,
+      "text": " suppose there are seven things, then  log seven. Why is that? When you study  trees, I will explain it very well.  What is insert? log n. What is insert?  log n. Okay? Now, that was about  insertion. That was about insertion.  Now, suppose your pyramid looks like  this. How was your pyramid looking? 35  was here. 50 and 40, 50 and 50 were  here. 40 was here, and 70, 80, 60, and  45, 70. 80. This one was standing on 60 . This became 45. It was looking like  this because you had inserted 35. 35  was at the very top. We are talking  about a min-heap. Now you feel like  deleting something. Now you feel like  deleting something. So in a heap, you  see, you can insert anything. In insert , you can give a number, like, \"insert  35,\" and it will be done. But in delete , you cannot give a number. In delete,  you cannot provide any number; you"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 961.57,
+      "end": 1022.4219999999999,
+      "text": " cannot say, \"Hey, do one thing, delete  the child with 50.\" No, you cannot  delete the child with 50. Deletion in a  heap is just like in a stack. Remember  in a stack? While popping, could you  say that a particular value should be  popped? No, you couldn't pop a  particular value. What does delete mean ? If this is a min-heap, the top child  will always be deleted. The top child  will always be deleted. The top child  will always be deleted. You cannot  pin-point and delete, like \"delete the  40 kg one.\" No. Delete means the child  at the very top, the smallest child,  should be deleted. So, it will just get  deleted. Now see how deletion happens.  There is a trick involved in deletion  too. Now you can't just say, \"delete it ,\" right? Okay? Who will be deleted? 35  will be. Why? Because it is at the top.  You cannot pin-point and target, \" brother, delete this.\" No, that's not  possible. Only the one at the top can  be deleted. Now suppose we delete 35  from here; we can't do that, right?  Then the pyramid will break, right? If  you send the top child home, how will"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 1021.475,
+      "end": 1082.6799999999998,
+      "text": " it work? The pyramid will break. Okay.  What does the PT teacher do? See, the  PT teacher plays a very smart game.  First of all, he looks at both ends;  see, where did the insert happen?  Remember what happened during insert?  At the last, because it's easy to  arrange from the last. It's easy to  arrange from the last. What does the PT  teacher do? First of all, he swaps.  Between whom? The root one. Root means  the first, the top child, and the last  child, which is here. He swaps 45 and  35. See how it will be swapped. Go  ahead and swap. 45 came here. 35 came  here. Okay? Now what to do? Send 35  home. It is easy to delete from the  last. If you cut off the head of the  pyramid, then where did the top child  go? Who will go to the top? It is easy  to send this child home from the last.  Tell him, \"Yes brother, you go home.\"  It has come to the ground, right? Go  home, brother. Delete this. Delete this  and make 35 run away. Make 35 run away.  Now you will have to check because it  is possible that your heap has been  disturbed. And look, start checking."
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 1082.439,
+      "end": 1143.358,
+      "text": " The person 45 is standing on, their  weight must be more than 45. But is  that the case? It is not. It is not  like that. You have placed 45 on top of  40. What will you do? We will swap them . Look, all these things are not  important. You will never need to do  all these things. But it is necessary  to know. If someone asks how it happens , then it is necessary to know. What to  do? Swap them. How? Check 40 and 45  again. Now what came from the top? 45,  what? Is the weight of the person 45 is  standing on more than 45? Yes, there is  no one else besides 60, so it is fine.  60 is more than 45. And now check again . 40, 50, and 45 will work. 50, 70, and  80 will work. See, your pyramid is  intact again and your 40kg kid is back  on top once you deleted the 35kg one.  So this happens. This is the game. So  remember one thing, in delete, you will  never target and delete like, \"Hey,  delete the 50 one.\" No, no. So, what is  the time complexity of delete? log n."
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 1142.636,
+      "end": 1203.514,
+      "text": " log n. Okay? So, what did you learn  about the heap now? Especially in a  min-heap, you can do three things. One,  you can ask who is at the top. One, you  can ask what is at the top. What is it?  If it is a min-heap, you will know that  the smallest kid is at the top. Second,  its time complexity is order of one.  Why? Because you can look and tell that  the topmost one will be at the top.  Very good. You can insert any number.  Insert anything, anything means any  number, if it is an integer heap, then  you can do anything. Its time  complexity is order of log n, and you  can delete. You can delete. Its time  complexity is order of log n. Remember,  you cannot delete any particular number . You cannot say, \"Hey, delete 60.\" No.  No, no, it is not possible. Only the  one on top will be deleted. You keep  deleting. It depends on your luck what  you get. Apart from these three things,  you cannot do anything else. You cannot  search. You cannot determine if  something is in the heap or not, it's  not possible to find out. You cannot"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 1202.565,
+      "end": 1264.113,
+      "text": " perform targeted deletions. I mean, you  cannot perform a targeted delete. All  these things are not allowed. Nothing  is allowed apart from these three  things. Nothing is allowed. Whose talk  was this? Min-heap's. Min-heap's.  Min-heap. Max-heap is just the opposite  of this. Max-heap is just the opposite  of this. Take an example of an office.  What is the highest post in an office?  CEO. This is the highest one. The CEO  has two, uh, subordinates. One is their  CFO and one is their COO. This is how  it is. There will be many things under  the CFO. One will be some director. One  will be some senior director. There  will also be a lot under the COO. One  will be their VP. And one will be an  AVP. Now look, what has this become?  This has become a max-heap of a company . Now, the same thing applies here. If  someone asks you what the biggest post  in the company is? Which is the biggest  post? Where is it? What will you say?"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 1263.213,
+      "end": 1323.94,
+      "text": " The one sitting at the very top is the  biggest. Because this is a max-heap.  What is its condition? The two people  the CEO stands upon must be lower than  them. What was it in a min-heap? They  had to be greater than 40. Those  children had to be bigger/heavier than  that. The people below must be lower  than them. Only then will this person  come to the very top, right? The most  powerful person will come to the top  only when everyone below them is lower  than them. Similarly, the posts of the  two people the CFO is above must be  lower than them. Yes, the posts of both  people the CEO is above must be lower  than them. So what can you ask? Which  is the biggest post? What will you  always find out? The CEO is the biggest  post and you can insert any post. You  can insert any post. You insert HR. The  company itself will take care of what  happens when you insert HR. The third  thing is that you can delete. I mean,  and who can you delete? You can only  delete the one who is currently at the  very top. You cannot delete anything  else. For these two, it's log n; for  this, it's order of one. So, what did"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 1322.981,
+      "end": 1383.9740000000002,
+      "text": " this become? Max-heap. Max-heap means  there will be two types of heaps. First , min-heap and max-heap. First,  min-heap and max-heap. What is the  difference between min-heap and both of  them? In this, when you do the top one,  you will get the smallest. Because this  is a min-heap. In this, when you ask  for the top one, you will get the  biggest answer. And everything else is  the same. Both can perform insertions.  Both can perform deletions. So, these  are two types of heaps. And remember  both in this way. The first example is  a pyramid where the smallest child is  at the top and heavier children are  below. The second example is a company  where the CEO is at the top. Below them  are their subordinates. Below them are  their own subordinates. If you remember  it this way, you won't need to memorize  it. So that was the introduction to  heaps; let's move forward. Now let's  see how to write this in a program. Now  the question arises, how is a heap  written in C ++, Java, or Python? So,  you don't really need to implement a  heap like that. Heaps are already  inbuilt. You can just use the heap. In  Java, what is this heap generally"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 1383.032,
+      "end": 1444.7459999999999,
+      "text": " called? Priority Queue. Remember this  term. Priority Queue. Okay? Priority  Queue. This heap is called a Priority  Queue. So look, what did we say? How  many types of heaps are there? Is there  a max heap or min heap in Java? In Java , when you write a Priority Queue, you  can create it like this. Suppose you  want to create a heap where you want to  store integers, you can do it like this : Priority Queue—the syntax is a bit  difficult, you will remember it  gradually. int, What did this create?  Remember, you have to keep in mind that  by default, what is created is a max  heap. Meaning, whatever things you keep  inserting into it, what will you get at  the top? You will get the largest  element. This is a max heap. If you  want to create a min heap, the syntax  is a bit longer. Take a look at this.  Priority—even I don't remember this  by heart yet. You might also take some  time to remember it. That is no problem . If you forget this syntax, there is  nothing to be embarrassed about. Right?"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 1443.846,
+      "end": 1504.406,
+      "text": " Even I forget it. Even I have to look  it up sometimes. What do you have to  write in this? int in. I don't know why  it is like that. But that is what you  have to write. After that, you have to  write vector int. After that, you have  to write greater greater int. This is  your pq. What is this? Min-heap.  Min-heap of integers. How do we know?  Because there is an integer here. See,  this is its data type. And you will  have to write all these extra things in  it. To make it a min-heap. So, this is  how you can create it in C ++. Now,  what are the general functions? You  want to insert something. Suppose you  want to insert something. How will you  do it? PQ dot push. What to push?  Anything, any number n. You want to  delete something. How will you do it?  PQ dot pop. You want to see the topmost  element. You want to see what the  largest element is. What will you do?  PQ dot top. Three functions: push, pop,"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 1503.47,
+      "end": 1564.32,
+      "text": " top, just like a stack, and a few more  functions. PQ empty. This tells you  whether it is empty or not. It tells  you empty in yes or no. PQ dot size,  this tells you how many elements are in  your heap. How many elements there are.  Other than these, you don't need to  remember any functions. Are there any  other functions? PQ dot search, that  doesn't exist. PQ dot iterate, that  doesn't exist. PQ dot delete a  particular number, that doesn't exist.  See, in PQ dot pop, we haven't given  any input. Pop means the top one, it  surely knows that. Let's move on. So,  this was for C ++. You will learn the  syntax once you write it a couple of  times. Okay? We will learn it anyway  when we write the code. Let's come to  Java. Let's come to Java. What is there  in Java? I don't remember the Java  syntax that well either. Come to Java,  remember, by default in C ++, what is  it? Max-heap. In Java, by default, it  is a min-heap. In Java, by default, it  is a min-heap. How do you write this?  PriorityQueue, look, its P and Q are"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 1563.426,
+      "end": 1626.8129999999999,
+      "text": " capital here. In C ++, P and Q were not  capital. What kind do you want? You  want an integer type. Okay? PQ = new  PriorityQueue, let's do it like this.  New PriorityQueue, doing it like this.  What did this create? Min-heap. What  did this create? By default, it is a  min-heap. If you want a max-heap, what  will you have to write? Write the same  thing. Priority. Queue, there is no  space in between, sorry, I made a  mistake. There should be no space,  there is no space in between, okay?  This is a mistake, no space, it is  written together. You can also check  the syntax from ChatGPT, alright. In  this, I don't know why its integer  syntax is so difficult. Integer pq =  New PriorityQueue, do it like this, and"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 1625.942,
+      "end": 1688.1670000000001,
+      "text": " inside here, where there was an empty  bracket, you need to write  Collections.reverseOrder, alright.  That's how it's done in Java. Uh, what  are its functions? If you want to  insert, if this, wait, what happened  here? This became a max heap. Remember,  in Java by default you get a min heap,  in C ++ by default you get a max heap,  you have to work hard to make a min  heap. So in this, if you want to insert , do pq.add, pq.add some number, okay.  Uh, if you want to remove the top,  meaning to delete, then what will you  do? pq.poll, pq.poll, it will be  removed with poll. If you want to see  it, if you want to look at it, pq.peek,  pq.peek. So these are the three"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 1687.206,
+      "end": 1754.464,
+      "text": " functions for what? Inserting, deleting , and viewing. And there are other  functions like pq.isEmpty, pq.isEmpty,  and there is also pq.size. Similarly,  besides these five functions, there is  no need to remember anything else.  Let's see in Python. Now look, in  Python, by default, it is a min heap.  First of all, what is it by default? A  min heap. So what will you have to do?  You need to import heapq, okay, so how  will you make a min heap? First, you  will make a heap equal to this, and in  this, what is heappush? So you will do  it like, heapq.heappush some. In this,  you will pass the heap and some number.  What is this? Insert? What is this?  Insert? If you want to see, if you want  to see, to view, what will you do?  heapq.heappop heap, it will do both"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 1753.673,
+      "end": 1814.421,
+      "text": " things. It will do both things. It will  view it as well. I mean, you can do  this. You can do C = this. It will view  it, and it will also remove it. It will  do both at once. It will also delete it . Until now, what we saw was, when you  wanted to view, you could only view.  There was no need to pop. Like in  stacks, what happened? stack.top. This  will view it and also remove it. Then  the next time you look, you will get a  new answer. So keep that in mind. Now,  there is no max heap in this. That is  why I keep saying that Python is not a  good language to study DSA. Because  look, there is no max heap in it at all . Now, there is no max-heap. So, you  will have to use a trick for this.  Whatever you want to store, you will  have to store it negatively. Okay?  That's why we don't like Python for DSA , especially if you have to study a  max-heap, meaning write a max-heap. You  will have to store negative values.  Will the syntax for negative values be  the same? The heap will look the same,"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 1813.456,
+      "end": 1875.872,
+      "text": " but you have to store it negatively.  What do I mean? Let me explain. Suppose  you have to store three numbers. 1, 2,  3; now you can't store these because  you need a max-heap, so you need 3 at  the top. But this will create a  min-heap. So, store -1, -2, and -3  instead. What will happen with this?  When you create a min-heap, it will  look something like this. -3 will be  here, -2 will be here. -1 will be here.  Now, when you extract it, suppose you  look at the top, you will get -3. Don't  just use -3. Multiply it by -1, and  your answer will be 3. So, by using  this trick, you can turn a min-heap  into a max-heap. I don't know why it is  like this, but it is. So, whenever you  need to build a max-heap, you have to  use negative values. Okay? Now, let's  move on to the most important part. If  you have been watching until now, you  must have understood what a heap is.  Now, let's come to pattern recognition  and templates. What to do? Don't worry  about that; we will talk about it in  great detail later. But let me just  tell you what it is. If you see these  things in a question. First of all, see"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 1874.872,
+      "end": 1936.28,
+      "text": ", you have to understand the heap. I  always say don't memorize that you will  only solve it if you see this specific  English in the question. No. What is a  heap? See, try to understand what a  heap offers; it can tell you at any  time what the minimum is or what the  maximum is; the heap has no other power . If you ask how many times something  has appeared, it cannot tell you. It  cannot tell you which element is where.  What can it tell you? Out of everything  seen so far, either what the minimum is . If you are building a min-heap. Or  what the maximum is if you are building  a max-heap. What was the power of a  stack? The stack tells you which is the  most recent one that was placed. What  is the power of a heap? Out of all we  have seen so far, which one is the  maximum or minimum? So, this is the  power of a heap. This is what a heap  offers you. A heap can only do this for  you. There is nothing else for which  you will get help from a heap. That is  why the first thing is if the question  says k-th smallest or largest. We will  look at all the questions. There is no  need to worry about memorizing this  right now. Just make a note and write  it down somewhere. Top k elements,"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 1935.319,
+      "end": 1996.661,
+      "text": " closest to this. Look, what is this?  Min-max at every step, what is this? Of  all the ones seen so far, which one is  the minimum or which one is the maximum ? Merge sorted things. Now you might  say, no, you said merge array is for  two pointers. Yes, what was two  pointers for? Merging two sorted arrays . Suppose you are told to merge 10  sorted arrays, then what will you do?  Then you won't be able to do anything,  right? You aren't going to write 10  pointers, are you? I, J, K, L, M, N, O,  P, then you would just keep doing i ++  and j ++. So, merge two arrays, yes,  that was in two pointers. But suppose  you are told to merge 10 sorted arrays,  then a heap will be used. Stream of  data, stream of data means continuous  stream of data. Meaning, every time you  are getting data continuously. You have  to handle that data and tell who the  min and max is so far. So, what does a  heap do? There was a pyramid built.  Remember, a pyramid was built. A 35 kg  child arrived. The pyramid was rebuilt  and again you found out who the  smallest child was. 35 kg. So, stream  of data, rearrange while keeping best  elements. Again, where was rearrange?  In two pointers. But what was that?  Rearrange what? Into categories. Unique"
+    },
+    {
+      "videoId": "_1AbrkD8pak",
+      "start": 1995.707,
+      "end": 2048.759,
+      "text": " ones on one side, duplicates on the  other. What does this rearrange say?  Rearrange while keeping best elements.  So, you will find out as we do the  questions. Overall, there are three  types of things. One is the top k. One  type of pattern is where two heaps are  used. One heap is not enough, two heaps  are used. And the third is where you  have to merge. So, watch all the  upcoming videos. In almost six or seven  videos, your heap concept will be  completely clear. You will be able to  solve 90%of heap questions, which is  very important and will become a great  strength of yours. Heap is a very  powerful data structure. You might be  looking at this and wondering, what  does it actually do? It finds the min  and max. No, a heap is a very powerful  data structure and it will be very  useful for you later on. All right? If  you understand heaps well, you'll see  that a heap is a very advanced topic.  Understanding heaps is a very good  thing. Please do not miss the upcoming  lectures. Sit down and study heaps, and  then we'll meet tomorrow. Right? Let's  go. Yeah."
+    }
+  ]
+}
